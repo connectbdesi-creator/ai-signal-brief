@@ -1,4 +1,30 @@
 {
-  "updatedAt": null,
-  "entries": []
+  "updatedAt": "2026-05-02T07:38:10.440Z",
+  "entries": [
+    {
+      "id": "u_935b24f6",
+      "sentAt": "2026-05-02T07:38:10.440Z",
+      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects"
+    },
+    {
+      "id": "u_4f3872d4",
+      "sentAt": "2026-05-02T07:38:10.440Z",
+      "title": "How Do Self-Learning AI Agents Differ from Traditional Machine Learning Models and Current LLM-Based Agents? - KuCoin"
+    },
+    {
+      "id": "u_c5f19cf8",
+      "sentAt": "2026-05-02T07:38:10.440Z",
+      "title": "Unsloth solved bug in Mistral Medium 3.5 implementation"
+    },
+    {
+      "id": "u_74520249",
+      "sentAt": "2026-05-02T07:38:10.440Z",
+      "title": "Stealth Benchmark: A New Era for AI Evaluation"
+    },
+    {
+      "id": "u_b39d0919",
+      "sentAt": "2026-05-02T07:38:10.440Z",
+      "title": "AI Survival Instincts: Do Threats Drive Behavior?"
+    }
+  ]
 }
