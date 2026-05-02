@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-02T07:56:15.775Z",
+  "updatedAt": "2026-05-02T08:13:18.927Z",
   "entries": [
+    {
+      "id": "u_5d1602c1",
+      "sentAt": "2026-05-02T08:13:18.927Z",
+      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects"
+    },
+    {
+      "id": "u_605053af",
+      "sentAt": "2026-05-02T08:13:18.927Z",
+      "title": "iNaturalist Sightings"
+    },
+    {
+      "id": "u_6f4b8d0a",
+      "sentAt": "2026-05-02T08:13:18.927Z",
+      "title": "PFlash: 10x prefill speedup over llama.cpp at 128K on a RTX 3090"
+    },
+    {
+      "id": "u_32c8c630",
+      "sentAt": "2026-05-02T08:13:18.927Z",
+      "title": "ChatGPT's goblin obsession may be hilarious, but it points to a deeper problem in AI training"
+    },
+    {
+      "id": "u_237f8b37",
+      "sentAt": "2026-05-02T08:13:18.927Z",
+      "title": "Why Is Table Extraction with VLM Models Still Challenging? [D]"
+    },
     {
       "id": "u_c6c7a789",
       "sentAt": "2026-05-02T07:56:15.775Z",
