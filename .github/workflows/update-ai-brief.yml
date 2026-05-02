@@ -32,6 +32,12 @@ jobs:
       - name: Fetch AI updates
         run: npm run fetch
 
+      - name: Upload update data for notification
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-updates-data
+          path: public/data/updates.json
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
@@ -47,6 +53,28 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Download update data
+        uses: actions/download-artifact@v4
+        with:
+          name: ai-updates-data
+          path: public/data
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Send Telegram digest
+        run: npm run notify:telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: ${{ steps.deployment.outputs.page_url }}
+          TZ: Asia/Kolkata

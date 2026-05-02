@@ -32,6 +32,36 @@ Open `http://localhost:4173`.
 
 After that, GitHub Actions refreshes the site every 2 hours.
 
+## Telegram notifications
+
+The workflow can send a Telegram digest after every successful refresh and deploy. It only runs when the required GitHub Secrets exist.
+
+1. In Telegram, open `@BotFather`.
+2. Send `/newbot` and follow the prompts.
+3. Copy the bot token.
+4. Start a chat with your new bot and send any message to it.
+5. Open this URL in a browser, replacing `YOUR_TOKEN`:
+
+```text
+https://api.telegram.org/botYOUR_TOKEN/getUpdates
+```
+
+6. Find your numeric `chat.id` in the JSON response.
+7. In GitHub, open **Settings > Secrets and variables > Actions > New repository secret**.
+8. Add these secrets:
+
+```text
+TELEGRAM_BOT_TOKEN=your bot token
+TELEGRAM_CHAT_ID=your chat id
+```
+
+The notification script sends the top 5 updates with score 55 or higher. You can tune it with optional workflow environment variables:
+
+```text
+TELEGRAM_MAX_ITEMS=5
+TELEGRAM_MIN_SCORE=55
+```
+
 ## Tuning importance
 
 Edit `scripts/fetch-updates.mjs`:

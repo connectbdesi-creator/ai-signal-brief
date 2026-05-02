@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "fetch": "node scripts/fetch-updates.mjs",
+    "notify:telegram": "node scripts/notify-telegram.mjs",
     "serve": "node scripts/serve.mjs"
   },
   "engines": {
