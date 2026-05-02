@@ -36,6 +36,10 @@ body {
   padding: 0;
 }
 
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
   background: var(--bg);
   color: var(--body);
@@ -43,6 +47,14 @@ body {
   line-height: 1.55;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+img,
+svg {
+  max-width: 100%;
+  height: auto;
 }
 
 a {
@@ -828,7 +840,15 @@ footer .container {
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 760px) {
+  main {
+    padding: 22px 0 44px;
+  }
+
+  .stack {
+    gap: 22px;
+  }
+
   .controls {
     align-items: stretch;
     flex-direction: column;
@@ -836,7 +856,16 @@ footer .container {
 
   .control-groups {
     justify-content: flex-start;
-    overflow-x: auto;
+    overflow-x: visible;
+  }
+
+  .segments {
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .segment {
+    flex: 1 1 auto;
   }
 
   .brief-grid {
@@ -844,30 +873,120 @@ footer .container {
   }
 
   .feed-heading {
-    flex-direction: column;
     align-items: flex-start;
+    flex-direction: column;
     gap: 4px;
+  }
+
+  .hero {
+    gap: 18px;
+  }
+
+  .hero h2 {
+    font-size: clamp(1.6rem, 6vw, 2.1rem);
+  }
+
+  .business {
+    gap: 18px;
   }
 }
 
 @media (max-width: 560px) {
+  .container {
+    padding: 0 16px;
+  }
+
   .topbar .container {
+    align-items: stretch;
     flex-direction: column;
-    align-items: flex-start;
+    gap: 12px;
   }
 
   .top-actions {
+    flex-wrap: wrap;
     width: 100%;
   }
 
-  .icon-button,
-  .cloud-button,
   .status {
-    flex: 1 1 auto;
+    flex: 1 1 100%;
+    justify-content: center;
+  }
+
+  .icon-button,
+  .cloud-button {
+    flex: 1 1 calc(50% - 5px);
   }
 
   .primary-button,
   .secondary-button {
     width: 100%;
+  }
+
+  .card {
+    padding: 18px;
+  }
+
+  .update-card {
+    padding: 18px;
+  }
+
+  .update-card h3 {
+    font-size: 1.1rem;
+  }
+
+  .card-meta {
+    font-size: 0.78rem;
+    gap: 6px;
+  }
+
+  .card-meta .dot {
+    display: none;
+  }
+
+  .card-actions {
+    justify-content: stretch;
+  }
+
+  .read-more {
+    flex: 1 1 auto;
+    justify-content: center;
+  }
+
+  .metric-pill {
+    font-size: 0.82rem;
+    padding: 6px 12px;
+  }
+
+  .pricing-grid,
+  .channels-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .highlight-card {
+    padding: 14px;
+  }
+}
+
+@media (max-width: 380px) {
+  .container {
+    padding: 0 14px;
+  }
+
+  .hero h2 {
+    font-size: 1.45rem;
+  }
+
+  .card,
+  .update-card {
+    padding: 16px;
+  }
+
+  .icon-button,
+  .cloud-button {
+    flex: 1 1 100%;
+  }
+
+  .brand-text h1 {
+    font-size: 1rem;
   }
 }
