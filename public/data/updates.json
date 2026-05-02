@@ -1,0 +1,507 @@
+{
+  "generatedAt": "2026-05-02T05:43:49.675Z",
+  "refreshCadence": "Every 2 hours via GitHub Actions",
+  "count": 36,
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "type": "official"
+    },
+    {
+      "name": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "type": "official"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "type": "official"
+    },
+    {
+      "name": "Meta Newsroom",
+      "url": "https://about.fb.com/feed/",
+      "type": "official"
+    },
+    {
+      "name": "Microsoft AI",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "type": "official"
+    },
+    {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "type": "official"
+    },
+    {
+      "name": "NVIDIA AI",
+      "url": "https://blogs.nvidia.com/blog/category/deep-learning/feed/",
+      "type": "official"
+    },
+    {
+      "name": "Planet AI",
+      "url": "https://planet-ai.net/rss.xml",
+      "type": "aggregator"
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "type": "press"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "type": "press"
+    },
+    {
+      "name": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "type": "press"
+    },
+    {
+      "name": "The Gradient",
+      "url": "https://thegradient.pub/rss/",
+      "type": "analysis"
+    },
+    {
+      "name": "Simon Willison",
+      "url": "https://simonwillison.net/atom/everything/",
+      "type": "analysis"
+    }
+  ],
+  "fetchWarnings": [],
+  "updates": [
+    {
+      "id": "u_5eabd4c2",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself. The launch marks a major inflection point in...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 162,
+      "source": "VentureBeat AI",
+      "sourceType": "press",
+      "publishedAt": "2026-01-12T11:30:00.000Z",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+    },
+    {
+      "id": "u_ad410e26",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive. Claude Code , Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has s...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 152,
+      "source": "VentureBeat AI",
+      "sourceType": "press",
+      "publishedAt": "2026-01-19T14:00:00.000Z",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+    },
+    {
+      "id": "u_95c0a626",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot , the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees. The new Slackbot,...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 144,
+      "source": "VentureBeat AI",
+      "sourceType": "press",
+      "publishedAt": "2026-01-13T13:00:00.000Z",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+    },
+    {
+      "id": "u_d95401f4",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research , the open-source artificial intelligence startup backed by crypto venture firm Paradigm , released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia&#x27;s latest B200 graphics processors . The model, called Nous...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 142,
+      "source": "VentureBeat AI",
+      "sourceType": "press",
+      "publishedAt": "2026-01-07T20:00:00.000Z",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+    },
+    {
+      "id": "u_17616e2c",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "summary": "Railway , a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure. TQ Ventures...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 140,
+      "source": "VentureBeat AI",
+      "sourceType": "press",
+      "publishedAt": "2026-01-22T14:00:00.000Z",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "id": "u_155bd10e",
+      "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+      "summary": "GPT-5.5 is out . It's available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I've had some preview access and found it to be a fast, effective and highly capable model. As is usually the case these days, it's hard to put into words what's good about it - I ask it to build things and it builds exactly what I ask for!...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 129,
+      "source": "Simon Willison",
+      "sourceType": "analysis",
+      "publishedAt": "2026-04-23T19:59:47.000Z",
+      "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything"
+    },
+    {
+      "id": "u_e8ffaa0c",
+      "title": "As AI Grows More Complex, Model Builders Rely on NVIDIA",
+      "summary": "Unveiling what it describes as the most capable model series yet for professional knowledge work, OpenAI launched GPT-5.2 in December. The model was trained and deployed on NVIDIA infrastructure, including NVIDIA Hopper and GB200 NVL72 systems. GPT-5.3 Codex — the first OpenAI agentic coding model to help build itself — was released in...",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 123,
+      "source": "NVIDIA AI",
+      "sourceType": "official",
+      "publishedAt": "2025-12-11T19:19:57.000Z",
+      "url": "https://blogs.nvidia.com/blog/leading-models-nvidia/"
+    },
+    {
+      "id": "u_d0126439",
+      "title": "LLM 0.32a0 is a major backwards-compatible refactor",
+      "summary": "I just released LLM 0.32a0 , an alpha release of my LLM Python library and CLI tool for accessing LLMs, with some consequential changes that I've been working towards for quite a while. Previous versions of LLM modeled the world in terms of prompts and responses. Send the model a text prompt, get back a text response. import llm model...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 119,
+      "source": "Simon Willison",
+      "sourceType": "analysis",
+      "publishedAt": "2026-04-29T19:01:47.000Z",
+      "url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything"
+    },
+    {
+      "id": "u_e3cb5b99",
+      "title": "Extract PDF text in your browser with LiteParse for the web",
+      "summary": "LlamaIndex have a most excellent open source project called LiteParse , which provides a Node.js CLI tool for extracting text from PDFs. I got a version of LiteParse working entirely in the browser, using most of the same libraries that LiteParse uses to run in Node.js. Spatial text parsing Refreshingly, LiteParse doesn't use AI models...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 110,
+      "source": "Simon Willison",
+      "sourceType": "analysis",
+      "publishedAt": "2026-04-23T21:54:24.000Z",
+      "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything"
+    },
+    {
+      "id": "u_c4f657a7",
+      "title": "Introducing GPT-5.2",
+      "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Product Update",
+      "score": 109,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2025-12-11T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-gpt-5-2"
+    },
+    {
+      "id": "u_ad82f9a1",
+      "title": "GPT-5.5 prompting guide",
+      "summary": "GPT-5.5 prompting guide Now that GPT-5.5 is available in the API , OpenAI have released a wealth of useful tips on how best to prompt the new model. Here's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response: Before any tool calls for a multi-step task, send...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 105,
+      "source": "Simon Willison",
+      "sourceType": "analysis",
+      "publishedAt": "2026-04-25T04:13:36.000Z",
+      "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything"
+    },
+    {
+      "id": "u_9c1446e9",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "summary": "Available in preview via the API, our Computer Use model is a specialized model built on Gemini 2.5 Pro’s capabilities to power agents that can interact with user interfaces.",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Product Update",
+      "score": 101,
+      "source": "Google DeepMind",
+      "sourceType": "official",
+      "publishedAt": "2025-10-23T18:40:34.000Z",
+      "url": "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model/"
+    },
+    {
+      "id": "u_7461e4e",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Comes from an official source, so treat it as primary information. Ranked high by the importance filter.",
+      "category": "Model Launch",
+      "score": 97,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2026-03-25T00:00:00.000Z",
+      "url": "https://openai.com/index/safety-bug-bounty"
+    },
+    {
+      "id": "u_307090d",
+      "title": "Automating customer support agents",
+      "summary": "MavenAGI is a new software company for the AI era. They recently launched an AI customer service agent, built on the flexibility of GPT-4, which a number of companies like Tripadvisor, Clickup and Rho are already using to save time and better serve their customers.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 94,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2024-05-29T09:00:00.000Z",
+      "url": "https://openai.com/index/mavenagi"
+    },
+    {
+      "id": "u_9583c626",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs , needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of rand...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 93,
+      "source": "VentureBeat AI",
+      "sourceType": "press",
+      "publishedAt": "2026-01-16T14:01:00.000Z",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+    },
+    {
+      "id": "u_c6e0736f",
+      "title": "microsoft/VibeVoice",
+      "summary": "microsoft/VibeVoice VibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT licensed and with speaker diarization built into the model. Microsoft released it on January 21st, 2026 but I hadn't tried it until today. Here's a one-liner to run it on a Mac with uv , mlx-audio (by Prince Canuma) and the 5.71GB mlx-communi...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 92,
+      "source": "Simon Willison",
+      "sourceType": "analysis",
+      "publishedAt": "2026-04-27T23:46:56.000Z",
+      "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything"
+    },
+    {
+      "id": "u_e322b173",
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Model Launch",
+      "score": 92,
+      "source": "MIT Technology Review AI",
+      "sourceType": "press",
+      "publishedAt": "2026-04-24T21:40:58.000Z",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
+    },
+    {
+      "id": "u_aa83936",
+      "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+      "summary": "Chinese AI lab DeepSeek's last model release was V3.2 (and V3.2 Speciale) last December . They just dropped the first of their hotly anticipated V4 series in the shape of two preview models, DeepSeek-V4-Pro and DeepSeek-V4-Flash . Both models are 1 million token context Mixture of Experts. Pro is 1.6T total parameters, 49B active. Flas...",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 92,
+      "source": "Simon Willison",
+      "sourceType": "analysis",
+      "publishedAt": "2026-04-24T06:01:04.000Z",
+      "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything"
+    },
+    {
+      "id": "u_699fcd4d",
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 92,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2026-04-16T01:00:00.000Z",
+      "url": "https://openai.com/index/introducing-gpt-rosalind"
+    },
+    {
+      "id": "u_e4334c1b",
+      "title": "Introducing GPT-5.4",
+      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 89,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2026-03-05T10:00:00.000Z",
+      "url": "https://openai.com/index/introducing-gpt-5-4"
+    },
+    {
+      "id": "u_87b14acd",
+      "title": "Introducing GPT-5.3-Codex",
+      "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 89,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2026-02-05T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex"
+    },
+    {
+      "id": "u_ca4b1a4c",
+      "title": "Intuit and OpenAI join forces on new AI-powered experiences",
+      "summary": "OpenAI and Intuit have entered a $100M+ multi-year partnership to launch Intuit app experiences in ChatGPT and expand Intuit’s use of OpenAI’s frontier models to power personalized financial tools.",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Product Update",
+      "score": 88,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2025-11-18T05:00:00.000Z",
+      "url": "https://openai.com/index/intuit-partnership"
+    },
+    {
+      "id": "u_2154300e",
+      "title": "Introducing gpt-oss-safeguard",
+      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 88,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2025-10-29T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard"
+    },
+    {
+      "id": "u_7617f351",
+      "title": "Introducing GPT-4o and more tools to ChatGPT free users",
+      "summary": "Introducing GPT-4o and more tools to ChatGPT free users We are launching our newest flagship model and making more capabilities available for free in ChatGPT.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 88,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2024-05-13T10:00:00.000Z",
+      "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free"
+    },
+    {
+      "id": "u_4b32a30c",
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Model Launch",
+      "score": 87,
+      "source": "Planet AI",
+      "sourceType": "aggregator",
+      "publishedAt": "2026-04-30T18:20:03.000Z",
+      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/"
+    },
+    {
+      "id": "u_9a1195a1",
+      "title": "GPT-2: 6-month follow-up",
+      "summary": "We’re releasing the 774 million parameter GPT-2 language model after the release of our small 124M model in February, staged release of our medium 355M model in May, and subsequent research with partners and the AI community into the model’s potential for misuse and societal benefit. We’re also releasing an open-source legal agreement...",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 86,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2019-08-20T07:00:00.000Z",
+      "url": "https://openai.com/index/gpt-2-6-month-follow-up"
+    },
+    {
+      "id": "u_4732ece8",
+      "title": "Introducing talkie: a 13B vintage language model from 1930",
+      "summary": "Introducing talkie: a 13B vintage language model from 1930 New project from Nick Levine , David Duvenaud , and Alec Radford (of GPT, GPT-2, Whisper fame). talkie-1930-13b-base (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". talkie-1930-13b-it (26.6 GB) is a checkpoint \"finetuned using a n...",
+      "whatsImportant": "Worth tracking because research shifts can become product capabilities quickly. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Research",
+      "score": 85,
+      "source": "Simon Willison",
+      "sourceType": "analysis",
+      "publishedAt": "2026-04-28T02:47:42.000Z",
+      "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything"
+    },
+    {
+      "id": "u_50d9ff90",
+      "title": "GPT-2: 1.5B release",
+      "summary": "As the final model release of GPT-2’s staged release, we’re releasing the largest version (1.5B parameters) of GPT-2 along with code and model weights to facilitate detection of outputs of GPT-2 models. While there have been larger language models released since August, we’ve continued with our original staged release plan in order to...",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 84,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2019-11-05T08:00:00.000Z",
+      "url": "https://openai.com/index/gpt-2-1-5b-release"
+    },
+    {
+      "id": "u_567cf1e9",
+      "title": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools",
+      "summary": "Qwen Team Introduces Qwen-Scope: An Open-Source Sparse Autoencoder Suite That Turns LLM Internals into Practical Development Tools The post Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools appeared first on MarkTechPost .",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Product Update",
+      "score": 83,
+      "source": "Planet AI",
+      "sourceType": "aggregator",
+      "publishedAt": "2026-05-01T08:25:21.000Z",
+      "url": "https://www.marktechpost.com/2026/05/01/qwen-ai-releases-qwen-scope-an-open-source-sparse-autoencoders-sae-suite-that-turns-llm-internal-features-into-practical-development-tools/"
+    },
+    {
+      "id": "u_6e01a434",
+      "title": "Quoting Romain Huet",
+      "summary": "Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore. GPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task on a computer. &mdash; Romain Huet , confirming OpenAI won't release a GPT-5.5-Codex model Tags: generative-ai , gpt , openai...",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Ranked high by the importance filter.",
+      "category": "Model Launch",
+      "score": 83,
+      "source": "Simon Willison",
+      "sourceType": "analysis",
+      "publishedAt": "2026-04-25T12:06:55.000Z",
+      "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything"
+    },
+    {
+      "id": "u_8131c38d",
+      "title": "OpenAI and Greek Government launch ‘OpenAI for Greece’",
+      "summary": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 82,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2025-09-05T08:00:00.000Z",
+      "url": "https://openai.com/global-affairs/openai-for-greece"
+    },
+    {
+      "id": "u_3096c654",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "whatsImportant": "Potentially useful for builders because it changes tools, APIs, or workflows. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Product Update",
+      "score": 80,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2026-04-28T00:00:00.000Z",
+      "url": "https://openai.com/index/openai-on-aws"
+    },
+    {
+      "id": "u_3e0f389f",
+      "title": "Introducing GPT-5.2-Codex",
+      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 80,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2025-12-18T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+    },
+    {
+      "id": "u_34045dc3",
+      "title": "Introducing OpenAI for Ireland",
+      "summary": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Comes from an official source, so treat it as primary information. Ranked high by the importance filter.",
+      "category": "Model Launch",
+      "score": 80,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2025-11-14T04:00:00.000Z",
+      "url": "https://openai.com/index/openai-for-ireland"
+    },
+    {
+      "id": "u_c1769b5c",
+      "title": "Introducing gpt-oss",
+      "summary": "We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for ef...",
+      "whatsImportant": "Likely affects model choice, product roadmaps, or pricing decisions. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Model Launch",
+      "score": 80,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2025-08-05T00:00:00.000Z",
+      "url": "https://openai.com/index/introducing-gpt-oss"
+    },
+    {
+      "id": "u_5c409938",
+      "title": "SafetyKit scales risk agents with OpenAI’s most capable models",
+      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
+      "whatsImportant": "Could change how teams deploy, govern, or evaluate AI systems. Mentions a major model family or model platform. Comes from an official source, so treat it as primary information.",
+      "category": "Safety and Policy",
+      "score": 78,
+      "source": "OpenAI",
+      "sourceType": "official",
+      "publishedAt": "2025-09-09T10:00:00.000Z",
+      "url": "https://openai.com/index/safetykit"
+    }
+  ]
+}

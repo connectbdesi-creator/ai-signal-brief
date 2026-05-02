@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A two-hour AI news monitor that filters global updates into concise briefs.">
+    <title>AI Signal Brief</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Global AI Monitor</p>
+        <h1>AI Signal Brief</h1>
+      </div>
+      <div class="status">
+        <span class="pulse" aria-hidden="true"></span>
+        <span id="last-updated">Loading updates...</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="brief-heading">
+        <div class="hero-copy">
+          <h2 id="brief-heading">Important AI updates, filtered every 2 hours.</h2>
+          <p>Model launches, platform updates, research, safety, policy, and market moves from trusted sources.</p>
+        </div>
+        <div class="metrics" aria-label="Brief metrics">
+          <div>
+            <span id="update-count">0</span>
+            <small>selected updates</small>
+          </div>
+          <div>
+            <span id="source-count">0</span>
+            <small>tracked sources</small>
+          </div>
+          <div>
+            <span>2h</span>
+            <small>refresh cadence</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="Filters">
+        <div class="search-wrap">
+          <input id="search" type="search" placeholder="Search updates, companies, models..." autocomplete="off">
+        </div>
+        <div class="segments" role="tablist" aria-label="Category filter">
+          <button class="segment active" data-filter="all" type="button">All</button>
+          <button class="segment" data-filter="Model Launch" type="button">Models</button>
+          <button class="segment" data-filter="Product Update" type="button">Products</button>
+          <button class="segment" data-filter="Research" type="button">Research</button>
+          <button class="segment" data-filter="Safety and Policy" type="button">Policy</button>
+          <button class="segment" data-filter="Business" type="button">Business</button>
+        </div>
+      </section>
+
+      <section class="layout">
+        <aside class="source-panel" aria-labelledby="sources-heading">
+          <h2 id="sources-heading">Tracked Sources</h2>
+          <div id="sources"></div>
+        </aside>
+
+        <section class="feed" aria-label="AI updates">
+          <div class="feed-heading">
+            <h2>Latest Important Updates</h2>
+            <span id="result-count"></span>
+          </div>
+          <div id="updates" class="updates"></div>
+          <div id="empty-state" class="empty-state" hidden>No matching updates found.</div>
+        </section>
+      </section>
+    </main>
+
+    <footer>
+      <span>Built for fast scanning.</span>
+      <span>Importance is scored from source quality, recency, model terms, and launch/update keywords.</span>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
