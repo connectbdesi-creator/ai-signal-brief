@@ -1,4 +1,30 @@
 {
-  "updatedAt": null,
-  "entries": []
+  "updatedAt": "2026-05-02T08:19:44.172Z",
+  "entries": [
+    {
+      "id": "u_8223ac90",
+      "sentAt": "2026-05-02T08:19:44.172Z",
+      "title": "Grok 4.3: xAI Aims for Affordability but Lags Behind Leaders"
+    },
+    {
+      "id": "u_86e64336",
+      "sentAt": "2026-05-02T08:19:44.172Z",
+      "title": "Ask HN: Should AI agents have their own legal entities?"
+    },
+    {
+      "id": "u_5d1602c1",
+      "sentAt": "2026-05-02T08:19:44.172Z",
+      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects"
+    },
+    {
+      "id": "u_935b24f6",
+      "sentAt": "2026-05-02T08:19:44.172Z",
+      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects"
+    },
+    {
+      "id": "u_4f3872d4",
+      "sentAt": "2026-05-02T08:19:44.172Z",
+      "title": "How Do Self-Learning AI Agents Differ from Traditional Machine Learning Models and Current LLM-Based Agents? - KuCoin"
+    }
+  ]
 }
