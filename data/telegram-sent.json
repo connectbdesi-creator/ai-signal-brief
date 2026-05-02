@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-02T07:47:26.799Z",
+  "updatedAt": "2026-05-02T07:56:15.775Z",
   "entries": [
+    {
+      "id": "u_c6c7a789",
+      "sentAt": "2026-05-02T07:56:15.775Z",
+      "title": "Been using Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro As Daily Driver"
+    },
+    {
+      "id": "u_59c55d03",
+      "sentAt": "2026-05-02T07:56:15.775Z",
+      "title": "University Of Tulsa Launches Bachelor Of Science In Applied Artificial Intelligence - Pulse 2.0"
+    },
+    {
+      "id": "u_3cdfbebf",
+      "sentAt": "2026-05-02T07:56:15.775Z",
+      "title": "AI agents can bypass guardrails and put credentials at risk, Okta study finds - csoonline.com"
+    },
+    {
+      "id": "u_5df52c92",
+      "sentAt": "2026-05-02T07:56:15.775Z",
+      "title": "Meta Introduces Autodata: An Agentic Framework That Turns AI Models into Autonomous Data Scientists for High-Quality Training Data Creation"
+    },
+    {
+      "id": "u_50cd3dc9",
+      "sentAt": "2026-05-02T07:56:15.775Z",
+      "title": "A Coding Guide on LLM Post Training with TRL from Supervised Fine Tuning to DPO and GRPO Reasoning"
+    },
     {
       "id": "u_9f8f3b1",
       "sentAt": "2026-05-02T07:47:26.799Z",
