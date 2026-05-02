@@ -13,22 +13,32 @@
         <p class="eyebrow">Global AI Monitor</p>
         <h1>AI Signal Brief</h1>
       </div>
-      <div class="status">
-        <span class="pulse" aria-hidden="true"></span>
-        <span id="last-updated">Loading updates...</span>
+      <div class="top-actions">
+        <div class="status">
+          <span class="pulse" aria-hidden="true"></span>
+          <span id="last-updated">Loading updates...</span>
+        </div>
+        <button id="refresh-button" class="icon-button" type="button" aria-label="Refresh visible data" title="Refresh visible data">
+          <span>Refresh</span>
+        </button>
+        <a class="cloud-button" href="https://github.com/connectbdesi-creator/ai-signal-brief/actions/workflows/update-ai-brief.yml" target="_blank" rel="noreferrer">Run cloud refresh</a>
       </div>
     </header>
 
     <main>
       <section class="hero" aria-labelledby="brief-heading">
         <div class="hero-copy">
-          <h2 id="brief-heading">Important AI updates, filtered every 2 hours.</h2>
-          <p>Model launches, platform updates, research, safety, policy, and market moves from trusted sources.</p>
+          <h2 id="brief-heading">Fresh AI signal, not the whole internet.</h2>
+          <p>The main feed shows updates from the last 24 hours. Older items move into Archive, and the biggest stories surface in Weekly Highlights.</p>
         </div>
         <div class="metrics" aria-label="Brief metrics">
           <div>
             <span id="update-count">0</span>
-            <small>selected updates</small>
+            <small>latest, under 24h</small>
+          </div>
+          <div>
+            <span id="archive-count">0</span>
+            <small>archived updates</small>
           </div>
           <div>
             <span id="source-count">0</span>
@@ -41,17 +51,34 @@
         </div>
       </section>
 
+      <section class="weekly" aria-labelledby="weekly-heading">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">This Week</p>
+            <h2 id="weekly-heading">Major AI Highlights</h2>
+          </div>
+          <span id="weekly-count"></span>
+        </div>
+        <div id="weekly-highlights" class="highlight-grid"></div>
+      </section>
+
       <section class="controls" aria-label="Filters">
         <div class="search-wrap">
           <input id="search" type="search" placeholder="Search updates, companies, models..." autocomplete="off">
         </div>
-        <div class="segments" role="tablist" aria-label="Category filter">
-          <button class="segment active" data-filter="all" type="button">All</button>
-          <button class="segment" data-filter="Model Launch" type="button">Models</button>
-          <button class="segment" data-filter="Product Update" type="button">Products</button>
-          <button class="segment" data-filter="Research" type="button">Research</button>
-          <button class="segment" data-filter="Safety and Policy" type="button">Policy</button>
-          <button class="segment" data-filter="Business" type="button">Business</button>
+        <div class="control-groups">
+          <div class="segments" role="tablist" aria-label="Feed view">
+            <button class="segment active" data-view="latest" type="button">Latest</button>
+            <button class="segment" data-view="archive" type="button">Archive</button>
+          </div>
+          <div class="segments" role="tablist" aria-label="Category filter">
+            <button class="segment active" data-filter="all" type="button">All</button>
+            <button class="segment" data-filter="Model Launch" type="button">Models</button>
+            <button class="segment" data-filter="Product Update" type="button">Products</button>
+            <button class="segment" data-filter="Research" type="button">Research</button>
+            <button class="segment" data-filter="Safety and Policy" type="button">Policy</button>
+            <button class="segment" data-filter="Business" type="button">Business</button>
+          </div>
         </div>
       </section>
 
@@ -63,7 +90,7 @@
 
         <section class="feed" aria-label="AI updates">
           <div class="feed-heading">
-            <h2>Latest Important Updates</h2>
+            <h2 id="feed-title">Latest Important Updates</h2>
             <span id="result-count"></span>
           </div>
           <div id="updates" class="updates"></div>

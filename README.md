@@ -6,6 +6,12 @@ A free-tier AI updates site that refreshes every 2 hours, filters the most impor
 2. Summary
 3. What's Important
 
+The homepage is split into:
+
+- **Latest:** important updates from the last 24 hours, sorted newest first.
+- **Archive:** important updates older than 24 hours.
+- **Weekly Highlights:** the highest-scoring major AI updates from the last 7 days.
+
 ## Why this setup
 
 - **Hosting:** GitHub Pages, free for public repositories.
@@ -31,6 +37,8 @@ Open `http://localhost:4173`.
 5. Run the **Update AI Brief** workflow once from the Actions tab.
 
 After that, GitHub Actions refreshes the site every 2 hours.
+
+The site includes a **Refresh** button for reloading the latest published data and a **Run cloud refresh** link that opens the GitHub workflow page for a manual cloud-side refresh.
 
 ## Telegram notifications
 

@@ -1,19 +1,27 @@
 const state = {
   data: null,
+  view: "latest",
   filter: "all",
-  query: ""
+  query: "",
+  isRefreshing: false
 };
 
 const elements = {
   lastUpdated: document.querySelector("#last-updated"),
+  refreshButton: document.querySelector("#refresh-button"),
   updateCount: document.querySelector("#update-count"),
+  archiveCount: document.querySelector("#archive-count"),
   sourceCount: document.querySelector("#source-count"),
+  weeklyCount: document.querySelector("#weekly-count"),
+  weeklyHighlights: document.querySelector("#weekly-highlights"),
+  feedTitle: document.querySelector("#feed-title"),
   resultCount: document.querySelector("#result-count"),
   updates: document.querySelector("#updates"),
   sources: document.querySelector("#sources"),
   emptyState: document.querySelector("#empty-state"),
   search: document.querySelector("#search"),
-  segments: [...document.querySelectorAll(".segment")]
+  filterSegments: [...document.querySelectorAll("[data-filter]")],
+  viewSegments: [...document.querySelectorAll("[data-view]")]
 };
 
 init();
@@ -30,34 +38,76 @@ function bindEvents() {
     renderUpdates();
   });
 
-  elements.segments.forEach((button) => {
+  elements.refreshButton.addEventListener("click", async () => {
+    await loadUpdates({ manual: true });
+  });
+
+  elements.filterSegments.forEach((button) => {
     button.addEventListener("click", () => {
       state.filter = button.dataset.filter;
-      elements.segments.forEach((segment) => segment.classList.toggle("active", segment === button));
+      elements.filterSegments.forEach((segment) => segment.classList.toggle("active", segment === button));
+      renderUpdates();
+    });
+  });
+
+  elements.viewSegments.forEach((button) => {
+    button.addEventListener("click", () => {
+      state.view = button.dataset.view;
+      elements.viewSegments.forEach((segment) => segment.classList.toggle("active", segment === button));
       renderUpdates();
     });
   });
 }
 
-async function loadUpdates() {
+async function loadUpdates(options = {}) {
+  if (state.isRefreshing) return;
+
   try {
-    const response = await fetch(`data/updates.json?ts=${Date.now()}`);
+    state.isRefreshing = true;
+    elements.refreshButton.disabled = true;
+    elements.refreshButton.classList.add("spinning");
+    elements.refreshButton.querySelector("span").textContent = "Checking";
+    if (options.manual) elements.lastUpdated.textContent = "Checking for fresh data...";
+
+    const response = await fetch(`data/updates.json?ts=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    state.data = await response.json();
+    state.data = normalizeData(await response.json());
     renderShell();
+    renderWeeklyHighlights();
     renderUpdates();
   } catch (error) {
     elements.lastUpdated.textContent = "Could not load updates";
     elements.updates.innerHTML = `<div class="empty-state">Update data is not available yet. Run <code>npm run fetch</code> once locally or trigger the GitHub Action.</div>`;
     console.error(error);
+  } finally {
+    state.isRefreshing = false;
+    elements.refreshButton.disabled = false;
+    elements.refreshButton.classList.remove("spinning");
+    elements.refreshButton.querySelector("span").textContent = "Refresh";
   }
+}
+
+function normalizeData(data) {
+  const updates = [...(data.updates ?? [])].sort(sortByFreshness);
+  const archive = [...(data.archive ?? [])].sort(sortByFreshness);
+  const weeklyHighlights = [...(data.weeklyHighlights ?? updates.slice(0, 5))]
+    .sort((a, b) => Number(b.score) - Number(a.score) || sortByFreshness(a, b));
+
+  return {
+    ...data,
+    updates,
+    archive,
+    weeklyHighlights
+  };
 }
 
 function renderShell() {
   const generatedAt = new Date(state.data.generatedAt);
   elements.lastUpdated.textContent = `Updated ${formatRelative(generatedAt)}`;
-  elements.updateCount.textContent = state.data.count ?? state.data.updates.length;
+  elements.updateCount.textContent = state.data.updates.length;
+  elements.archiveCount.textContent = state.data.archive.length;
   elements.sourceCount.textContent = state.data.sources.length;
+  elements.weeklyCount.textContent = `${state.data.weeklyHighlights.length} major`;
   elements.sources.innerHTML = state.data.sources
     .map((source) => `
       <div class="source">
@@ -68,16 +118,44 @@ function renderShell() {
     .join("");
 }
 
+function renderWeeklyHighlights() {
+  const highlights = state.data.weeklyHighlights.slice(0, 4);
+
+  if (!highlights.length) {
+    elements.weeklyHighlights.innerHTML = `<div class="empty-state">No major weekly highlights yet.</div>`;
+    return;
+  }
+
+  elements.weeklyHighlights.innerHTML = highlights.map((item, index) => `
+    <article class="highlight-card">
+      <div class="rank">${index + 1}</div>
+      <div>
+        <div class="card-meta compact">
+          <span class="tag">${escapeHtml(item.category)}</span>
+          <span>${escapeHtml(item.source)}</span>
+          <span>${formatRelative(new Date(item.publishedAt))}</span>
+        </div>
+        <h3><a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a></h3>
+        <p>${escapeHtml(item.whatsImportant)}</p>
+      </div>
+    </article>
+  `).join("");
+}
+
 function renderUpdates() {
   if (!state.data) return;
 
-  const filtered = state.data.updates.filter((item) => {
+  const list = state.view === "archive" ? state.data.archive : state.data.updates;
+  const filtered = list.filter((item) => {
     const matchesFilter = state.filter === "all" || item.category === state.filter;
     const haystack = `${item.title} ${item.summary} ${item.whatsImportant} ${item.source}`.toLowerCase();
     const matchesQuery = !state.query || haystack.includes(state.query);
     return matchesFilter && matchesQuery;
-  });
+  }).sort(sortByFreshness);
 
+  elements.feedTitle.textContent = state.view === "archive"
+    ? "Archive: Older Than 24 Hours"
+    : "Latest Important Updates";
   elements.resultCount.textContent = `${filtered.length} shown`;
   elements.emptyState.hidden = filtered.length > 0;
   elements.updates.innerHTML = filtered.map(renderCard).join("");
@@ -89,7 +167,7 @@ function renderCard(item) {
       <div class="card-meta">
         <span class="tag">${escapeHtml(item.category)}</span>
         <span>${escapeHtml(item.source)}</span>
-        <span>${formatRelative(new Date(item.publishedAt))}</span>
+        <time datetime="${escapeHtml(item.publishedAt)}">${formatRelative(new Date(item.publishedAt))}</time>
         <span class="score">Score ${Math.round(item.score)}</span>
       </div>
       <h3><a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a></h3>
@@ -105,6 +183,10 @@ function renderCard(item) {
       </div>
     </article>
   `;
+}
+
+function sortByFreshness(a, b) {
+  return new Date(b.publishedAt) - new Date(a.publishedAt);
 }
 
 function formatRelative(date) {

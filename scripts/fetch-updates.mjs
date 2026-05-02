@@ -132,21 +132,42 @@ async function main() {
   const scored = deduped
     .map(enrichItem)
     .filter((item) => item.score >= 28)
-    .sort((a, b) => b.score - a.score || new Date(b.publishedAt) - new Date(a.publishedAt))
-    .slice(0, 36);
+    .sort(sortByFreshness)
+    .slice(0, 120);
+
+  const latestUpdates = scored
+    .filter((item) => ageHours(item.publishedAt) <= 24)
+    .sort(sortByFreshness)
+    .slice(0, 48);
+
+  const archive = scored
+    .filter((item) => ageHours(item.publishedAt) > 24)
+    .sort(sortByFreshness)
+    .slice(0, 72);
+
+  const weeklyHighlights = scored
+    .filter((item) => ageHours(item.publishedAt) <= 168 && item.score >= 70)
+    .sort((a, b) => b.score - a.score || sortByFreshness(a, b))
+    .slice(0, 7);
 
   const payload = {
     generatedAt: new Date().toISOString(),
     refreshCadence: "Every 2 hours via GitHub Actions",
-    count: scored.length,
+    count: latestUpdates.length,
+    totalCount: scored.length,
+    archiveCount: archive.length,
+    weeklyHighlightCount: weeklyHighlights.length,
     sources: feeds.map(({ name, url, type }) => ({ name, url, type })),
     fetchWarnings: failures.slice(0, 8),
-    updates: scored
+    updates: latestUpdates,
+    archive,
+    weeklyHighlights,
+    allUpdates: scored
   };
 
   await mkdir(dirname(outputPath), { recursive: true });
   await writeFile(outputPath, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
-  console.log(`Wrote ${scored.length} updates to ${outputPath}`);
+  console.log(`Wrote ${latestUpdates.length} latest updates, ${archive.length} archived updates, and ${weeklyHighlights.length} weekly highlights to ${outputPath}`);
   if (failures.length) {
     console.warn(`Feed warnings: ${failures.length}`);
     failures.slice(0, 8).forEach((warning) => console.warn(`- ${warning}`));
@@ -278,12 +299,20 @@ function pickCategory(text) {
 }
 
 function scoreRecency(publishedAt) {
-  const ageHours = Math.max(0, (Date.now() - new Date(publishedAt).getTime()) / 36e5);
-  if (ageHours <= 24) return 22;
-  if (ageHours <= 72) return 16;
-  if (ageHours <= 168) return 10;
-  if (ageHours <= 336) return 5;
+  const hours = ageHours(publishedAt);
+  if (hours <= 24) return 22;
+  if (hours <= 72) return 16;
+  if (hours <= 168) return 10;
+  if (hours <= 336) return 5;
   return 0;
+}
+
+function ageHours(publishedAt) {
+  return Math.max(0, (Date.now() - new Date(publishedAt).getTime()) / 36e5);
+}
+
+function sortByFreshness(a, b) {
+  return new Date(b.publishedAt) - new Date(a.publishedAt);
 }
 
 function scoreTerms(text, terms) {
