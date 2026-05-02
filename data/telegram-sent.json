@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-02T19:05:12.066Z",
+  "updatedAt": "2026-05-02T20:48:39.020Z",
   "entries": [
+    {
+      "id": "u_a050c7c1",
+      "sentAt": "2026-05-02T20:48:39.020Z",
+      "title": "Sam Altman Invites Elon Musk to GPT-5.5 Party Amidst Legal Clash"
+    },
+    {
+      "id": "u_eaf66dc6",
+      "sentAt": "2026-05-02T20:48:39.020Z",
+      "title": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation"
+    },
+    {
+      "id": "u_b8da2e35",
+      "sentAt": "2026-05-02T20:48:39.020Z",
+      "title": "Qwen 3.6 wins the benchmarks, but Gemma 4 wins reality. 7 things I learned testing 27B/31B Vision models locally (vLLM / FP8) side by side. Benchmaxing seems real."
+    },
+    {
+      "id": "u_b898c9c6",
+      "sentAt": "2026-05-02T20:48:39.020Z",
+      "title": "What's your tps on 3090 + Qwen 3.6 27B in real tasks?"
+    },
+    {
+      "id": "u_36909165",
+      "sentAt": "2026-05-02T20:48:39.020Z",
+      "title": "We are finally there: Qwen3.6-27B + agentic search; 95.7% SimpleQA on a single 3090, fully local"
+    },
     {
       "id": "u_c7373738",
       "sentAt": "2026-05-02T19:05:12.066Z",
