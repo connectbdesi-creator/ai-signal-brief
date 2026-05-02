@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-02T08:19:44.172Z",
+  "updatedAt": "2026-05-02T09:11:07.942Z",
   "entries": [
+    {
+      "id": "u_bfd5c9b5",
+      "sentAt": "2026-05-02T09:11:07.942Z",
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling"
+    },
+    {
+      "id": "u_8d4aff3",
+      "sentAt": "2026-05-02T09:11:07.942Z",
+      "title": "AI coding tools are silently disagreeing with each other"
+    },
+    {
+      "id": "u_d94e1208",
+      "sentAt": "2026-05-02T09:11:07.942Z",
+      "title": "OpenAI's New Tracking Move: More Than Just Cookies"
+    },
+    {
+      "id": "u_75a0e3c8",
+      "sentAt": "2026-05-02T09:11:07.942Z",
+      "title": "\"Prompt Engineering\" certs are a joke. So we built a FREE Agentic AI Practitioner Exam that actually forces you to build working swarms to pass."
+    },
+    {
+      "id": "u_49bf440f",
+      "sentAt": "2026-05-02T09:11:07.942Z",
+      "title": "Claude Code: Creating Kubernetes Debugging AI Agent for VictoriaMetrics"
+    },
     {
       "id": "u_8223ac90",
       "sentAt": "2026-05-02T08:19:44.172Z",
