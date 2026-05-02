@@ -12,6 +12,8 @@ The homepage is split into:
 - **Archive:** important updates older than 24 hours.
 - **Weekly Highlights:** the highest-scoring major AI updates from the last 7 days.
 
+The public website does not show the raw feed/source list. Each update keeps light attribution and includes a **Read More** button that opens the original article, announcement, paper, or discussion.
+
 ## Why this setup
 
 - **Hosting:** GitHub Pages, free for public repositories.
@@ -69,6 +71,17 @@ The notification script sends the top 5 updates with score 55 or higher. You can
 TELEGRAM_MAX_ITEMS=5
 TELEGRAM_MIN_SCORE=55
 ```
+
+## Team channel setup
+
+For a team, create a Telegram group such as **AI Signal Brief**, add your bot to the group, and use the group's chat id as `TELEGRAM_CHAT_ID`. That turns the project into a shared AI updates channel without everyone needing to visit the website.
+
+Recommended team workflow:
+
+- Use Telegram for the top 3-5 important updates every 2 hours.
+- Use the website for deeper browsing, archive lookup, search, and weekly highlights.
+- Keep GitHub Pages public if the brief is shareable, or move to a private repo plus another static host if the source list or scoring rules become internal.
+- Review `scripts/fetch-updates.mjs` monthly to add/remove sources and adjust scoring as the AI news ecosystem changes.
 
 ## Tuning importance
 

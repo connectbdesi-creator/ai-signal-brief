@@ -10,16 +10,26 @@ const feeds = [
   { name: "OpenAI", url: "https://openai.com/news/rss.xml", sourceScore: 18, type: "official" },
   { name: "Google AI", url: "https://blog.google/technology/ai/rss/", sourceScore: 16, type: "official" },
   { name: "Google DeepMind", url: "https://deepmind.google/blog/rss.xml", sourceScore: 16, type: "official" },
+  { name: "Google Research", url: "https://research.google/blog/rss/", sourceScore: 15, type: "research" },
   { name: "Meta Newsroom", url: "https://about.fb.com/feed/", sourceScore: 12, type: "official" },
   { name: "Microsoft AI", url: "https://blogs.microsoft.com/ai/feed/", sourceScore: 14, type: "official" },
   { name: "Hugging Face", url: "https://huggingface.co/blog/feed.xml", sourceScore: 14, type: "official" },
   { name: "NVIDIA AI", url: "https://blogs.nvidia.com/blog/category/deep-learning/feed/", sourceScore: 12, type: "official" },
+  { name: "AWS Machine Learning", url: "https://aws.amazon.com/blogs/machine-learning/feed/", sourceScore: 12, type: "official" },
+  { name: "Berkeley AI Research", url: "https://bair.berkeley.edu/blog/feed.xml", sourceScore: 12, type: "research" },
+  { name: "MIT News AI", url: "https://news.mit.edu/rss/topic/artificial-intelligence2", sourceScore: 10, type: "research" },
   { name: "Planet AI", url: "https://planet-ai.net/rss.xml", sourceScore: 11, type: "aggregator" },
+  { name: "Machine Brief", url: "https://www.machinebrief.com/rss.xml", sourceScore: 10, type: "newsletter" },
+  { name: "The Decoder", url: "https://the-decoder.com/feed/", sourceScore: 9, type: "press" },
   { name: "VentureBeat AI", url: "https://venturebeat.com/category/ai/feed/", sourceScore: 9, type: "press" },
   { name: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/", sourceScore: 9, type: "press" },
   { name: "MIT Technology Review AI", url: "https://www.technologyreview.com/topic/artificial-intelligence/feed", sourceScore: 9, type: "press" },
+  { name: "Google News AI", url: "https://news.google.com/rss/search?q=(artificial%20intelligence%20OR%20OpenAI%20OR%20Anthropic%20OR%20Gemini%20OR%20LLM)%20when%3A2d&hl=en-US&gl=US&ceid=US:en", sourceScore: 8, type: "news" },
   { name: "The Gradient", url: "https://thegradient.pub/rss/", sourceScore: 7, type: "analysis" },
-  { name: "Simon Willison", url: "https://simonwillison.net/atom/everything/", sourceScore: 7, type: "analysis" }
+  { name: "Simon Willison", url: "https://simonwillison.net/atom/everything/", sourceScore: 7, type: "analysis" },
+  { name: "Reddit MachineLearning", url: "https://www.reddit.com/r/MachineLearning/.rss", sourceScore: 4, type: "community" },
+  { name: "Reddit LocalLLaMA", url: "https://www.reddit.com/r/LocalLLaMA/.rss", sourceScore: 4, type: "community" },
+  { name: "Reddit Artificial", url: "https://www.reddit.com/r/artificial/.rss", sourceScore: 3, type: "community" }
 ];
 
 const highSignalTerms = [
@@ -129,25 +139,26 @@ async function main() {
   }
 
   const deduped = dedupeItems(allItems);
-  const scored = deduped
+  const scored = capBySource(deduped
     .map(enrichItem)
-    .filter((item) => item.score >= 28)
+    .filter(shouldKeepItem)
     .sort(sortByFreshness)
+    .slice(0, 180), 14)
     .slice(0, 120);
 
-  const latestUpdates = scored
+  const latestUpdates = capBySource(scored
     .filter((item) => ageHours(item.publishedAt) <= 24)
-    .sort(sortByFreshness)
+    .sort(sortByFreshness), 8)
     .slice(0, 48);
 
-  const archive = scored
+  const archive = capBySource(scored
     .filter((item) => ageHours(item.publishedAt) > 24)
-    .sort(sortByFreshness)
+    .sort(sortByFreshness), 10)
     .slice(0, 72);
 
-  const weeklyHighlights = scored
+  const weeklyHighlights = capBySource(scored
     .filter((item) => ageHours(item.publishedAt) <= 168 && item.score >= 70)
-    .sort((a, b) => b.score - a.score || sortByFreshness(a, b))
+    .sort((a, b) => b.score - a.score || sortByFreshness(a, b)), 2)
     .slice(0, 7);
 
   const payload = {
@@ -281,6 +292,67 @@ function enrichItem(item) {
     publishedAt: item.publishedAt,
     url: item.url
   };
+}
+
+function shouldKeepItem(item) {
+  const thresholds = {
+    official: 30,
+    research: 36,
+    newsletter: 50,
+    press: 42,
+    news: 48,
+    analysis: 42,
+    aggregator: 46,
+    community: 72
+  };
+  const text = `${item.title} ${item.summary} ${item.whatsImportant}`.toLowerCase();
+  const threshold = thresholds[item.sourceType] ?? 45;
+
+  if (item.sourceType === "community") {
+    const communitySignal = [
+      "release",
+      "launched",
+      "launch",
+      "paper",
+      "benchmark",
+      "model",
+      "open source",
+      "open-source",
+      "weights",
+      "reasoning",
+      "api"
+    ].some((term) => text.includes(term));
+    const lowSignal = [
+      "help",
+      "beginner",
+      "what should i",
+      "how do i",
+      "career",
+      "job",
+      "hiring",
+      "course",
+      "meme",
+      "daily thread"
+    ].some((term) => text.includes(term));
+
+    return communitySignal && !lowSignal && item.score >= threshold;
+  }
+
+  return item.score >= threshold;
+}
+
+function capBySource(items, limit) {
+  const counts = new Map();
+  const capped = [];
+
+  for (const item of items) {
+    const count = counts.get(item.source) ?? 0;
+    if (count >= limit) continue;
+    counts.set(item.source, count + 1);
+    capped.push(item);
+  }
+
+  return capped;
 }
 
 function pickCategory(text) {

@@ -11,13 +11,12 @@ const elements = {
   refreshButton: document.querySelector("#refresh-button"),
   updateCount: document.querySelector("#update-count"),
   archiveCount: document.querySelector("#archive-count"),
-  sourceCount: document.querySelector("#source-count"),
+  highlightMetricCount: document.querySelector("#highlight-metric-count"),
   weeklyCount: document.querySelector("#weekly-count"),
   weeklyHighlights: document.querySelector("#weekly-highlights"),
   feedTitle: document.querySelector("#feed-title"),
   resultCount: document.querySelector("#result-count"),
   updates: document.querySelector("#updates"),
-  sources: document.querySelector("#sources"),
   emptyState: document.querySelector("#empty-state"),
   search: document.querySelector("#search"),
   filterSegments: [...document.querySelectorAll("[data-filter]")],
@@ -106,16 +105,8 @@ function renderShell() {
   elements.lastUpdated.textContent = `Updated ${formatRelative(generatedAt)}`;
   elements.updateCount.textContent = state.data.updates.length;
   elements.archiveCount.textContent = state.data.archive.length;
-  elements.sourceCount.textContent = state.data.sources.length;
+  elements.highlightMetricCount.textContent = state.data.weeklyHighlights.length;
   elements.weeklyCount.textContent = `${state.data.weeklyHighlights.length} major`;
-  elements.sources.innerHTML = state.data.sources
-    .map((source) => `
-      <div class="source">
-        <a href="${escapeHtml(source.url)}" target="_blank" rel="noreferrer">${escapeHtml(source.name)}</a>
-        <small>${escapeHtml(source.type)}</small>
-      </div>
-    `)
-    .join("");
 }
 
 function renderWeeklyHighlights() {
@@ -137,6 +128,7 @@ function renderWeeklyHighlights() {
         </div>
         <h3><a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a></h3>
         <p>${escapeHtml(item.whatsImportant)}</p>
+        <a class="read-more compact-link" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">Read More</a>
       </div>
     </article>
   `).join("");
@@ -180,6 +172,9 @@ function renderCard(item) {
           <strong>What's Important</strong>
           <p>${escapeHtml(item.whatsImportant)}</p>
         </div>
+      </div>
+      <div class="card-actions">
+        <a class="read-more" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">Read More</a>
       </div>
     </article>
   `;
