@@ -4,11 +4,14 @@ const state = {
   filter: "all",
   query: "",
   isRefreshing: false,
-  shareResetTimer: null
+  shareResetTimer: null,
+  statusResetTimer: null,
+  knownIds: new Set()
 };
 
 const elements = {
   lastUpdated: document.querySelector("#last-updated"),
+  statusPulse: document.querySelector("#status-pulse"),
   refreshButton: document.querySelector("#refresh-button"),
   shareButton: document.querySelector("#share-button"),
   updateCount: document.querySelector("#update-count"),
@@ -30,7 +33,7 @@ init();
 async function init() {
   bindEvents();
   await loadUpdates();
-  setInterval(loadUpdates, 10 * 60 * 1000);
+  setInterval(() => loadUpdates({ silent: true }), 10 * 60 * 1000);
 }
 
 function bindEvents() {
@@ -39,10 +42,7 @@ function bindEvents() {
     renderUpdates();
   });
 
-  elements.refreshButton.addEventListener("click", async () => {
-    await loadUpdates({ manual: true });
-  });
-
+  elements.refreshButton.addEventListener("click", () => loadUpdates({ manual: true }));
   elements.shareButton.addEventListener("click", copyShareLink);
 
   elements.filterSegments.forEach((button) => {
@@ -67,9 +67,9 @@ async function copyShareLink() {
 
   try {
     await navigator.clipboard.writeText(url);
-    elements.shareButton.textContent = "Link Copied";
+    elements.shareButton.textContent = "Link copied";
   } catch {
-    elements.shareButton.textContent = "Copy this page URL";
+    elements.shareButton.textContent = "Copy this URL";
   }
 
   clearTimeout(state.shareResetTimer);
@@ -81,29 +81,77 @@ async function copyShareLink() {
 async function loadUpdates(options = {}) {
   if (state.isRefreshing) return;
 
+  const { manual = false, silent = false } = options;
+  const previousGeneratedAt = state.data?.generatedAt ?? null;
+  const previousIds = new Set(state.knownIds);
+
   try {
     state.isRefreshing = true;
-    elements.refreshButton.disabled = true;
-    elements.refreshButton.classList.add("spinning");
-    elements.refreshButton.querySelector("span").textContent = "Checking";
-    if (options.manual) elements.lastUpdated.textContent = "Checking for fresh data...";
+    setRefreshingUI(true);
 
     const response = await fetch(`data/updates.json?ts=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    state.data = normalizeData(await response.json());
+
+    const fresh = normalizeData(await response.json());
+    state.data = fresh;
+    state.knownIds = collectIds(fresh);
+
     renderShell();
     renderWeeklyHighlights();
     renderUpdates();
+
+    if (manual) {
+      const newCount = countNewIds(state.knownIds, previousIds);
+      const sameSnapshot = previousGeneratedAt === fresh.generatedAt;
+      if (newCount > 0) {
+        flashStatus(`+${newCount} new since last refresh`);
+      } else if (sameSnapshot) {
+        flashStatus("Already up to date");
+      } else {
+        flashStatus("Refreshed");
+      }
+    }
   } catch (error) {
-    elements.lastUpdated.textContent = "Could not load updates";
-    elements.updates.innerHTML = `<div class="empty-state">Update data is not available yet. Run <code>npm run fetch</code> once locally or trigger the GitHub Action.</div>`;
+    if (!silent) {
+      elements.lastUpdated.textContent = "Could not load updates";
+      elements.updates.innerHTML = `<div class="empty-state">Update data is not available yet. Run <code>npm run fetch</code> once locally or trigger the GitHub Action.</div>`;
+    }
     console.error(error);
   } finally {
     state.isRefreshing = false;
-    elements.refreshButton.disabled = false;
-    elements.refreshButton.classList.remove("spinning");
-    elements.refreshButton.querySelector("span").textContent = "Refresh";
+    setRefreshingUI(false);
   }
+}
+
+function setRefreshingUI(busy) {
+  elements.refreshButton.disabled = busy;
+  elements.refreshButton.classList.toggle("spinning", busy);
+  elements.refreshButton.querySelector("span").textContent = busy ? "Checking" : "Refresh";
+}
+
+function flashStatus(text) {
+  if (!state.data) return;
+  const restore = formatLastUpdatedText(state.data.generatedAt);
+  elements.lastUpdated.textContent = text;
+  clearTimeout(state.statusResetTimer);
+  state.statusResetTimer = setTimeout(() => {
+    elements.lastUpdated.textContent = restore;
+  }, 2500);
+}
+
+function collectIds(data) {
+  const ids = new Set();
+  for (const item of data.updates) ids.add(item.id);
+  for (const item of data.archive) ids.add(item.id);
+  for (const item of data.weeklyHighlights) ids.add(item.id);
+  return ids;
+}
+
+function countNewIds(current, previous) {
+  if (previous.size === 0) return 0;
+  let count = 0;
+  for (const id of current) if (!previous.has(id)) count += 1;
+  return count;
 }
 
 function normalizeData(data) {
@@ -121,12 +169,22 @@ function normalizeData(data) {
 }
 
 function renderShell() {
-  const generatedAt = new Date(state.data.generatedAt);
-  elements.lastUpdated.textContent = `Updated ${formatRelative(generatedAt)}`;
+  elements.lastUpdated.textContent = formatLastUpdatedText(state.data.generatedAt);
+  elements.statusPulse.classList.toggle("stale", isStale(state.data.generatedAt));
   elements.updateCount.textContent = state.data.updates.length;
   elements.archiveCount.textContent = state.data.archive.length;
   elements.highlightMetricCount.textContent = state.data.weeklyHighlights.length;
   elements.weeklyCount.textContent = `${state.data.weeklyHighlights.length} major`;
+}
+
+function formatLastUpdatedText(generatedAt) {
+  const date = new Date(generatedAt);
+  return `Cloud sync ${formatRelative(date)}`;
+}
+
+function isStale(generatedAt) {
+  const ageMs = Date.now() - new Date(generatedAt).getTime();
+  return ageMs > 3 * 60 * 60 * 1000;
 }
 
 function renderWeeklyHighlights() {
@@ -144,11 +202,12 @@ function renderWeeklyHighlights() {
         <div class="card-meta compact">
           <span class="tag">${escapeHtml(item.category)}</span>
           <span>${escapeHtml(item.source)}</span>
+          <span class="dot" aria-hidden="true"></span>
           <span>${formatRelative(new Date(item.publishedAt))}</span>
         </div>
         <h3><a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a></h3>
         <p>${escapeHtml(item.whatsImportant)}</p>
-        <a class="read-more compact-link" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">Read More</a>
+        <a class="compact-link" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">Read more &rarr;</a>
       </div>
     </article>
   `).join("");
@@ -179,7 +238,9 @@ function renderCard(item) {
       <div class="card-meta">
         <span class="tag">${escapeHtml(item.category)}</span>
         <span>${escapeHtml(item.source)}</span>
+        <span class="dot" aria-hidden="true"></span>
         <time datetime="${escapeHtml(item.publishedAt)}">${formatRelative(new Date(item.publishedAt))}</time>
+        <span class="dot" aria-hidden="true"></span>
         <span class="score">Score ${Math.round(item.score)}</span>
       </div>
       <h3><a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">${escapeHtml(item.title)}</a></h3>
@@ -189,12 +250,12 @@ function renderCard(item) {
           <p>${escapeHtml(item.summary)}</p>
         </div>
         <div class="brief-block important">
-          <strong>What's Important</strong>
+          <strong>What's important</strong>
           <p>${escapeHtml(item.whatsImportant)}</p>
         </div>
       </div>
       <div class="card-actions">
-        <a class="read-more" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">Read More</a>
+        <a class="read-more" href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">Read source &rarr;</a>
       </div>
     </article>
   `;

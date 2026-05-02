@@ -7,133 +7,87 @@
     <meta property="og:title" content="AI Signal Brief">
     <meta property="og:description" content="Important AI updates, filtered every 2 hours for builders, founders, and teams.">
     <meta property="og:type" content="website">
-    <title>AI Signal Brief</title>
+    <title>AI Signal Brief — The 2-hour AI radar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
     <header class="topbar">
-      <div>
-        <p class="eyebrow">Global AI Monitor</p>
-        <h1>AI Signal Brief</h1>
-      </div>
-      <div class="top-actions">
-        <div class="status">
-          <span class="pulse" aria-hidden="true"></span>
-          <span id="last-updated">Loading updates...</span>
+      <div class="container">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true">AI</span>
+          <div class="brand-text">
+            <p class="eyebrow">Global AI Monitor</p>
+            <h1>AI Signal Brief</h1>
+          </div>
         </div>
-        <button id="refresh-button" class="icon-button" type="button" aria-label="Refresh visible data" title="Refresh visible data">
-          <span>Refresh</span>
-        </button>
-        <a class="cloud-button" href="https://github.com/connectbdesi-creator/ai-signal-brief/actions/workflows/update-ai-brief.yml" target="_blank" rel="noreferrer">Run cloud refresh</a>
+        <div class="top-actions">
+          <div class="status">
+            <span id="status-pulse" class="pulse" aria-hidden="true"></span>
+            <span id="last-updated">Loading updates&hellip;</span>
+          </div>
+          <button id="refresh-button" class="icon-button" type="button" aria-label="Refresh visible data" title="Refresh visible data">
+            <span>Refresh</span>
+          </button>
+          <a class="cloud-button" href="https://github.com/connectbdesi-creator/ai-signal-brief/actions/workflows/update-ai-brief.yml" target="_blank" rel="noreferrer">Cloud refresh</a>
+        </div>
       </div>
     </header>
 
     <main>
-      <section class="hero" aria-labelledby="brief-heading">
-        <div class="hero-copy">
-          <h2 id="brief-heading">Fresh AI signal, not the whole internet.</h2>
-          <p>A fast AI briefing channel for founders, operators, builders, and teams who need the important updates without doom-scrolling feeds all day.</p>
+      <div class="container stack">
+        <section class="card hero" aria-labelledby="brief-heading">
+          <div>
+            <p class="hero-eyebrow">Updated every 2 hours</p>
+            <h2 id="brief-heading">Fresh AI signal, not the whole internet.</h2>
+            <p>The important AI updates — model launches, product moves, research, policy — filtered, summarised, and ranked for builders, founders, and teams who do not have time to doom-scroll.</p>
+          </div>
           <div class="hero-actions">
             <a class="primary-button" href="https://t.me/ai_signal_brief_vignesh_bot" target="_blank" rel="noreferrer">Join Telegram Brief</a>
             <button id="share-button" class="secondary-button" type="button">Copy Share Link</button>
           </div>
-        </div>
-        <div class="metrics" aria-label="Brief metrics">
-          <div>
-            <span id="update-count">0</span>
-            <small>latest, under 24h</small>
+          <div class="metric-row" aria-label="Brief metrics">
+            <span class="metric-pill"><strong id="update-count">0</strong> <span>latest (24h)</span></span>
+            <span class="metric-pill"><strong id="archive-count">0</strong> <span>archived</span></span>
+            <span class="metric-pill"><strong id="highlight-metric-count">0</strong> <span>weekly highlights</span></span>
+            <span class="metric-pill"><strong>2h</strong> <span>refresh cadence</span></span>
           </div>
-          <div>
-            <span id="archive-count">0</span>
-            <small>archived updates</small>
-          </div>
-          <div>
-            <span id="highlight-metric-count">0</span>
-            <small>weekly highlights</small>
-          </div>
-          <div>
-            <span>2h</span>
-            <small>refresh cadence</small>
-          </div>
-        </div>
-      </section>
+        </section>
 
-      <section class="channel-strip" aria-label="AI Signal Brief channels">
-        <div>
-          <strong>Telegram alerts</strong>
-          <span>Top updates every 2 hours once the bot token is fixed.</span>
-        </div>
-        <div>
-          <strong>Website archive</strong>
-          <span>Search, read more, and weekly highlights for deeper browsing.</span>
-        </div>
-        <div>
-          <strong>Team brief</strong>
-          <span>A paid private group can turn this into a shared company feed.</span>
-        </div>
-      </section>
-
-      <section class="weekly" aria-labelledby="weekly-heading">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">This Week</p>
-            <h2 id="weekly-heading">Major AI Highlights</h2>
+        <section class="card weekly" aria-labelledby="weekly-heading">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">This week</p>
+              <h2 id="weekly-heading">Major AI Highlights</h2>
+            </div>
+            <span id="weekly-count" class="section-meta"></span>
           </div>
-          <span id="weekly-count"></span>
-        </div>
-        <div id="weekly-highlights" class="highlight-grid"></div>
-      </section>
+          <div id="weekly-highlights" class="highlight-grid"></div>
+        </section>
 
-      <section class="business" id="team-plan" aria-labelledby="business-heading">
-        <div class="business-copy">
-          <p class="eyebrow">For Teams</p>
-          <h2 id="business-heading">Turn AI Signal Brief into your team’s AI radar.</h2>
-          <p>Use the free site and Telegram brief publicly. When there is demand, offer private team channels with sharper summaries, custom categories, and a weekly decision brief.</p>
-        </div>
-        <div class="pricing-grid">
-          <article class="pricing-card">
-            <span class="plan-label">Free</span>
-            <h3>Public Brief</h3>
-            <p>Website, latest updates, archive, weekly highlights, and Telegram alerts.</p>
-            <strong>$0</strong>
-          </article>
-          <article class="pricing-card featured">
-            <span class="plan-label">Pilot</span>
-            <h3>Team Channel</h3>
-            <p>Private Telegram group, daily executive summary, and weekly “what matters” recap.</p>
-            <strong>$49/mo</strong>
-          </article>
-          <article class="pricing-card">
-            <span class="plan-label">Sponsor</span>
-            <h3>Brief Sponsor</h3>
-            <p>One clearly marked sponsor slot for AI tools, events, newsletters, or products.</p>
-            <strong>$99/week</strong>
-          </article>
-        </div>
-      </section>
-
-      <section class="controls" aria-label="Filters">
-        <div class="search-wrap">
-          <input id="search" type="search" placeholder="Search updates, companies, models..." autocomplete="off">
-        </div>
-        <div class="control-groups">
-          <div class="segments" role="tablist" aria-label="Feed view">
-            <button class="segment active" data-view="latest" type="button">Latest</button>
-            <button class="segment" data-view="archive" type="button">Archive</button>
+        <section class="card feed" aria-label="AI updates">
+          <div class="controls">
+            <div class="search-wrap">
+              <input id="search" type="search" placeholder="Search updates, companies, models&hellip;" autocomplete="off">
+            </div>
+            <div class="control-groups">
+              <div class="segments" role="tablist" aria-label="Feed view">
+                <button class="segment active" data-view="latest" type="button">Latest</button>
+                <button class="segment" data-view="archive" type="button">Archive</button>
+              </div>
+              <div class="segments" role="tablist" aria-label="Category filter">
+                <button class="segment active" data-filter="all" type="button">All</button>
+                <button class="segment" data-filter="Model Launch" type="button">Models</button>
+                <button class="segment" data-filter="Product Update" type="button">Products</button>
+                <button class="segment" data-filter="Research" type="button">Research</button>
+                <button class="segment" data-filter="Safety and Policy" type="button">Policy</button>
+                <button class="segment" data-filter="Business" type="button">Business</button>
+              </div>
+            </div>
           </div>
-          <div class="segments" role="tablist" aria-label="Category filter">
-            <button class="segment active" data-filter="all" type="button">All</button>
-            <button class="segment" data-filter="Model Launch" type="button">Models</button>
-            <button class="segment" data-filter="Product Update" type="button">Products</button>
-            <button class="segment" data-filter="Research" type="button">Research</button>
-            <button class="segment" data-filter="Safety and Policy" type="button">Policy</button>
-            <button class="segment" data-filter="Business" type="button">Business</button>
-          </div>
-        </div>
-      </section>
 
-      <section class="layout">
-        <section class="feed" aria-label="AI updates">
           <div class="feed-heading">
             <h2 id="feed-title">Latest Important Updates</h2>
             <span id="result-count"></span>
@@ -141,12 +95,65 @@
           <div id="updates" class="updates"></div>
           <div id="empty-state" class="empty-state" hidden>No matching updates found.</div>
         </section>
-      </section>
+
+        <section class="card channels" aria-label="AI Signal Brief channels">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Where the brief lives</p>
+              <h2>Pick how you want the signal</h2>
+            </div>
+          </div>
+          <div class="channels-grid">
+            <div class="channel-tile">
+              <strong>Telegram alerts</strong>
+              <span>Top updates pushed every 2 hours, deduplicated so you never see the same item twice.</span>
+            </div>
+            <div class="channel-tile">
+              <strong>Website archive</strong>
+              <span>Search, filter, weekly highlights, and an archive for catch-up reading.</span>
+            </div>
+            <div class="channel-tile">
+              <strong>Team brief</strong>
+              <span>Private team channels with custom categories and an executive summary.</span>
+            </div>
+          </div>
+        </section>
+
+        <section class="card business" id="team-plan" aria-labelledby="business-heading">
+          <div class="business-copy">
+            <p class="eyebrow">For Teams</p>
+            <h2 id="business-heading">Turn AI Signal Brief into your team's AI radar.</h2>
+            <p>Free for everyone. When you want sharper coverage for your team — private Telegram, custom categories, weekly decision brief — pick a paid tier.</p>
+          </div>
+          <div class="pricing-grid">
+            <article class="pricing-card">
+              <span class="plan-label">Free</span>
+              <h3>Public Brief</h3>
+              <p>Website, latest updates, archive, weekly highlights, and Telegram alerts.</p>
+              <strong>$0</strong>
+            </article>
+            <article class="pricing-card featured">
+              <span class="plan-label">Pilot</span>
+              <h3>Team Channel</h3>
+              <p>Private Telegram group, daily executive summary, and weekly "what matters" recap.</p>
+              <strong>$49/mo</strong>
+            </article>
+            <article class="pricing-card">
+              <span class="plan-label">Sponsor</span>
+              <h3>Brief Sponsor</h3>
+              <p>One clearly marked sponsor slot for AI tools, events, newsletters, or products.</p>
+              <strong>$99/week</strong>
+            </article>
+          </div>
+        </section>
+      </div>
     </main>
 
     <footer>
-      <span>Built for fast scanning.</span>
-      <span>Importance is scored from source quality, recency, model terms, and launch/update keywords.</span>
+      <div class="container">
+        <span>Built for fast scanning. Importance is scored from source quality, recency, model terms, and launch keywords.</span>
+        <span>Refreshed automatically by GitHub Actions.</span>
+      </div>
     </footer>
 
     <script src="app.js" type="module"></script>
