@@ -3,7 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A two-hour AI news monitor that filters global updates into concise briefs.">
+    <meta name="description" content="A two-hour AI brief for teams tracking model launches, AI product updates, research, policy, and major market moves.">
+    <meta property="og:title" content="AI Signal Brief">
+    <meta property="og:description" content="Important AI updates, filtered every 2 hours for builders, founders, and teams.">
+    <meta property="og:type" content="website">
     <title>AI Signal Brief</title>
     <link rel="stylesheet" href="styles.css">
   </head>
@@ -29,7 +32,11 @@
       <section class="hero" aria-labelledby="brief-heading">
         <div class="hero-copy">
           <h2 id="brief-heading">Fresh AI signal, not the whole internet.</h2>
-          <p>The main feed shows updates from the last 24 hours. Older items move into Archive, and the biggest stories surface in Weekly Highlights.</p>
+          <p>A fast AI briefing channel for founders, operators, builders, and teams who need the important updates without doom-scrolling feeds all day.</p>
+          <div class="hero-actions">
+            <a class="primary-button" href="https://t.me/ai_signal_brief_vignesh_bot" target="_blank" rel="noreferrer">Join Telegram Brief</a>
+            <button id="share-button" class="secondary-button" type="button">Copy Share Link</button>
+          </div>
         </div>
         <div class="metrics" aria-label="Brief metrics">
           <div>
@@ -51,6 +58,21 @@
         </div>
       </section>
 
+      <section class="channel-strip" aria-label="AI Signal Brief channels">
+        <div>
+          <strong>Telegram alerts</strong>
+          <span>Top updates every 2 hours once the bot token is fixed.</span>
+        </div>
+        <div>
+          <strong>Website archive</strong>
+          <span>Search, read more, and weekly highlights for deeper browsing.</span>
+        </div>
+        <div>
+          <strong>Team brief</strong>
+          <span>A paid private group can turn this into a shared company feed.</span>
+        </div>
+      </section>
+
       <section class="weekly" aria-labelledby="weekly-heading">
         <div class="section-heading">
           <div>
@@ -60,6 +82,34 @@
           <span id="weekly-count"></span>
         </div>
         <div id="weekly-highlights" class="highlight-grid"></div>
+      </section>
+
+      <section class="business" id="team-plan" aria-labelledby="business-heading">
+        <div class="business-copy">
+          <p class="eyebrow">For Teams</p>
+          <h2 id="business-heading">Turn AI Signal Brief into your team’s AI radar.</h2>
+          <p>Use the free site and Telegram brief publicly. When there is demand, offer private team channels with sharper summaries, custom categories, and a weekly decision brief.</p>
+        </div>
+        <div class="pricing-grid">
+          <article class="pricing-card">
+            <span class="plan-label">Free</span>
+            <h3>Public Brief</h3>
+            <p>Website, latest updates, archive, weekly highlights, and Telegram alerts.</p>
+            <strong>$0</strong>
+          </article>
+          <article class="pricing-card featured">
+            <span class="plan-label">Pilot</span>
+            <h3>Team Channel</h3>
+            <p>Private Telegram group, daily executive summary, and weekly “what matters” recap.</p>
+            <strong>$49/mo</strong>
+          </article>
+          <article class="pricing-card">
+            <span class="plan-label">Sponsor</span>
+            <h3>Brief Sponsor</h3>
+            <p>One clearly marked sponsor slot for AI tools, events, newsletters, or products.</p>
+            <strong>$99/week</strong>
+          </article>
+        </div>
       </section>
 
       <section class="controls" aria-label="Filters">

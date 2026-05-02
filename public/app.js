@@ -3,12 +3,14 @@ const state = {
   view: "latest",
   filter: "all",
   query: "",
-  isRefreshing: false
+  isRefreshing: false,
+  shareResetTimer: null
 };
 
 const elements = {
   lastUpdated: document.querySelector("#last-updated"),
   refreshButton: document.querySelector("#refresh-button"),
+  shareButton: document.querySelector("#share-button"),
   updateCount: document.querySelector("#update-count"),
   archiveCount: document.querySelector("#archive-count"),
   highlightMetricCount: document.querySelector("#highlight-metric-count"),
@@ -41,6 +43,8 @@ function bindEvents() {
     await loadUpdates({ manual: true });
   });
 
+  elements.shareButton.addEventListener("click", copyShareLink);
+
   elements.filterSegments.forEach((button) => {
     button.addEventListener("click", () => {
       state.filter = button.dataset.filter;
@@ -56,6 +60,22 @@ function bindEvents() {
       renderUpdates();
     });
   });
+}
+
+async function copyShareLink() {
+  const url = window.location.href.split("#")[0];
+
+  try {
+    await navigator.clipboard.writeText(url);
+    elements.shareButton.textContent = "Link Copied";
+  } catch {
+    elements.shareButton.textContent = "Copy this page URL";
+  }
+
+  clearTimeout(state.shareResetTimer);
+  state.shareResetTimer = setTimeout(() => {
+    elements.shareButton.textContent = "Copy Share Link";
+  }, 2200);
 }
 
 async function loadUpdates(options = {}) {

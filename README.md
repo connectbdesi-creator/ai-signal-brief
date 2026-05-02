@@ -83,6 +83,8 @@ Recommended team workflow:
 - Keep GitHub Pages public if the brief is shareable, or move to a private repo plus another static host if the source list or scoring rules become internal.
 - Review `scripts/fetch-updates.mjs` monthly to add/remove sources and adjust scoring as the AI news ecosystem changes.
 
+See `LAUNCH_PLAN.md` for the full beginner launch and monetization checklist.
+
 ## Tuning importance
 
 Edit `scripts/fetch-updates.mjs`:
