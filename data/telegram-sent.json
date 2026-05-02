@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-02T20:48:39.020Z",
+  "updatedAt": "2026-05-02T22:49:01.285Z",
   "entries": [
+    {
+      "id": "u_bcf713c6",
+      "sentAt": "2026-05-02T22:49:01.285Z",
+      "title": "Reexamining Philosophical Concepts to Improve AI Safety and Alignment"
+    },
+    {
+      "id": "u_b0aa67f8",
+      "sentAt": "2026-05-02T22:49:01.285Z",
+      "title": "CISA, NSA & Five Eyes publishes guide on how to safely deploy AI agents"
+    },
+    {
+      "id": "u_6afe7156",
+      "sentAt": "2026-05-02T22:49:01.285Z",
+      "title": "AI is changing how we write and speak"
+    },
+    {
+      "id": "u_b3c8c29e",
+      "sentAt": "2026-05-02T22:49:01.285Z",
+      "title": "Andrej Karpathy: AI Models Need Human-Like Reasoning - StartupHub.ai"
+    },
+    {
+      "id": "u_c5da0abd",
+      "sentAt": "2026-05-02T22:49:01.285Z",
+      "title": "Hybrid on-device inference on Android: llama.cpp + LiteRT + NPU/GPU routing"
+    },
     {
       "id": "u_a050c7c1",
       "sentAt": "2026-05-02T20:48:39.020Z",
