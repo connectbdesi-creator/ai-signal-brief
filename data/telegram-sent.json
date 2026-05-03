@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-05-03T20:50:15.767Z",
+  "updatedAt": "2026-05-03T22:49:51.111Z",
   "entries": [
+    {
+      "id": "u_e62404d4",
+      "sentAt": "2026-05-03T22:49:51.111Z",
+      "title": "torch-nvenc-compress: GPU NVENC silicon as a PCIe bandwidth multiplier — PCA + pure-ctypes Video Codec SDK wrapper. Parallel-path overlap measured at 67% of theoretical max on a real GEMM + encode workload. [P]"
+    },
+    {
+      "id": "u_f994a31d",
+      "sentAt": "2026-05-03T22:49:51.111Z",
+      "title": "A Quiet Launch: Why Sato's AI Hosting Platform Could Disrupt the Market"
+    },
     {
       "id": "u_2bd6bff9",
       "sentAt": "2026-05-03T20:50:15.767Z",
