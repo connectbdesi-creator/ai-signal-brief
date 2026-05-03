@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-03T14:52:40.005Z",
+  "updatedAt": "2026-05-03T16:56:09.940Z",
   "entries": [
+    {
+      "id": "u_57972dca",
+      "sentAt": "2026-05-03T16:56:09.940Z",
+      "title": "The Identity Crisis in AI Agents: To Name or Not to Name"
+    },
+    {
+      "id": "u_35747504",
+      "sentAt": "2026-05-03T16:56:09.940Z",
+      "title": "Built a Voice Agents from Scratch GitHub tutorial: mic > Whisper > local LLM (GGUF) > Kokoro > speaker, fully local, no API keys"
+    },
+    {
+      "id": "u_dba311e7",
+      "sentAt": "2026-05-03T16:56:09.940Z",
+      "title": "SmartTune CLI: The AI Tool That Might Actually Change Your Workflow"
+    },
+    {
+      "id": "u_ca423614",
+      "sentAt": "2026-05-03T16:56:09.940Z",
+      "title": "Do you think AI Agents need an identity?"
+    },
+    {
+      "id": "u_c173c1cd",
+      "sentAt": "2026-05-03T16:56:09.940Z",
+      "title": "SmartTune CLI – APM/BF/PX4 Log Analysis for AI Agents"
+    },
     {
       "id": "u_7211f5b5",
       "sentAt": "2026-05-03T14:52:40.005Z",
