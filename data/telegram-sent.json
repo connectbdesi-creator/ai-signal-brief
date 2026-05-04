@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-04T21:12:04.690Z",
+  "updatedAt": "2026-05-04T22:59:05.985Z",
   "entries": [
+    {
+      "id": "u_c31112ea",
+      "sentAt": "2026-05-04T22:59:05.985Z",
+      "title": "April 2026 newsletter"
+    },
+    {
+      "id": "u_98f9af43",
+      "sentAt": "2026-05-04T22:59:05.985Z",
+      "title": "OpenAI's Strategic Addition: Dyett Joins Amidst Rapid Expansion"
+    },
+    {
+      "id": "u_79c33a79",
+      "sentAt": "2026-05-04T22:59:05.985Z",
+      "title": "OpenAI's head of sales leaves for role at Thrive Capital"
+    },
+    {
+      "id": "u_6e44a44a",
+      "sentAt": "2026-05-04T22:59:05.985Z",
+      "title": "FastDMS: 6.4X KV-cache compression running faster than vLLM BF16/FP8"
+    },
+    {
+      "id": "u_d0132038",
+      "sentAt": "2026-05-04T22:59:05.985Z",
+      "title": "Show HN: Layers – AI skills for deep product design"
+    },
     {
       "id": "u_e4e35b56",
       "sentAt": "2026-05-04T21:12:04.690Z",
