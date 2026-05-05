@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-05T19:26:48.174Z",
+  "updatedAt": "2026-05-05T21:06:52.185Z",
   "entries": [
+    {
+      "id": "u_e681fd10",
+      "sentAt": "2026-05-05T21:06:52.185Z",
+      "title": "DeepSeek V4 being 17x cheaper got me to actually measure what I send to cloud vs what I could run locally. the results are stupid."
+    },
+    {
+      "id": "u_315ac443",
+      "sentAt": "2026-05-05T21:06:52.185Z",
+      "title": "AI Ushers in the Era of 'Player-Coach' Managers"
+    },
+    {
+      "id": "u_2e2690a8",
+      "sentAt": "2026-05-05T21:06:52.185Z",
+      "title": "Trial Unveils Tensions Between Musk and OpenAI"
+    },
+    {
+      "id": "u_f6f1fe8b",
+      "sentAt": "2026-05-05T21:06:52.185Z",
+      "title": "Anomaly Detection Belongs in Your Database — built SIMD-accelerated isolation forests into Stratum's SQL engine [P]"
+    },
+    {
+      "id": "u_7318f0b9",
+      "sentAt": "2026-05-05T21:06:52.185Z",
+      "title": "DELTA: Streamlining Long-Context Reasoning with Precision"
+    },
     {
       "id": "u_915de598",
       "sentAt": "2026-05-05T19:26:48.174Z",
