@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-05T03:20:49.469Z",
+  "updatedAt": "2026-05-05T06:19:51.046Z",
   "entries": [
+    {
+      "id": "u_3ba0c47c",
+      "sentAt": "2026-05-05T06:19:51.046Z",
+      "title": "Optimizing AI's Mathematical Edge: The Reward Function Revolution"
+    },
+    {
+      "id": "u_ec8c7e4d",
+      "sentAt": "2026-05-05T06:19:51.046Z",
+      "title": "The Rise of Multi-Agent LLMs: Orchestrating the Future of AI Communication"
+    },
+    {
+      "id": "u_afd88827",
+      "sentAt": "2026-05-05T06:19:51.046Z",
+      "title": "Qwen3.6 27B FP8 runs with 200k tokens of BF16 KV cache at 80 TPS on a single RTX 5000 PRO 48GB"
+    },
+    {
+      "id": "u_28c9c62e",
+      "sentAt": "2026-05-05T06:19:51.046Z",
+      "title": "US GUARD Act: Age Verification for AI Chatbots"
+    },
+    {
+      "id": "u_e1c3e8aa",
+      "sentAt": "2026-05-05T06:19:51.046Z",
+      "title": "Peanut - Text to Image Model (Open Weights coming soon)"
+    },
     {
       "id": "u_a2a0b8d9",
       "sentAt": "2026-05-05T03:20:49.469Z",
