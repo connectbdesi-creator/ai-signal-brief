@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-05T06:19:51.046Z",
+  "updatedAt": "2026-05-05T10:06:20.129Z",
   "entries": [
+    {
+      "id": "u_ecf4e0f0",
+      "sentAt": "2026-05-05T10:06:20.129Z",
+      "title": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process"
+    },
+    {
+      "id": "u_70e5003c",
+      "sentAt": "2026-05-05T10:06:20.129Z",
+      "title": "Reining in AI Hallucinations: A New Approach to Multimodal Models"
+    },
+    {
+      "id": "u_6fc33e19",
+      "sentAt": "2026-05-05T10:06:20.129Z",
+      "title": "Prompt injection benchmark: delimiter + strict prompt took Gemma 4 from 21% to 100% defense rate (15 models, 6100+ tests)"
+    },
+    {
+      "id": "u_e72cf0f4",
+      "sentAt": "2026-05-05T10:06:20.129Z",
+      "title": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs"
+    },
+    {
+      "id": "u_bde4b8dd",
+      "sentAt": "2026-05-05T10:06:20.129Z",
+      "title": "DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper"
+    },
     {
       "id": "u_3ba0c47c",
       "sentAt": "2026-05-05T06:19:51.046Z",
