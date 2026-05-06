@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-06T03:30:53.428Z",
+  "updatedAt": "2026-05-06T06:32:54.523Z",
   "entries": [
+    {
+      "id": "u_3311470b",
+      "sentAt": "2026-05-06T06:32:54.523Z",
+      "title": "Unmasking AI's Hidden Language Tricks"
+    },
+    {
+      "id": "u_cf129617",
+      "sentAt": "2026-05-06T06:32:54.523Z",
+      "title": "Cracking the Code: The Future of On-Policy Distillation"
+    },
+    {
+      "id": "u_e9a5a6a5",
+      "sentAt": "2026-05-06T06:32:54.523Z",
+      "title": "RouteHijack: Exploiting AI Models' Weak Spots"
+    },
+    {
+      "id": "u_33139708",
+      "sentAt": "2026-05-06T06:32:54.523Z",
+      "title": "Reward Hacking: The Hidden Challenge in AI Training"
+    },
+    {
+      "id": "u_108ab5b1",
+      "sentAt": "2026-05-06T06:32:54.523Z",
+      "title": "Quality comparison between Qwen 3.6 27B quantizations (BF16, Q8_0, Q6_K, Q5_K_XL, Q4_K_XL, IQ4_XS, IQ3_XXS,...)"
+    },
     {
       "id": "u_4776d945",
       "sentAt": "2026-05-06T03:30:53.428Z",
