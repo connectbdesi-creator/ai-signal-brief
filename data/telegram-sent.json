@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-06T21:14:09.123Z",
+  "updatedAt": "2026-05-06T22:55:52.495Z",
   "entries": [
+    {
+      "id": "u_b91da7f5",
+      "sentAt": "2026-05-06T22:55:52.495Z",
+      "title": "AI Agents Challenge Human-Centric Tech Design"
+    },
+    {
+      "id": "u_e740c999",
+      "sentAt": "2026-05-06T22:55:52.495Z",
+      "title": "Atlassian's AI Gambit: Less Code, More Creativity"
+    },
+    {
+      "id": "u_853abd96",
+      "sentAt": "2026-05-06T22:55:52.495Z",
+      "title": "Google shuts down Project Mariner"
+    },
+    {
+      "id": "u_42104ca9",
+      "sentAt": "2026-05-06T22:55:52.495Z",
+      "title": "CopilotKit Introduces Enterprise Intelligence Platform That Gives Agentic Applications Persistent Memory Across Sessions and Devices"
+    },
+    {
+      "id": "u_e1f21899",
+      "sentAt": "2026-05-06T22:55:52.495Z",
+      "title": "Most people seem obsessed with token generation speed, but isn’t prefill the real bottleneck? Am I missing something?"
+    },
     {
       "id": "u_c942716d",
       "sentAt": "2026-05-06T21:14:09.123Z",
