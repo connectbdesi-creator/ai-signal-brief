@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-06T17:44:34.283Z",
+  "updatedAt": "2026-05-06T19:50:56.289Z",
   "entries": [
+    {
+      "id": "u_3bcda51a",
+      "sentAt": "2026-05-06T19:50:56.289Z",
+      "title": "OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottlenecks"
+    },
+    {
+      "id": "u_7cf01bb6",
+      "sentAt": "2026-05-06T19:50:56.289Z",
+      "title": "OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottlenecks"
+    },
+    {
+      "id": "u_7c52392",
+      "sentAt": "2026-05-06T19:50:56.289Z",
+      "title": "I analyzed 922 agentic task trace and found the secret weapon of DeepSeek v4"
+    },
+    {
+      "id": "u_e54a17d1",
+      "sentAt": "2026-05-06T19:50:56.289Z",
+      "title": "Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude"
+    },
+    {
+      "id": "u_658cc74a",
+      "sentAt": "2026-05-06T19:50:56.289Z",
+      "title": "Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude"
+    },
     {
       "id": "u_f6f3aef9",
       "sentAt": "2026-05-06T17:44:34.283Z",
