@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-07T10:28:11.839Z",
+  "updatedAt": "2026-05-07T14:22:41.172Z",
   "entries": [
+    {
+      "id": "u_eaaff2a9",
+      "sentAt": "2026-05-07T14:22:41.172Z",
+      "title": "Two related prompts, different results: Qwen 3.5 and Gemma 4 need different prompting than Qwen 3.6"
+    },
+    {
+      "id": "u_d823926c",
+      "sentAt": "2026-05-07T14:22:41.172Z",
+      "title": "Tesla's Secret AI Ambitions: A Rival Lab in the Making?"
+    },
+    {
+      "id": "u_b850187",
+      "sentAt": "2026-05-07T14:22:41.172Z",
+      "title": "Cracking Open LLMs: Why Understanding Their Code Matters"
+    },
+    {
+      "id": "u_c1cf5fc7",
+      "sentAt": "2026-05-07T14:22:41.172Z",
+      "title": "Revolutionizing Language Models: A New Era with Adaptive Power-Mean Optimization"
+    },
+    {
+      "id": "u_ff154c55",
+      "sentAt": "2026-05-07T14:22:41.172Z",
+      "title": "Budgeted LoRA: A New Path in Cost-Effective Language Model Distillation"
+    },
     {
       "id": "u_8b257b89",
       "sentAt": "2026-05-07T10:28:11.839Z",
