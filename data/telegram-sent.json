@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-08T11:21:37.383Z",
+  "updatedAt": "2026-05-08T13:58:24.797Z",
   "entries": [
+    {
+      "id": "u_a262bfd4",
+      "sentAt": "2026-05-08T13:58:24.797Z",
+      "title": "Graph Invariants May Outshine Traditional GNNs"
+    },
+    {
+      "id": "u_ce4fb2e4",
+      "sentAt": "2026-05-08T13:58:24.797Z",
+      "title": "AI safety tests have a new problem: Models are now faking their own reasoning traces"
+    },
+    {
+      "id": "u_c229e748",
+      "sentAt": "2026-05-08T13:58:24.797Z",
+      "title": "GetDandy Launches Autonomous AI Workforce for Local Businesses, Delivering 24/7 Customer Engagement With No Setup Required - HRTech Series"
+    },
+    {
+      "id": "u_8218edb5",
+      "sentAt": "2026-05-08T13:58:24.797Z",
+      "title": "Implementing Permission-Gated Tool Calling in Python Agents"
+    },
+    {
+      "id": "u_6c8c4ac5",
+      "sentAt": "2026-05-08T13:58:24.797Z",
+      "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities"
+    },
     {
       "id": "u_8eebd13f",
       "sentAt": "2026-05-08T11:21:37.383Z",
