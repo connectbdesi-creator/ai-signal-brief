@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-08T06:00:47.947Z",
+  "updatedAt": "2026-05-08T07:55:35.824Z",
   "entries": [
+    {
+      "id": "u_b19e8e2e",
+      "sentAt": "2026-05-08T07:55:35.824Z",
+      "title": "Spatial Intelligence: MLLMs Still Have a Long Way to Go"
+    },
+    {
+      "id": "u_5e60b7da",
+      "sentAt": "2026-05-08T07:55:35.824Z",
+      "title": "LOVER: A New Frontier in AI Reasoning Verification"
+    },
+    {
+      "id": "u_ed366fe7",
+      "sentAt": "2026-05-08T07:55:35.824Z",
+      "title": "PCNET: Halting AI Hallucinations with Geometric Precision"
+    },
+    {
+      "id": "u_9f5f93fa",
+      "sentAt": "2026-05-08T07:55:35.824Z",
+      "title": "OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API"
+    },
+    {
+      "id": "u_1f0408c9",
+      "sentAt": "2026-05-08T07:55:35.824Z",
+      "title": "Strix Halo Clustering (Hardware Setup Discussion)"
+    },
     {
       "id": "u_53af0e17",
       "sentAt": "2026-05-08T06:00:47.947Z",
