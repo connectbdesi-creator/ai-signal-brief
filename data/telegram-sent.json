@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-05-09T20:50:48.517Z",
+  "updatedAt": "2026-05-09T22:51:25.287Z",
   "entries": [
+    {
+      "id": "u_375c6fa9",
+      "sentAt": "2026-05-09T22:51:25.287Z",
+      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing"
+    },
+    {
+      "id": "u_7710eafd",
+      "sentAt": "2026-05-09T22:51:25.287Z",
+      "title": "Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!"
+    },
+    {
+      "id": "u_7ad62e05",
+      "sentAt": "2026-05-09T22:51:25.287Z",
+      "title": "Voxel: Open Source Evolution in AI"
+    },
     {
       "id": "u_e656300e",
       "sentAt": "2026-05-09T20:50:48.517Z",
