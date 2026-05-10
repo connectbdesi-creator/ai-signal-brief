@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-10T11:02:23.029Z",
+  "updatedAt": "2026-05-10T13:26:05.208Z",
   "entries": [
+    {
+      "id": "u_6225cd96",
+      "sentAt": "2026-05-10T13:26:05.208Z",
+      "title": "Speeding up local LLM for usable coding agent"
+    },
+    {
+      "id": "u_8497d79c",
+      "sentAt": "2026-05-10T13:26:05.208Z",
+      "title": "DS4"
+    },
+    {
+      "id": "u_99b808e4",
+      "sentAt": "2026-05-10T13:26:05.208Z",
+      "title": "The Hidden Dangers of Autonomous AI: Unseen System Backdoors"
+    },
+    {
+      "id": "u_7b4a24c9",
+      "sentAt": "2026-05-10T13:26:05.208Z",
+      "title": "Any implementations similar to D4RT? [D]"
+    },
+    {
+      "id": "u_979f9d64",
+      "sentAt": "2026-05-10T13:26:05.208Z",
+      "title": "The Shadow Admin Threat: AI Agents Creating Undetectable Backdoors"
+    },
     {
       "id": "u_923b0d4c",
       "sentAt": "2026-05-10T11:02:23.029Z",
