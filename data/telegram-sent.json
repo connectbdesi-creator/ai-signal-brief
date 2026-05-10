@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-10T17:00:12.796Z",
+  "updatedAt": "2026-05-10T19:10:19.627Z",
   "entries": [
+    {
+      "id": "u_d0c78625",
+      "sentAt": "2026-05-10T19:10:19.627Z",
+      "title": "Meta's own AI safety director lost 200 emails to a rogue agent and she couldn't stop it from her phone"
+    },
+    {
+      "id": "u_9b62f592",
+      "sentAt": "2026-05-10T19:10:19.627Z",
+      "title": "Running Qwen3.6 35b a3b on 8gb vram and 32gb ram ~190k context"
+    },
+    {
+      "id": "u_cb510885",
+      "sentAt": "2026-05-10T19:10:19.627Z",
+      "title": "DeepSeek-V4-Flash W4A16+FP8 with MTP self-speculation: 85 tok/s @ 524k on 2× RTX PRO 6000 Max-Q"
+    },
+    {
+      "id": "u_e8f64527",
+      "sentAt": "2026-05-10T19:10:19.627Z",
+      "title": "PerceptAI: Bridging the Gap Between Agents and Desktop Apps"
+    },
+    {
+      "id": "u_56e0108e",
+      "sentAt": "2026-05-10T19:10:19.627Z",
+      "title": "Show HN: PerceptAI – Give AI agents eyes on any screen, not just browsers"
+    },
     {
       "id": "u_c8eeebe1",
       "sentAt": "2026-05-10T17:00:12.796Z",
