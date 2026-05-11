@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-11T15:18:29.043Z",
+  "updatedAt": "2026-05-11T17:57:55.826Z",
   "entries": [
+    {
+      "id": "u_e8b3cbf3",
+      "sentAt": "2026-05-11T17:57:55.826Z",
+      "title": "A New Era for LLM Agents: Memory Mechanics and Beyond"
+    },
+    {
+      "id": "u_9ce674f9",
+      "sentAt": "2026-05-11T17:57:55.826Z",
+      "title": "TAVIS Benchmarks the Future of Active Vision in Imitation Learning"
+    },
+    {
+      "id": "u_2c495748",
+      "sentAt": "2026-05-11T17:57:55.826Z",
+      "title": "Moral Benchmarks: Are LLMs Really Making the Right Choices?"
+    },
+    {
+      "id": "u_c013b5f",
+      "sentAt": "2026-05-11T17:57:55.826Z",
+      "title": "Dynamic Entropy Control: Revamping Reinforcement Learning for LLMs"
+    },
+    {
+      "id": "u_436b9517",
+      "sentAt": "2026-05-11T17:57:55.826Z",
+      "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models"
+    },
     {
       "id": "u_843b017",
       "sentAt": "2026-05-11T15:18:29.043Z",
