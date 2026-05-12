@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-12T03:35:30.576Z",
+  "updatedAt": "2026-05-12T06:39:45.678Z",
   "entries": [
+    {
+      "id": "u_5c566205",
+      "sentAt": "2026-05-12T06:39:45.678Z",
+      "title": "Fin-Bias: Are LLMs Herding Human Bias in Financial Decisions?"
+    },
+    {
+      "id": "u_2bfc6bb7",
+      "sentAt": "2026-05-12T06:39:45.678Z",
+      "title": "When AI Tools Waste Time and Money: A Smarter Approach"
+    },
+    {
+      "id": "u_bcf59fa2",
+      "sentAt": "2026-05-12T06:39:45.678Z",
+      "title": "AI Coding Agents Need Context: A 49-Point Lesson"
+    },
+    {
+      "id": "u_cf4e7889",
+      "sentAt": "2026-05-12T06:39:45.678Z",
+      "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\""
+    },
+    {
+      "id": "u_a5fcf967",
+      "sentAt": "2026-05-12T06:39:45.678Z",
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS"
+    },
     {
       "id": "u_a9b8e96c",
       "sentAt": "2026-05-12T03:35:30.576Z",
