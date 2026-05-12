@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-11T22:58:22.747Z",
+  "updatedAt": "2026-05-12T03:35:30.576Z",
   "entries": [
+    {
+      "id": "u_a9b8e96c",
+      "sentAt": "2026-05-12T03:35:30.576Z",
+      "title": "Drastically improve prompt processing speed for --n-cpu-moe partially offloaded models"
+    },
+    {
+      "id": "u_2a366941",
+      "sentAt": "2026-05-12T03:35:30.576Z",
+      "title": "Thinking Machines drops a new, highly responsive model designed for humanlike interactions in real-time"
+    },
+    {
+      "id": "u_29503f3d",
+      "sentAt": "2026-05-12T03:35:30.576Z",
+      "title": "7 lessons from the first wave of agentic AI deployment: theCUBE + NYSE Wired’s AI Agent Conference insights"
+    },
+    {
+      "id": "u_487f84c1",
+      "sentAt": "2026-05-12T03:35:30.576Z",
+      "title": "Byron Allen strikes deal to buy controlling stake in BuzzFeed and become CEO"
+    },
+    {
+      "id": "u_83886c32",
+      "sentAt": "2026-05-12T03:35:30.576Z",
+      "title": "GitLab employees are the latest to face layoffs limbo. Read the CEO's memo about restructuring 'openly.'"
+    },
     {
       "id": "u_2054ade7",
       "sentAt": "2026-05-11T22:58:22.747Z",
