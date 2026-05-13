@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-13T06:51:08.911Z",
+  "updatedAt": "2026-05-13T10:32:33.496Z",
   "entries": [
+    {
+      "id": "u_eba9eebb",
+      "sentAt": "2026-05-13T10:32:33.496Z",
+      "title": "Breaking Barriers in Neural Network Training: Introducing the HS-Jacobian"
+    },
+    {
+      "id": "u_e5a2c20a",
+      "sentAt": "2026-05-13T10:32:33.496Z",
+      "title": "Navigating Communication Topologies in Multi-Agent LLM Systems"
+    },
+    {
+      "id": "u_26087733",
+      "sentAt": "2026-05-13T10:32:33.496Z",
+      "title": "Rethinking Disaster Response with Multimodal Models"
+    },
+    {
+      "id": "u_2c908d9b",
+      "sentAt": "2026-05-13T10:32:33.496Z",
+      "title": "Can AI Models Be Trusted in Real-World Scenarios?"
+    },
+    {
+      "id": "u_238bb19",
+      "sentAt": "2026-05-13T10:32:33.496Z",
+      "title": "Cracking the Fairness Code in Generative AI"
+    },
     {
       "id": "u_f113b675",
       "sentAt": "2026-05-13T06:51:08.911Z",
