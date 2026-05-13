@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-13T18:04:27.961Z",
+  "updatedAt": "2026-05-13T21:27:57.021Z",
   "entries": [
+    {
+      "id": "u_841d56f0",
+      "sentAt": "2026-05-13T21:27:57.021Z",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows"
+    },
+    {
+      "id": "u_912edb3c",
+      "sentAt": "2026-05-13T21:27:57.021Z",
+      "title": "Reimagining Traffic Simulations with Hierarchical AI"
+    },
+    {
+      "id": "u_35ad9993",
+      "sentAt": "2026-05-13T21:27:57.021Z",
+      "title": "Unifying Reliability Techniques in AI: A New Frontier in Communication Theory"
+    },
+    {
+      "id": "u_b568b5a6",
+      "sentAt": "2026-05-13T21:27:57.021Z",
+      "title": "Fastino Labs Open-Sources GLiGuard: A 300M Parameter Safety Moderation Model That Matches or Exceeds Accuracy of Models 23–90x Its Size"
+    },
+    {
+      "id": "u_5218d82d",
+      "sentAt": "2026-05-13T21:27:57.021Z",
+      "title": "Context Is Not Control, a source-boundary eval for LLMs"
+    },
     {
       "id": "u_52b5c005",
       "sentAt": "2026-05-13T18:04:27.961Z",
