@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-13T03:43:01.352Z",
+  "updatedAt": "2026-05-13T06:51:08.911Z",
   "entries": [
+    {
+      "id": "u_f113b675",
+      "sentAt": "2026-05-13T06:51:08.911Z",
+      "title": "Tackling Object Hallucinations in Multimodal Language Models"
+    },
+    {
+      "id": "u_a214911e",
+      "sentAt": "2026-05-13T06:51:08.911Z",
+      "title": "TSFMs: The New Frontier in Time Series Analysis"
+    },
+    {
+      "id": "u_e0a9bb65",
+      "sentAt": "2026-05-13T06:51:08.911Z",
+      "title": "Qwen3.6:27b single-shot fixed a CSS UI bug that had Gemma4:26B doom looping uselessly for 15 minutes"
+    },
+    {
+      "id": "u_bd18fd8a",
+      "sentAt": "2026-05-13T06:51:08.911Z",
+      "title": "CSP Allow-list Experiment"
+    },
+    {
+      "id": "u_5aa6a75b",
+      "sentAt": "2026-05-13T06:51:08.911Z",
+      "title": "First Coders, Now Lawyers? Anthropic Unveils Claude's New Legal AI Tools - NDTV"
+    },
     {
       "id": "u_df3d4f07",
       "sentAt": "2026-05-13T03:43:01.352Z",
