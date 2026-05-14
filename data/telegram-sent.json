@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-14T03:42:12.849Z",
+  "updatedAt": "2026-05-14T06:48:49.170Z",
   "entries": [
+    {
+      "id": "u_53cc8fbe",
+      "sentAt": "2026-05-14T06:48:49.170Z",
+      "title": "Computer-use MCP that can control multiple machines (Integrate with claude, Cursor, Codex or your custom harness)"
+    },
+    {
+      "id": "u_becd790f",
+      "sentAt": "2026-05-14T06:48:49.170Z",
+      "title": "Cracking Multimodal Time Series with AI: The Promise of MILM"
+    },
+    {
+      "id": "u_f27fa3cc",
+      "sentAt": "2026-05-14T06:48:49.170Z",
+      "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models"
+    },
+    {
+      "id": "u_5bb805e2",
+      "sentAt": "2026-05-14T06:48:49.170Z",
+      "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents [R]"
+    },
+    {
+      "id": "u_54d0c2f4",
+      "sentAt": "2026-05-14T06:48:49.170Z",
+      "title": "RIT Launches New Major in Artificial Intelligence - Rochester Institute of Technology"
+    },
     {
       "id": "u_89e6a82a",
       "sentAt": "2026-05-14T03:42:12.849Z",
