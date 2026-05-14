@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-14T14:22:56.268Z",
+  "updatedAt": "2026-05-14T17:55:55.901Z",
   "entries": [
+    {
+      "id": "u_33160a03",
+      "sentAt": "2026-05-14T17:55:55.901Z",
+      "title": "Everything we shipped at Interrupt"
+    },
+    {
+      "id": "u_5067591b",
+      "sentAt": "2026-05-14T17:55:55.901Z",
+      "title": "Introducing LangChain Labs"
+    },
+    {
+      "id": "u_afb7b1e8",
+      "sentAt": "2026-05-14T17:55:55.901Z",
+      "title": "ChipMATE Takes on RTL Code Generation with a Fresh Approach"
+    },
+    {
+      "id": "u_8c37dce3",
+      "sentAt": "2026-05-14T17:55:55.901Z",
+      "title": "Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_84019b57",
+      "sentAt": "2026-05-14T17:55:55.901Z",
+      "title": "Anthropic announces ‘programmatic credit pool’ as agentic tool use rises"
+    },
     {
       "id": "u_acc29d99",
       "sentAt": "2026-05-14T14:22:56.268Z",
