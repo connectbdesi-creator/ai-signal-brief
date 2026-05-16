@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-16T17:02:02.230Z",
+  "updatedAt": "2026-05-16T19:10:04.630Z",
   "entries": [
+    {
+      "id": "u_2765cf0e",
+      "sentAt": "2026-05-16T19:10:04.630Z",
+      "title": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production"
+    },
+    {
+      "id": "u_85d69ae1",
+      "sentAt": "2026-05-16T19:10:04.630Z",
+      "title": "Cerebras Bounces Back After IPO: The Future of AI Computing"
+    },
+    {
+      "id": "u_1298d561",
+      "sentAt": "2026-05-16T19:10:04.630Z",
+      "title": "What Sudoku Reveals About AI Reasoning Architectures and the Future"
+    },
+    {
+      "id": "u_43ebda4b",
+      "sentAt": "2026-05-16T19:10:04.630Z",
+      "title": "Can a 5090 with qwen3.6 achieve > 3,000 tok/s ? bring your pitchforks (open-dllm)"
+    },
+    {
+      "id": "u_987f56c3",
+      "sentAt": "2026-05-16T19:10:04.630Z",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens"
+    },
     {
       "id": "u_fb0d6b74",
       "sentAt": "2026-05-16T17:02:02.230Z",
