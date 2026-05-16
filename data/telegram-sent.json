@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-16T14:59:45.753Z",
+  "updatedAt": "2026-05-16T17:02:02.230Z",
   "entries": [
+    {
+      "id": "u_fb0d6b74",
+      "sentAt": "2026-05-16T17:02:02.230Z",
+      "title": "Your AI agent is one poisoned webpage away from doing something catastrophic"
+    },
+    {
+      "id": "u_21daca78",
+      "sentAt": "2026-05-16T17:02:02.230Z",
+      "title": "Strix Halo Llama.cpp MTP Benchmarks: 27B Gets Much Faster, 35B Is Mixed"
+    },
+    {
+      "id": "u_ca6024b0",
+      "sentAt": "2026-05-16T17:02:02.230Z",
+      "title": "Sam Altman’s ego was OpenAI’s downfall"
+    },
+    {
+      "id": "u_e9928eea",
+      "sentAt": "2026-05-16T17:02:02.230Z",
+      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy"
+    },
+    {
+      "id": "u_f15f4498",
+      "sentAt": "2026-05-16T17:02:02.230Z",
+      "title": "Extension idea: llama-server with custom samplers"
+    },
     {
       "id": "u_c16c54c1",
       "sentAt": "2026-05-16T14:59:45.753Z",
