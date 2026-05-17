@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-17T20:57:50.308Z",
+  "updatedAt": "2026-05-17T22:56:35.460Z",
   "entries": [
+    {
+      "id": "u_c0577d25",
+      "sentAt": "2026-05-17T22:56:35.460Z",
+      "title": "EPI – forensic evidence containers for AI agentSCITT-compatible, EU AI Act-ready"
+    },
+    {
+      "id": "u_9d2c547",
+      "sentAt": "2026-05-17T22:56:35.460Z",
+      "title": "AI Agents' 27,000 Experiments Turn Up a 2015 Flashback"
+    },
+    {
+      "id": "u_c36f365a",
+      "sentAt": "2026-05-17T22:56:35.460Z",
+      "title": "Grounding AI shopping agents using personas learned from raw clickstream data"
+    },
+    {
+      "id": "u_123dd48",
+      "sentAt": "2026-05-17T22:56:35.460Z",
+      "title": "While waiting for Fara-1.5 for my coding harness"
+    },
+    {
+      "id": "u_dc246bac",
+      "sentAt": "2026-05-17T22:56:35.460Z",
+      "title": "Pushing the limit: minimax m2.7 q8_0 128k on 2x3090, 256GB DDR4"
+    },
     {
       "id": "u_1ccdd2de",
       "sentAt": "2026-05-17T20:57:50.308Z",
