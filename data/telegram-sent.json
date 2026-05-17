@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-17T11:10:43.930Z",
+  "updatedAt": "2026-05-17T13:27:54.442Z",
   "entries": [
+    {
+      "id": "u_5884e5c2",
+      "sentAt": "2026-05-17T13:27:54.442Z",
+      "title": "AI backlash becomes a real business risk"
+    },
+    {
+      "id": "u_bb1af686",
+      "sentAt": "2026-05-17T13:27:54.442Z",
+      "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics"
+    },
+    {
+      "id": "u_5e8ddae7",
+      "sentAt": "2026-05-17T13:27:54.442Z",
+      "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\""
+    },
+    {
+      "id": "u_dcc19b90",
+      "sentAt": "2026-05-17T13:27:54.442Z",
+      "title": "Four AI models ran radio stations for six months and the results ranged from competent to unhinged"
+    },
+    {
+      "id": "u_a907cabb",
+      "sentAt": "2026-05-17T13:27:54.442Z",
+      "title": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs"
+    },
     {
       "id": "u_7bf79db2",
       "sentAt": "2026-05-17T11:10:43.930Z",
