@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-17T13:27:54.442Z",
+  "updatedAt": "2026-05-17T14:59:52.865Z",
   "entries": [
+    {
+      "id": "u_bacc6c1f",
+      "sentAt": "2026-05-17T14:59:52.865Z",
+      "title": "I think most companies are building AI backwards"
+    },
+    {
+      "id": "u_51e7c9b4",
+      "sentAt": "2026-05-17T14:59:52.865Z",
+      "title": "Standalone Siri app to offer auto-deleting chat history, launch with beta label: report"
+    },
+    {
+      "id": "u_ada3b714",
+      "sentAt": "2026-05-17T14:59:52.865Z",
+      "title": "MTP for Qwen3.6-35B-A3B on 6GB VRAM laptop: not worth it"
+    },
+    {
+      "id": "u_101cd012",
+      "sentAt": "2026-05-17T14:59:52.865Z",
+      "title": "AI Agents and the Race to Machine Autonomy"
+    },
+    {
+      "id": "u_66a39918",
+      "sentAt": "2026-05-17T14:59:52.865Z",
+      "title": "Qwen3.6-27B MTP depth benchmark — RTX 3090Ti"
+    },
     {
       "id": "u_5884e5c2",
       "sentAt": "2026-05-17T13:27:54.442Z",
