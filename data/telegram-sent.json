@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-17T03:46:45.767Z",
+  "updatedAt": "2026-05-17T06:47:55.928Z",
   "entries": [
+    {
+      "id": "u_95790316",
+      "sentAt": "2026-05-17T06:47:55.928Z",
+      "title": "Deepseek V4's 1M context window: the breaking point"
+    },
+    {
+      "id": "u_6ffae1e4",
+      "sentAt": "2026-05-17T06:47:55.928Z",
+      "title": "How does Pi coding agent control Qwen's thinking verbosity? (Qwen 35B A3B, llama-server)"
+    },
+    {
+      "id": "u_30c3d04e",
+      "sentAt": "2026-05-17T06:47:55.928Z",
+      "title": "TypedMemory – long-term memory and reflection for AI agents"
+    },
+    {
+      "id": "u_41810467",
+      "sentAt": "2026-05-17T06:47:55.928Z",
+      "title": "Bitloops: A New Kid on the Open Source Block"
+    },
+    {
+      "id": "u_6e58f5fd",
+      "sentAt": "2026-05-17T06:47:55.928Z",
+      "title": "AWS and Gemini Spark: A New Era of Cybersecurity Challenges?"
+    },
     {
       "id": "u_edae6c15",
       "sentAt": "2026-05-17T03:46:45.767Z",
