@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-18T16:48:50.150Z",
+  "updatedAt": "2026-05-18T19:48:16.341Z",
   "entries": [
+    {
+      "id": "u_5c0762bd",
+      "sentAt": "2026-05-18T19:48:16.341Z",
+      "title": "Rewriting model inference with CUDA kernels: the bottleneck was not just GEMM [P]"
+    },
+    {
+      "id": "u_d3b5672d",
+      "sentAt": "2026-05-18T19:48:16.341Z",
+      "title": "Optimizing AI Agents: Why Less Deliberation May Be More"
+    },
+    {
+      "id": "u_c822a361",
+      "sentAt": "2026-05-18T19:48:16.341Z",
+      "title": "Prompting Amazon Nova 2 for content moderation"
+    },
+    {
+      "id": "u_a75b592c",
+      "sentAt": "2026-05-18T19:48:16.341Z",
+      "title": "AI Governance: The Next Critical Frontier for Enterprises"
+    },
+    {
+      "id": "u_d454cb76",
+      "sentAt": "2026-05-18T19:48:16.341Z",
+      "title": "AI made attackers smarter. Now it’s giving mid-market companies a fighting chance"
+    },
     {
       "id": "u_bd0443d2",
       "sentAt": "2026-05-18T16:48:50.150Z",
