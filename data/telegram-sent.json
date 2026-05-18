@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-18T19:48:16.341Z",
+  "updatedAt": "2026-05-18T21:15:24.765Z",
   "entries": [
+    {
+      "id": "u_8337ee30",
+      "sentAt": "2026-05-18T21:15:24.765Z",
+      "title": "Pope Leo launches an AI commission ahead of papal letter release with Anthropic cofounder - Fortune"
+    },
+    {
+      "id": "u_8e92bbf5",
+      "sentAt": "2026-05-18T21:15:24.765Z",
+      "title": "Enterprises are facing an integration problem no model alone can fix"
+    },
+    {
+      "id": "u_c8d98874",
+      "sentAt": "2026-05-18T21:15:24.765Z",
+      "title": "Single-model AI image detection failed in production. Here’s what 6 models in ensemble actually look like"
+    },
+    {
+      "id": "u_dc58bdd0",
+      "sentAt": "2026-05-18T21:15:24.765Z",
+      "title": "Built a local-first context engine for AI coding agents — symbol graph + semantic search, no cloud"
+    },
+    {
+      "id": "u_5c0f19fa",
+      "sentAt": "2026-05-18T21:15:24.765Z",
+      "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost"
+    },
     {
       "id": "u_5c0762bd",
       "sentAt": "2026-05-18T19:48:16.341Z",
