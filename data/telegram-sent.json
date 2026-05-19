@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-19T11:23:22.037Z",
+  "updatedAt": "2026-05-19T15:32:11.334Z",
   "entries": [
+    {
+      "id": "u_4f61062b",
+      "sentAt": "2026-05-19T15:32:11.334Z",
+      "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation"
+    },
+    {
+      "id": "u_dd5e8748",
+      "sentAt": "2026-05-19T15:32:11.334Z",
+      "title": "Securing AI Tools: Why Architecture Beats Prompting"
+    },
+    {
+      "id": "u_4512df55",
+      "sentAt": "2026-05-19T15:32:11.334Z",
+      "title": "Memory Matters: Why LLMs Need More Than Just Reasoning"
+    },
+    {
+      "id": "u_4ef7e119",
+      "sentAt": "2026-05-19T15:32:11.334Z",
+      "title": "Human Labels in AI: A Secret Weapon for Better Models?"
+    },
+    {
+      "id": "u_5cdc0cbc",
+      "sentAt": "2026-05-19T15:32:11.334Z",
+      "title": "Enhancing AI through Skill Lifecycle Governance"
+    },
     {
       "id": "u_764a30dd",
       "sentAt": "2026-05-19T11:23:22.037Z",
