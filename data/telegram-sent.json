@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-19T23:05:58.317Z",
+  "updatedAt": "2026-05-20T03:54:36.527Z",
   "entries": [
+    {
+      "id": "u_8c66554a",
+      "sentAt": "2026-05-20T03:54:36.527Z",
+      "title": "Introducing OpenAI for Singapore"
+    },
+    {
+      "id": "u_78f495af",
+      "sentAt": "2026-05-20T03:54:36.527Z",
+      "title": "Genflow: The AI That Keeps Your Brand Intact"
+    },
+    {
+      "id": "u_47eb3a86",
+      "sentAt": "2026-05-20T03:54:36.527Z",
+      "title": "Rethinking Unlearning in LLMs: Introducing Distinguishable Deletion"
+    },
+    {
+      "id": "u_552f44ae",
+      "sentAt": "2026-05-20T03:54:36.527Z",
+      "title": "Redefining LLM Efficiency: Beyond Just Accuracy"
+    },
+    {
+      "id": "u_ba88906e",
+      "sentAt": "2026-05-20T03:54:36.527Z",
+      "title": "Running DeepSeek-V4 locally with 4x legacy RTX 2080 Ti ($2k budget setup). Custom Turing kernels, W8A8 quantization, and 255 prefill tok/s!"
+    },
     {
       "id": "u_b9008823",
       "sentAt": "2026-05-19T23:05:58.317Z",
