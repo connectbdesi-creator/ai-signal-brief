@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-20T23:22:28.771Z",
+  "updatedAt": "2026-05-21T04:03:10.765Z",
   "entries": [
+    {
+      "id": "u_7b14e4a9",
+      "sentAt": "2026-05-21T04:03:10.765Z",
+      "title": "Multi-Agent Reinforcement Learning for Safe Autonomous Driving Under Pedestrian Behavioral Uncertainty"
+    },
+    {
+      "id": "u_b2b53728",
+      "sentAt": "2026-05-21T04:03:10.765Z",
+      "title": "A Rigorous, Tractable Measure of Model Complexity"
+    },
+    {
+      "id": "u_a4414e69",
+      "sentAt": "2026-05-21T04:03:10.765Z",
+      "title": "Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching"
+    },
+    {
+      "id": "u_9458d829",
+      "sentAt": "2026-05-21T04:03:10.765Z",
+      "title": "Differentially Private Model Merging"
+    },
+    {
+      "id": "u_830d310d",
+      "sentAt": "2026-05-21T04:03:10.765Z",
+      "title": "Compute Aligned Training: Optimizing for Test Time Inference"
+    },
     {
       "id": "u_1767f5e5",
       "sentAt": "2026-05-20T23:22:28.771Z",
