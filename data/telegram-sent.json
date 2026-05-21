@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-21T12:47:17.970Z",
+  "updatedAt": "2026-05-21T16:40:32.887Z",
   "entries": [
+    {
+      "id": "u_5f4e85c6",
+      "sentAt": "2026-05-21T16:40:32.887Z",
+      "title": "I built a zero-code visual client to test remote MCP servers instantly (Tested with Cloudflare’s free MCP)."
+    },
+    {
+      "id": "u_787b9116",
+      "sentAt": "2026-05-21T16:40:32.887Z",
+      "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime"
+    },
+    {
+      "id": "u_55c7cd",
+      "sentAt": "2026-05-21T16:40:32.887Z",
+      "title": "OpenAI's Reasoning Model Shakes Up Mathematics"
+    },
+    {
+      "id": "u_10fb244f",
+      "sentAt": "2026-05-21T16:40:32.887Z",
+      "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking"
+    },
+    {
+      "id": "u_5735713",
+      "sentAt": "2026-05-21T16:40:32.887Z",
+      "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking"
+    },
     {
       "id": "u_37b610f3",
       "sentAt": "2026-05-21T12:47:17.970Z",
