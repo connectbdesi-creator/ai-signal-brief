@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-22T03:58:39.421Z",
+  "updatedAt": "2026-05-22T07:51:44.421Z",
   "entries": [
+    {
+      "id": "u_24f098fd",
+      "sentAt": "2026-05-22T07:51:44.421Z",
+      "title": "If Majoring In Computer Science Is Doomed Due To AI, The Latest Claim Is That Majoring In Philosophy Is The Next Best Choice"
+    },
+    {
+      "id": "u_e4106d50",
+      "sentAt": "2026-05-22T07:51:44.421Z",
+      "title": "Anyone evaluated the difference between Qwen Code for the local qwen models vs another harness? CC, OC, LC, Aider etc.."
+    },
+    {
+      "id": "u_b46283ab",
+      "sentAt": "2026-05-22T07:51:44.421Z",
+      "title": "AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems"
+    },
+    {
+      "id": "u_13b66293",
+      "sentAt": "2026-05-22T07:51:44.421Z",
+      "title": "ChronoMedKG: A Temporally-Grounded Biomedical Knowledge Graph and Benchmark for Clinical Reasoning"
+    },
+    {
+      "id": "u_8f1c0fdc",
+      "sentAt": "2026-05-22T07:51:44.421Z",
+      "title": "Value-Gradient Hypothesis of RL for LLMs"
+    },
     {
       "id": "u_a6017dbe",
       "sentAt": "2026-05-22T03:58:39.421Z",
