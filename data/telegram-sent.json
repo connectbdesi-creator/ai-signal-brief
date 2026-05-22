@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-22T07:51:44.421Z",
+  "updatedAt": "2026-05-22T10:54:36.372Z",
   "entries": [
+    {
+      "id": "u_82465ea0",
+      "sentAt": "2026-05-22T10:54:36.372Z",
+      "title": "NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable) [P]"
+    },
+    {
+      "id": "u_976ed769",
+      "sentAt": "2026-05-22T10:54:36.372Z",
+      "title": "Claude made me realize most AI models optimize for confidence, not truth"
+    },
+    {
+      "id": "u_72cb0018",
+      "sentAt": "2026-05-22T10:54:36.372Z",
+      "title": "A Comparative Study of Language Models for Khmer Retrieval-Augmented Question Answering"
+    },
+    {
+      "id": "u_b45dfd4e",
+      "sentAt": "2026-05-22T10:54:36.372Z",
+      "title": "ACC: Compiling Agent Trajectories for Long-Context Training"
+    },
+    {
+      "id": "u_f5d653f8",
+      "sentAt": "2026-05-22T10:54:36.372Z",
+      "title": "Gorgon Halo is 6.7% faster than predecessor Strix Halo"
+    },
     {
       "id": "u_24f098fd",
       "sentAt": "2026-05-22T07:51:44.421Z",
