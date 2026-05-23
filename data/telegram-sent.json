@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-23T03:35:35.629Z",
+  "updatedAt": "2026-05-23T06:36:44.175Z",
   "entries": [
+    {
+      "id": "u_8deb7ba2",
+      "sentAt": "2026-05-23T06:36:44.175Z",
+      "title": "Spice: We built an open-sourced decision layer that sits above your AI agents (controls agent actions before execution) [P]"
+    },
+    {
+      "id": "u_428232a8",
+      "sentAt": "2026-05-23T06:36:44.175Z",
+      "title": "Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)"
+    },
+    {
+      "id": "u_cfb4dfb6",
+      "sentAt": "2026-05-23T06:36:44.175Z",
+      "title": "Microsoft reports AI is more expensive than paying human employees"
+    },
+    {
+      "id": "u_a33ea11d",
+      "sentAt": "2026-05-23T06:36:44.175Z",
+      "title": "meituan-longcat/LongCat-Video-Avatar-1.5 · Hugging Face"
+    },
+    {
+      "id": "u_d811babd",
+      "sentAt": "2026-05-23T06:36:44.175Z",
+      "title": "club-rdna16: practical 16GB AMD/Radeon local LLM testing repo"
+    },
     {
       "id": "u_89f7f05a",
       "sentAt": "2026-05-23T03:35:35.629Z",
