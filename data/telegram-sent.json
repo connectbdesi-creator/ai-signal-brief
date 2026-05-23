@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-23T09:57:40.594Z",
+  "updatedAt": "2026-05-23T13:42:52.243Z",
   "entries": [
+    {
+      "id": "u_5662e47e",
+      "sentAt": "2026-05-23T13:42:52.243Z",
+      "title": "NaviAgent: The AI with a Plan"
+    },
+    {
+      "id": "u_89ee242b",
+      "sentAt": "2026-05-23T13:42:52.243Z",
+      "title": "Qwen3.6 35B-A3B MTP hits 249 t/s on a 24GB consumer GPU (RTX 5090M) — 3.4× the dense 27B variant on the same image"
+    },
+    {
+      "id": "u_1aa9815c",
+      "sentAt": "2026-05-23T13:42:52.243Z",
+      "title": "Reimagining Planning: Simulative Reasoning in AI"
+    },
+    {
+      "id": "u_5432a9a9",
+      "sentAt": "2026-05-23T13:42:52.243Z",
+      "title": "Breaking Down AI's Causality: The New Frontier in LLMs"
+    },
+    {
+      "id": "u_492a791a",
+      "sentAt": "2026-05-23T13:42:52.243Z",
+      "title": "Can Smaller Models Train Their Larger Counterparts? Enter LightReasoner"
+    },
     {
       "id": "u_1dc75d2c",
       "sentAt": "2026-05-23T09:57:40.594Z",
