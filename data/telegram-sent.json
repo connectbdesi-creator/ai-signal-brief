@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-23T17:03:58.659Z",
+  "updatedAt": "2026-05-23T19:16:10.299Z",
   "entries": [
+    {
+      "id": "u_7f7013cc",
+      "sentAt": "2026-05-23T19:16:10.299Z",
+      "title": "SafeDB MCP – safer read-only database access for AI agents"
+    },
+    {
+      "id": "u_91838754",
+      "sentAt": "2026-05-23T19:16:10.299Z",
+      "title": "Reinforced Graph of Thoughts: A New Frontier for AI Problem Solving"
+    },
+    {
+      "id": "u_4817d265",
+      "sentAt": "2026-05-23T19:16:10.299Z",
+      "title": "pipeline is really slow - consulting [D]"
+    },
+    {
+      "id": "u_4050d99b",
+      "sentAt": "2026-05-23T19:16:10.299Z",
+      "title": "AgentLantern: exposing the hidden graph of AI agent projects [P]"
+    },
+    {
+      "id": "u_c31a7c98",
+      "sentAt": "2026-05-23T19:16:10.299Z",
+      "title": "Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster."
+    },
     {
       "id": "u_2c6a8376",
       "sentAt": "2026-05-23T17:03:58.659Z",
