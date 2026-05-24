@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-24T21:00:25.538Z",
+  "updatedAt": "2026-05-24T23:00:21.195Z",
   "entries": [
+    {
+      "id": "u_9781de38",
+      "sentAt": "2026-05-24T23:00:21.195Z",
+      "title": "hipEngine: Fast Native Qwen 3.6 Inference for RDNA3 (Strix Halo, 7900 XTX)"
+    },
+    {
+      "id": "u_a02ec0f6",
+      "sentAt": "2026-05-24T23:00:21.195Z",
+      "title": "Memory"
+    },
+    {
+      "id": "u_411cd49a",
+      "sentAt": "2026-05-24T23:00:21.195Z",
+      "title": "Authorization layer for AI agents (OAuth has no idea what your agent is doing)"
+    },
+    {
+      "id": "u_ab271480",
+      "sentAt": "2026-05-24T23:00:21.195Z",
+      "title": "AI Agents Get Their Own Browser with Firefox Fork"
+    },
+    {
+      "id": "u_1f0fcfbe",
+      "sentAt": "2026-05-24T23:00:21.195Z",
+      "title": "Reimagining Gravity: New Insights into the Gravitational Constant"
+    },
     {
       "id": "u_6fc3537b",
       "sentAt": "2026-05-24T21:00:25.538Z",
