@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-24T13:42:33.051Z",
+  "updatedAt": "2026-05-24T15:08:02.941Z",
   "entries": [
+    {
+      "id": "u_7bb416b2",
+      "sentAt": "2026-05-24T15:08:02.941Z",
+      "title": "Gemma 4 2B handling structured JSON output + tool calling + reasoning traces correctly via Spring AI / LM Studio — including identifying a real Java bug in code review"
+    },
+    {
+      "id": "u_8f0d95a6",
+      "sentAt": "2026-05-24T15:08:02.941Z",
+      "title": "DeepSeek Slashes Prices: Industry Disruption or Desperation?"
+    },
+    {
+      "id": "u_7b7403fe",
+      "sentAt": "2026-05-24T15:08:02.941Z",
+      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model"
+    },
+    {
+      "id": "u_c6bf2731",
+      "sentAt": "2026-05-24T15:08:02.941Z",
+      "title": "Sortera Tech Doubles Metal Processing Capacity with AI"
+    },
+    {
+      "id": "u_275e5749",
+      "sentAt": "2026-05-24T15:08:02.941Z",
+      "title": "Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent"
+    },
     {
       "id": "u_17f28238",
       "sentAt": "2026-05-24T13:42:33.051Z",
