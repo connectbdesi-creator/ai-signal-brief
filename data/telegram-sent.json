@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-25T10:15:46.253Z",
+  "updatedAt": "2026-05-25T15:15:07.957Z",
   "entries": [
+    {
+      "id": "u_5883633e",
+      "sentAt": "2026-05-25T15:15:07.957Z",
+      "title": "The Financial Times has published an article about Heretic"
+    },
+    {
+      "id": "u_dd4e9706",
+      "sentAt": "2026-05-25T15:15:07.957Z",
+      "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection"
+    },
+    {
+      "id": "u_d8f6bcf1",
+      "sentAt": "2026-05-25T15:15:07.957Z",
+      "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection"
+    },
+    {
+      "id": "u_d2a9ea72",
+      "sentAt": "2026-05-25T15:15:07.957Z",
+      "title": "NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)"
+    },
+    {
+      "id": "u_33c0762f",
+      "sentAt": "2026-05-25T15:15:07.957Z",
+      "title": "Want Built a React-style looping agent with small LLMs (Qwen 3.5 9B / Gemma4) + LangGraph?"
+    },
     {
       "id": "u_302530f1",
       "sentAt": "2026-05-25T10:15:46.253Z",
