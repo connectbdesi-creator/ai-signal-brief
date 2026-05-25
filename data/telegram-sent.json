@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-25T04:08:29.458Z",
+  "updatedAt": "2026-05-25T10:15:46.253Z",
   "entries": [
+    {
+      "id": "u_302530f1",
+      "sentAt": "2026-05-25T10:15:46.253Z",
+      "title": "A New Frontier: Learning from Human Preferences in Reinforcement Learning"
+    },
+    {
+      "id": "u_6caf1718",
+      "sentAt": "2026-05-25T10:15:46.253Z",
+      "title": "How AI Is Reshaping Medical Predictions with New Models"
+    },
+    {
+      "id": "u_1c9a9139",
+      "sentAt": "2026-05-25T10:15:46.253Z",
+      "title": "AI/R Launches Platform to Bring Visibility to Artificial Intelligence Spending Across Organizations - AiThority"
+    },
+    {
+      "id": "u_19540891",
+      "sentAt": "2026-05-25T10:15:46.253Z",
+      "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development"
+    },
+    {
+      "id": "u_25083002",
+      "sentAt": "2026-05-25T10:15:46.253Z",
+      "title": "I built a computer use sandbox framework for codex on headless linux. GPU passthrough, computer use, and sudo access for codex all work. It's the perfect dev sandbox to allow full auto work while minimizing the \"rm -rf /\" risk"
+    },
     {
       "id": "u_f222de91",
       "sentAt": "2026-05-25T04:08:29.458Z",
