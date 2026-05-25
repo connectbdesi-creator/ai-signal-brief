@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-25T21:13:00.827Z",
+  "updatedAt": "2026-05-25T23:08:45.366Z",
   "entries": [
+    {
+      "id": "u_54aafd0",
+      "sentAt": "2026-05-25T23:08:45.366Z",
+      "title": "If you've ever wondered how rigorous data analysis+social science research can look with AI, I've finally launched a nice website for my open-source Claude Code researcher's toolkit: the Data Analyst Augmentation Framework! Equal parts interactive explainer on agentic orchestration + free tool"
+    },
+    {
+      "id": "u_189f9284",
+      "sentAt": "2026-05-25T23:08:45.366Z",
+      "title": "Building Conifer, an open-source local inference runtime (free + open source)"
+    },
+    {
+      "id": "u_57b9b17a",
+      "sentAt": "2026-05-25T23:08:45.366Z",
+      "title": "Update on 12x32gb sxm v100 cluster / local AI for legal drafting"
+    },
+    {
+      "id": "u_6f103e18",
+      "sentAt": "2026-05-25T23:08:45.366Z",
+      "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving"
+    },
+    {
+      "id": "u_3c03814d",
+      "sentAt": "2026-05-25T23:08:45.366Z",
+      "title": "The best Memorial Day sales you can shop this weekend"
+    },
     {
       "id": "u_697070a7",
       "sentAt": "2026-05-25T21:13:00.827Z",
