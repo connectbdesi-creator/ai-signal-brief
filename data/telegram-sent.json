@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-24T23:00:21.195Z",
+  "updatedAt": "2026-05-25T04:08:29.458Z",
   "entries": [
+    {
+      "id": "u_f222de91",
+      "sentAt": "2026-05-25T04:08:29.458Z",
+      "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems"
+    },
+    {
+      "id": "u_8d372994",
+      "sentAt": "2026-05-25T04:08:29.458Z",
+      "title": "AI Has Taken over Open Source"
+    },
+    {
+      "id": "u_c53a0332",
+      "sentAt": "2026-05-25T04:08:29.458Z",
+      "title": "HN: Silau – AI detects employee burnout\""
+    },
+    {
+      "id": "u_b4f24c03",
+      "sentAt": "2026-05-25T04:08:29.458Z",
+      "title": "Sponsio: Deterministic Contract Layer for LLM Agents [P]"
+    },
+    {
+      "id": "u_24f4b4e3",
+      "sentAt": "2026-05-25T04:08:29.458Z",
+      "title": "We built a managed memory API for AI agents (open-source SDK + AGM-style belief revision for handling contradictions)"
+    },
     {
       "id": "u_9781de38",
       "sentAt": "2026-05-24T23:00:21.195Z",
