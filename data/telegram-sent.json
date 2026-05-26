@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-26T21:48:14.384Z",
+  "updatedAt": "2026-05-26T23:12:58.407Z",
   "entries": [
+    {
+      "id": "u_ffa1f4af",
+      "sentAt": "2026-05-26T23:12:58.407Z",
+      "title": "AI's Lexical Footprint: Beyond English, Shaping Global Languages"
+    },
+    {
+      "id": "u_d490a601",
+      "sentAt": "2026-05-26T23:12:58.407Z",
+      "title": "Agent-ToM: The Next Step in Smart AI Monitoring"
+    },
+    {
+      "id": "u_57866a3c",
+      "sentAt": "2026-05-26T23:12:58.407Z",
+      "title": "Neuroscience Superintelligence: A Textbook Transformation"
+    },
+    {
+      "id": "u_307d528e",
+      "sentAt": "2026-05-26T23:12:58.407Z",
+      "title": "Anthropic just published how they contain Claude agents, including two security incidents they got wrong"
+    },
+    {
+      "id": "u_c294c57b",
+      "sentAt": "2026-05-26T23:12:58.407Z",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search"
+    },
     {
       "id": "u_b3b04e62",
       "sentAt": "2026-05-26T21:48:14.384Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b582ef7f",
       "sentAt": "2026-05-02T10:56:13.800Z",
       "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks"
-    },
-    {
-      "id": "u_e3374ea4",
-      "sentAt": "2026-05-02T10:56:13.800Z",
-      "title": "The year that shook the Gulf"
-    },
-    {
-      "id": "u_f3e1fbeb",
-      "sentAt": "2026-05-02T10:56:13.800Z",
-      "title": "MiniMax M2.7 AWQ-4bit on 2x Spark vs 2x RTX 6000 96GB - performance and energy efficiency"
-    },
-    {
-      "id": "u_bfd5c9b5",
-      "sentAt": "2026-05-02T09:11:07.942Z",
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling"
-    },
-    {
-      "id": "u_8d4aff3",
-      "sentAt": "2026-05-02T09:11:07.942Z",
-      "title": "AI coding tools are silently disagreeing with each other"
-    },
-    {
-      "id": "u_d94e1208",
-      "sentAt": "2026-05-02T09:11:07.942Z",
-      "title": "OpenAI's New Tracking Move: More Than Just Cookies"
     }
   ]
 }
