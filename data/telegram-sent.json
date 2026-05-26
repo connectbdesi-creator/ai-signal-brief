@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-26T18:30:17.130Z",
+  "updatedAt": "2026-05-26T21:48:14.384Z",
   "entries": [
+    {
+      "id": "u_b3b04e62",
+      "sentAt": "2026-05-26T21:48:14.384Z",
+      "title": "VLA Models Trip Up: Faithfulness Under Fire"
+    },
+    {
+      "id": "u_2abf6bbf",
+      "sentAt": "2026-05-26T21:48:14.384Z",
+      "title": "The Delicate Dance of On-Policy Distillation: Promise and Pitfalls"
+    },
+    {
+      "id": "u_d6cbc588",
+      "sentAt": "2026-05-26T21:48:14.384Z",
+      "title": "How Feedback-Guided Attacks are Outpacing AI Defenses"
+    },
+    {
+      "id": "u_6c2c00bd",
+      "sentAt": "2026-05-26T21:48:14.384Z",
+      "title": "Do machines think or tokenize?"
+    },
+    {
+      "id": "u_57c9ea50",
+      "sentAt": "2026-05-26T21:48:14.384Z",
+      "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition"
+    },
     {
       "id": "u_b3268e2",
       "sentAt": "2026-05-26T18:30:17.130Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d94e1208",
       "sentAt": "2026-05-02T09:11:07.942Z",
       "title": "OpenAI's New Tracking Move: More Than Just Cookies"
-    },
-    {
-      "id": "u_75a0e3c8",
-      "sentAt": "2026-05-02T09:11:07.942Z",
-      "title": "\"Prompt Engineering\" certs are a joke. So we built a FREE Agentic AI Practitioner Exam that actually forces you to build working swarms to pass."
-    },
-    {
-      "id": "u_49bf440f",
-      "sentAt": "2026-05-02T09:11:07.942Z",
-      "title": "Claude Code: Creating Kubernetes Debugging AI Agent for VictoriaMetrics"
-    },
-    {
-      "id": "u_8223ac90",
-      "sentAt": "2026-05-02T08:19:44.172Z",
-      "title": "Grok 4.3: xAI Aims for Affordability but Lags Behind Leaders"
-    },
-    {
-      "id": "u_86e64336",
-      "sentAt": "2026-05-02T08:19:44.172Z",
-      "title": "Ask HN: Should AI agents have their own legal entities?"
-    },
-    {
-      "id": "u_5d1602c1",
-      "sentAt": "2026-05-02T08:19:44.172Z",
-      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects"
     }
   ]
 }
