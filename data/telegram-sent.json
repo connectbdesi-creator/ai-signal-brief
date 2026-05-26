@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-26T15:43:31.641Z",
+  "updatedAt": "2026-05-26T18:30:17.130Z",
   "entries": [
+    {
+      "id": "u_b3268e2",
+      "sentAt": "2026-05-26T18:30:17.130Z",
+      "title": "Step-TP: The Missing Link in Optimizing Tensor Programs with AI"
+    },
+    {
+      "id": "u_9eb70d1a",
+      "sentAt": "2026-05-26T18:30:17.130Z",
+      "title": "Revamping LLM Training: The Drop-Stable-Rampup Method"
+    },
+    {
+      "id": "u_fb55072d",
+      "sentAt": "2026-05-26T18:30:17.130Z",
+      "title": "Turning local agents into self-optimizing agents"
+    },
+    {
+      "id": "u_6a7a61db",
+      "sentAt": "2026-05-26T18:30:17.130Z",
+      "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_321fa398",
+      "sentAt": "2026-05-26T18:30:17.130Z",
+      "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore"
+    },
     {
       "id": "u_dc4955fc",
       "sentAt": "2026-05-26T15:43:31.641Z",
@@ -4975,16 +5000,6 @@
       "id": "u_5d1602c1",
       "sentAt": "2026-05-02T08:19:44.172Z",
       "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects"
-    },
-    {
-      "id": "u_935b24f6",
-      "sentAt": "2026-05-02T08:19:44.172Z",
-      "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects"
-    },
-    {
-      "id": "u_4f3872d4",
-      "sentAt": "2026-05-02T08:19:44.172Z",
-      "title": "How Do Self-Learning AI Agents Differ from Traditional Machine Learning Models and Current LLM-Based Agents? - KuCoin"
     }
   ]
 }
