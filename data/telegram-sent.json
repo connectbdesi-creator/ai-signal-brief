@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-27T18:29:12.772Z",
+  "updatedAt": "2026-05-27T21:59:21.220Z",
   "entries": [
+    {
+      "id": "u_1f8d9686",
+      "sentAt": "2026-05-27T21:59:21.220Z",
+      "title": "Trust in AI: Beyond Accuracy with the PaTAS Framework"
+    },
+    {
+      "id": "u_8ae2935c",
+      "sentAt": "2026-05-27T21:59:21.220Z",
+      "title": "Rethinking the Role of Reasoning Traces in AI Models"
+    },
+    {
+      "id": "u_e8f5de2d",
+      "sentAt": "2026-05-27T21:59:21.220Z",
+      "title": "Rethinking LLMs: Why Uncertainty Might Just Be Their Secret Weapon"
+    },
+    {
+      "id": "u_7ae828ba",
+      "sentAt": "2026-05-27T21:59:21.220Z",
+      "title": "Quantization's Role in Large Language Model Efficiency: A Deep Dive"
+    },
+    {
+      "id": "u_cd330838",
+      "sentAt": "2026-05-27T21:59:21.220Z",
+      "title": "Building AI agents for business support using Amazon Bedrock AgentCore"
+    },
     {
       "id": "u_f180539b",
       "sentAt": "2026-05-27T18:29:12.772Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b8da2e35",
       "sentAt": "2026-05-02T20:48:39.020Z",
       "title": "Qwen 3.6 wins the benchmarks, but Gemma 4 wins reality. 7 things I learned testing 27B/31B Vision models locally (vLLM / FP8) side by side. Benchmaxing seems real."
-    },
-    {
-      "id": "u_b898c9c6",
-      "sentAt": "2026-05-02T20:48:39.020Z",
-      "title": "What's your tps on 3090 + Qwen 3.6 27B in real tasks?"
-    },
-    {
-      "id": "u_36909165",
-      "sentAt": "2026-05-02T20:48:39.020Z",
-      "title": "We are finally there: Qwen3.6-27B + agentic search; 95.7% SimpleQA on a single 3090, fully local"
-    },
-    {
-      "id": "u_c7373738",
-      "sentAt": "2026-05-02T19:05:12.066Z",
-      "title": "A New Preprint Shakes Up NLP: Key Findings and Implications"
-    },
-    {
-      "id": "u_d194b150",
-      "sentAt": "2026-05-02T19:05:12.066Z",
-      "title": "convention.sh – Stop AI agents from writing sloppy TypeScript"
-    },
-    {
-      "id": "u_dd472aba",
-      "sentAt": "2026-05-02T19:05:12.066Z",
-      "title": "Warpdrv - my open-source Llama.cpp launcher for daily-driving Qwen 35b + 27b on Strix Halo + RTX Pro."
     }
   ]
 }
