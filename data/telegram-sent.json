@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-26T23:12:58.407Z",
+  "updatedAt": "2026-05-27T04:08:04.011Z",
   "entries": [
+    {
+      "id": "u_8d1b413",
+      "sentAt": "2026-05-27T04:08:04.011Z",
+      "title": "AI's education explosion leaves teachers in the dark"
+    },
+    {
+      "id": "u_7787b29a",
+      "sentAt": "2026-05-27T04:08:04.011Z",
+      "title": "CFG-OEC: Classifier Free Guidance with Orthogonal Error Correction"
+    },
+    {
+      "id": "u_b770bfde",
+      "sentAt": "2026-05-27T04:08:04.011Z",
+      "title": "MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving"
+    },
+    {
+      "id": "u_3c96afb1",
+      "sentAt": "2026-05-27T04:08:04.011Z",
+      "title": "Vital Trace: Protocol-Constrained Patient-State Reasoning for Longitudinal Clinical Trajectories"
+    },
+    {
+      "id": "u_c9821eb",
+      "sentAt": "2026-05-27T04:08:04.011Z",
+      "title": "Entropy Sentinel: Continuous LLM Accuracy Monitoring from Decoding Entropy Traces in STEM"
+    },
     {
       "id": "u_ffa1f4af",
       "sentAt": "2026-05-26T23:12:58.407Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4ae78bac",
       "sentAt": "2026-05-02T13:19:55.657Z",
       "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone"
-    },
-    {
-      "id": "u_6cf02287",
-      "sentAt": "2026-05-02T13:19:55.657Z",
-      "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone"
-    },
-    {
-      "id": "u_d13e0e17",
-      "sentAt": "2026-05-02T13:19:55.657Z",
-      "title": "Built an open-source tool to manage AI agent configs — 888 stars later, asking the AI community for feedback"
-    },
-    {
-      "id": "u_3a4404c4",
-      "sentAt": "2026-05-02T10:56:13.800Z",
-      "title": "[RELEASE] - Finally, my first TTS model is out! 🎙️ Flare-TTS 28M"
-    },
-    {
-      "id": "u_5e18673a",
-      "sentAt": "2026-05-02T10:56:13.800Z",
-      "title": "I graded 10 AI models on Bitcoin price prediction every day for 30 days — 25 data points per model, Perplexity dominates, Gemini went negative [R]"
-    },
-    {
-      "id": "u_b582ef7f",
-      "sentAt": "2026-05-02T10:56:13.800Z",
-      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks"
     }
   ]
 }
