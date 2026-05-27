@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-27T21:59:21.220Z",
+  "updatedAt": "2026-05-27T23:24:48.035Z",
   "entries": [
+    {
+      "id": "u_a58b4b7e",
+      "sentAt": "2026-05-27T23:24:48.035Z",
+      "title": "Canyon Code: The Startup Bringing AI Control to Enterprises"
+    },
+    {
+      "id": "u_5c04c276",
+      "sentAt": "2026-05-27T23:24:48.035Z",
+      "title": "Android Brands to Mirror Apple's Divided Launch Strategy"
+    },
+    {
+      "id": "u_a666f6c5",
+      "sentAt": "2026-05-27T23:24:48.035Z",
+      "title": "OpenRouter's $113M Boost: A Signal of the Multi-Model AI Future"
+    },
+    {
+      "id": "u_61e55942",
+      "sentAt": "2026-05-27T23:24:48.035Z",
+      "title": "Apple's Siri Overhaul: Dark Mode and AI Power Boost in iOS 27"
+    },
+    {
+      "id": "u_4473c9db",
+      "sentAt": "2026-05-27T23:24:48.035Z",
+      "title": "Datacurve's DeepSWE Exposes AI Benchmark Flaws: OpenAI's GPT-5.5 Takes the Lead"
+    },
     {
       "id": "u_1f8d9686",
       "sentAt": "2026-05-27T21:59:21.220Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6afe7156",
       "sentAt": "2026-05-02T22:49:01.285Z",
       "title": "AI is changing how we write and speak"
-    },
-    {
-      "id": "u_b3c8c29e",
-      "sentAt": "2026-05-02T22:49:01.285Z",
-      "title": "Andrej Karpathy: AI Models Need Human-Like Reasoning - StartupHub.ai"
-    },
-    {
-      "id": "u_c5da0abd",
-      "sentAt": "2026-05-02T22:49:01.285Z",
-      "title": "Hybrid on-device inference on Android: llama.cpp + LiteRT + NPU/GPU routing"
-    },
-    {
-      "id": "u_a050c7c1",
-      "sentAt": "2026-05-02T20:48:39.020Z",
-      "title": "Sam Altman Invites Elon Musk to GPT-5.5 Party Amidst Legal Clash"
-    },
-    {
-      "id": "u_eaf66dc6",
-      "sentAt": "2026-05-02T20:48:39.020Z",
-      "title": "Build a Multi-Agent AI Workflow for Biological Network Modeling, Protein Interactions, Metabolism, and Cell Signaling Simulation"
-    },
-    {
-      "id": "u_b8da2e35",
-      "sentAt": "2026-05-02T20:48:39.020Z",
-      "title": "Qwen 3.6 wins the benchmarks, but Gemma 4 wins reality. 7 things I learned testing 27B/31B Vision models locally (vLLM / FP8) side by side. Benchmaxing seems real."
     }
   ]
 }
