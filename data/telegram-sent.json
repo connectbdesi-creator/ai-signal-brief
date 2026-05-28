@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-28T20:28:10.303Z",
+  "updatedAt": "2026-05-28T23:20:16.373Z",
   "entries": [
+    {
+      "id": "u_c38f156e",
+      "sentAt": "2026-05-28T23:20:16.373Z",
+      "title": "Claude cli >= 2.1.154 breaks local use with vLLM by introducing \"ctx\", \"msg\" and \"system\" roles for API messages. This 1-line patch to vLLM fixes it."
+    },
+    {
+      "id": "u_2a0a175d",
+      "sentAt": "2026-05-28T23:20:16.373Z",
+      "title": "Activation Steering: A New Frontier in AI Safety"
+    },
+    {
+      "id": "u_f55565b9",
+      "sentAt": "2026-05-28T23:20:16.373Z",
+      "title": "Anthropic's Bold Leap: Aiming for a Trillion Dollar Valuation"
+    },
+    {
+      "id": "u_403a0cf1",
+      "sentAt": "2026-05-28T23:20:16.373Z",
+      "title": "Reinforcement Learning's New Frontier: Soft-RLVR and its Impacts"
+    },
+    {
+      "id": "u_5904c595",
+      "sentAt": "2026-05-28T23:20:16.373Z",
+      "title": "Social Simulation with LLMs - Fidelity in Applications (CFP @ COLM'26) [R]"
+    },
     {
       "id": "u_dbfc6297",
       "sentAt": "2026-05-28T20:28:10.303Z",
@@ -4975,31 +5000,6 @@
       "id": "u_492188a2",
       "sentAt": "2026-05-03T14:52:40.005Z",
       "title": "Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill"
-    },
-    {
-      "id": "u_55b25fcb",
-      "sentAt": "2026-05-03T14:52:40.005Z",
-      "title": "Same prompt, different morals: how frontier AI models diverge on ethical dilemmas"
-    },
-    {
-      "id": "u_9c6bc49d",
-      "sentAt": "2026-05-03T14:52:40.005Z",
-      "title": "AI Agents: Planning vs. Reviewing - StartupHub.ai"
-    },
-    {
-      "id": "u_62ac53f0",
-      "sentAt": "2026-05-03T13:19:06.174Z",
-      "title": "Why AI Agents are either the best or worst thing we've ever built [video]"
-    },
-    {
-      "id": "u_41a6a8e9",
-      "sentAt": "2026-05-03T13:19:06.174Z",
-      "title": "The Tarpit of AI: Where Great Ideas Go to Die"
-    },
-    {
-      "id": "u_ac4befd6",
-      "sentAt": "2026-05-03T13:19:06.174Z",
-      "title": "Upskill: skill registry your agent consults before it starts. 10k+ indexed, free, open source."
     }
   ]
 }
