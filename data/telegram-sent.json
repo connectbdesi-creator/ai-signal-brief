@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-28T03:56:30.469Z",
+  "updatedAt": "2026-05-28T08:06:12.781Z",
   "entries": [
+    {
+      "id": "u_952e12e4",
+      "sentAt": "2026-05-28T08:06:12.781Z",
+      "title": "Qwen/Qwen-Image-Bench · Hugging Face"
+    },
+    {
+      "id": "u_147c3282",
+      "sentAt": "2026-05-28T08:06:12.781Z",
+      "title": "LearnWeak: Elevating Small Computer-Use Agents with Strategic Oversight"
+    },
+    {
+      "id": "u_306be26f",
+      "sentAt": "2026-05-28T08:06:12.781Z",
+      "title": "Mobile-Aptus: Revolutionizing Task Execution with Confidence Integration"
+    },
+    {
+      "id": "u_565ae4a2",
+      "sentAt": "2026-05-28T08:06:12.781Z",
+      "title": "ElevenLabs Music v2: Can AI Harmonize Opera with Metal?"
+    },
+    {
+      "id": "u_fb153b59",
+      "sentAt": "2026-05-28T08:06:12.781Z",
+      "title": "ElevenLabs Music v2 promises opera-to-metal transitions without losing musical coherence"
+    },
     {
       "id": "u_1c240b87",
       "sentAt": "2026-05-28T03:56:30.469Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1e63d956",
       "sentAt": "2026-05-03T06:29:13.449Z",
       "title": "Qwen3.6-27B vs Coder-Next"
-    },
-    {
-      "id": "u_1221d298",
-      "sentAt": "2026-05-03T06:29:13.449Z",
-      "title": "THE GRAND CONSPIRACY: AN UNAUTHORIZED REVELATION"
-    },
-    {
-      "id": "u_f42c4d6c",
-      "sentAt": "2026-05-03T06:29:13.449Z",
-      "title": "The Scaling Bandaid is Wearing Thin (And Nobody Wants to Admit It)"
-    },
-    {
-      "id": "u_49a0b3d7",
-      "sentAt": "2026-05-03T03:35:00.723Z",
-      "title": "CAISI releases evaluation report: DeepSeek V4 becomes the most powerful model in China, but still lags about 8 months behind the US frontier"
-    },
-    {
-      "id": "u_885dbf4f",
-      "sentAt": "2026-05-03T03:35:00.723Z",
-      "title": "Fun, open-source AI transparency project"
-    },
-    {
-      "id": "u_423e69a5",
-      "sentAt": "2026-05-03T03:35:00.723Z",
-      "title": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score"
     }
   ]
 }
