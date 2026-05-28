@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-28T13:55:22.587Z",
+  "updatedAt": "2026-05-28T17:36:17.820Z",
   "entries": [
+    {
+      "id": "u_d55d9dca",
+      "sentAt": "2026-05-28T17:36:17.820Z",
+      "title": "Anthropic's Claude Opus 4.8: A Leap Towards AI Honesty?"
+    },
+    {
+      "id": "u_cf7204f0",
+      "sentAt": "2026-05-28T17:36:17.820Z",
+      "title": "Opus 4.8 just released, waiting for it to land in Claude code"
+    },
+    {
+      "id": "u_e1973af0",
+      "sentAt": "2026-05-28T17:36:17.820Z",
+      "title": "Anthropic releases Claude Opus 4.8 with improved agentic reasoning, honesty, and a new \"dynamic workflows\" feature in Claude Code"
+    },
+    {
+      "id": "u_d6c58a6c",
+      "sentAt": "2026-05-28T17:36:17.820Z",
+      "title": "OpenAI and Chip Ganassi Racing: A New Frontier in AI - StartupHub.ai"
+    },
+    {
+      "id": "u_ce341d3b",
+      "sentAt": "2026-05-28T17:36:17.820Z",
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool"
+    },
     {
       "id": "u_2df35c14",
       "sentAt": "2026-05-28T13:55:22.587Z",
@@ -4975,31 +5000,6 @@
       "id": "u_82ddb580",
       "sentAt": "2026-05-03T10:57:15.372Z",
       "title": "OpenAI's GPT-5.5: A Party Planner's Dream or a Glimpse into AI's Future?"
-    },
-    {
-      "id": "u_132d3712",
-      "sentAt": "2026-05-03T10:57:15.372Z",
-      "title": "Does the \"6 months gap\" still hold?"
-    },
-    {
-      "id": "u_edf002d6",
-      "sentAt": "2026-05-03T10:57:15.372Z",
-      "title": "Samsung is quietly loading up your appliances with AI"
-    },
-    {
-      "id": "u_10c94c06",
-      "sentAt": "2026-05-03T09:24:28.426Z",
-      "title": "AI is moving from chatbots to real workflows. Here is what I think technical learners should focus on."
-    },
-    {
-      "id": "u_b3b4270c",
-      "sentAt": "2026-05-03T09:24:28.426Z",
-      "title": "China is falling behind in the AI race, according to a US government benchmark"
-    },
-    {
-      "id": "u_4a02970d",
-      "sentAt": "2026-05-03T09:24:28.426Z",
-      "title": "China is falling behind in the AI race, according to a US government benchmark"
     }
   ]
 }
