@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-27T23:24:48.035Z",
+  "updatedAt": "2026-05-28T03:56:30.469Z",
   "entries": [
+    {
+      "id": "u_1c240b87",
+      "sentAt": "2026-05-28T03:56:30.469Z",
+      "title": "GH200 NVL2 or 8x RTX 6000 Blackwell for running Kimi K2.6 / DeepSeek V4 locally? (5 devs, agentic coding)"
+    },
+    {
+      "id": "u_f489effc",
+      "sentAt": "2026-05-28T03:56:30.469Z",
+      "title": "I gave my AI agents email instead of better reasoning. They started fixing each other's bugs."
+    },
+    {
+      "id": "u_5a043a32",
+      "sentAt": "2026-05-28T03:56:30.469Z",
+      "title": "AI coding agents are creating a secret leakage crisis and nobody's talking about it seriously yet"
+    },
+    {
+      "id": "u_f9643fe8",
+      "sentAt": "2026-05-28T03:56:30.469Z",
+      "title": "sqlite AGENTS.md"
+    },
+    {
+      "id": "u_48f40e2e",
+      "sentAt": "2026-05-28T03:56:30.469Z",
+      "title": "Pope Leo XIV Unveils Encyclical: AI, Power, and Democracy in Focus"
+    },
     {
       "id": "u_a58b4b7e",
       "sentAt": "2026-05-27T23:24:48.035Z",
@@ -4975,31 +5000,6 @@
       "id": "u_423e69a5",
       "sentAt": "2026-05-03T03:35:00.723Z",
       "title": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score"
-    },
-    {
-      "id": "u_de90aadf",
-      "sentAt": "2026-05-03T03:35:00.723Z",
-      "title": "Salesforce, The AI Age, And The Way Forward"
-    },
-    {
-      "id": "u_7da81536",
-      "sentAt": "2026-05-03T03:35:00.723Z",
-      "title": "AI's Role in the Future of Work: More Than Just a Press Release"
-    },
-    {
-      "id": "u_bcf713c6",
-      "sentAt": "2026-05-02T22:49:01.285Z",
-      "title": "Reexamining Philosophical Concepts to Improve AI Safety and Alignment"
-    },
-    {
-      "id": "u_b0aa67f8",
-      "sentAt": "2026-05-02T22:49:01.285Z",
-      "title": "CISA, NSA & Five Eyes publishes guide on how to safely deploy AI agents"
-    },
-    {
-      "id": "u_6afe7156",
-      "sentAt": "2026-05-02T22:49:01.285Z",
-      "title": "AI is changing how we write and speak"
     }
   ]
 }
