@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-28T23:20:16.373Z",
+  "updatedAt": "2026-05-29T03:58:03.910Z",
   "entries": [
+    {
+      "id": "u_f003f40c",
+      "sentAt": "2026-05-29T03:58:03.910Z",
+      "title": "Which Coding Agent Features Are Useful For Local LLMs"
+    },
+    {
+      "id": "u_5516b176",
+      "sentAt": "2026-05-29T03:58:03.910Z",
+      "title": "Anthropic's run-rate revenue hits $47 billion"
+    },
+    {
+      "id": "u_79c185e8",
+      "sentAt": "2026-05-29T03:58:03.910Z",
+      "title": "The Intersection of Agentic Engineering and AI: Revolution or Hype?"
+    },
+    {
+      "id": "u_985d77e1",
+      "sentAt": "2026-05-29T03:58:03.910Z",
+      "title": "StepFun 3.7 Flash"
+    },
+    {
+      "id": "u_bdebce2",
+      "sentAt": "2026-05-29T03:58:03.910Z",
+      "title": "Ok, talvez eu pague pelo Meta Premium"
+    },
     {
       "id": "u_c38f156e",
       "sentAt": "2026-05-28T23:20:16.373Z",
@@ -4975,31 +5000,6 @@
       "id": "u_35747504",
       "sentAt": "2026-05-03T16:56:09.940Z",
       "title": "Built a Voice Agents from Scratch GitHub tutorial: mic > Whisper > local LLM (GGUF) > Kokoro > speaker, fully local, no API keys"
-    },
-    {
-      "id": "u_dba311e7",
-      "sentAt": "2026-05-03T16:56:09.940Z",
-      "title": "SmartTune CLI: The AI Tool That Might Actually Change Your Workflow"
-    },
-    {
-      "id": "u_ca423614",
-      "sentAt": "2026-05-03T16:56:09.940Z",
-      "title": "Do you think AI Agents need an identity?"
-    },
-    {
-      "id": "u_c173c1cd",
-      "sentAt": "2026-05-03T16:56:09.940Z",
-      "title": "SmartTune CLI – APM/BF/PX4 Log Analysis for AI Agents"
-    },
-    {
-      "id": "u_7211f5b5",
-      "sentAt": "2026-05-03T14:52:40.005Z",
-      "title": "3xR9700 for semi-autonomous research and development - looking for setup/config ideas."
-    },
-    {
-      "id": "u_492188a2",
-      "sentAt": "2026-05-03T14:52:40.005Z",
-      "title": "Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill"
     }
   ]
 }
