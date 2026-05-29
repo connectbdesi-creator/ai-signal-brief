@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-29T08:04:52.971Z",
+  "updatedAt": "2026-05-29T12:48:57.874Z",
   "entries": [
+    {
+      "id": "u_c43f30cf",
+      "sentAt": "2026-05-29T12:48:57.874Z",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory"
+    },
+    {
+      "id": "u_b8c0d92e",
+      "sentAt": "2026-05-29T12:48:57.874Z",
+      "title": "Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model - KED Global"
+    },
+    {
+      "id": "u_20975cd",
+      "sentAt": "2026-05-29T12:48:57.874Z",
+      "title": "Use HTML as the primary chat language for your agents so they can draw diagrams"
+    },
+    {
+      "id": "u_47bcc36f",
+      "sentAt": "2026-05-29T12:48:57.874Z",
+      "title": "Liquid AI releases LFM2.5-8B-A1B"
+    },
+    {
+      "id": "u_ea407548",
+      "sentAt": "2026-05-29T12:48:57.874Z",
+      "title": "datasette 1.0a31"
+    },
     {
       "id": "u_5f843c5e",
       "sentAt": "2026-05-29T08:04:52.971Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e62404d4",
       "sentAt": "2026-05-03T22:49:51.111Z",
       "title": "torch-nvenc-compress: GPU NVENC silicon as a PCIe bandwidth multiplier — PCA + pure-ctypes Video Codec SDK wrapper. Parallel-path overlap measured at 67% of theoretical max on a real GEMM + encode workload. [P]"
-    },
-    {
-      "id": "u_f994a31d",
-      "sentAt": "2026-05-03T22:49:51.111Z",
-      "title": "A Quiet Launch: Why Sato's AI Hosting Platform Could Disrupt the Market"
-    },
-    {
-      "id": "u_2bd6bff9",
-      "sentAt": "2026-05-03T20:50:15.767Z",
-      "title": "TrainForgeTester: Setting New Standards in AI Agent Scenario Testing"
-    },
-    {
-      "id": "u_a2c9613",
-      "sentAt": "2026-05-03T20:50:15.767Z",
-      "title": "Scoop: Dems' foreign policy group prepping for 2028"
-    },
-    {
-      "id": "u_fa2c20ef",
-      "sentAt": "2026-05-03T20:50:15.767Z",
-      "title": "Show HN: TrainForgeTester – deterministic scenario tests for AI agents"
-    },
-    {
-      "id": "u_1f9b2c3d",
-      "sentAt": "2026-05-03T19:05:00.594Z",
-      "title": "Kepler's Quest for Trustworthy AI in Finance: A Bold Move"
     }
   ]
 }
