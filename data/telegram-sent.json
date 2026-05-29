@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-29T03:58:03.910Z",
+  "updatedAt": "2026-05-29T08:04:52.971Z",
   "entries": [
+    {
+      "id": "u_5f843c5e",
+      "sentAt": "2026-05-29T08:04:52.971Z",
+      "title": "BiCoT: Making AI Models Theft-Proof Without Losing Their Smarts"
+    },
+    {
+      "id": "u_82c86a00",
+      "sentAt": "2026-05-29T08:04:52.971Z",
+      "title": "Revolutionizing Reasoning Models with Entropy-Cut Metropolis-Hastings"
+    },
+    {
+      "id": "u_e5a06e7f",
+      "sentAt": "2026-05-29T08:04:52.971Z",
+      "title": "Recalibrating AI: A New Benchmark for Machine Learning Models"
+    },
+    {
+      "id": "u_3bca81d3",
+      "sentAt": "2026-05-29T08:04:52.971Z",
+      "title": "Taming Reinforcement Learning's Wild Side with Hysteretic Policy Optimization"
+    },
+    {
+      "id": "u_a4874b5e",
+      "sentAt": "2026-05-29T08:04:52.971Z",
+      "title": "Chess-World-Model: A Fresh Benchmark for State Tracking AI"
+    },
     {
       "id": "u_f003f40c",
       "sentAt": "2026-05-29T03:58:03.910Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1f9b2c3d",
       "sentAt": "2026-05-03T19:05:00.594Z",
       "title": "Kepler's Quest for Trustworthy AI in Finance: A Bold Move"
-    },
-    {
-      "id": "u_d5f76c57",
-      "sentAt": "2026-05-03T19:05:00.594Z",
-      "title": "Frontier AI Models Giving Specific, Actionable Instructions to Perpetrate Bioterror Attack - Futurism"
-    },
-    {
-      "id": "u_1e89e45b",
-      "sentAt": "2026-05-03T19:05:00.594Z",
-      "title": "Could PC x64 instruction extensions relieve hardware shortage?"
-    },
-    {
-      "id": "u_9b3cc06b",
-      "sentAt": "2026-05-03T19:05:00.594Z",
-      "title": "Local LLM Benchmark about Backend Generation by Function Calling (GLM vs Qwen vs DeepSeek)"
-    },
-    {
-      "id": "u_57972dca",
-      "sentAt": "2026-05-03T16:56:09.940Z",
-      "title": "The Identity Crisis in AI Agents: To Name or Not to Name"
-    },
-    {
-      "id": "u_35747504",
-      "sentAt": "2026-05-03T16:56:09.940Z",
-      "title": "Built a Voice Agents from Scratch GitHub tutorial: mic > Whisper > local LLM (GGUF) > Kokoro > speaker, fully local, no API keys"
     }
   ]
 }
