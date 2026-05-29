@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-29T20:30:34.507Z",
+  "updatedAt": "2026-05-29T23:16:41.511Z",
   "entries": [
+    {
+      "id": "u_1bab1439",
+      "sentAt": "2026-05-29T23:16:41.511Z",
+      "title": "MemoSight: The New Frontier in Efficient AI Reasoning"
+    },
+    {
+      "id": "u_7a8ad40d",
+      "sentAt": "2026-05-29T23:16:41.511Z",
+      "title": "Skill-Pro: Revolutionizing AI with Reusable Procedural Knowledge"
+    },
+    {
+      "id": "u_7ff285c2",
+      "sentAt": "2026-05-29T23:16:41.511Z",
+      "title": "Rethinking Agentic Reinforcement Learning: Decoupling for Better Results"
+    },
+    {
+      "id": "u_5597f784",
+      "sentAt": "2026-05-29T23:16:41.511Z",
+      "title": "Decentralized AI: MediHive's New Frontier in Medical Reasoning"
+    },
+    {
+      "id": "u_b6602e50",
+      "sentAt": "2026-05-29T23:16:41.511Z",
+      "title": "StepFun Releases Step 3.7 Flash: A 198B MoE Vision-Language Model for Coding Agents and Search Workflows"
+    },
     {
       "id": "u_a4efb904",
       "sentAt": "2026-05-29T20:30:34.507Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f1e7e8f7",
       "sentAt": "2026-05-04T10:17:11.051Z",
       "title": "Google's Bold Bet on Agentic AI: Governance as a Feature"
-    },
-    {
-      "id": "u_d502ceab",
-      "sentAt": "2026-05-04T10:17:11.051Z",
-      "title": "Google made agentic AI governance a product. Enterprises still have to catch up."
-    },
-    {
-      "id": "u_3274bcbe",
-      "sentAt": "2026-05-04T10:17:11.051Z",
-      "title": "OpenAI's Symphony: The Developer's New Best Friend"
-    },
-    {
-      "id": "u_87e1a99c",
-      "sentAt": "2026-05-04T10:17:11.051Z",
-      "title": "Daintreehq/daintree: A delegation environment for orchestrating AI coding agents"
-    },
-    {
-      "id": "u_532bd48a",
-      "sentAt": "2026-05-04T10:17:11.051Z",
-      "title": "AI godfather Yann LeCun's advice on college, work and breaking through AI hype"
-    },
-    {
-      "id": "u_72a22ccc",
-      "sentAt": "2026-05-04T06:42:20.883Z",
-      "title": "Revolutionizing Groundwater Analysis with Machine Learning"
     }
   ]
 }
