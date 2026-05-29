@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-29T12:48:57.874Z",
+  "updatedAt": "2026-05-29T17:36:19.545Z",
   "entries": [
+    {
+      "id": "u_9530194d",
+      "sentAt": "2026-05-29T17:36:19.545Z",
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M"
+    },
+    {
+      "id": "u_2ac964b8",
+      "sentAt": "2026-05-29T17:36:19.545Z",
+      "title": "AI Agents Tackle Brand Consistency: Writer Inc.'s New Approach"
+    },
+    {
+      "id": "u_470916cd",
+      "sentAt": "2026-05-29T17:36:19.545Z",
+      "title": "The Hidden Code That Shook AI Testing: A Developer's Bold Move"
+    },
+    {
+      "id": "u_7040754d",
+      "sentAt": "2026-05-29T17:36:19.545Z",
+      "title": "Rethinking AI Reasoning: The Entropy-Cut Revolution"
+    },
+    {
+      "id": "u_7a632a71",
+      "sentAt": "2026-05-29T17:36:19.545Z",
+      "title": "Cracking the Code: New Techniques Revolutionize AI Training"
+    },
     {
       "id": "u_c43f30cf",
       "sentAt": "2026-05-29T12:48:57.874Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4fb85205",
       "sentAt": "2026-05-04T03:33:46.666Z",
       "title": "AI's Unseen Battle: Exposing the Invisible Attacks"
-    },
-    {
-      "id": "u_9581eed5",
-      "sentAt": "2026-05-04T03:33:46.666Z",
-      "title": "Google's Gemini Enterprise: A New Era Beyond Vertex AI"
-    },
-    {
-      "id": "u_d22e8a08",
-      "sentAt": "2026-05-04T03:33:46.666Z",
-      "title": "Google Bets Agents Replace Apps. Here Is What That Means For Your IT Stack"
-    },
-    {
-      "id": "u_e339bbcc",
-      "sentAt": "2026-05-04T03:33:46.666Z",
-      "title": "Citi Debuts Platform to Bring AI Agents to Banking Work - PYMNTS.com"
-    },
-    {
-      "id": "u_b8f387f3",
-      "sentAt": "2026-05-04T03:33:46.666Z",
-      "title": "I gave my local LLM a \"suffering\" meter, and now it won’t stop self-modifying to fix its own stress."
-    },
-    {
-      "id": "u_e62404d4",
-      "sentAt": "2026-05-03T22:49:51.111Z",
-      "title": "torch-nvenc-compress: GPU NVENC silicon as a PCIe bandwidth multiplier — PCA + pure-ctypes Video Codec SDK wrapper. Parallel-path overlap measured at 67% of theoretical max on a real GEMM + encode workload. [P]"
     }
   ]
 }
