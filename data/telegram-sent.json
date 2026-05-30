@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-05-30T19:21:59.484Z",
+  "updatedAt": "2026-05-30T21:02:38.833Z",
   "entries": [
+    {
+      "id": "u_fda2ca55",
+      "sentAt": "2026-05-30T21:02:38.833Z",
+      "title": "Would a MacBook M5 16/24/32GB be an upgrade, complement, or waste next to my RTX 4060 laptop?"
+    },
+    {
+      "id": "u_514886f0",
+      "sentAt": "2026-05-30T21:02:38.833Z",
+      "title": "Frona v2026.5.5 – self-hosted personal AI assistant"
+    },
+    {
+      "id": "u_fa9f116c",
+      "sentAt": "2026-05-30T21:02:38.833Z",
+      "title": "AI Without LLM: A New Era of Simulated Agents Begins"
+    },
+    {
+      "id": "u_b82eb252",
+      "sentAt": "2026-05-30T21:02:38.833Z",
+      "title": "I Am Retiring from Tech to Live Offline"
+    },
     {
       "id": "u_fa021ca",
       "sentAt": "2026-05-30T19:21:59.484Z",
@@ -4980,26 +5000,6 @@
       "id": "u_70e5003c",
       "sentAt": "2026-05-05T10:06:20.129Z",
       "title": "Reining in AI Hallucinations: A New Approach to Multimodal Models"
-    },
-    {
-      "id": "u_6fc33e19",
-      "sentAt": "2026-05-05T10:06:20.129Z",
-      "title": "Prompt injection benchmark: delimiter + strict prompt took Gemma 4 from 21% to 100% defense rate (15 models, 6100+ tests)"
-    },
-    {
-      "id": "u_e72cf0f4",
-      "sentAt": "2026-05-05T10:06:20.129Z",
-      "title": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs"
-    },
-    {
-      "id": "u_bde4b8dd",
-      "sentAt": "2026-05-05T10:06:20.129Z",
-      "title": "DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper"
-    },
-    {
-      "id": "u_3ba0c47c",
-      "sentAt": "2026-05-05T06:19:51.046Z",
-      "title": "Optimizing AI's Mathematical Edge: The Reward Function Revolution"
     }
   ]
 }
