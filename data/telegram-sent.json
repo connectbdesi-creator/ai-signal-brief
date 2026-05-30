@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-30T03:42:45.640Z",
+  "updatedAt": "2026-05-30T06:49:21.783Z",
   "entries": [
+    {
+      "id": "u_e3452bb3",
+      "sentAt": "2026-05-30T06:49:21.783Z",
+      "title": "Anthropic's Claude Opus 4.8: What's Really Going On?"
+    },
+    {
+      "id": "u_62b2ff16",
+      "sentAt": "2026-05-30T06:49:21.783Z",
+      "title": "OpenAI Expands ChatGPT's Codex Control to Windows: Why It Matters"
+    },
+    {
+      "id": "u_b834b55c",
+      "sentAt": "2026-05-30T06:49:21.783Z",
+      "title": "The AVAI Project: Open Source AI that Actually Matters"
+    },
+    {
+      "id": "u_3f2073aa",
+      "sentAt": "2026-05-30T06:49:21.783Z",
+      "title": "PingCAP's Mem9: A Real Memory Game Changer or Just Another Hype?"
+    },
+    {
+      "id": "u_7e3944cf",
+      "sentAt": "2026-05-30T06:49:21.783Z",
+      "title": "DeepSWE Challenges AI Hierarchy, Unveils GPT-5.5's Reign"
+    },
     {
       "id": "u_af6fb765",
       "sentAt": "2026-05-30T03:42:45.640Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ff7dd79a",
       "sentAt": "2026-05-04T17:44:25.380Z",
       "title": "ABB Robotics Unveils OmniVance: The Future of Automated Surface Finishing"
-    },
-    {
-      "id": "u_618ca9e8",
-      "sentAt": "2026-05-04T17:44:25.380Z",
-      "title": "[P] QLoRA Fine-Tuning of Qwen2.5-1.5B for CEFR English Proficiency Classification (A1–C2) [P]"
-    },
-    {
-      "id": "u_6d3c0cc5",
-      "sentAt": "2026-05-04T17:44:25.380Z",
-      "title": "Inside Google's April AI Revelations: What's Shaping 2026"
-    },
-    {
-      "id": "u_5dc42c46",
-      "sentAt": "2026-05-04T17:44:25.380Z",
-      "title": "Introducing the agent performance loop: AgentCore Optimization now in preview"
-    },
-    {
-      "id": "u_9d3c534a",
-      "sentAt": "2026-05-04T17:44:25.380Z",
-      "title": "Agent-guided workflows to accelerate model customization in Amazon SageMaker AI"
-    },
-    {
-      "id": "u_4ce48718",
-      "sentAt": "2026-05-04T14:10:08.603Z",
-      "title": "Anthropic Launches Enterprise AI Firm With Wall Street Giants - PYMNTS.com"
     }
   ]
 }
