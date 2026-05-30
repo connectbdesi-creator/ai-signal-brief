@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-30T21:02:38.833Z",
+  "updatedAt": "2026-05-30T23:01:28.927Z",
   "entries": [
+    {
+      "id": "u_d08eab44",
+      "sentAt": "2026-05-30T23:01:28.927Z",
+      "title": "AI, Tumors, and the Hope of Personalized Cancer Treatment"
+    },
+    {
+      "id": "u_fad93ba8",
+      "sentAt": "2026-05-30T23:01:28.927Z",
+      "title": "How we contain Claude across products"
+    },
+    {
+      "id": "u_36be71e0",
+      "sentAt": "2026-05-30T23:01:28.927Z",
+      "title": "Cost Analysis of my $6.4k Local LLM Server"
+    },
+    {
+      "id": "u_e1bc7b42",
+      "sentAt": "2026-05-30T23:01:28.927Z",
+      "title": "[Open Source] I built a full Git MCP server in Go that doesn't just wrap bash. It uses tree-sitter, handles real plumbing (write-tree), and runs 100% locally."
+    },
+    {
+      "id": "u_9400e1e4",
+      "sentAt": "2026-05-30T23:01:28.927Z",
+      "title": "Synthetic Customers: The New Frontier in AI-Driven Marketing"
+    },
     {
       "id": "u_fda2ca55",
       "sentAt": "2026-05-30T21:02:38.833Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d115b5d0",
       "sentAt": "2026-05-05T17:28:14.342Z",
       "title": "OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream"
-    },
-    {
-      "id": "u_bb32cd8c",
-      "sentAt": "2026-05-05T17:28:14.342Z",
-      "title": "Revamping Regression: A New Approach for Multimodal Models"
-    },
-    {
-      "id": "u_65832d13",
-      "sentAt": "2026-05-05T17:28:14.342Z",
-      "title": "AI Agents Now Outsmarting Humans in Style Detection"
-    },
-    {
-      "id": "u_69c8da08",
-      "sentAt": "2026-05-05T17:28:14.342Z",
-      "title": "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises"
-    },
-    {
-      "id": "u_ecf4e0f0",
-      "sentAt": "2026-05-05T10:06:20.129Z",
-      "title": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process"
-    },
-    {
-      "id": "u_70e5003c",
-      "sentAt": "2026-05-05T10:06:20.129Z",
-      "title": "Reining in AI Hallucinations: A New Approach to Multimodal Models"
     }
   ]
 }
