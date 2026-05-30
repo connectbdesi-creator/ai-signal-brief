@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-30T17:12:07.446Z",
+  "updatedAt": "2026-05-30T19:21:59.484Z",
   "entries": [
+    {
+      "id": "u_fa021ca",
+      "sentAt": "2026-05-30T19:21:59.484Z",
+      "title": "For those creating personal assistants locally - how has short/long term memory impacted your experience?"
+    },
+    {
+      "id": "u_c3bdb677",
+      "sentAt": "2026-05-30T19:21:59.484Z",
+      "title": "IBM's $5 Billion Bet: Fixing Open Source Bugs Found by AI"
+    },
+    {
+      "id": "u_cd0b6109",
+      "sentAt": "2026-05-30T19:21:59.484Z",
+      "title": "Open Source Projects: When AI Agents Choose to Self-Destruct"
+    },
+    {
+      "id": "u_c25e1da7",
+      "sentAt": "2026-05-30T19:21:59.484Z",
+      "title": "AI Found 3,900 Critical Open Source Bugs. IBM Is Paying $5B to Fix Them"
+    },
+    {
+      "id": "u_38ee1410",
+      "sentAt": "2026-05-30T19:21:59.484Z",
+      "title": "Open source project contains hidden instruction for \"AI\" agents: delete my code"
+    },
     {
       "id": "u_2efb648d",
       "sentAt": "2026-05-30T17:12:07.446Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3ba0c47c",
       "sentAt": "2026-05-05T06:19:51.046Z",
       "title": "Optimizing AI's Mathematical Edge: The Reward Function Revolution"
-    },
-    {
-      "id": "u_ec8c7e4d",
-      "sentAt": "2026-05-05T06:19:51.046Z",
-      "title": "The Rise of Multi-Agent LLMs: Orchestrating the Future of AI Communication"
-    },
-    {
-      "id": "u_afd88827",
-      "sentAt": "2026-05-05T06:19:51.046Z",
-      "title": "Qwen3.6 27B FP8 runs with 200k tokens of BF16 KV cache at 80 TPS on a single RTX 5000 PRO 48GB"
-    },
-    {
-      "id": "u_28c9c62e",
-      "sentAt": "2026-05-05T06:19:51.046Z",
-      "title": "US GUARD Act: Age Verification for AI Chatbots"
-    },
-    {
-      "id": "u_e1c3e8aa",
-      "sentAt": "2026-05-05T06:19:51.046Z",
-      "title": "Peanut - Text to Image Model (Open Weights coming soon)"
-    },
-    {
-      "id": "u_a2a0b8d9",
-      "sentAt": "2026-05-05T03:20:49.469Z",
-      "title": "White House Eyes AI Model Vetting: A Security Move or Innovation Block?"
     }
   ]
 }
