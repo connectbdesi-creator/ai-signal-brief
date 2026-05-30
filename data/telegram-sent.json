@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-30T06:49:21.783Z",
+  "updatedAt": "2026-05-30T10:03:24.571Z",
   "entries": [
+    {
+      "id": "u_96b62767",
+      "sentAt": "2026-05-30T10:03:24.571Z",
+      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face"
+    },
+    {
+      "id": "u_b5a4c9b2",
+      "sentAt": "2026-05-30T10:03:24.571Z",
+      "title": "Coding Agent Dopamine: The Next Step in AI Evolution?"
+    },
+    {
+      "id": "u_85083443",
+      "sentAt": "2026-05-30T10:03:24.571Z",
+      "title": "AI coding agents ships at the cost of intuition and taste"
+    },
+    {
+      "id": "u_ff422d65",
+      "sentAt": "2026-05-30T10:03:24.571Z",
+      "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents"
+    },
+    {
+      "id": "u_13dd7373",
+      "sentAt": "2026-05-30T10:03:24.571Z",
+      "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents"
+    },
     {
       "id": "u_e3452bb3",
       "sentAt": "2026-05-30T06:49:21.783Z",
@@ -4975,31 +5000,6 @@
       "id": "u_80436c84",
       "sentAt": "2026-05-04T19:45:35.220Z",
       "title": "Image AI models now drive app growth, beating chatbot upgrades"
-    },
-    {
-      "id": "u_5cf2db4f",
-      "sentAt": "2026-05-04T19:45:35.220Z",
-      "title": "Why Graphify's Token Efficiency Could Reshape Developer Workflows"
-    },
-    {
-      "id": "u_1715ce11",
-      "sentAt": "2026-05-04T19:45:35.220Z",
-      "title": "White House Considers Vetting A.I. Models Before They Are Released - The New York Times"
-    },
-    {
-      "id": "u_be64f932",
-      "sentAt": "2026-05-04T19:45:35.220Z",
-      "title": "Charlton launches blitz to stop AI profits flowing to Silicon Valley - AFR"
-    },
-    {
-      "id": "u_a6d29b32",
-      "sentAt": "2026-05-04T19:45:35.220Z",
-      "title": "Anthropic Teams Up with Investors to Boost AI for Mid-Market Biz"
-    },
-    {
-      "id": "u_ff7dd79a",
-      "sentAt": "2026-05-04T17:44:25.380Z",
-      "title": "ABB Robotics Unveils OmniVance: The Future of Automated Surface Finishing"
     }
   ]
 }
