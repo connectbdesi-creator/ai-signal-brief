@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-30T15:11:57.347Z",
+  "updatedAt": "2026-05-30T17:12:07.446Z",
   "entries": [
+    {
+      "id": "u_2efb648d",
+      "sentAt": "2026-05-30T17:12:07.446Z",
+      "title": "Show HN: MigraDiff v1.3.0 – PostgreSQL schema diff with AI migration explanation"
+    },
+    {
+      "id": "u_c335a8c9",
+      "sentAt": "2026-05-30T17:12:07.446Z",
+      "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot"
+    },
+    {
+      "id": "u_d8c750e9",
+      "sentAt": "2026-05-30T17:12:07.446Z",
+      "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot"
+    },
+    {
+      "id": "u_3e10f7f4",
+      "sentAt": "2026-05-30T17:12:07.446Z",
+      "title": "Anthropic's AI Fluency Scorecard: A New Metric or Just Hype?"
+    },
+    {
+      "id": "u_f8690c2d",
+      "sentAt": "2026-05-30T17:12:07.446Z",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful"
+    },
     {
       "id": "u_2182d3ee",
       "sentAt": "2026-05-30T15:11:57.347Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a2a0b8d9",
       "sentAt": "2026-05-05T03:20:49.469Z",
       "title": "White House Eyes AI Model Vetting: A Security Move or Innovation Block?"
-    },
-    {
-      "id": "u_97a1e6fb",
-      "sentAt": "2026-05-05T03:20:49.469Z",
-      "title": "Deepinfra Snags $107M to Supercharge Inference Cloud Ambitions"
-    },
-    {
-      "id": "u_7e3849c6",
-      "sentAt": "2026-05-05T03:20:49.469Z",
-      "title": "Why AI Agents Need Proof Chains, Not Just Logs"
-    },
-    {
-      "id": "u_fdebedc7",
-      "sentAt": "2026-05-05T03:20:49.469Z",
-      "title": "White House considers government reviews for AI models"
-    },
-    {
-      "id": "u_6efab5b",
-      "sentAt": "2026-05-05T03:20:49.469Z",
-      "title": "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models"
-    },
-    {
-      "id": "u_c31112ea",
-      "sentAt": "2026-05-04T22:59:05.985Z",
-      "title": "April 2026 newsletter"
     }
   ]
 }
