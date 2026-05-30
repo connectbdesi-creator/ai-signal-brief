@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-29T23:16:41.511Z",
+  "updatedAt": "2026-05-30T03:42:45.640Z",
   "entries": [
+    {
+      "id": "u_af6fb765",
+      "sentAt": "2026-05-30T03:42:45.640Z",
+      "title": "Revolutionizing Reasoning: CosmicFish-HRM's Adaptive Depth"
+    },
+    {
+      "id": "u_669eeb04",
+      "sentAt": "2026-05-30T03:42:45.640Z",
+      "title": "RewardFlow: Rethinking Reinforcement Learning's Reward Problem"
+    },
+    {
+      "id": "u_955319fe",
+      "sentAt": "2026-05-30T03:42:45.640Z",
+      "title": "Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up"
+    },
+    {
+      "id": "u_ff1f1511",
+      "sentAt": "2026-05-30T03:42:45.640Z",
+      "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B"
+    },
+    {
+      "id": "u_66f5a1d3",
+      "sentAt": "2026-05-30T03:42:45.640Z",
+      "title": "Securing the Rise of AI Agents in Financial Services: From Data Chaos to Trusted Intelligence - BizTech Magazine"
+    },
     {
       "id": "u_1bab1439",
       "sentAt": "2026-05-29T23:16:41.511Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4ce48718",
       "sentAt": "2026-05-04T14:10:08.603Z",
       "title": "Anthropic Launches Enterprise AI Firm With Wall Street Giants - PYMNTS.com"
-    },
-    {
-      "id": "u_66af0806",
-      "sentAt": "2026-05-04T14:10:08.603Z",
-      "title": "The more I use it, the more I'm impressed"
-    },
-    {
-      "id": "u_ed42529f",
-      "sentAt": "2026-05-04T14:10:08.603Z",
-      "title": "Ouster's Rev8 Lidar Sensors: A Leap Towards Native Color Vision"
-    },
-    {
-      "id": "u_a5f8bfc7",
-      "sentAt": "2026-05-04T14:10:08.603Z",
-      "title": "AutoBe benchmark: structured harness narrows frontier-vs-local gap in backend generation [D]"
-    },
-    {
-      "id": "u_bee152bc",
-      "sentAt": "2026-05-04T14:10:08.603Z",
-      "title": "Open Models have crossed a threshold"
-    },
-    {
-      "id": "u_f1e7e8f7",
-      "sentAt": "2026-05-04T10:17:11.051Z",
-      "title": "Google's Bold Bet on Agentic AI: Governance as a Feature"
     }
   ]
 }
