@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-31T13:51:36.499Z",
+  "updatedAt": "2026-05-31T15:19:12.342Z",
   "entries": [
+    {
+      "id": "u_5d4ef363",
+      "sentAt": "2026-05-31T15:19:12.342Z",
+      "title": "DreamServer: The Open-Source Game Changer You Might Be Missing"
+    },
+    {
+      "id": "u_45dbc42f",
+      "sentAt": "2026-05-31T15:19:12.342Z",
+      "title": "AI Agents: Who's Really in Control?"
+    },
+    {
+      "id": "u_1f245a47",
+      "sentAt": "2026-05-31T15:19:12.342Z",
+      "title": "I built mlx-Chronos — a community benchmark leaderboard for local LLM engines on Apple Silicon (oMLX, Rapid-MLX, mlx-lm, Ollama)"
+    },
+    {
+      "id": "u_45041f01",
+      "sentAt": "2026-05-31T15:19:12.342Z",
+      "title": "toggle button for llama.cp web chat for QWEN3.6"
+    },
+    {
+      "id": "u_f9c5c804",
+      "sentAt": "2026-05-31T15:19:12.342Z",
+      "title": "Speed difference between Windows 11 and Linux with llama.cpp: a myth when using medium and large MoE models"
+    },
     {
       "id": "u_503bf859",
       "sentAt": "2026-05-31T13:51:36.499Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cf129617",
       "sentAt": "2026-05-06T06:32:54.523Z",
       "title": "Cracking the Code: The Future of On-Policy Distillation"
-    },
-    {
-      "id": "u_e9a5a6a5",
-      "sentAt": "2026-05-06T06:32:54.523Z",
-      "title": "RouteHijack: Exploiting AI Models' Weak Spots"
-    },
-    {
-      "id": "u_33139708",
-      "sentAt": "2026-05-06T06:32:54.523Z",
-      "title": "Reward Hacking: The Hidden Challenge in AI Training"
-    },
-    {
-      "id": "u_108ab5b1",
-      "sentAt": "2026-05-06T06:32:54.523Z",
-      "title": "Quality comparison between Qwen 3.6 27B quantizations (BF16, Q8_0, Q6_K, Q5_K_XL, Q4_K_XL, IQ4_XS, IQ3_XXS,...)"
-    },
-    {
-      "id": "u_4776d945",
-      "sentAt": "2026-05-06T03:30:53.428Z",
-      "title": "Evaluating LLM Spatial Grounding: A 100-City Audit of 7,000+ Restaurant Recommendations vs. Google Places for Ground Truth [R]"
-    },
-    {
-      "id": "u_2ff95ddd",
-      "sentAt": "2026-05-06T03:30:53.428Z",
-      "title": "Tech Giants Submit AI Models for Government Safety Checks"
     }
   ]
 }
