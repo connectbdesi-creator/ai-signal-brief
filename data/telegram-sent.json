@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-31T17:10:23.176Z",
+  "updatedAt": "2026-05-31T19:21:50.352Z",
   "entries": [
+    {
+      "id": "u_d57fb93c",
+      "sentAt": "2026-05-31T19:21:50.352Z",
+      "title": "The Hidden Hazards of Open AI Model Weights"
+    },
+    {
+      "id": "u_9064ffa1",
+      "sentAt": "2026-05-31T19:21:50.352Z",
+      "title": "GrillKit: Open Source AI for Your Backyard BBQ"
+    },
+    {
+      "id": "u_f12260c",
+      "sentAt": "2026-05-31T19:21:50.352Z",
+      "title": "Odysseus: The Open Source AI Making Waves"
+    },
+    {
+      "id": "u_96f6a162",
+      "sentAt": "2026-05-31T19:21:50.352Z",
+      "title": "OpenJarvis: The Open Source AI Butler You Didn't Know You Needed"
+    },
+    {
+      "id": "u_81c7ef8c",
+      "sentAt": "2026-05-31T19:21:50.352Z",
+      "title": "Show HN: Vibes.design – Show HN: Vibes.design – Launch AI Apps with Vibe-Coding"
+    },
     {
       "id": "u_3a131b2c",
       "sentAt": "2026-05-31T17:10:23.176Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c4e1fb5c",
       "sentAt": "2026-05-06T14:23:31.114Z",
       "title": "Lockheed Martin launches AI Fight Club to accelerate development of combat artificial intelligence systems - Defence Industry Europe"
-    },
-    {
-      "id": "u_b7e01386",
-      "sentAt": "2026-05-06T14:23:31.114Z",
-      "title": "How to Set Up Claude Code Channels Locally"
-    },
-    {
-      "id": "u_cf9a967a",
-      "sentAt": "2026-05-06T14:23:31.114Z",
-      "title": "Why I Don’t Trust LLMs to Decide When the Weather Changed"
-    },
-    {
-      "id": "u_c6302b76",
-      "sentAt": "2026-05-06T14:23:31.114Z",
-      "title": "Deepseek nears $45 billion valuation as China's state chip fund leads round"
-    },
-    {
-      "id": "u_6cf41b0d",
-      "sentAt": "2026-05-06T10:22:18.594Z",
-      "title": "Chrome’s AI features may be hogging 4GB of your computer storage"
-    },
-    {
-      "id": "u_606d117e",
-      "sentAt": "2026-05-06T10:22:18.594Z",
-      "title": "Rethinking AI's Reasoning: It's Not All About the Final Answer"
     }
   ]
 }
