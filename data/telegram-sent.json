@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-31T19:21:50.352Z",
+  "updatedAt": "2026-05-31T21:03:10.019Z",
   "entries": [
+    {
+      "id": "u_af1432c3",
+      "sentAt": "2026-05-31T21:03:10.019Z",
+      "title": "I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, faster, GGUF-quantized, no Python"
+    },
+    {
+      "id": "u_5683d88",
+      "sentAt": "2026-05-31T21:03:10.019Z",
+      "title": "AI Agents Get Their Own Phone Book: The DNS Twist"
+    },
+    {
+      "id": "u_166c1921",
+      "sentAt": "2026-05-31T21:03:10.019Z",
+      "title": "Why AI Coding Agents Struggle with User Interfaces"
+    },
+    {
+      "id": "u_141c2ae4",
+      "sentAt": "2026-05-31T21:03:10.019Z",
+      "title": "The UI problem of AI coding agents"
+    },
+    {
+      "id": "u_8d2509aa",
+      "sentAt": "2026-05-31T21:03:10.019Z",
+      "title": "Whats actually happening when a model spills out of VRAM into system memory?"
+    },
     {
       "id": "u_d57fb93c",
       "sentAt": "2026-05-31T19:21:50.352Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9e75c3e4",
       "sentAt": "2026-05-06T17:44:34.283Z",
       "title": "ServiceNow's AI Control Tower: A New Era in Enterprise AI Management"
-    },
-    {
-      "id": "u_1024ff31",
-      "sentAt": "2026-05-06T17:44:34.283Z",
-      "title": "OpenAI's Phone Ambition: A Smart Move or Another Hype?"
-    },
-    {
-      "id": "u_c5243084",
-      "sentAt": "2026-05-06T17:44:34.283Z",
-      "title": "Anthropic's AI Finance Templates: A New Tool or Just More Hype?"
-    },
-    {
-      "id": "u_571774ca",
-      "sentAt": "2026-05-06T17:44:34.283Z",
-      "title": "Abacus AI Review: Features, AI Agents & Automation Explained (Honest Guide)"
-    },
-    {
-      "id": "u_3bf00f41",
-      "sentAt": "2026-05-06T14:23:31.114Z",
-      "title": "Causal Software Engineering: The Next Frontier or Just Another Fad?"
-    },
-    {
-      "id": "u_c4e1fb5c",
-      "sentAt": "2026-05-06T14:23:31.114Z",
-      "title": "Lockheed Martin launches AI Fight Club to accelerate development of combat artificial intelligence systems - Defence Industry Europe"
     }
   ]
 }
