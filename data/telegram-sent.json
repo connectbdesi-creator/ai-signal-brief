@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-31T08:51:24.623Z",
+  "updatedAt": "2026-05-31T11:42:24.331Z",
   "entries": [
+    {
+      "id": "u_a8ebba1d",
+      "sentAt": "2026-05-31T11:42:24.331Z",
+      "title": "AI is turning energy into the hottest business in America"
+    },
+    {
+      "id": "u_dbc80a3",
+      "sentAt": "2026-05-31T11:42:24.331Z",
+      "title": "Claude Agent SDK: The TUI Revolution"
+    },
+    {
+      "id": "u_ff3a7c14",
+      "sentAt": "2026-05-31T11:42:24.331Z",
+      "title": "The 'Human Sandwich': A New Model for AI Collaboration"
+    },
+    {
+      "id": "u_393dce46",
+      "sentAt": "2026-05-31T11:42:24.331Z",
+      "title": "Open-Source AI Tool 'Sia' Offers New Possibilities for Developers"
+    },
+    {
+      "id": "u_b7a13e11",
+      "sentAt": "2026-05-31T11:42:24.331Z",
+      "title": "AI Agent that at inference time updates it's harness and model weights"
+    },
     {
       "id": "u_eb9028b1",
       "sentAt": "2026-05-31T08:51:24.623Z",
@@ -4975,31 +5000,6 @@
       "id": "u_43e76278",
       "sentAt": "2026-05-05T22:58:56.896Z",
       "title": "Our AI started a cafe in Stockholm"
-    },
-    {
-      "id": "u_19c506a4",
-      "sentAt": "2026-05-05T22:58:56.896Z",
-      "title": "WaiV Robotics: Navigating the Waves of Drone Technology"
-    },
-    {
-      "id": "u_d6115529",
-      "sentAt": "2026-05-05T22:58:56.896Z",
-      "title": "Anthropic launches AI agents for Wall Street's grunt work"
-    },
-    {
-      "id": "u_17c28bc7",
-      "sentAt": "2026-05-05T22:58:56.896Z",
-      "title": "Closing the ‘Expressivity Gap’: How Mistral’s Voxtral TTS is Redefining Multilingual Voice Cloning with a Hybrid Autoregressive and Flow-Matching Architecture"
-    },
-    {
-      "id": "u_e681fd10",
-      "sentAt": "2026-05-05T21:06:52.185Z",
-      "title": "DeepSeek V4 being 17x cheaper got me to actually measure what I send to cloud vs what I could run locally. the results are stupid."
-    },
-    {
-      "id": "u_315ac443",
-      "sentAt": "2026-05-05T21:06:52.185Z",
-      "title": "AI Ushers in the Era of 'Player-Coach' Managers"
     }
   ]
 }
