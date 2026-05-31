@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-30T23:01:28.927Z",
+  "updatedAt": "2026-05-31T04:09:42.262Z",
   "entries": [
+    {
+      "id": "u_78991f24",
+      "sentAt": "2026-05-31T04:09:42.262Z",
+      "title": "IBM's Agentic Operating Model Puts Sovereignty At The Center"
+    },
+    {
+      "id": "u_2c831d8",
+      "sentAt": "2026-05-31T04:09:42.262Z",
+      "title": "Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput Gain"
+    },
+    {
+      "id": "u_5874f355",
+      "sentAt": "2026-05-31T04:09:42.262Z",
+      "title": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI"
+    },
+    {
+      "id": "u_9b0d0559",
+      "sentAt": "2026-05-31T04:09:42.262Z",
+      "title": "Benchmarked inference engines for M1 Max 64gb-results & analysis"
+    },
+    {
+      "id": "u_bc92ae2c",
+      "sentAt": "2026-05-31T04:09:42.262Z",
+      "title": "built a small open source tool to stop AI agents from regressing after changes"
+    },
     {
       "id": "u_d08eab44",
       "sentAt": "2026-05-30T23:01:28.927Z",
@@ -4975,31 +5000,6 @@
       "id": "u_171fddd",
       "sentAt": "2026-05-05T19:26:48.174Z",
       "title": "AI's Unexpected Ally: How Government Workforces Are Leading the Charge"
-    },
-    {
-      "id": "u_43764644",
-      "sentAt": "2026-05-05T19:26:48.174Z",
-      "title": "Cracking the Code: How AI Models Think in Hierarchies"
-    },
-    {
-      "id": "u_b5db9c17",
-      "sentAt": "2026-05-05T19:26:48.174Z",
-      "title": "Google targets ‘agentic workforce’ with Gemini for government push"
-    },
-    {
-      "id": "u_cbd5d1a3",
-      "sentAt": "2026-05-05T19:26:48.174Z",
-      "title": "As agents reshape the enterprise, organizations are being forced to rethink the very nature of work"
-    },
-    {
-      "id": "u_a5ef7fc8",
-      "sentAt": "2026-05-05T17:28:14.342Z",
-      "title": "OpenAI and PwC: A New Era for CFOs with AI"
-    },
-    {
-      "id": "u_d115b5d0",
-      "sentAt": "2026-05-05T17:28:14.342Z",
-      "title": "OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream"
     }
   ]
 }
