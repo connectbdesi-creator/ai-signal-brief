@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-05-31T15:19:12.342Z",
+  "updatedAt": "2026-05-31T17:10:23.176Z",
   "entries": [
+    {
+      "id": "u_3a131b2c",
+      "sentAt": "2026-05-31T17:10:23.176Z",
+      "title": "The solution might be cancelling my AI subscription"
+    },
+    {
+      "id": "u_db9530c1",
+      "sentAt": "2026-05-31T17:10:23.176Z",
+      "title": "Qwen3.6-35B vs Gemma4-26B on 7900 XTX"
+    },
+    {
+      "id": "u_e7de0c81",
+      "sentAt": "2026-05-31T17:10:23.176Z",
+      "title": "AI Transforms IT: From Firefighters to Architects"
+    },
+    {
+      "id": "u_b57cffa4",
+      "sentAt": "2026-05-31T17:10:23.176Z",
+      "title": "From reactive operations to autonomous infrastructure: What IT leaders must do next"
+    },
+    {
+      "id": "u_43e01c9e",
+      "sentAt": "2026-05-31T17:10:23.176Z",
+      "title": "Ministry of Science and Education, OpenAI launch AI-based adaptive learning platform for students - AzerNews"
+    },
     {
       "id": "u_5d4ef363",
       "sentAt": "2026-05-31T15:19:12.342Z",
@@ -4975,31 +5000,6 @@
       "id": "u_606d117e",
       "sentAt": "2026-05-06T10:22:18.594Z",
       "title": "Rethinking AI's Reasoning: It's Not All About the Final Answer"
-    },
-    {
-      "id": "u_fa11e4fe",
-      "sentAt": "2026-05-06T10:22:18.594Z",
-      "title": "Benchmarking the Dynamics of Dyadic Conversations: A New Frontier"
-    },
-    {
-      "id": "u_e1470fa5",
-      "sentAt": "2026-05-06T10:22:18.594Z",
-      "title": "Can AI Really Handle the Doctor's Office? A New Benchmark Puts It to the Test"
-    },
-    {
-      "id": "u_800f7ce9",
-      "sentAt": "2026-05-06T10:22:18.594Z",
-      "title": "Google's Remy: The AI Personal Agent That Might Change Your Workflow"
-    },
-    {
-      "id": "u_3311470b",
-      "sentAt": "2026-05-06T06:32:54.523Z",
-      "title": "Unmasking AI's Hidden Language Tricks"
-    },
-    {
-      "id": "u_cf129617",
-      "sentAt": "2026-05-06T06:32:54.523Z",
-      "title": "Cracking the Code: The Future of On-Policy Distillation"
     }
   ]
 }
