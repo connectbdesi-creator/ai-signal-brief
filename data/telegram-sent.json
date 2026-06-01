@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-01T17:47:31.652Z",
+  "updatedAt": "2026-06-01T21:37:00.825Z",
   "entries": [
+    {
+      "id": "u_356827da",
+      "sentAt": "2026-06-01T21:37:00.825Z",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
+    },
+    {
+      "id": "u_d4f18687",
+      "sentAt": "2026-06-01T21:37:00.825Z",
+      "title": "OpenAI models and Codex on Amazon Bedrock are now generally available"
+    },
+    {
+      "id": "u_267c5cb8",
+      "sentAt": "2026-06-01T21:37:00.825Z",
+      "title": "Open sourced a fun android Launcher"
+    },
+    {
+      "id": "u_a9602fcd",
+      "sentAt": "2026-06-01T21:37:00.825Z",
+      "title": "MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding"
+    },
+    {
+      "id": "u_43233848",
+      "sentAt": "2026-06-01T21:37:00.825Z",
+      "title": "Nvidia debuts RTX Spark processor for Windows laptops, compact desktops"
+    },
     {
       "id": "u_235aa794",
       "sentAt": "2026-06-01T17:47:31.652Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5d1c9152",
       "sentAt": "2026-05-07T06:39:22.489Z",
       "title": "5,000 synthetic Australian medical record PDFs - free 50-doc sample [P]"
-    },
-    {
-      "id": "u_4a1e7adf",
-      "sentAt": "2026-05-07T06:39:22.489Z",
-      "title": "Zyphra Releases ZAYA1-8B: A Reasoning MoE Trained on AMD Hardware That Punches Far Above Its Weight Class"
-    },
-    {
-      "id": "u_cfc41a2e",
-      "sentAt": "2026-05-07T06:39:22.489Z",
-      "title": "A deepseek-v4-distill-qwen3.6-27b?"
-    },
-    {
-      "id": "u_7ac15bc6",
-      "sentAt": "2026-05-07T06:39:22.489Z",
-      "title": "US government agency to safety test frontier AI models before release - csoonline.com"
-    },
-    {
-      "id": "u_34474bfd",
-      "sentAt": "2026-05-07T03:31:04.225Z",
-      "title": "Alabama A&M launches Bachelor of Science in Artificial Intelligence - WAFF"
-    },
-    {
-      "id": "u_65f81c79",
-      "sentAt": "2026-05-07T03:31:04.225Z",
-      "title": "Alabama A&M launches Bachelor of Science in Artificial Intelligence - WAFF"
     }
   ]
 }
