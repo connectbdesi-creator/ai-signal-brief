@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-01T21:37:00.825Z",
+  "updatedAt": "2026-06-01T23:41:09.958Z",
   "entries": [
+    {
+      "id": "u_328ab806",
+      "sentAt": "2026-06-01T23:41:09.958Z",
+      "title": "Alphabet unveils plan to sell $80B in shares to fund ongoing AI infrastructure buildout"
+    },
+    {
+      "id": "u_ddea85c0",
+      "sentAt": "2026-06-01T23:41:09.958Z",
+      "title": "OpenAI Models Now on AWS: A Game Changer for Enterprises"
+    },
+    {
+      "id": "u_8d24e1c3",
+      "sentAt": "2026-06-01T23:41:09.958Z",
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
+    },
+    {
+      "id": "u_86651178",
+      "sentAt": "2026-06-01T23:41:09.958Z",
+      "title": "Google Announces $80 Billion Capital Raise Amid Artificial Intelligence Spending Jump. Shares Fall. - Investor's Business Daily"
+    },
+    {
+      "id": "u_c5b4c406",
+      "sentAt": "2026-06-01T23:41:09.958Z",
+      "title": "NVIDIA releases new and updated tools for physical AI developers"
+    },
     {
       "id": "u_356827da",
       "sentAt": "2026-06-01T21:37:00.825Z",
@@ -4975,31 +5000,6 @@
       "id": "u_178c4435",
       "sentAt": "2026-05-07T10:28:11.839Z",
       "title": "Stress-Testing LLMs: Uncovering Logic Inertia"
-    },
-    {
-      "id": "u_ff9c9b14",
-      "sentAt": "2026-05-07T10:28:11.839Z",
-      "title": "Neural Networks and the Enigma of Non-Redundancy in Language"
-    },
-    {
-      "id": "u_d930f291",
-      "sentAt": "2026-05-07T10:28:11.839Z",
-      "title": "Decoding the Geometry of Language Models"
-    },
-    {
-      "id": "u_d705a815",
-      "sentAt": "2026-05-07T10:28:11.839Z",
-      "title": "LLMs vs. Human Touch: The Battle for Simplifying Biomedical Text"
-    },
-    {
-      "id": "u_efab9355",
-      "sentAt": "2026-05-07T06:39:22.489Z",
-      "title": "Multimodal Models Show Promise in Seizure Analysis"
-    },
-    {
-      "id": "u_5d1c9152",
-      "sentAt": "2026-05-07T06:39:22.489Z",
-      "title": "5,000 synthetic Australian medical record PDFs - free 50-doc sample [P]"
     }
   ]
 }
