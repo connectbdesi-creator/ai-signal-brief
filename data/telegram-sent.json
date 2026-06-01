@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-01T04:24:02.472Z",
+  "updatedAt": "2026-06-01T11:41:53.602Z",
   "entries": [
+    {
+      "id": "u_ec4ffbc2",
+      "sentAt": "2026-06-01T11:41:53.602Z",
+      "title": "Trust and Accuracy: The Cornerstones of AI Agent Success"
+    },
+    {
+      "id": "u_3ee21d41",
+      "sentAt": "2026-06-01T11:41:53.602Z",
+      "title": "Why Wasserstein GANs Are the Future of AI Training"
+    },
+    {
+      "id": "u_8cd2ba1b",
+      "sentAt": "2026-06-01T11:41:53.602Z",
+      "title": "Nvidia launches new advanced chip for artificial intelligence on personal computers - Agenzia Nova"
+    },
+    {
+      "id": "u_10445c3d",
+      "sentAt": "2026-06-01T11:41:53.602Z",
+      "title": "Deepseek V4 flash performance on DGX Spark"
+    },
+    {
+      "id": "u_2589badf",
+      "sentAt": "2026-06-01T11:41:53.602Z",
+      "title": "Launching Conifer tomorrow, an open-source local AI runtime + IDE. Different layer of the stack from PewDiePie's Odysseus, would love your honest thoughts"
+    },
     {
       "id": "u_409afe7c",
       "sentAt": "2026-06-01T04:24:02.472Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e740c999",
       "sentAt": "2026-05-06T22:55:52.495Z",
       "title": "Atlassian's AI Gambit: Less Code, More Creativity"
-    },
-    {
-      "id": "u_853abd96",
-      "sentAt": "2026-05-06T22:55:52.495Z",
-      "title": "Google shuts down Project Mariner"
-    },
-    {
-      "id": "u_42104ca9",
-      "sentAt": "2026-05-06T22:55:52.495Z",
-      "title": "CopilotKit Introduces Enterprise Intelligence Platform That Gives Agentic Applications Persistent Memory Across Sessions and Devices"
-    },
-    {
-      "id": "u_e1f21899",
-      "sentAt": "2026-05-06T22:55:52.495Z",
-      "title": "Most people seem obsessed with token generation speed, but isn’t prefill the real bottleneck? Am I missing something?"
-    },
-    {
-      "id": "u_c942716d",
-      "sentAt": "2026-05-06T21:14:09.123Z",
-      "title": "Big Tech’s Personal AI Agents Are Coming for the to-Do List - PYMNTS.com"
-    },
-    {
-      "id": "u_21de6211",
-      "sentAt": "2026-05-06T21:14:09.123Z",
-      "title": "White House Considers AI Model Reviews: A Shift in Strategy"
     }
   ]
 }
