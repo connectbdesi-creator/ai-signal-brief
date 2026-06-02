@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-01T23:41:09.958Z",
+  "updatedAt": "2026-06-02T04:17:24.488Z",
   "entries": [
+    {
+      "id": "u_75531689",
+      "sentAt": "2026-06-02T04:17:24.488Z",
+      "title": "When AI Skills Turn Rogue: The Hidden Threats Lurking in Extensions"
+    },
+    {
+      "id": "u_f39786b8",
+      "sentAt": "2026-06-02T04:17:24.488Z",
+      "title": "Breaking Barriers: Enhancing Fairness in Multi-Class AI Models"
+    },
+    {
+      "id": "u_e7ad714c",
+      "sentAt": "2026-06-02T04:17:24.488Z",
+      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World"
+    },
+    {
+      "id": "u_69328afc",
+      "sentAt": "2026-06-02T04:17:24.488Z",
+      "title": "MeshFlow: production-safe multi-agent orchestration — SHA-256 audit chain, HIPAA/SOX/GDPR built in, 70-85% token cost reduction [Open Source][D]"
+    },
+    {
+      "id": "u_1ec8044c",
+      "sentAt": "2026-06-02T04:17:24.488Z",
+      "title": "MeshFlow: An open-source orchestrator for governed, cost-optimized multi-agent workflows [D]"
+    },
     {
       "id": "u_328ab806",
       "sentAt": "2026-06-01T23:41:09.958Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d823926c",
       "sentAt": "2026-05-07T14:22:41.172Z",
       "title": "Tesla's Secret AI Ambitions: A Rival Lab in the Making?"
-    },
-    {
-      "id": "u_b850187",
-      "sentAt": "2026-05-07T14:22:41.172Z",
-      "title": "Cracking Open LLMs: Why Understanding Their Code Matters"
-    },
-    {
-      "id": "u_c1cf5fc7",
-      "sentAt": "2026-05-07T14:22:41.172Z",
-      "title": "Revolutionizing Language Models: A New Era with Adaptive Power-Mean Optimization"
-    },
-    {
-      "id": "u_ff154c55",
-      "sentAt": "2026-05-07T14:22:41.172Z",
-      "title": "Budgeted LoRA: A New Path in Cost-Effective Language Model Distillation"
-    },
-    {
-      "id": "u_8b257b89",
-      "sentAt": "2026-05-07T10:28:11.839Z",
-      "title": "Revolutionizing Language Models with Persistent Reasoning Graphs"
-    },
-    {
-      "id": "u_178c4435",
-      "sentAt": "2026-05-07T10:28:11.839Z",
-      "title": "Stress-Testing LLMs: Uncovering Logic Inertia"
     }
   ]
 }
