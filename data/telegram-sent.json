@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-02T16:39:33.522Z",
+  "updatedAt": "2026-06-02T20:53:43.311Z",
   "entries": [
+    {
+      "id": "u_afa905fe",
+      "sentAt": "2026-06-02T20:53:43.311Z",
+      "title": "Balancing Act: LLMs in Digital Health Face Accuracy vs. Safety"
+    },
+    {
+      "id": "u_66e5a5e2",
+      "sentAt": "2026-06-02T20:53:43.311Z",
+      "title": "MedGym: A New Frontier for Medical AI"
+    },
+    {
+      "id": "u_70175f5d",
+      "sentAt": "2026-06-02T20:53:43.311Z",
+      "title": "Can Cognitive Pairwise Training Elevate AI Reasoning?"
+    },
+    {
+      "id": "u_d8aa772",
+      "sentAt": "2026-06-02T20:53:43.311Z",
+      "title": "AI Alliance launches a global coalition to build sovereign frontier models, with Yann LeCun as chief science advisor"
+    },
+    {
+      "id": "u_2b28db94",
+      "sentAt": "2026-06-02T20:53:43.311Z",
+      "title": "SAN FRANCISCO — Microsoft unveiled its own cutting-edge artificial intelligence models in San Francisco on Tuesday, a crucial step toward reducing its dependence on OpenAI, the creator of ChatGPT. - LinkedIn"
+    },
     {
       "id": "u_46e35f54",
       "sentAt": "2026-06-02T16:39:33.522Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6ee4f35f",
       "sentAt": "2026-05-07T21:07:34.846Z",
       "title": "How to Disable Google's Gemini in Chrome"
-    },
-    {
-      "id": "u_f71f379c",
-      "sentAt": "2026-05-07T21:07:34.846Z",
-      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm"
-    },
-    {
-      "id": "u_996a645b",
-      "sentAt": "2026-05-07T21:07:34.846Z",
-      "title": "AI In Warfighting: New Conflicts, And New Philosophies"
-    },
-    {
-      "id": "u_c8c4b217",
-      "sentAt": "2026-05-07T21:07:34.846Z",
-      "title": "Perplexity’s Personal Computer is now available to everyone on Mac"
-    },
-    {
-      "id": "u_d5cc538c",
-      "sentAt": "2026-05-07T19:46:52.923Z",
-      "title": "ServiceNow, SAP and Workday Make AI Agents Pay to Play - PYMNTS.com"
-    },
-    {
-      "id": "u_12a2024",
-      "sentAt": "2026-05-07T19:46:52.923Z",
-      "title": "OpenAI's Voice Models: GPT-5 Power in Real-Time"
     }
   ]
 }
