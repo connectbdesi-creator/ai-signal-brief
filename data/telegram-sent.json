@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-02T04:17:24.488Z",
+  "updatedAt": "2026-06-02T10:42:43.008Z",
   "entries": [
+    {
+      "id": "u_d29d9eb",
+      "sentAt": "2026-06-02T10:42:43.008Z",
+      "title": "CodeCytos: Redefining Tissue Analysis with Code-Driven Agents"
+    },
+    {
+      "id": "u_743678eb",
+      "sentAt": "2026-06-02T10:42:43.008Z",
+      "title": "AI’s Hidden Risks: When Safe Skills Turn Rogue"
+    },
+    {
+      "id": "u_6b52989c",
+      "sentAt": "2026-06-02T10:42:43.008Z",
+      "title": "Anthropic files confidential IPO paperwork with SEC this week"
+    },
+    {
+      "id": "u_ba769d77",
+      "sentAt": "2026-06-02T10:42:43.008Z",
+      "title": "Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform"
+    },
+    {
+      "id": "u_7a8d5b4",
+      "sentAt": "2026-06-02T10:42:43.008Z",
+      "title": "$113,421 in a single month"
+    },
     {
       "id": "u_75531689",
       "sentAt": "2026-06-02T04:17:24.488Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2236d8d2",
       "sentAt": "2026-05-07T17:51:26.027Z",
       "title": "Notes on the xAI/Anthropic data center deal"
-    },
-    {
-      "id": "u_32321c38",
-      "sentAt": "2026-05-07T17:51:26.027Z",
-      "title": "Wyndham is betting on artificial intelligence with the launch of its native app on ChatGPT - en.travel2latam.com"
-    },
-    {
-      "id": "u_8ac2259a",
-      "sentAt": "2026-05-07T17:51:26.027Z",
-      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'"
-    },
-    {
-      "id": "u_36ac5b0d",
-      "sentAt": "2026-05-07T17:51:26.027Z",
-      "title": "Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans"
-    },
-    {
-      "id": "u_eaaff2a9",
-      "sentAt": "2026-05-07T14:22:41.172Z",
-      "title": "Two related prompts, different results: Qwen 3.5 and Gemma 4 need different prompting than Qwen 3.6"
-    },
-    {
-      "id": "u_d823926c",
-      "sentAt": "2026-05-07T14:22:41.172Z",
-      "title": "Tesla's Secret AI Ambitions: A Rival Lab in the Making?"
     }
   ]
 }
