@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-02T20:53:43.311Z",
+  "updatedAt": "2026-06-02T23:49:07.321Z",
   "entries": [
+    {
+      "id": "u_373a45ef",
+      "sentAt": "2026-06-02T23:49:07.321Z",
+      "title": "Microsoft launches Rayfin to let developers and agents build app backends on Fabric"
+    },
+    {
+      "id": "u_e8d62ecc",
+      "sentAt": "2026-06-02T23:49:07.321Z",
+      "title": "ProtoAda: A Leap Forward in Multimodal Language Learning"
+    },
+    {
+      "id": "u_4d34939b",
+      "sentAt": "2026-06-02T23:49:07.321Z",
+      "title": "Which Web Search API gives the cleanest Markdown output for local RAG parsing?"
+    },
+    {
+      "id": "u_f2126aa9",
+      "sentAt": "2026-06-02T23:49:07.321Z",
+      "title": "Microsoft's new MAI models"
+    },
+    {
+      "id": "u_75de943d",
+      "sentAt": "2026-06-02T23:49:07.321Z",
+      "title": "Subagents Account for Most Token Costs in Long Agent Runs: Fixes That Cut Usage 70 to 90 Percent in Practice"
+    },
     {
       "id": "u_afa905fe",
       "sentAt": "2026-06-02T20:53:43.311Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f9c4d653",
       "sentAt": "2026-05-07T23:02:44.377Z",
       "title": "OpenAI launches new voice intelligence features in its API"
-    },
-    {
-      "id": "u_bd19a6c0",
-      "sentAt": "2026-05-07T23:02:44.377Z",
-      "title": "OpenAI's New Safety Feature: A Lifeline or Overreach?"
-    },
-    {
-      "id": "u_fddf21ac",
-      "sentAt": "2026-05-07T23:02:44.377Z",
-      "title": "OpenAI's GPT-5.5: The Cybersecurity Double-Edged Sword"
-    },
-    {
-      "id": "u_6f0d4421",
-      "sentAt": "2026-05-07T23:02:44.377Z",
-      "title": "Are local models becoming “good enough” faster than expected?"
-    },
-    {
-      "id": "u_59743050",
-      "sentAt": "2026-05-07T21:07:34.846Z",
-      "title": "11.67% ARC-AGI-2 Local Eval on a Single 4090: The TOPAS Recursive Architecture"
-    },
-    {
-      "id": "u_6ee4f35f",
-      "sentAt": "2026-05-07T21:07:34.846Z",
-      "title": "How to Disable Google's Gemini in Chrome"
     }
   ]
 }
