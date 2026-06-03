@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-03T16:56:18.271Z",
+  "updatedAt": "2026-06-03T21:19:21.599Z",
   "entries": [
+    {
+      "id": "u_426f199",
+      "sentAt": "2026-06-03T21:19:21.599Z",
+      "title": "TrOPD: A New Frontier in On-Policy Distillation"
+    },
+    {
+      "id": "u_c52aebb9",
+      "sentAt": "2026-06-03T21:19:21.599Z",
+      "title": "Cracking the Code: Making 2-Bit Inference Work"
+    },
+    {
+      "id": "u_f2681842",
+      "sentAt": "2026-06-03T21:19:21.599Z",
+      "title": "Optimizing Thought: A New Era in Efficient Language Models"
+    },
+    {
+      "id": "u_901e14f4",
+      "sentAt": "2026-06-03T21:19:21.599Z",
+      "title": "Teaching AI agents to ask better questions by playing “Battleship”"
+    },
+    {
+      "id": "u_ca9c0ac7",
+      "sentAt": "2026-06-03T21:19:21.599Z",
+      "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM"
+    },
     {
       "id": "u_c51960d0",
       "sentAt": "2026-06-03T16:56:18.271Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b9c24de7",
       "sentAt": "2026-05-08T09:27:04.837Z",
       "title": "Cracking the Code of Reinforcement Learning with Verifiable Rewards"
-    },
-    {
-      "id": "u_b90735d5",
-      "sentAt": "2026-05-08T09:27:04.837Z",
-      "title": "Benchmarkless Safety: Scoring Models Without Labels"
-    },
-    {
-      "id": "u_43537ed9",
-      "sentAt": "2026-05-08T09:27:04.837Z",
-      "title": "MMDG-Bench: A New Standard in Multimodal Domain Generalization"
-    },
-    {
-      "id": "u_ad2053ac",
-      "sentAt": "2026-05-08T09:27:04.837Z",
-      "title": "Recursive Agents: The Next Step in AI's Evolution?"
-    },
-    {
-      "id": "u_b19e8e2e",
-      "sentAt": "2026-05-08T07:55:35.824Z",
-      "title": "Spatial Intelligence: MLLMs Still Have a Long Way to Go"
-    },
-    {
-      "id": "u_5e60b7da",
-      "sentAt": "2026-05-08T07:55:35.824Z",
-      "title": "LOVER: A New Frontier in AI Reasoning Verification"
     }
   ]
 }
