@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-03T04:26:54.393Z",
+  "updatedAt": "2026-06-03T11:06:24.479Z",
   "entries": [
+    {
+      "id": "u_1d8686cd",
+      "sentAt": "2026-06-03T11:06:24.479Z",
+      "title": "Nous Research releases Hermes Desktop, an open-source AI agent for every platform"
+    },
+    {
+      "id": "u_7ae1b1e6",
+      "sentAt": "2026-06-03T11:06:24.479Z",
+      "title": "Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning"
+    },
+    {
+      "id": "u_9b57dafe",
+      "sentAt": "2026-06-03T11:06:24.479Z",
+      "title": "Orbiting AI: The New Frontier in Autonomous Computing"
+    },
+    {
+      "id": "u_75ae4e0f",
+      "sentAt": "2026-06-03T11:06:24.479Z",
+      "title": "Revamping AI Training: WRIT Approach Boosts Decision-Making Skills"
+    },
+    {
+      "id": "u_e69cd94f",
+      "sentAt": "2026-06-03T11:06:24.479Z",
+      "title": "Fixing Faulty Logic: How Better Benchmarks Improve AI"
+    },
     {
       "id": "u_9ef23b76",
       "sentAt": "2026-06-03T04:26:54.393Z",
@@ -4975,31 +5000,6 @@
       "id": "u_161cd987",
       "sentAt": "2026-05-08T06:00:47.947Z",
       "title": "BioMedArena: Redefining Evaluation in Biomedical AI"
-    },
-    {
-      "id": "u_70e104ad",
-      "sentAt": "2026-05-08T06:00:47.947Z",
-      "title": "Can AI Finally Overcome Its Cultural Blind Spot?"
-    },
-    {
-      "id": "u_1e996fe0",
-      "sentAt": "2026-05-08T06:00:47.947Z",
-      "title": "Unlocking AI Efficiency: The 'Post-Reasoning' Revolution"
-    },
-    {
-      "id": "u_28c4f443",
-      "sentAt": "2026-05-08T06:00:47.947Z",
-      "title": "The Flawed Logic of Using LLMs as Judges: A Safety Paradox"
-    },
-    {
-      "id": "u_7b320cf6",
-      "sentAt": "2026-05-08T03:27:14.538Z",
-      "title": "I've created the fastest local AI engine for Apple Silicon. Optimised for agentic use."
-    },
-    {
-      "id": "u_9211827e",
-      "sentAt": "2026-05-08T03:27:14.538Z",
-      "title": "OpenAI has unveiled its artificial intelligence (AI) model \"GPT-5.5-Cyber\" specialized in cybersecur.. - 매일경제"
     }
   ]
 }
