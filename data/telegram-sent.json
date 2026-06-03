@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-03T11:06:24.479Z",
+  "updatedAt": "2026-06-03T16:56:18.271Z",
   "entries": [
+    {
+      "id": "u_c51960d0",
+      "sentAt": "2026-06-03T16:56:18.271Z",
+      "title": "google/gemma-4-12B · Hugging Face"
+    },
+    {
+      "id": "u_685740fc",
+      "sentAt": "2026-06-03T16:56:18.271Z",
+      "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI"
+    },
+    {
+      "id": "u_81c49219",
+      "sentAt": "2026-06-03T16:56:18.271Z",
+      "title": "Dreame L20 Ultra: High-Tech Cleaning at a Steal"
+    },
+    {
+      "id": "u_3a1555ae",
+      "sentAt": "2026-06-03T16:56:18.271Z",
+      "title": "Microsoft's Project Solara: The AI Agent Revolution"
+    },
+    {
+      "id": "u_9872ad50",
+      "sentAt": "2026-06-03T16:56:18.271Z",
+      "title": "We measured how AI capabilities INTERACT as models scale. Below 3.5B, reasoning and truthfulness fight. Above it, they cooperate. The transition is engineerable. (2 papers + interactive dashboard + 7 falsifiable predictions)"
+    },
     {
       "id": "u_1d8686cd",
       "sentAt": "2026-06-03T11:06:24.479Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e60b7da",
       "sentAt": "2026-05-08T07:55:35.824Z",
       "title": "LOVER: A New Frontier in AI Reasoning Verification"
-    },
-    {
-      "id": "u_ed366fe7",
-      "sentAt": "2026-05-08T07:55:35.824Z",
-      "title": "PCNET: Halting AI Hallucinations with Geometric Precision"
-    },
-    {
-      "id": "u_9f5f93fa",
-      "sentAt": "2026-05-08T07:55:35.824Z",
-      "title": "OpenAI Releases Three Realtime Audio Models: GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper in the Realtime API"
-    },
-    {
-      "id": "u_1f0408c9",
-      "sentAt": "2026-05-08T07:55:35.824Z",
-      "title": "Strix Halo Clustering (Hardware Setup Discussion)"
-    },
-    {
-      "id": "u_53af0e17",
-      "sentAt": "2026-05-08T06:00:47.947Z",
-      "title": "Rethinking AI's Role in Mathematical Reasoning"
-    },
-    {
-      "id": "u_161cd987",
-      "sentAt": "2026-05-08T06:00:47.947Z",
-      "title": "BioMedArena: Redefining Evaluation in Biomedical AI"
     }
   ]
 }
