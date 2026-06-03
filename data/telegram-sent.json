@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-02T23:49:07.321Z",
+  "updatedAt": "2026-06-03T04:26:54.393Z",
   "entries": [
+    {
+      "id": "u_9ef23b76",
+      "sentAt": "2026-06-03T04:26:54.393Z",
+      "title": "MOSAIC Framework: Accelerating Mixture-of-Agents on Limited GPUs"
+    },
+    {
+      "id": "u_6fc18354",
+      "sentAt": "2026-06-03T04:26:54.393Z",
+      "title": "Breaking Down Barriers in Brain-Computer Interface Classification"
+    },
+    {
+      "id": "u_21eb4a6a",
+      "sentAt": "2026-06-03T04:26:54.393Z",
+      "title": "New AI Framework Cuts Memory Costs in Multimodal Reasoning"
+    },
+    {
+      "id": "u_6b4b08e4",
+      "sentAt": "2026-06-03T04:26:54.393Z",
+      "title": "Quantum Fisher Views: A New Frontier in Multimodal Machine Learning"
+    },
+    {
+      "id": "u_13ec39f9",
+      "sentAt": "2026-06-03T04:26:54.393Z",
+      "title": "MiniMax dropped a new attention architecture. [N]"
+    },
     {
       "id": "u_373a45ef",
       "sentAt": "2026-06-02T23:49:07.321Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9211827e",
       "sentAt": "2026-05-08T03:27:14.538Z",
       "title": "OpenAI has unveiled its artificial intelligence (AI) model \"GPT-5.5-Cyber\" specialized in cybersecur.. - 매일경제"
-    },
-    {
-      "id": "u_2dddd396",
-      "sentAt": "2026-05-08T03:27:14.538Z",
-      "title": "You can now read Gemma 3's mind"
-    },
-    {
-      "id": "u_7b88742c",
-      "sentAt": "2026-05-08T03:27:14.538Z",
-      "title": "OpenAI's GPT-5.5-Cyber: A New Frontier in Cybersecurity"
-    },
-    {
-      "id": "u_ddfe2ba1",
-      "sentAt": "2026-05-08T03:27:14.538Z",
-      "title": "Revolutionizing Political Transparency with AI: The Politik App Story"
-    },
-    {
-      "id": "u_687c5a61",
-      "sentAt": "2026-05-07T23:02:44.377Z",
-      "title": "Meta’s Position on Canada’s Bill C-22"
-    },
-    {
-      "id": "u_f9c4d653",
-      "sentAt": "2026-05-07T23:02:44.377Z",
-      "title": "OpenAI launches new voice intelligence features in its API"
     }
   ]
 }
