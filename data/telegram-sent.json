@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-04T15:23:09.164Z",
+  "updatedAt": "2026-06-04T18:21:50.600Z",
   "entries": [
+    {
+      "id": "u_29792df2",
+      "sentAt": "2026-06-04T18:21:50.600Z",
+      "title": "Fault Tolerance in LangGraph: Retries, Timeouts and Error Handlers"
+    },
+    {
+      "id": "u_e82b02f4",
+      "sentAt": "2026-06-04T18:21:50.600Z",
+      "title": "Radiant Logic extends identity visibility platform to enterprise AI agents with real-time risk scoring"
+    },
+    {
+      "id": "u_2e48ee94",
+      "sentAt": "2026-06-04T18:21:50.600Z",
+      "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart"
+    },
+    {
+      "id": "u_ff492bc3",
+      "sentAt": "2026-06-04T18:21:50.600Z",
+      "title": "We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and you adopt it by changing one import [P] [R]"
+    },
+    {
+      "id": "u_2deff5c9",
+      "sentAt": "2026-06-04T18:21:50.600Z",
+      "title": "Asana launches AI ‘chief of staff’ to keep projects on track - Computerworld"
+    },
     {
       "id": "u_f450c026",
       "sentAt": "2026-06-04T15:23:09.164Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ea8a28da",
       "sentAt": "2026-05-08T19:23:56.730Z",
       "title": "Compiled every national AI strategy in Asia — Vietnam has the most comprehensive standalone law, Japan has no penalties, Korea just eliminated Naver from sovereign LLM competition for using Qwen weights"
-    },
-    {
-      "id": "u_228c7060",
-      "sentAt": "2026-05-08T19:23:56.730Z",
-      "title": "Claude, brought to you by Elon Musk"
-    },
-    {
-      "id": "u_ac7d8a20",
-      "sentAt": "2026-05-08T19:23:56.730Z",
-      "title": "HPE's AI-Powered Wi-Fi: A New Era for Autonomous Networks?"
-    },
-    {
-      "id": "u_ce65a425",
-      "sentAt": "2026-05-08T19:23:56.730Z",
-      "title": "Rethinking Multimodal AI: Efficiency Without the Bottleneck"
-    },
-    {
-      "id": "u_89a8a386",
-      "sentAt": "2026-05-08T17:23:06.379Z",
-      "title": "Untrusted AI: Navigating the Risks with AI-Control Games"
-    },
-    {
-      "id": "u_b5c7cc44",
-      "sentAt": "2026-05-08T17:23:06.379Z",
-      "title": "Alabama A&M launching Alabama’s first bachelor’s degree in artificial intelligence - 256 Today"
     }
   ]
 }
