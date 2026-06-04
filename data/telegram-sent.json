@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-04T21:43:43.759Z",
+  "updatedAt": "2026-06-04T23:11:35.492Z",
   "entries": [
+    {
+      "id": "u_7b354c43",
+      "sentAt": "2026-06-04T23:11:35.492Z",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab"
+    },
+    {
+      "id": "u_52a1e93",
+      "sentAt": "2026-06-04T23:11:35.492Z",
+      "title": "Cloudflare acquires VoidZero, maker of the Vite JavaScript toolchain"
+    },
+    {
+      "id": "u_67fc0abc",
+      "sentAt": "2026-06-04T23:11:35.492Z",
+      "title": "Token Billing Exposes AI's Missing ROI And Puts Billion-Dollar Bets At Risk"
+    },
+    {
+      "id": "u_50b80062",
+      "sentAt": "2026-06-04T23:11:35.492Z",
+      "title": "NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents"
+    },
+    {
+      "id": "u_ad1163e0",
+      "sentAt": "2026-06-04T23:11:35.492Z",
+      "title": "cyankiwi AWQ 4-bit — 26.05 update, NVFP4 + FP8 Dynamic quantization and benchmarks across Qwen3.6 4-bit quants"
+    },
     {
       "id": "u_de58ad9",
       "sentAt": "2026-06-04T21:43:43.759Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a720e277",
       "sentAt": "2026-05-08T22:59:04.712Z",
       "title": "The Titans of AI Chip Manufacturing: Samsung, Intel, and TSMC Lead the Charge"
-    },
-    {
-      "id": "u_6f7a14a5",
-      "sentAt": "2026-05-08T22:59:04.712Z",
-      "title": "GPT-5.5 may burn fewer tokens, but it always burns more cash"
-    },
-    {
-      "id": "u_1e20487d",
-      "sentAt": "2026-05-08T22:59:04.712Z",
-      "title": "(Rant ;)) Make your benchmarks realistic"
-    },
-    {
-      "id": "u_87cee15",
-      "sentAt": "2026-05-08T22:59:04.712Z",
-      "title": "z-lab released gemma-4-26B-A4B-it-DFlash. Anybody tried it yet?"
-    },
-    {
-      "id": "u_7c0afcd5",
-      "sentAt": "2026-05-08T21:05:45.347Z",
-      "title": "OpenAI Codex: Secure Coding in a Sandbox World"
-    },
-    {
-      "id": "u_e9da14c4",
-      "sentAt": "2026-05-08T21:05:45.347Z",
-      "title": "Rethinking AI Policy Optimization with InfoTree: A Game Changer?"
     }
   ]
 }
