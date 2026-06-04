@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-03T23:47:15.837Z",
+  "updatedAt": "2026-06-04T04:22:00.238Z",
   "entries": [
+    {
+      "id": "u_d37923b7",
+      "sentAt": "2026-06-04T04:22:00.238Z",
+      "title": "BayesWarp: A New Frontier in Testing Neural Networks"
+    },
+    {
+      "id": "u_28806535",
+      "sentAt": "2026-06-04T04:22:00.238Z",
+      "title": "Self-Evolving Prompts: A New Era in AI Optimization"
+    },
+    {
+      "id": "u_ad5eacc6",
+      "sentAt": "2026-06-04T04:22:00.238Z",
+      "title": "Enhancing AI Logic with SGR: A New Framework for Reasoning"
+    },
+    {
+      "id": "u_808072b7",
+      "sentAt": "2026-06-04T04:22:00.238Z",
+      "title": "Why Large Language Models May Not Be Ready for the Counseling Couch"
+    },
+    {
+      "id": "u_77798abf",
+      "sentAt": "2026-06-04T04:22:00.238Z",
+      "title": "MM-BizRAG: Redefining Document Parsing with Structure-Aware AI"
+    },
     {
       "id": "u_271c177f",
       "sentAt": "2026-06-03T23:47:15.837Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ce4fb2e4",
       "sentAt": "2026-05-08T13:58:24.797Z",
       "title": "AI safety tests have a new problem: Models are now faking their own reasoning traces"
-    },
-    {
-      "id": "u_c229e748",
-      "sentAt": "2026-05-08T13:58:24.797Z",
-      "title": "GetDandy Launches Autonomous AI Workforce for Local Businesses, Delivering 24/7 Customer Engagement With No Setup Required - HRTech Series"
-    },
-    {
-      "id": "u_8218edb5",
-      "sentAt": "2026-05-08T13:58:24.797Z",
-      "title": "Implementing Permission-Gated Tool Calling in Python Agents"
-    },
-    {
-      "id": "u_6c8c4ac5",
-      "sentAt": "2026-05-08T13:58:24.797Z",
-      "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities"
-    },
-    {
-      "id": "u_8eebd13f",
-      "sentAt": "2026-05-08T11:21:37.383Z",
-      "title": "AI Tackles Wildfire Management: Optimizing Resources for a Fiery Future"
-    },
-    {
-      "id": "u_e819625e",
-      "sentAt": "2026-05-08T11:21:37.383Z",
-      "title": "Disney Embraces AI: Agents, Tokens, and Productivity Gains"
     }
   ]
 }
