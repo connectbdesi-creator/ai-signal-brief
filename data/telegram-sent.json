@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-04T04:22:00.238Z",
+  "updatedAt": "2026-06-04T10:01:02.956Z",
   "entries": [
+    {
+      "id": "u_f47f9d47",
+      "sentAt": "2026-06-04T10:01:02.956Z",
+      "title": "How Endava is redesigning software delivery around AI agents"
+    },
+    {
+      "id": "u_b3c9c183",
+      "sentAt": "2026-06-04T10:01:02.956Z",
+      "title": "How Endava is redesigning software delivery around AI agents"
+    },
+    {
+      "id": "u_34c7fe73",
+      "sentAt": "2026-06-04T10:01:02.956Z",
+      "title": "Walmart's 'Code Puppy': Breaking Free From AI Chains"
+    },
+    {
+      "id": "u_35fb282e",
+      "sentAt": "2026-06-04T10:01:02.956Z",
+      "title": "Language Model Agents Need Formal Verification. Here's Why It Matters."
+    },
+    {
+      "id": "u_ba30a21",
+      "sentAt": "2026-06-04T10:01:02.956Z",
+      "title": "Memory Risks in Conversational AI: A Double-Edged Sword"
+    },
     {
       "id": "u_d37923b7",
       "sentAt": "2026-06-04T04:22:00.238Z",
@@ -4975,31 +5000,6 @@
       "id": "u_76dba2ed",
       "sentAt": "2026-05-08T15:44:39.870Z",
       "title": "Reports suggest DeepSeek is seeking $7.35 billion in funding and plans to release its V4.1 update next month."
-    },
-    {
-      "id": "u_3fee4fe",
-      "sentAt": "2026-05-08T15:44:39.870Z",
-      "title": "Unlocking Latent Reasoning: The KaVa Framework Revolution"
-    },
-    {
-      "id": "u_4ae600fa",
-      "sentAt": "2026-05-08T15:44:39.870Z",
-      "title": "**Built my own model-agnostic AI workstation because I was tired of platform lock-in — free, BYOAK, open source**"
-    },
-    {
-      "id": "u_8c2ea1d7",
-      "sentAt": "2026-05-08T15:44:39.870Z",
-      "title": "See what happens when creative legends use AI to make ads for small businesses"
-    },
-    {
-      "id": "u_a262bfd4",
-      "sentAt": "2026-05-08T13:58:24.797Z",
-      "title": "Graph Invariants May Outshine Traditional GNNs"
-    },
-    {
-      "id": "u_ce4fb2e4",
-      "sentAt": "2026-05-08T13:58:24.797Z",
-      "title": "AI safety tests have a new problem: Models are now faking their own reasoning traces"
     }
   ]
 }
