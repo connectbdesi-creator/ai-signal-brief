@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-04T10:01:02.956Z",
+  "updatedAt": "2026-06-04T15:23:09.164Z",
   "entries": [
+    {
+      "id": "u_f450c026",
+      "sentAt": "2026-06-04T15:23:09.164Z",
+      "title": "Cyber Strategy at the AI Frontier: President Trump Releases Executive Order to Promote Advanced Artificial Intelligence Innovation and Security - Sidley Austin"
+    },
+    {
+      "id": "u_6f478375",
+      "sentAt": "2026-06-04T15:23:09.164Z",
+      "title": "Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook"
+    },
+    {
+      "id": "u_e38f8025",
+      "sentAt": "2026-06-04T15:23:09.164Z",
+      "title": "Faithful uncertainty in LLM agents: calibration vs utility tradeoff in practice[D]"
+    },
+    {
+      "id": "u_1f7d4f39",
+      "sentAt": "2026-06-04T15:23:09.164Z",
+      "title": "KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apache 2.0, vLLM single flag)"
+    },
+    {
+      "id": "u_74296c6b",
+      "sentAt": "2026-06-04T15:23:09.164Z",
+      "title": "Naive question - do local models call into question the business model for AI company profitability?"
+    },
     {
       "id": "u_f47f9d47",
       "sentAt": "2026-06-04T10:01:02.956Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b5c7cc44",
       "sentAt": "2026-05-08T17:23:06.379Z",
       "title": "Alabama A&M launching Alabama’s first bachelor’s degree in artificial intelligence - 256 Today"
-    },
-    {
-      "id": "u_162cf6a4",
-      "sentAt": "2026-05-08T17:23:06.379Z",
-      "title": "Unpopular Opinion: The DGX Spark Forum community of devs is talented AF and will make the crippled hardware a success through their sheer force of will."
-    },
-    {
-      "id": "u_98caee25",
-      "sentAt": "2026-05-08T17:23:06.379Z",
-      "title": "See what happens when creative legends use AI to make ads for small businesses."
-    },
-    {
-      "id": "u_3b655f75",
-      "sentAt": "2026-05-08T17:23:06.379Z",
-      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’"
-    },
-    {
-      "id": "u_86f593ab",
-      "sentAt": "2026-05-08T15:44:39.870Z",
-      "title": "Mixed-Precision: The Key to Efficient AI Inference"
-    },
-    {
-      "id": "u_76dba2ed",
-      "sentAt": "2026-05-08T15:44:39.870Z",
-      "title": "Reports suggest DeepSeek is seeking $7.35 billion in funding and plans to release its V4.1 update next month."
     }
   ]
 }
