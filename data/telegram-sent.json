@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-05T16:31:00.653Z",
+  "updatedAt": "2026-06-05T19:59:30.831Z",
   "entries": [
+    {
+      "id": "u_69abb060",
+      "sentAt": "2026-06-05T19:59:30.831Z",
+      "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time"
+    },
+    {
+      "id": "u_27f058cc",
+      "sentAt": "2026-06-05T19:59:30.831Z",
+      "title": "Microsoft's AI Agents Need Employee Treatment, says Nadella"
+    },
+    {
+      "id": "u_873d6431",
+      "sentAt": "2026-06-05T19:59:30.831Z",
+      "title": "AI agents being governed by other AI agents, nothing to see here"
+    },
+    {
+      "id": "u_3fd2d95c",
+      "sentAt": "2026-06-05T19:59:30.831Z",
+      "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance"
+    },
+    {
+      "id": "u_d25ed494",
+      "sentAt": "2026-06-05T19:59:30.831Z",
+      "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance"
+    },
     {
       "id": "u_3beaf7a9",
       "sentAt": "2026-06-05T16:31:00.653Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4c4911c8",
       "sentAt": "2026-05-09T14:55:12.343Z",
       "title": "Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help"
-    },
-    {
-      "id": "u_40552080",
-      "sentAt": "2026-05-09T14:55:12.343Z",
-      "title": "More Qwen3.6-27B MTP success but on dual Mi50s"
-    },
-    {
-      "id": "u_35f44cb3",
-      "sentAt": "2026-05-09T13:24:40.252Z",
-      "title": "Tencent's Yuanbao: The Dark Horse of AI Tools in China"
-    },
-    {
-      "id": "u_fadace9",
-      "sentAt": "2026-05-09T13:24:40.252Z",
-      "title": "Kuaishou's AI Bet: Kling AI Boosts Revenue as Users Flock"
-    },
-    {
-      "id": "u_58c51e9d",
-      "sentAt": "2026-05-09T13:24:40.252Z",
-      "title": "Tencent Ups the Ante with Hunyuan T1 and DeepSeek V3"
-    },
-    {
-      "id": "u_fe08186d",
-      "sentAt": "2026-05-09T13:24:40.252Z",
-      "title": "DeepSeek's AI: Innovation or Misinformation?"
     }
   ]
 }
