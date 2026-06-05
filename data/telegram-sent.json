@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-05T09:57:52.680Z",
+  "updatedAt": "2026-06-05T12:44:55.846Z",
   "entries": [
+    {
+      "id": "u_696a3c07",
+      "sentAt": "2026-06-05T12:44:55.846Z",
+      "title": "Rethinking LLM Benchmarks: A Bayesian Approach to Better Metrics"
+    },
+    {
+      "id": "u_51dd7b53",
+      "sentAt": "2026-06-05T12:44:55.846Z",
+      "title": "Harnessing AI: RHO's Game-Changing Approach to Self-Optimization"
+    },
+    {
+      "id": "u_2c89285f",
+      "sentAt": "2026-06-05T12:44:55.846Z",
+      "title": "Asuka-Bench: A New Era in Code-Generation Benchmarks"
+    },
+    {
+      "id": "u_6deffbb7",
+      "sentAt": "2026-06-05T12:44:55.846Z",
+      "title": "Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development — 'recursive self improvement' increases risk humans lose control of AI - Tom's Hardware"
+    },
+    {
+      "id": "u_91381866",
+      "sentAt": "2026-06-05T12:44:55.846Z",
+      "title": "Quoting Andreas Kling"
+    },
     {
       "id": "u_8e43d679",
       "sentAt": "2026-06-05T09:57:52.680Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fe1b5fac",
       "sentAt": "2026-05-09T11:00:33.880Z",
       "title": "Fourier's GR-3: A Humanoid Robot for Care and Companionship"
-    },
-    {
-      "id": "u_9dcc4e31",
-      "sentAt": "2026-05-09T11:00:33.880Z",
-      "title": "Google's Gemini Live: Hidden AI Models Unveiled"
-    },
-    {
-      "id": "u_dbd69d77",
-      "sentAt": "2026-05-09T09:23:11.931Z",
-      "title": "DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]"
-    },
-    {
-      "id": "u_5c89283a",
-      "sentAt": "2026-05-09T09:23:11.931Z",
-      "title": "We built and open-sourced Caliby: An embedded, high-performance vector database for AI Agents (Beats pgvector by 4x, outperforms FAISS on disk)"
-    },
-    {
-      "id": "u_c7b8ad21",
-      "sentAt": "2026-05-09T06:19:49.646Z",
-      "title": "MongoDB 8.3: Elevating AI with Next-Gen Database Power"
-    },
-    {
-      "id": "u_d51a0fad",
-      "sentAt": "2026-05-09T06:19:49.646Z",
-      "title": "Vibe Dot: The Wearable AI Shaping Workplace Conversations"
     }
   ]
 }
