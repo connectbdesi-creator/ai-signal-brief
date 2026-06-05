@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-05T19:59:30.831Z",
+  "updatedAt": "2026-06-05T21:41:10.150Z",
   "entries": [
+    {
+      "id": "u_94e560ee",
+      "sentAt": "2026-06-05T21:41:10.150Z",
+      "title": "How OpenAI Dreaming V3 works (+ every other agent Memory Framework [N]"
+    },
+    {
+      "id": "u_63d55918",
+      "sentAt": "2026-06-05T21:41:10.150Z",
+      "title": "OpenLumara - A different kind of AI agent, written from scratch, not vibecoded. Extremely token-efficient, super small system prompt, made for local models. Everything is modular."
+    },
+    {
+      "id": "u_19269d6b",
+      "sentAt": "2026-06-05T21:41:10.150Z",
+      "title": "Running Qwen3.6-35B-A3B on a laptop RTX 4060 (8GB) — what worked, what didn't, and a surprising speculative-decoding result"
+    },
+    {
+      "id": "u_1fda81c7",
+      "sentAt": "2026-06-05T21:41:10.150Z",
+      "title": "Meet the Chinese Video AI Models Shaping the Future of Content"
+    },
+    {
+      "id": "u_992209f7",
+      "sentAt": "2026-06-05T21:41:10.150Z",
+      "title": "Satya Nadella says AI agents should be treated like employees with identities, permissions, and audits"
+    },
     {
       "id": "u_69abb060",
       "sentAt": "2026-06-05T19:59:30.831Z",
@@ -4975,31 +5000,6 @@
       "id": "u_aa7f2c67",
       "sentAt": "2026-05-09T16:59:32.566Z",
       "title": "The many sides of Mimo v2.5 Pro"
-    },
-    {
-      "id": "u_981cd9d8",
-      "sentAt": "2026-05-09T16:59:32.566Z",
-      "title": "ElevenLabs Gives Chat Agents a Voice - StartupHub.ai"
-    },
-    {
-      "id": "u_ecaa890e",
-      "sentAt": "2026-05-09T14:55:12.343Z",
-      "title": "DeepSeek AI: The Catalyst Reshaping China's Tech Ecosystem"
-    },
-    {
-      "id": "u_bbc01618",
-      "sentAt": "2026-05-09T14:55:12.343Z",
-      "title": "DeepSeek AI Models Power Up Chinese Automakers' In-Car Systems"
-    },
-    {
-      "id": "u_991a0bac",
-      "sentAt": "2026-05-09T14:55:12.343Z",
-      "title": "ByteDance Unveils UltraMem: A Game Changer for AI Efficiency"
-    },
-    {
-      "id": "u_4c4911c8",
-      "sentAt": "2026-05-09T14:55:12.343Z",
-      "title": "Fields Medalist says ChatGPT 5.5 Pro delivered \"PhD-level\" math research in under two hours with zero human help"
     }
   ]
 }
