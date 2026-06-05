@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-05T12:44:55.846Z",
+  "updatedAt": "2026-06-05T16:31:00.653Z",
   "entries": [
+    {
+      "id": "u_3beaf7a9",
+      "sentAt": "2026-06-05T16:31:00.653Z",
+      "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces"
+    },
+    {
+      "id": "u_5b0f8797",
+      "sentAt": "2026-06-05T16:31:00.653Z",
+      "title": "GWSB to launch artificial intelligence-focused master’s program in fall 2026 - The GW Hatchet"
+    },
+    {
+      "id": "u_4a0f7262",
+      "sentAt": "2026-06-05T16:31:00.653Z",
+      "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs"
+    },
+    {
+      "id": "u_5fc48f83",
+      "sentAt": "2026-06-05T16:31:00.653Z",
+      "title": "I implemented KVarN in my llama.cpp fork and ran KLD benchmarks. It's promising!"
+    },
+    {
+      "id": "u_f59569fe",
+      "sentAt": "2026-06-05T16:31:00.653Z",
+      "title": "AI Budgets: Why Agents Are Wrecking Them and What You Can Do"
+    },
     {
       "id": "u_696a3c07",
       "sentAt": "2026-06-05T12:44:55.846Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fe08186d",
       "sentAt": "2026-05-09T13:24:40.252Z",
       "title": "DeepSeek's AI: Innovation or Misinformation?"
-    },
-    {
-      "id": "u_f6d2420e",
-      "sentAt": "2026-05-09T13:24:40.252Z",
-      "title": "5 enterprise AI agent swarms (Lemonade, CrowdStrike, Siemens) reverse-engineered into runnable browser templates."
-    },
-    {
-      "id": "u_9440dd94",
-      "sentAt": "2026-05-09T11:00:33.880Z",
-      "title": "Alibaba and Shenzhen Elevate Urban Airspace with 'Air Amap'"
-    },
-    {
-      "id": "u_37813b24",
-      "sentAt": "2026-05-09T11:00:33.880Z",
-      "title": "LimX Dynamics Unveils Versatile Humanoid Robot Oli"
-    },
-    {
-      "id": "u_2b0cf862",
-      "sentAt": "2026-05-09T11:00:33.880Z",
-      "title": "Baidu and Lyft: Steering Robotaxis into Europe's Future"
-    },
-    {
-      "id": "u_fe1b5fac",
-      "sentAt": "2026-05-09T11:00:33.880Z",
-      "title": "Fourier's GR-3: A Humanoid Robot for Care and Companionship"
     }
   ]
 }
