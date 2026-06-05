@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-04T23:11:35.492Z",
+  "updatedAt": "2026-06-05T04:04:56.726Z",
   "entries": [
+    {
+      "id": "u_83d6e3e8",
+      "sentAt": "2026-06-05T04:04:56.726Z",
+      "title": "Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO"
+    },
+    {
+      "id": "u_61fee671",
+      "sentAt": "2026-06-05T04:04:56.726Z",
+      "title": "Generic Triple-Latent Compression with Gated Associative Retrieval"
+    },
+    {
+      "id": "u_3e4587f9",
+      "sentAt": "2026-06-05T04:04:56.726Z",
+      "title": "Epidemiology of Model Collapse: Modeling Synthetic Data Contamination via Bilayer SIR Dynamics"
+    },
+    {
+      "id": "u_3795791a",
+      "sentAt": "2026-06-05T04:04:56.726Z",
+      "title": "Predict and Reconstruct: Joint Objectives for Self-Supervised Language Representation Learning"
+    },
+    {
+      "id": "u_c2c0d59a",
+      "sentAt": "2026-06-05T04:04:56.726Z",
+      "title": "PEFT of SLM for Telecommunications Customer Support: A Comparative Study of LoRA Configurations with Energy Consumption Analysis"
+    },
     {
       "id": "u_7b354c43",
       "sentAt": "2026-06-04T23:11:35.492Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7bbb1170",
       "sentAt": "2026-05-09T03:25:41.121Z",
       "title": "Akamai Lands $1.8 Billion Anthropic Deal As CDN Becomes AI Cloud"
-    },
-    {
-      "id": "u_2c7ec038",
-      "sentAt": "2026-05-09T03:25:41.121Z",
-      "title": "RTX Pro 4500 Blackwell - Qwen 3.6 27B?"
-    },
-    {
-      "id": "u_2b447692",
-      "sentAt": "2026-05-09T03:25:41.121Z",
-      "title": "Qwen3.6 35B A3B uncensored heretic Native MTP Preserved is Out Now With KLD 0.0015, 10/100 Refusals and the Full 19 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats"
-    },
-    {
-      "id": "u_d40cb704",
-      "sentAt": "2026-05-09T03:25:41.121Z",
-      "title": "Agentic AI: The Backbone of Critical Decision Frameworks"
-    },
-    {
-      "id": "u_2660be48",
-      "sentAt": "2026-05-08T22:59:04.712Z",
-      "title": "I built a benchmark for AI “memory” in coding agents. looking for others to beat it."
-    },
-    {
-      "id": "u_a720e277",
-      "sentAt": "2026-05-08T22:59:04.712Z",
-      "title": "The Titans of AI Chip Manufacturing: Samsung, Intel, and TSMC Lead the Charge"
     }
   ]
 }
