@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-06T13:50:42.557Z",
+  "updatedAt": "2026-06-06T15:19:01.903Z",
   "entries": [
+    {
+      "id": "u_49868515",
+      "sentAt": "2026-06-06T15:19:01.903Z",
+      "title": "AI Regulation Hits the Spotlight: House Draft Bill Aims for Control"
+    },
+    {
+      "id": "u_160e9167",
+      "sentAt": "2026-06-06T15:19:01.903Z",
+      "title": "AI's New Frontier: The Rise of AI-Generated Content"
+    },
+    {
+      "id": "u_d84d33ee",
+      "sentAt": "2026-06-06T15:19:01.903Z",
+      "title": "Roblox's AI World Model Stirs Controversy in Gaming"
+    },
+    {
+      "id": "u_c33f946d",
+      "sentAt": "2026-06-06T15:19:01.903Z",
+      "title": "Grok: The AI That Could Change How We Communicate"
+    },
+    {
+      "id": "u_399839a0",
+      "sentAt": "2026-06-06T15:19:01.903Z",
+      "title": "Experimentation with Qwen 3.6 and Gemma 4 - Guidance needed"
+    },
     {
       "id": "u_8ae35983",
       "sentAt": "2026-06-06T13:50:42.557Z",
@@ -4975,31 +5000,6 @@
       "id": "u_926e6b0a",
       "sentAt": "2026-05-10T11:02:23.029Z",
       "title": "Researchers may have found a way to stop AI models from intentionally playing dumb during safety evaluations"
-    },
-    {
-      "id": "u_8938796a",
-      "sentAt": "2026-05-10T09:41:21.575Z",
-      "title": "Parax v0.7: Parametric Modeling in JAX [P]"
-    },
-    {
-      "id": "u_3d8bcc8d",
-      "sentAt": "2026-05-10T09:41:21.575Z",
-      "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers"
-    },
-    {
-      "id": "u_2afbf814",
-      "sentAt": "2026-05-10T09:41:21.575Z",
-      "title": "OpenAI's GPT-5.5 Price Hike: A Costly Leap Forward?"
-    },
-    {
-      "id": "u_e27a135c",
-      "sentAt": "2026-05-10T09:41:21.575Z",
-      "title": "Grokmaxing? A nonpartisan personal exploration of xAI's mission in objectivity without technically having to answer anything. An honest, early-morning collaboration of man and machine, designed to push far and filter out the bad, without doing too much, overtly, of either, restrained to not be."
-    },
-    {
-      "id": "u_1cca84ae",
-      "sentAt": "2026-05-10T09:41:21.575Z",
-      "title": "AI 'Sandbagging' Raises New Safety Concerns"
     }
   ]
 }
