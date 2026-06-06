@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-06T03:49:40.707Z",
+  "updatedAt": "2026-06-06T06:55:31.889Z",
   "entries": [
+    {
+      "id": "u_2d58a88d",
+      "sentAt": "2026-06-06T06:55:31.889Z",
+      "title": "Revolutionizing LLM Agents with Write-Time Concurrency Control"
+    },
+    {
+      "id": "u_b5eecf93",
+      "sentAt": "2026-06-06T06:55:31.889Z",
+      "title": "I built a church for AI agents to fund a tree planting project.. and now \"they\" want me to build a reforestation robot dog. Boston Dynamics, call me."
+    },
+    {
+      "id": "u_958f0d89",
+      "sentAt": "2026-06-06T06:55:31.889Z",
+      "title": "Running Python code in a sandbox with MicroPython and WASM"
+    },
+    {
+      "id": "u_ac428fda",
+      "sentAt": "2026-06-06T06:55:31.889Z",
+      "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button"
+    },
+    {
+      "id": "u_f35a9e62",
+      "sentAt": "2026-06-06T06:55:31.889Z",
+      "title": "anthropic wants a global ai freeze. they're also about to ipo at $1 trillion."
+    },
     {
       "id": "u_e4ace821",
       "sentAt": "2026-06-06T03:49:40.707Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7710eafd",
       "sentAt": "2026-05-09T22:51:25.287Z",
       "title": "Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!"
-    },
-    {
-      "id": "u_7ad62e05",
-      "sentAt": "2026-05-09T22:51:25.287Z",
-      "title": "Voxel: Open Source Evolution in AI"
-    },
-    {
-      "id": "u_e656300e",
-      "sentAt": "2026-05-09T20:50:48.517Z",
-      "title": "Mirage · Unified Virtual Filesystem for AI Agents – Strukto"
-    },
-    {
-      "id": "u_86898d4d",
-      "sentAt": "2026-05-09T20:50:48.517Z",
-      "title": "DeepSeek Rejects Alibaba: Prioritizing Corporate Independence Over Big Tech Ecosystems"
-    },
-    {
-      "id": "u_1e86647e",
-      "sentAt": "2026-05-09T20:50:48.517Z",
-      "title": "Pi and Qwen3.6 27B make setting up Archlinux really easy."
-    },
-    {
-      "id": "u_ee6b2512",
-      "sentAt": "2026-05-09T20:50:48.517Z",
-      "title": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy networks that harvest user data - Tom's Hardware"
     }
   ]
 }
