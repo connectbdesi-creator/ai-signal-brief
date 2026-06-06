@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-06T10:07:59.881Z",
+  "updatedAt": "2026-06-06T13:50:42.557Z",
   "entries": [
+    {
+      "id": "u_8ae35983",
+      "sentAt": "2026-06-06T13:50:42.557Z",
+      "title": "Trump: U.S. stake in AI giants \"could be a beautiful thing\""
+    },
+    {
+      "id": "u_fd91ed3",
+      "sentAt": "2026-06-06T13:50:42.557Z",
+      "title": "Revenge of the AI bubble"
+    },
+    {
+      "id": "u_aec571",
+      "sentAt": "2026-06-06T13:50:42.557Z",
+      "title": "where did all the other ai companies go?"
+    },
+    {
+      "id": "u_60650f5",
+      "sentAt": "2026-06-06T13:50:42.557Z",
+      "title": "Navigating the World of AI Agents: Where Should Developers Start?"
+    },
+    {
+      "id": "u_3095226d",
+      "sentAt": "2026-06-06T13:50:42.557Z",
+      "title": "Meta's New AI Model Faces Delays: What's Really Going On?"
+    },
     {
       "id": "u_1c7cf740",
       "sentAt": "2026-06-06T10:07:59.881Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1cca84ae",
       "sentAt": "2026-05-10T09:41:21.575Z",
       "title": "AI 'Sandbagging' Raises New Safety Concerns"
-    },
-    {
-      "id": "u_e0af9093",
-      "sentAt": "2026-05-10T06:36:11.503Z",
-      "title": "am I running this llama-bench of Qwen3.6-27B on these V100s right?"
-    },
-    {
-      "id": "u_af522bfc",
-      "sentAt": "2026-05-10T06:36:11.503Z",
-      "title": "Best AI coding plan alternative to Claude and ChatGPT"
-    },
-    {
-      "id": "u_dfe1c13a",
-      "sentAt": "2026-05-10T06:36:11.503Z",
-      "title": "AI Institutions Report: A Wake-Up Call for Policy Makers"
-    },
-    {
-      "id": "u_dd3967f7",
-      "sentAt": "2026-05-10T06:36:11.503Z",
-      "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping - The Indian Express"
-    },
-    {
-      "id": "u_10689a61",
-      "sentAt": "2026-05-10T03:38:16.400Z",
-      "title": "What are the best 40-500 B MoE LLM models now?"
     }
   ]
 }
