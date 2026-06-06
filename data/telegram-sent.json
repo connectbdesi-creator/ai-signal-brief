@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-06T21:08:10.825Z",
+  "updatedAt": "2026-06-06T23:07:30.325Z",
   "entries": [
+    {
+      "id": "u_9a117641",
+      "sentAt": "2026-06-06T23:07:30.325Z",
+      "title": "Trump Signs Executive Order for AI Testing Prior to Frontier Model Releases"
+    },
+    {
+      "id": "u_c142f82a",
+      "sentAt": "2026-06-06T23:07:30.325Z",
+      "title": "Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal"
+    },
+    {
+      "id": "u_dd258df3",
+      "sentAt": "2026-06-06T23:07:30.325Z",
+      "title": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model — 1,000 Ascend 910C chips used in training - Tom's Hardware"
+    },
+    {
+      "id": "u_f8204ce2",
+      "sentAt": "2026-06-06T23:07:30.325Z",
+      "title": "DeepSeek V4 Flash is amazing! (WIP llama.cpp PR #24162)"
+    },
+    {
+      "id": "u_de4cfc1e",
+      "sentAt": "2026-06-06T23:07:30.325Z",
+      "title": "NVIDIA Releases Nemotron 3.5 ASR: A 600M-Parameter Cache-Aware Streaming Model Transcribing 40 Language-Locales in Real Time"
+    },
     {
       "id": "u_f6d7e08d",
       "sentAt": "2026-06-06T21:08:10.825Z",
@@ -4975,31 +5000,6 @@
       "id": "u_56e0108e",
       "sentAt": "2026-05-10T19:10:19.627Z",
       "title": "Show HN: PerceptAI – Give AI agents eyes on any screen, not just browsers"
-    },
-    {
-      "id": "u_c8eeebe1",
-      "sentAt": "2026-05-10T17:00:12.796Z",
-      "title": "Terax: A New Player in the AI Game"
-    },
-    {
-      "id": "u_3ae29e40",
-      "sentAt": "2026-05-10T17:00:12.796Z",
-      "title": "Deepseek tui alternatives, when do you jump from single model terminal agents"
-    },
-    {
-      "id": "u_fd010f8e",
-      "sentAt": "2026-05-10T17:00:12.796Z",
-      "title": "Escrow for AI Agents: Who Holds the Virtual Keys?"
-    },
-    {
-      "id": "u_c9b32659",
-      "sentAt": "2026-05-10T17:00:12.796Z",
-      "title": "How to Build a Cost-Aware LLM Routing System with NadirClaw Using Local Prompt Classification and Gemini Model Switching"
-    },
-    {
-      "id": "u_751b067c",
-      "sentAt": "2026-05-10T17:00:12.796Z",
-      "title": "Why payment escrow for AI agents needed a different design"
     }
   ]
 }
