@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-06T06:55:31.889Z",
+  "updatedAt": "2026-06-06T10:07:59.881Z",
   "entries": [
+    {
+      "id": "u_1c7cf740",
+      "sentAt": "2026-06-06T10:07:59.881Z",
+      "title": "Microsoft's Strategic Shift: From Partnering to Pioneering AI"
+    },
+    {
+      "id": "u_825527e9",
+      "sentAt": "2026-06-06T10:07:59.881Z",
+      "title": "ToTra: A New Open Source Transformer Model That's Flying Under the Radar"
+    },
+    {
+      "id": "u_33a8d187",
+      "sentAt": "2026-06-06T10:07:59.881Z",
+      "title": "Big week for open AI, with 25+ notable open-weight drops across every modality (from Victor M on 𝕏)"
+    },
+    {
+      "id": "u_890bd795",
+      "sentAt": "2026-06-06T10:07:59.881Z",
+      "title": "The Memory Dilemma: When Should AI Recall Sensitive Data?"
+    },
+    {
+      "id": "u_2fa3f048",
+      "sentAt": "2026-06-06T10:07:59.881Z",
+      "title": "Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents"
+    },
     {
       "id": "u_2d58a88d",
       "sentAt": "2026-06-06T06:55:31.889Z",
@@ -4975,31 +5000,6 @@
       "id": "u_10689a61",
       "sentAt": "2026-05-10T03:38:16.400Z",
       "title": "What are the best 40-500 B MoE LLM models now?"
-    },
-    {
-      "id": "u_610dd709",
-      "sentAt": "2026-05-10T03:38:16.400Z",
-      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing"
-    },
-    {
-      "id": "u_7090b450",
-      "sentAt": "2026-05-10T03:38:16.400Z",
-      "title": "ToolOps: One Decorator Away from Production-Ready AI Agents"
-    },
-    {
-      "id": "u_32cf283f",
-      "sentAt": "2026-05-10T03:38:16.400Z",
-      "title": "The Perfect Fusion of AI and Human Expertise: MoneySkills Launches the Ultimate Hybrid Cryptocurrency Trading Bot for 2026 - markets.businessinsider.com"
-    },
-    {
-      "id": "u_375c6fa9",
-      "sentAt": "2026-05-09T22:51:25.287Z",
-      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing"
-    },
-    {
-      "id": "u_7710eafd",
-      "sentAt": "2026-05-09T22:51:25.287Z",
-      "title": "Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!"
     }
   ]
 }
