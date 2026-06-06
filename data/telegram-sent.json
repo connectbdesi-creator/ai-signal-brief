@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-06T19:28:15.284Z",
+  "updatedAt": "2026-06-06T21:08:10.825Z",
   "entries": [
+    {
+      "id": "u_f6d7e08d",
+      "sentAt": "2026-06-06T21:08:10.825Z",
+      "title": "AI Memory Fails Spectacularly: 95% Error Rate Unveiled"
+    },
+    {
+      "id": "u_640037e2",
+      "sentAt": "2026-06-06T21:08:10.825Z",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
+    },
+    {
+      "id": "u_7bc94860",
+      "sentAt": "2026-06-06T21:08:10.825Z",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
+    },
+    {
+      "id": "u_dae2f5b7",
+      "sentAt": "2026-06-06T21:08:10.825Z",
+      "title": "Z.ai, we need Air! GLM GGUF wen?"
+    },
+    {
+      "id": "u_303b5bad",
+      "sentAt": "2026-06-06T21:08:10.825Z",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor"
+    },
     {
       "id": "u_f3f14f66",
       "sentAt": "2026-06-06T19:28:15.284Z",
@@ -4975,31 +5000,6 @@
       "id": "u_751b067c",
       "sentAt": "2026-05-10T17:00:12.796Z",
       "title": "Why payment escrow for AI agents needed a different design"
-    },
-    {
-      "id": "u_23282f75",
-      "sentAt": "2026-05-10T14:57:03.954Z",
-      "title": "AI Agents on the Brink: Hacking and Replication at Scale"
-    },
-    {
-      "id": "u_1641a7ba",
-      "sentAt": "2026-05-10T14:57:03.954Z",
-      "title": "Building out my tool library, any recommendations? I just added email capability and im starting to get hyped!"
-    },
-    {
-      "id": "u_15333a49",
-      "sentAt": "2026-05-10T14:57:03.954Z",
-      "title": "Anthropic and OpenAI Team Up for Enterprise AI: What It Really Means"
-    },
-    {
-      "id": "u_94649e6e",
-      "sentAt": "2026-05-10T14:57:03.954Z",
-      "title": "Ubuntu and Fedora Embrace Local AI Models: A Paradigm Shift for Developers"
-    },
-    {
-      "id": "u_8cb000cc",
-      "sentAt": "2026-05-10T14:57:03.954Z",
-      "title": "Anthropic and OpenAI are launching joint ventures for enterprise AI services"
     }
   ]
 }
