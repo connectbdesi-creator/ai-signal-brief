@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-05T23:13:18.714Z",
+  "updatedAt": "2026-06-06T03:49:40.707Z",
   "entries": [
+    {
+      "id": "u_e4ace821",
+      "sentAt": "2026-06-06T03:49:40.707Z",
+      "title": "model: Granite4 Vision by gabe-l-hart · Pull Request #23545 · ggml-org/llama.cpp"
+    },
+    {
+      "id": "u_54878b16",
+      "sentAt": "2026-06-06T03:49:40.707Z",
+      "title": "How to Fine-Tune an SLM for Emotion Recognition"
+    },
+    {
+      "id": "u_605a59b3",
+      "sentAt": "2026-06-06T03:49:40.707Z",
+      "title": "[NEW MODEL] SupraLabs just released a new model! - Supra-50M-Reasoning"
+    },
+    {
+      "id": "u_9f0abe09",
+      "sentAt": "2026-06-06T03:49:40.707Z",
+      "title": "NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes"
+    },
+    {
+      "id": "u_be06ce36",
+      "sentAt": "2026-06-06T03:49:40.707Z",
+      "title": "Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing"
+    },
     {
       "id": "u_f474b4e2",
       "sentAt": "2026-06-05T23:13:18.714Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ee6b2512",
       "sentAt": "2026-05-09T20:50:48.517Z",
       "title": "Chinese grey market sells Claude API access at 90% off by using stolen credentials, model substitution, and harvesting users' prompts and outputs for resale as AI training data — 'transfer stations' operate through proxy networks that harvest user data - Tom's Hardware"
-    },
-    {
-      "id": "u_d2cbf207",
-      "sentAt": "2026-05-09T20:50:48.517Z",
-      "title": "Testing MiMo-V2.5-IQ3_S with 1'048'576 context"
-    },
-    {
-      "id": "u_aeba2580",
-      "sentAt": "2026-05-09T19:07:46.370Z",
-      "title": "model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp"
-    },
-    {
-      "id": "u_13c1b54f",
-      "sentAt": "2026-05-09T19:07:46.370Z",
-      "title": "Turkey unveils new missile, AI touts as able to hit US mainland"
-    },
-    {
-      "id": "u_81ba284f",
-      "sentAt": "2026-05-09T19:07:46.370Z",
-      "title": "Colibri-CLF: Open Source AI Ready to Ruffle Feathers"
-    },
-    {
-      "id": "u_4580b71e",
-      "sentAt": "2026-05-09T19:07:46.370Z",
-      "title": "AgentPitch: Rethinking AI Communication and Collaboration"
     }
   ]
 }
