@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T04:15:16.548Z",
+  "updatedAt": "2026-06-07T09:18:47.054Z",
   "entries": [
+    {
+      "id": "u_965ed20",
+      "sentAt": "2026-06-07T09:18:47.054Z",
+      "title": "OpenAI Announces Unnerving New ChatGPT Feature Named ‘Lockdown Mode’"
+    },
+    {
+      "id": "u_cb47feca",
+      "sentAt": "2026-06-07T09:18:47.054Z",
+      "title": "Research collection of Arxiv whitepapers [R]"
+    },
+    {
+      "id": "u_d2c82f6d",
+      "sentAt": "2026-06-07T09:18:47.054Z",
+      "title": "Best 21 Low-Code and No-Code AI Tools in 2026"
+    },
+    {
+      "id": "u_22999415",
+      "sentAt": "2026-06-07T09:18:47.054Z",
+      "title": "Training AI for the Professor of Tomorrow"
+    },
+    {
+      "id": "u_d786892",
+      "sentAt": "2026-06-07T09:18:47.054Z",
+      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs"
+    },
     {
       "id": "u_336f998f",
       "sentAt": "2026-06-07T04:15:16.548Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5c893598",
       "sentAt": "2026-05-10T22:52:53.236Z",
       "title": "AI in Customer Support: Efficiency or Frustration?"
-    },
-    {
-      "id": "u_42bc6d63",
-      "sentAt": "2026-05-10T20:53:19.012Z",
-      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts"
-    },
-    {
-      "id": "u_79de9704",
-      "sentAt": "2026-05-10T20:53:19.012Z",
-      "title": "LOREIN-Sovereign Entity: A Game Plan for Autonomous AI?"
-    },
-    {
-      "id": "u_f3bc3ee8",
-      "sentAt": "2026-05-10T20:53:19.012Z",
-      "title": "Code Bench – Local-first desktop AI coding agent, BYO model (MIT)"
-    },
-    {
-      "id": "u_c1232906",
-      "sentAt": "2026-05-10T20:53:19.012Z",
-      "title": "Show HN: Agent Postmortem Skill – Force AI coding agents to prove their work"
-    },
-    {
-      "id": "u_2f8ff9d2",
-      "sentAt": "2026-05-10T20:53:19.012Z",
-      "title": "Quoting Andrew Quinn"
     }
   ]
 }
