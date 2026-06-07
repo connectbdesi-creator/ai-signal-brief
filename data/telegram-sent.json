@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T17:22:19.018Z",
+  "updatedAt": "2026-06-07T19:28:01.542Z",
   "entries": [
+    {
+      "id": "u_fb1577e1",
+      "sentAt": "2026-06-07T19:28:01.542Z",
+      "title": "Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation"
+    },
+    {
+      "id": "u_d02c6aa9",
+      "sentAt": "2026-06-07T19:28:01.542Z",
+      "title": "Xbox Games Showcase 2026: All the news and trailers"
+    },
+    {
+      "id": "u_8aff4433",
+      "sentAt": "2026-06-07T19:28:01.542Z",
+      "title": "Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI"
+    },
+    {
+      "id": "u_e5ad8090",
+      "sentAt": "2026-06-07T19:28:01.542Z",
+      "title": "A handy llama-server launcher with easy model and configuration customisation"
+    },
+    {
+      "id": "u_ef209412",
+      "sentAt": "2026-06-07T19:28:01.542Z",
+      "title": "ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection"
+    },
     {
       "id": "u_e1781194",
       "sentAt": "2026-06-07T17:22:19.018Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bd2970f3",
       "sentAt": "2026-05-11T15:18:29.043Z",
       "title": "OpenAI launches $4 billion AI deployment company - qz.com"
-    },
-    {
-      "id": "u_f79b48b7",
-      "sentAt": "2026-05-11T11:28:22.828Z",
-      "title": "AI Open Source: The Underestimated Revolution"
-    },
-    {
-      "id": "u_7ef66eeb",
-      "sentAt": "2026-05-11T11:28:22.828Z",
-      "title": "AI Writing Apps: The Hype and the Reality"
-    },
-    {
-      "id": "u_44957fae",
-      "sentAt": "2026-05-11T11:28:22.828Z",
-      "title": "Long-Term AI State Poisoning: A Hidden Vulnerability Unveiled"
-    },
-    {
-      "id": "u_921c11f2",
-      "sentAt": "2026-05-11T11:28:22.828Z",
-      "title": "LANCE: Rethinking Safety in Large Language Models"
-    },
-    {
-      "id": "u_75b3e983",
-      "sentAt": "2026-05-11T11:28:22.828Z",
-      "title": "Are Enterprises Using AI in the Wrong Places?"
     }
   ]
 }
