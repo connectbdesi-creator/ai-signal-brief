@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T11:50:38.299Z",
+  "updatedAt": "2026-06-07T14:00:44.851Z",
   "entries": [
+    {
+      "id": "u_e4676202",
+      "sentAt": "2026-06-07T14:00:44.851Z",
+      "title": "How Stack Overflow Became AI's Unlikely Mentor"
+    },
+    {
+      "id": "u_6dbb9019",
+      "sentAt": "2026-06-07T14:00:44.851Z",
+      "title": "Show HN: Version Control for AI Agents"
+    },
+    {
+      "id": "u_3704c6ec",
+      "sentAt": "2026-06-07T14:00:44.851Z",
+      "title": "OpenAI Bets on Autonomous AI Agents, Declares Chat 'Dead'"
+    },
+    {
+      "id": "u_ee110e97",
+      "sentAt": "2026-06-07T14:00:44.851Z",
+      "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app"
+    },
+    {
+      "id": "u_8c00efc5",
+      "sentAt": "2026-06-07T14:00:44.851Z",
+      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts"
+    },
     {
       "id": "u_60ee8f5a",
       "sentAt": "2026-06-07T11:50:38.299Z",
@@ -4975,31 +5000,6 @@
       "id": "u_590d2784",
       "sentAt": "2026-05-11T07:48:22.253Z",
       "title": "Do you use subscriptions beside Local LLM?"
-    },
-    {
-      "id": "u_5171df2a",
-      "sentAt": "2026-05-11T03:52:02.512Z",
-      "title": "I Tested 4 Frontier AIs With a Psychosis Prompt. Half Failed."
-    },
-    {
-      "id": "u_54b9947f",
-      "sentAt": "2026-05-11T03:52:02.512Z",
-      "title": "Miller Welders Dips Toes into AI with Copilot Builder"
-    },
-    {
-      "id": "u_aca806fd",
-      "sentAt": "2026-05-11T03:52:02.512Z",
-      "title": "The Labor Department's AI Awakening: A Strategic Move or a Leap of Faith?"
-    },
-    {
-      "id": "u_1c7b83ea",
-      "sentAt": "2026-05-11T03:52:02.512Z",
-      "title": "China’s agentic AI policy wants to keep humans in the loop"
-    },
-    {
-      "id": "u_22f1c678",
-      "sentAt": "2026-05-11T03:52:02.512Z",
-      "title": "AI-Powered Kids' Toys: A Digital Playground with Risks"
     }
   ]
 }
