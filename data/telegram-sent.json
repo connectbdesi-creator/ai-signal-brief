@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T19:28:01.542Z",
+  "updatedAt": "2026-06-07T21:17:55.158Z",
   "entries": [
+    {
+      "id": "u_7b5f2165",
+      "sentAt": "2026-06-07T21:17:55.158Z",
+      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE"
+    },
+    {
+      "id": "u_58cc3e71",
+      "sentAt": "2026-06-07T21:17:55.158Z",
+      "title": "Qwen 3.6 27B on DeepSWE"
+    },
+    {
+      "id": "u_de34238b",
+      "sentAt": "2026-06-07T21:17:55.158Z",
+      "title": "AI's Role in Shaping Public Opinion: A New Frontier"
+    },
+    {
+      "id": "u_45595d6d",
+      "sentAt": "2026-06-07T21:17:55.158Z",
+      "title": "Artificial intelligence: Xinhua plans agents for ideological opinion-shaping - Table.Briefings"
+    },
+    {
+      "id": "u_697cddac",
+      "sentAt": "2026-06-07T21:17:55.158Z",
+      "title": "Google signs $920M monthly compute deal with SpaceX — company’s projected annual data center revenue to exceed its combined proceeds from Starlink, launch services, and AI in 2025 - Tom's Hardware"
+    },
     {
       "id": "u_fb1577e1",
       "sentAt": "2026-06-07T19:28:01.542Z",
@@ -4975,31 +5000,6 @@
       "id": "u_436b9517",
       "sentAt": "2026-05-11T17:57:55.826Z",
       "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models"
-    },
-    {
-      "id": "u_843b017",
-      "sentAt": "2026-05-11T15:18:29.043Z",
-      "title": "Best AI Tools by Category (2026 Honest Review with Pros and Cons)"
-    },
-    {
-      "id": "u_8e6f63f",
-      "sentAt": "2026-05-11T15:18:29.043Z",
-      "title": "Tree SAEs: Unlocking Hierarchical Learning in Sparse Autoencoders"
-    },
-    {
-      "id": "u_3ac4d756",
-      "sentAt": "2026-05-11T15:18:29.043Z",
-      "title": "AI's Evolution: Models That Learn Beyond Training"
-    },
-    {
-      "id": "u_6cdc5844",
-      "sentAt": "2026-05-11T15:18:29.043Z",
-      "title": "Build an AI-Powered Learning Management System That Actually Trains People"
-    },
-    {
-      "id": "u_bd2970f3",
-      "sentAt": "2026-05-11T15:18:29.043Z",
-      "title": "OpenAI launches $4 billion AI deployment company - qz.com"
     }
   ]
 }
