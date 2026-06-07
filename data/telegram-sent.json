@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T09:18:47.054Z",
+  "updatedAt": "2026-06-07T11:50:38.299Z",
   "entries": [
+    {
+      "id": "u_60ee8f5a",
+      "sentAt": "2026-06-07T11:50:38.299Z",
+      "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app"
+    },
+    {
+      "id": "u_a9434493",
+      "sentAt": "2026-06-07T11:50:38.299Z",
+      "title": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs"
+    },
+    {
+      "id": "u_6426c7b9",
+      "sentAt": "2026-06-07T11:50:38.299Z",
+      "title": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs"
+    },
+    {
+      "id": "u_4e0faef4",
+      "sentAt": "2026-06-07T11:50:38.299Z",
+      "title": "Clustering 3x Jetson Nano Orin Supers"
+    },
+    {
+      "id": "u_bbe6f0a6",
+      "sentAt": "2026-06-07T11:50:38.299Z",
+      "title": "ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection"
+    },
     {
       "id": "u_965ed20",
       "sentAt": "2026-06-07T09:18:47.054Z",
@@ -4975,31 +5000,6 @@
       "id": "u_22f1c678",
       "sentAt": "2026-05-11T03:52:02.512Z",
       "title": "AI-Powered Kids' Toys: A Digital Playground with Risks"
-    },
-    {
-      "id": "u_9457a560",
-      "sentAt": "2026-05-10T22:52:53.236Z",
-      "title": "Building Apps with AI: The New Developer-Free Frontier"
-    },
-    {
-      "id": "u_6acb0a67",
-      "sentAt": "2026-05-10T22:52:53.236Z",
-      "title": "I built an open source hyperparameter search tool for diffusion fine-tunes- pick the winner based on scoring"
-    },
-    {
-      "id": "u_1f6ad782",
-      "sentAt": "2026-05-10T22:52:53.236Z",
-      "title": "Sharing \"cull\" : my open-source dataset tool for image scraping & classification & captioning pipeline"
-    },
-    {
-      "id": "u_6a984324",
-      "sentAt": "2026-05-10T22:52:53.236Z",
-      "title": "Frona v2026.5.0 – self-hosted personal AI assistant"
-    },
-    {
-      "id": "u_5c893598",
-      "sentAt": "2026-05-10T22:52:53.236Z",
-      "title": "AI in Customer Support: Efficiency or Frustration?"
     }
   ]
 }
