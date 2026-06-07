@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-06T23:07:30.325Z",
+  "updatedAt": "2026-06-07T04:15:16.548Z",
   "entries": [
+    {
+      "id": "u_336f998f",
+      "sentAt": "2026-06-07T04:15:16.548Z",
+      "title": "5 Months Later: open-deepthink Now Has Full Knowledge Distillation Mode"
+    },
+    {
+      "id": "u_30cfd8a2",
+      "sentAt": "2026-06-07T04:15:16.548Z",
+      "title": "Amazon's Legal Tussle with Agentic AI: A Battle for Digital Gatekeeping"
+    },
+    {
+      "id": "u_21b7d837",
+      "sentAt": "2026-06-07T04:15:16.548Z",
+      "title": "Gemma 4 31B QAT Q4 vs standard Q4 — Top1 KLD benchmark results have me confused. Someone please explain or poke holes in this."
+    },
+    {
+      "id": "u_b2096a0f",
+      "sentAt": "2026-06-07T04:15:16.548Z",
+      "title": "Show HN: Persist – an AI agent that follows up accrued channels till they reply"
+    },
+    {
+      "id": "u_2d093699",
+      "sentAt": "2026-06-07T04:15:16.548Z",
+      "title": "QAT MTP Heads Upload + PARALLEL=2 Fix + 12B 2-slot Bench"
+    },
     {
       "id": "u_9a117641",
       "sentAt": "2026-06-06T23:07:30.325Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2f8ff9d2",
       "sentAt": "2026-05-10T20:53:19.012Z",
       "title": "Quoting Andrew Quinn"
-    },
-    {
-      "id": "u_d0c78625",
-      "sentAt": "2026-05-10T19:10:19.627Z",
-      "title": "Meta's own AI safety director lost 200 emails to a rogue agent and she couldn't stop it from her phone"
-    },
-    {
-      "id": "u_9b62f592",
-      "sentAt": "2026-05-10T19:10:19.627Z",
-      "title": "Running Qwen3.6 35b a3b on 8gb vram and 32gb ram ~190k context"
-    },
-    {
-      "id": "u_cb510885",
-      "sentAt": "2026-05-10T19:10:19.627Z",
-      "title": "DeepSeek-V4-Flash W4A16+FP8 with MTP self-speculation: 85 tok/s @ 524k on 2× RTX PRO 6000 Max-Q"
-    },
-    {
-      "id": "u_e8f64527",
-      "sentAt": "2026-05-10T19:10:19.627Z",
-      "title": "PerceptAI: Bridging the Gap Between Agents and Desktop Apps"
-    },
-    {
-      "id": "u_56e0108e",
-      "sentAt": "2026-05-10T19:10:19.627Z",
-      "title": "Show HN: PerceptAI – Give AI agents eyes on any screen, not just browsers"
     }
   ]
 }
