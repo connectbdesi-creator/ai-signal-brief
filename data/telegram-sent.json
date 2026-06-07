@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T14:00:44.851Z",
+  "updatedAt": "2026-06-07T17:22:19.018Z",
   "entries": [
+    {
+      "id": "u_e1781194",
+      "sentAt": "2026-06-07T17:22:19.018Z",
+      "title": "AgentCrew: Open-Source AI that Might Just Rock the Boat"
+    },
+    {
+      "id": "u_10708cef",
+      "sentAt": "2026-06-07T17:22:19.018Z",
+      "title": "Show HN: AgentCrew – a Markdown-first operating system for AI coding agents"
+    },
+    {
+      "id": "u_5b359dba",
+      "sentAt": "2026-06-07T17:22:19.018Z",
+      "title": "Snowflake, Databricks and the model makers: The battle for the agentic client and AI back end"
+    },
+    {
+      "id": "u_2e6d8495",
+      "sentAt": "2026-06-07T17:22:19.018Z",
+      "title": "How to Save Tokens When Coding with AI Agents: Subtitle Yadda Yadda"
+    },
+    {
+      "id": "u_e645efb7",
+      "sentAt": "2026-06-07T17:22:19.018Z",
+      "title": "Control a 3D avatar with language instead of buttons"
+    },
     {
       "id": "u_e4676202",
       "sentAt": "2026-06-07T14:00:44.851Z",
@@ -4975,31 +5000,6 @@
       "id": "u_75b3e983",
       "sentAt": "2026-05-11T11:28:22.828Z",
       "title": "Are Enterprises Using AI in the Wrong Places?"
-    },
-    {
-      "id": "u_9e762304",
-      "sentAt": "2026-05-11T07:48:22.253Z",
-      "title": "Revolutionizing Large Models: POISE Takes Center Stage"
-    },
-    {
-      "id": "u_e2434f41",
-      "sentAt": "2026-05-11T07:48:22.253Z",
-      "title": "ExLlamaV3 Major Updates!"
-    },
-    {
-      "id": "u_9276233",
-      "sentAt": "2026-05-11T07:48:22.253Z",
-      "title": "The new AI-powered Google Finance is expanding to Europe."
-    },
-    {
-      "id": "u_96e2cc95",
-      "sentAt": "2026-05-11T07:48:22.253Z",
-      "title": "Markdown browser for LLMs"
-    },
-    {
-      "id": "u_590d2784",
-      "sentAt": "2026-05-11T07:48:22.253Z",
-      "title": "Do you use subscriptions beside Local LLM?"
     }
   ]
 }
