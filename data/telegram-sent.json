@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T21:17:55.158Z",
+  "updatedAt": "2026-06-07T23:09:50.208Z",
   "entries": [
+    {
+      "id": "u_afc504e1",
+      "sentAt": "2026-06-07T23:09:50.208Z",
+      "title": "AI's Grip Tightens on the Chip Industry"
+    },
+    {
+      "id": "u_55d3269f",
+      "sentAt": "2026-06-07T23:09:50.208Z",
+      "title": "Unveiling Silicon Control: The Next Step in AI Regulation?"
+    },
+    {
+      "id": "u_60fb1602",
+      "sentAt": "2026-06-07T23:09:50.208Z",
+      "title": "AI Politics: Trump's Executive Order Dance and Anthropic's Strategic Moves"
+    },
+    {
+      "id": "u_76b6af3c",
+      "sentAt": "2026-06-07T23:09:50.208Z",
+      "title": "Bright Data's AI Agent Builds Web Scraping Pipelines - StartupHub.ai"
+    },
+    {
+      "id": "u_11e02fd0",
+      "sentAt": "2026-06-07T23:09:50.208Z",
+      "title": "Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b"
+    },
     {
       "id": "u_7b5f2165",
       "sentAt": "2026-06-07T21:17:55.158Z",
@@ -4975,31 +5000,6 @@
       "id": "u_279b9df3",
       "sentAt": "2026-05-11T19:59:39.622Z",
       "title": "DTSemNet: Redefining Decision Trees for AI's Frontier"
-    },
-    {
-      "id": "u_e8b3cbf3",
-      "sentAt": "2026-05-11T17:57:55.826Z",
-      "title": "A New Era for LLM Agents: Memory Mechanics and Beyond"
-    },
-    {
-      "id": "u_9ce674f9",
-      "sentAt": "2026-05-11T17:57:55.826Z",
-      "title": "TAVIS Benchmarks the Future of Active Vision in Imitation Learning"
-    },
-    {
-      "id": "u_2c495748",
-      "sentAt": "2026-05-11T17:57:55.826Z",
-      "title": "Moral Benchmarks: Are LLMs Really Making the Right Choices?"
-    },
-    {
-      "id": "u_c013b5f",
-      "sentAt": "2026-05-11T17:57:55.826Z",
-      "title": "Dynamic Entropy Control: Revamping Reinforcement Learning for LLMs"
-    },
-    {
-      "id": "u_436b9517",
-      "sentAt": "2026-05-11T17:57:55.826Z",
-      "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models"
     }
   ]
 }
