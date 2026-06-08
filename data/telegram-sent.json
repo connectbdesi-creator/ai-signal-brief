@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-07T23:09:50.208Z",
+  "updatedAt": "2026-06-08T04:19:50.224Z",
   "entries": [
+    {
+      "id": "u_d386e2ba",
+      "sentAt": "2026-06-08T04:19:50.224Z",
+      "title": "Breaking Down Bias in NLP: A Perspectivist Revolution"
+    },
+    {
+      "id": "u_66f363e6",
+      "sentAt": "2026-06-08T04:19:50.224Z",
+      "title": "How Complex Numbers Could Revolutionize Nuclear Mass Prediction"
+    },
+    {
+      "id": "u_7da76167",
+      "sentAt": "2026-06-08T04:19:50.224Z",
+      "title": "The Masked Advantage: Uncovering Local-Language Access to Cultural Knowledge in LLMs"
+    },
+    {
+      "id": "u_e706fa35",
+      "sentAt": "2026-06-08T04:19:50.224Z",
+      "title": "GenPO++: Generative Policy Optimization with Jacobian-free Likelihood Ratios"
+    },
+    {
+      "id": "u_ddb92a5d",
+      "sentAt": "2026-06-08T04:19:50.224Z",
+      "title": "Learning All-Terrain Locomotion for a Planetary Rover with Actively Articulated Suspension"
+    },
     {
       "id": "u_afc504e1",
       "sentAt": "2026-06-07T23:09:50.208Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ea5c3e0d",
       "sentAt": "2026-05-11T21:25:51.130Z",
       "title": "Anthropic's Claude Mythos: A New Cybersecurity Paradigm?"
-    },
-    {
-      "id": "u_fd53f30d",
-      "sentAt": "2026-05-11T19:59:39.622Z",
-      "title": "HyperEyes: The Future of Fast Multimodal Search"
-    },
-    {
-      "id": "u_d522db6f",
-      "sentAt": "2026-05-11T19:59:39.622Z",
-      "title": "Why Graph Anomaly Detection Needs a Reality Check"
-    },
-    {
-      "id": "u_e89900b6",
-      "sentAt": "2026-05-11T19:59:39.622Z",
-      "title": "DIAL: Smarter Computing for Smarter Decisions"
-    },
-    {
-      "id": "u_91d3df27",
-      "sentAt": "2026-05-11T19:59:39.622Z",
-      "title": "Revolutionizing Memory in AI: The MELT Approach"
-    },
-    {
-      "id": "u_279b9df3",
-      "sentAt": "2026-05-11T19:59:39.622Z",
-      "title": "DTSemNet: Redefining Decision Trees for AI's Frontier"
     }
   ]
 }
