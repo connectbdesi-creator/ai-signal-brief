@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-08T18:31:48.185Z",
+  "updatedAt": "2026-06-08T21:52:24.543Z",
   "entries": [
+    {
+      "id": "u_e1566630",
+      "sentAt": "2026-06-08T21:52:24.543Z",
+      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic"
+    },
+    {
+      "id": "u_cde3327c",
+      "sentAt": "2026-06-08T21:52:24.543Z",
+      "title": "Bridging the AI Sim-to-Real Divide: A New Model for Agent Evaluation"
+    },
+    {
+      "id": "u_f221280f",
+      "sentAt": "2026-06-08T21:52:24.543Z",
+      "title": "MemDreamer: Tackling Long-Video AI With Agentic Smarts"
+    },
+    {
+      "id": "u_e20e9cef",
+      "sentAt": "2026-06-08T21:52:24.543Z",
+      "title": "Qwen3.6-35B-A3B tool calling benchmark: ByteShape vs. Unsloth GGUFs, KV cache quants & long context performance"
+    },
+    {
+      "id": "u_8390aada",
+      "sentAt": "2026-06-08T21:52:24.543Z",
+      "title": "OpenAI Launches AI Economic Research Program - StartupHub.ai"
+    },
     {
       "id": "u_1930920a",
       "sentAt": "2026-06-08T18:31:48.185Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a67def84",
       "sentAt": "2026-05-12T10:35:22.607Z",
       "title": "Models and Quants quality test results - the chessboard svg (Qwen3.6 27B/35B-A3B/Zaya1)"
-    },
-    {
-      "id": "u_5c566205",
-      "sentAt": "2026-05-12T06:39:45.678Z",
-      "title": "Fin-Bias: Are LLMs Herding Human Bias in Financial Decisions?"
-    },
-    {
-      "id": "u_2bfc6bb7",
-      "sentAt": "2026-05-12T06:39:45.678Z",
-      "title": "When AI Tools Waste Time and Money: A Smarter Approach"
-    },
-    {
-      "id": "u_bcf59fa2",
-      "sentAt": "2026-05-12T06:39:45.678Z",
-      "title": "AI Coding Agents Need Context: A 49-Point Lesson"
-    },
-    {
-      "id": "u_cf4e7889",
-      "sentAt": "2026-05-12T06:39:45.678Z",
-      "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\""
-    },
-    {
-      "id": "u_a5fcf967",
-      "sentAt": "2026-05-12T06:39:45.678Z",
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS"
     }
   ]
 }
