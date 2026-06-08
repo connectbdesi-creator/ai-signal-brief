@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-08T04:19:50.224Z",
+  "updatedAt": "2026-06-08T11:02:51.267Z",
   "entries": [
+    {
+      "id": "u_919afb19",
+      "sentAt": "2026-06-08T11:02:51.267Z",
+      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men"
+    },
+    {
+      "id": "u_62f28d4e",
+      "sentAt": "2026-06-08T11:02:51.267Z",
+      "title": "Why Product-Unit Residual Networks Are Reshaping AI Interpretability"
+    },
+    {
+      "id": "u_b7a9ba6a",
+      "sentAt": "2026-06-08T11:02:51.267Z",
+      "title": "Why Bigger Isn't Always Better in LLM Cooperation"
+    },
+    {
+      "id": "u_64998fb7",
+      "sentAt": "2026-06-08T11:02:51.267Z",
+      "title": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription"
+    },
+    {
+      "id": "u_78424098",
+      "sentAt": "2026-06-08T11:02:51.267Z",
+      "title": "AI Pulse gets you the latest from the world of tech and artificial intelligence 🔴 Google pays SpaceX $920M a month for AI compute despite having its own T-P-U infrastructure 🍎 Apple WWDC 2026: Siri rebuilt on Google Gemini, OpenAI partnership expands un - LinkedIn"
+    },
     {
       "id": "u_d386e2ba",
       "sentAt": "2026-06-08T04:19:50.224Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d6719e6f",
       "sentAt": "2026-05-11T22:58:22.747Z",
       "title": "Frame Security Launches with $50M War Chest to Combat AI Threats"
-    },
-    {
-      "id": "u_c0358e75",
-      "sentAt": "2026-05-11T21:25:51.130Z",
-      "title": "Google DeepMind's Voice Model: A Leap in AI Communication"
-    },
-    {
-      "id": "u_db2e77f",
-      "sentAt": "2026-05-11T21:25:51.130Z",
-      "title": "AI's Escalating Influence and Its Unseen Costs"
-    },
-    {
-      "id": "u_98fc9544",
-      "sentAt": "2026-05-11T21:25:51.130Z",
-      "title": "Gemini Robotics ER 1.6: A Leap Forward or Just Another Step?"
-    },
-    {
-      "id": "u_1572583",
-      "sentAt": "2026-05-11T21:25:51.130Z",
-      "title": "DeepMind's Global AI Push: Promise or Overhype?"
-    },
-    {
-      "id": "u_ea5c3e0d",
-      "sentAt": "2026-05-11T21:25:51.130Z",
-      "title": "Anthropic's Claude Mythos: A New Cybersecurity Paradigm?"
     }
   ]
 }
