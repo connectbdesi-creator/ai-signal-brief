@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-08T21:52:24.543Z",
+  "updatedAt": "2026-06-08T23:13:31.478Z",
   "entries": [
+    {
+      "id": "u_42aaee68",
+      "sentAt": "2026-06-08T23:13:31.478Z",
+      "title": "Streamlining AI Integration: Meet RunAPI"
+    },
+    {
+      "id": "u_6eb40424",
+      "sentAt": "2026-06-08T23:13:31.478Z",
+      "title": "Apple's AI Models: A Cautious Step into Open Source"
+    },
+    {
+      "id": "u_725e86f5",
+      "sentAt": "2026-06-08T23:13:31.478Z",
+      "title": "Unlocking Code Quality with Command Center: A Real Game Changer?"
+    },
+    {
+      "id": "u_9d4a9742",
+      "sentAt": "2026-06-08T23:13:31.478Z",
+      "title": "AI coding agents are getting better at writing code, but I'm not convinced they're getting better at understanding codebases"
+    },
+    {
+      "id": "u_7b408838",
+      "sentAt": "2026-06-08T23:13:31.478Z",
+      "title": "Apple’s New Siri AI Is Ready to Get Personal"
+    },
     {
       "id": "u_e1566630",
       "sentAt": "2026-06-08T21:52:24.543Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7b83bde2",
       "sentAt": "2026-05-12T14:33:19.692Z",
       "title": "FRMF Announces Google Gemini as Official AI Sponsor - Morocco World News"
-    },
-    {
-      "id": "u_21313edd",
-      "sentAt": "2026-05-12T10:35:22.607Z",
-      "title": "Unlocking Hidden Signals in AI with Failure-Prefix Conditioning"
-    },
-    {
-      "id": "u_745a392c",
-      "sentAt": "2026-05-12T10:35:22.607Z",
-      "title": "Why Prompt Diversity Is Revolutionizing AI Training"
-    },
-    {
-      "id": "u_730c47ae",
-      "sentAt": "2026-05-12T10:35:22.607Z",
-      "title": "Recursive Language Models: Breaking the Context Barrier"
-    },
-    {
-      "id": "u_fda0cd",
-      "sentAt": "2026-05-12T10:35:22.607Z",
-      "title": "Mastering Mathematical Reasoning: SFT and RL's Unlikely Partnership"
-    },
-    {
-      "id": "u_a67def84",
-      "sentAt": "2026-05-12T10:35:22.607Z",
-      "title": "Models and Quants quality test results - the chessboard svg (Qwen3.6 27B/35B-A3B/Zaya1)"
     }
   ]
 }
