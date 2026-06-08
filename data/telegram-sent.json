@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-08T11:02:51.267Z",
+  "updatedAt": "2026-06-08T15:59:04.002Z",
   "entries": [
+    {
+      "id": "u_587f04ba",
+      "sentAt": "2026-06-08T15:59:04.002Z",
+      "title": "Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required"
+    },
+    {
+      "id": "u_607b9b30",
+      "sentAt": "2026-06-08T15:59:04.002Z",
+      "title": "Securing AI Agents: Snowflake and 1Password's Bold Move"
+    },
+    {
+      "id": "u_fb7a3685",
+      "sentAt": "2026-06-08T15:59:04.002Z",
+      "title": "Pega expands AI platform with agent orchestration, development tools and new pricing model"
+    },
+    {
+      "id": "u_63875810",
+      "sentAt": "2026-06-08T15:59:04.002Z",
+      "title": "Snowflake and 1Password tackle the growing challenge of securing AI agents at scale"
+    },
+    {
+      "id": "u_269e1d6a",
+      "sentAt": "2026-06-08T15:59:04.002Z",
+      "title": "Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax"
+    },
     {
       "id": "u_919afb19",
       "sentAt": "2026-06-08T11:02:51.267Z",
@@ -4975,31 +5000,6 @@
       "id": "u_83886c32",
       "sentAt": "2026-05-12T03:35:30.576Z",
       "title": "GitLab employees are the latest to face layoffs limbo. Read the CEO's memo about restructuring 'openly.'"
-    },
-    {
-      "id": "u_2054ade7",
-      "sentAt": "2026-05-11T22:58:22.747Z",
-      "title": "Alibaba's Tora Takes Aim at High-Fidelity Video Generation"
-    },
-    {
-      "id": "u_ef5588cf",
-      "sentAt": "2026-05-11T22:58:22.747Z",
-      "title": "Alibaba's Math Model Leapfrogs Rivals: A New Era for AI Competency?"
-    },
-    {
-      "id": "u_a5ffb8ca",
-      "sentAt": "2026-05-11T22:58:22.747Z",
-      "title": "DeepMind's Gemini 2.0: More Flash, Less Substance?"
-    },
-    {
-      "id": "u_280506a1",
-      "sentAt": "2026-05-11T22:58:22.747Z",
-      "title": "Gemini 2.0: A New Dawn for Image Output in AI Development"
-    },
-    {
-      "id": "u_d6719e6f",
-      "sentAt": "2026-05-11T22:58:22.747Z",
-      "title": "Frame Security Launches with $50M War Chest to Combat AI Threats"
     }
   ]
 }
