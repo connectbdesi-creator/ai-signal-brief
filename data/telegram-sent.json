@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-08T23:13:31.478Z",
+  "updatedAt": "2026-06-09T03:51:04.657Z",
   "entries": [
+    {
+      "id": "u_1baf1c5a",
+      "sentAt": "2026-06-09T03:51:04.657Z",
+      "title": "Nvidia And Microsoft Bet Agents Need Their Own Hardware"
+    },
+    {
+      "id": "u_af0c729b",
+      "sentAt": "2026-06-09T03:51:04.657Z",
+      "title": "2X tk/s (from 19.4 -> 38.1 tk/s on 1 x MI50) Playing with a hypothesis like speculative decoding.. but instead of an additional side model, exploiting that I can run multiple computations side-by-side AS IF I had Qwen3.6-27B loaded twice in memory - small quants don't use all the available compute."
+    },
+    {
+      "id": "u_c1593505",
+      "sentAt": "2026-06-09T03:51:04.657Z",
+      "title": "TRACE: A New Guardian for Long-Haul AI Monitoring"
+    },
+    {
+      "id": "u_d0d3c4ea",
+      "sentAt": "2026-06-09T03:51:04.657Z",
+      "title": "Decoding LLMs: A New Framework for Trust and Clarity"
+    },
+    {
+      "id": "u_ec7ac033",
+      "sentAt": "2026-06-09T03:51:04.657Z",
+      "title": "I fine-tuned Parakeet 0.6B for medical ASR — open weights, local Mac/CUDA/CPU"
+    },
     {
       "id": "u_42aaee68",
       "sentAt": "2026-06-08T23:13:31.478Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a8e4f472",
       "sentAt": "2026-05-12T18:02:37.027Z",
       "title": "Alphabet's Isomorphic Labs raises $2.1 billion to scale AI drug discovery toward clinical trials"
-    },
-    {
-      "id": "u_11a6304a",
-      "sentAt": "2026-05-12T14:33:19.692Z",
-      "title": "Unpacking Crosscoders: Where Current Methods Fall Short and How Fmxcoders Step Up"
-    },
-    {
-      "id": "u_5d1990f4",
-      "sentAt": "2026-05-12T14:33:19.692Z",
-      "title": "Breaking Free: How Muon Optimizer Challenges the High-Dimensional Curse"
-    },
-    {
-      "id": "u_f5bfacd",
-      "sentAt": "2026-05-12T14:33:19.692Z",
-      "title": "CAMEL: Tackling the Memory Trap in AI Systems"
-    },
-    {
-      "id": "u_73010760",
-      "sentAt": "2026-05-12T14:33:19.692Z",
-      "title": "Thinking Machines Lab ships its first model and argues interactivity is what OpenAI gets wrong about voice"
-    },
-    {
-      "id": "u_7b83bde2",
-      "sentAt": "2026-05-12T14:33:19.692Z",
-      "title": "FRMF Announces Google Gemini as Official AI Sponsor - Morocco World News"
     }
   ]
 }
