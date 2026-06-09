@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-09T11:19:44.340Z",
+  "updatedAt": "2026-06-09T18:09:48.841Z",
   "entries": [
+    {
+      "id": "u_e9120c5a",
+      "sentAt": "2026-06-09T18:09:48.841Z",
+      "title": "What will be the next breakthrough in ASR? [D]"
+    },
+    {
+      "id": "u_fad1a0c4",
+      "sentAt": "2026-06-09T18:09:48.841Z",
+      "title": "Releasing Cohere North Mini Code"
+    },
+    {
+      "id": "u_54716ecd",
+      "sentAt": "2026-06-09T18:09:48.841Z",
+      "title": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API"
+    },
+    {
+      "id": "u_3d512018",
+      "sentAt": "2026-06-09T18:09:48.841Z",
+      "title": "Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages"
+    },
+    {
+      "id": "u_22b2d96",
+      "sentAt": "2026-06-09T18:09:48.841Z",
+      "title": "IGENBENCH: A New Benchmark Reveals the Flaws in Infographic Generation"
+    },
     {
       "id": "u_28ae1018",
       "sentAt": "2026-06-09T11:19:44.340Z",
@@ -4975,31 +5000,6 @@
       "id": "u_eeef41e9",
       "sentAt": "2026-05-13T03:43:01.352Z",
       "title": "datasette 1.0a29"
-    },
-    {
-      "id": "u_351733df",
-      "sentAt": "2026-05-12T23:05:24.968Z",
-      "title": "Googlebooks: Android's Bold Leap into Premium Laptops"
-    },
-    {
-      "id": "u_93980915",
-      "sentAt": "2026-05-12T23:05:24.968Z",
-      "title": "Idira launches as Palo Alto Networks extends CyberArk tech to machine and agentic identities"
-    },
-    {
-      "id": "u_e89d81db",
-      "sentAt": "2026-05-12T23:05:24.968Z",
-      "title": "Claude Platform Goes GA on AWS: A New Era of AI Services"
-    },
-    {
-      "id": "u_c8486093",
-      "sentAt": "2026-05-12T23:05:24.968Z",
-      "title": "Unveiling the Geometry of Reasoning in Large Language Models"
-    },
-    {
-      "id": "u_b205d89f",
-      "sentAt": "2026-05-12T23:05:24.968Z",
-      "title": "Revolutionizing AI: Token-Level Tactics Elevate Reasoning in Language Models"
     }
   ]
 }
