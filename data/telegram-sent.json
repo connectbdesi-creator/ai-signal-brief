@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-09T21:49:46.446Z",
+  "updatedAt": "2026-06-09T23:18:57.380Z",
   "entries": [
+    {
+      "id": "u_8eb25e8d",
+      "sentAt": "2026-06-09T23:18:57.380Z",
+      "title": "Anthropic Unleashes Fable 5: An AI Powerhouse with Guardrails"
+    },
+    {
+      "id": "u_2a8800f8",
+      "sentAt": "2026-06-09T23:18:57.380Z",
+      "title": "Anthropic's Safeguarded AI Release: A New Standard in Risk Management"
+    },
+    {
+      "id": "u_6503d8f4",
+      "sentAt": "2026-06-09T23:18:57.380Z",
+      "title": "Anthropic's Claude Mythos 5: A Powerhouse Model Few Will Access"
+    },
+    {
+      "id": "u_1ede3c34",
+      "sentAt": "2026-06-09T23:18:57.380Z",
+      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute"
+    },
+    {
+      "id": "u_22e0b87b",
+      "sentAt": "2026-06-09T23:18:57.380Z",
+      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute"
+    },
     {
       "id": "u_331ec458",
       "sentAt": "2026-06-09T21:49:46.446Z",
@@ -4975,31 +5000,6 @@
       "id": "u_238bb19",
       "sentAt": "2026-05-13T10:32:33.496Z",
       "title": "Cracking the Fairness Code in Generative AI"
-    },
-    {
-      "id": "u_f113b675",
-      "sentAt": "2026-05-13T06:51:08.911Z",
-      "title": "Tackling Object Hallucinations in Multimodal Language Models"
-    },
-    {
-      "id": "u_a214911e",
-      "sentAt": "2026-05-13T06:51:08.911Z",
-      "title": "TSFMs: The New Frontier in Time Series Analysis"
-    },
-    {
-      "id": "u_e0a9bb65",
-      "sentAt": "2026-05-13T06:51:08.911Z",
-      "title": "Qwen3.6:27b single-shot fixed a CSS UI bug that had Gemma4:26B doom looping uselessly for 15 minutes"
-    },
-    {
-      "id": "u_bd18fd8a",
-      "sentAt": "2026-05-13T06:51:08.911Z",
-      "title": "CSP Allow-list Experiment"
-    },
-    {
-      "id": "u_5aa6a75b",
-      "sentAt": "2026-05-13T06:51:08.911Z",
-      "title": "First Coders, Now Lawyers? Anthropic Unveils Claude's New Legal AI Tools - NDTV"
     }
   ]
 }
