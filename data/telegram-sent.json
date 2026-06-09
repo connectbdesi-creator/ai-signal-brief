@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-09T07:53:19.767Z",
+  "updatedAt": "2026-06-09T11:19:44.340Z",
   "entries": [
+    {
+      "id": "u_28ae1018",
+      "sentAt": "2026-06-09T11:19:44.340Z",
+      "title": "Navigating Crowds: HA-VLN 2.0 and the Future of AI Navigation"
+    },
+    {
+      "id": "u_f17b7216",
+      "sentAt": "2026-06-09T11:19:44.340Z",
+      "title": "Jetson Orin NX Build for Hermes Agent + Benchmarking"
+    },
+    {
+      "id": "u_305b2cbb",
+      "sentAt": "2026-06-09T11:19:44.340Z",
+      "title": "How Spatio-Temporal Verification Could Transform AI in Safety-Critical Systems"
+    },
+    {
+      "id": "u_2f0a4cf2",
+      "sentAt": "2026-06-09T11:19:44.340Z",
+      "title": "Gaming AI: The Quest for Artificial General Intelligence Through Play"
+    },
+    {
+      "id": "u_b3bdcc59",
+      "sentAt": "2026-06-09T11:19:44.340Z",
+      "title": "Filigran launches XTM One to automate threat exposure management with AI agents"
+    },
     {
       "id": "u_32fcc02d",
       "sentAt": "2026-06-09T07:53:19.767Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b205d89f",
       "sentAt": "2026-05-12T23:05:24.968Z",
       "title": "Revolutionizing AI: Token-Level Tactics Elevate Reasoning in Language Models"
-    },
-    {
-      "id": "u_85835f6d",
-      "sentAt": "2026-05-12T21:22:49.198Z",
-      "title": "Why MURPHY Might Be the Future of AI Code Generation"
-    },
-    {
-      "id": "u_a5d1a95a",
-      "sentAt": "2026-05-12T21:22:49.198Z",
-      "title": "Breaking Down Bi-CoG: The New Frontier in Semi-Supervised Learning"
-    },
-    {
-      "id": "u_dea5ec45",
-      "sentAt": "2026-05-12T21:22:49.198Z",
-      "title": "How Activation Reasoning Could Reshape AI Transparency and Control"
-    },
-    {
-      "id": "u_8c17e732",
-      "sentAt": "2026-05-12T21:22:49.198Z",
-      "title": "Android gets AI agents that book trips, fill forms, and clean up your texts"
-    },
-    {
-      "id": "u_cea22cfc",
-      "sentAt": "2026-05-12T21:22:49.198Z",
-      "title": "Anthropic expands legal AI offerings with new Claude Cowork plugins"
     }
   ]
 }
