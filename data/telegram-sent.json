@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-09T18:09:48.841Z",
+  "updatedAt": "2026-06-09T21:49:46.446Z",
   "entries": [
+    {
+      "id": "u_331ec458",
+      "sentAt": "2026-06-09T21:49:46.446Z",
+      "title": "Mind the Gap: Unveiling Hidden Vulnerabilities in Language Models"
+    },
+    {
+      "id": "u_24a52a9e",
+      "sentAt": "2026-06-09T21:49:46.446Z",
+      "title": "Cracking the Code: Predicting AI Model Performance with Precision"
+    },
+    {
+      "id": "u_c6e7acc3",
+      "sentAt": "2026-06-09T21:49:46.446Z",
+      "title": "Reasoning Arena: Transforming AI's Learning Curve"
+    },
+    {
+      "id": "u_6a598bf9",
+      "sentAt": "2026-06-09T21:49:46.446Z",
+      "title": "Setting a custom price for a model in AgentsView"
+    },
+    {
+      "id": "u_a2da18a6",
+      "sentAt": "2026-06-09T21:49:46.446Z",
+      "title": "Maryland Launches Innovation Lab for Artificial Intelligence - govtech.com"
+    },
     {
       "id": "u_e9120c5a",
       "sentAt": "2026-06-09T18:09:48.841Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5aa6a75b",
       "sentAt": "2026-05-13T06:51:08.911Z",
       "title": "First Coders, Now Lawyers? Anthropic Unveils Claude's New Legal AI Tools - NDTV"
-    },
-    {
-      "id": "u_df3d4f07",
-      "sentAt": "2026-05-13T03:43:01.352Z",
-      "title": "Sam Altman rejects Musk's \"stolen charity\" claims in court showdown"
-    },
-    {
-      "id": "u_c9bbc42f",
-      "sentAt": "2026-05-13T03:43:01.352Z",
-      "title": "Betting Big on AI: CME and Silicon Data's Compute Futures Market"
-    },
-    {
-      "id": "u_a015760a",
-      "sentAt": "2026-05-13T03:43:01.352Z",
-      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea"
-    },
-    {
-      "id": "u_1778e648",
-      "sentAt": "2026-05-13T03:43:01.352Z",
-      "title": "CME Group and Silicon Data to launch AI compute futures market"
-    },
-    {
-      "id": "u_eeef41e9",
-      "sentAt": "2026-05-13T03:43:01.352Z",
-      "title": "datasette 1.0a29"
     }
   ]
 }
