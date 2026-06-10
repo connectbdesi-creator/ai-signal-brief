@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-10T10:08:17.047Z",
+  "updatedAt": "2026-06-10T18:32:50.406Z",
   "entries": [
+    {
+      "id": "u_c66cb5ad",
+      "sentAt": "2026-06-10T18:32:50.406Z",
+      "title": "Anthropic's Fable 5 and Mythos 5: The New Frontier of AI"
+    },
+    {
+      "id": "u_271c719e",
+      "sentAt": "2026-06-10T18:32:50.406Z",
+      "title": "AI Stumbles in Spotting Errors in Economic Theory"
+    },
+    {
+      "id": "u_88f3146",
+      "sentAt": "2026-06-10T18:32:50.406Z",
+      "title": "Anthropic’s Fable 5: A Mythos-Class Model with Tight Security Leashes"
+    },
+    {
+      "id": "u_219b9f31",
+      "sentAt": "2026-06-10T18:32:50.406Z",
+      "title": "Claude Subscribers Get Free Ride Until June 22: What's the Catch?"
+    },
+    {
+      "id": "u_cc2811b8",
+      "sentAt": "2026-06-10T18:32:50.406Z",
+      "title": "DeepMind Just Dropped \"DiffusionGemma\" — Text Generation via Image-Style Diffusion Model"
+    },
     {
       "id": "u_66e2e4f",
       "sentAt": "2026-06-10T10:08:17.047Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5218d82d",
       "sentAt": "2026-05-13T21:27:57.021Z",
       "title": "Context Is Not Control, a source-boundary eval for LLMs"
-    },
-    {
-      "id": "u_52b5c005",
-      "sentAt": "2026-05-13T18:04:27.961Z",
-      "title": "Decoding Many-Shot Jailbreaking: A Safety Breach in AI Language Models"
-    },
-    {
-      "id": "u_4dd01eee",
-      "sentAt": "2026-05-13T18:04:27.961Z",
-      "title": "AI Customer Service: More Hype Than Help?"
-    },
-    {
-      "id": "u_a14f18fe",
-      "sentAt": "2026-05-13T18:04:27.961Z",
-      "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments"
-    },
-    {
-      "id": "u_160f32ea",
-      "sentAt": "2026-05-13T18:04:27.961Z",
-      "title": "Anthropic launches Claude for Small Business to embed AI into the tools you forgot you pay for"
-    },
-    {
-      "id": "u_e08165a2",
-      "sentAt": "2026-05-13T18:04:27.961Z",
-      "title": "Virgin Voyages Turned 1,500 AI Agents Into a Workforce - PYMNTS.com"
     }
   ]
 }
