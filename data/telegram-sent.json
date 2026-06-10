@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-09T23:18:57.380Z",
+  "updatedAt": "2026-06-10T04:02:10.823Z",
   "entries": [
+    {
+      "id": "u_34ea1b4c",
+      "sentAt": "2026-06-10T04:02:10.823Z",
+      "title": "Using Probabilistic Programs to Train Inductive Reasoning in Large Language Models"
+    },
+    {
+      "id": "u_612eb13e",
+      "sentAt": "2026-06-10T04:02:10.823Z",
+      "title": "Operator Fusion for LLM Inference on the Tensix Architecture"
+    },
+    {
+      "id": "u_9490d77c",
+      "sentAt": "2026-06-10T04:02:10.823Z",
+      "title": "Alignment Defends LLMs from Property Inference Attacks"
+    },
+    {
+      "id": "u_927b4e4d",
+      "sentAt": "2026-06-10T04:02:10.823Z",
+      "title": "Enhancing Multilingual LLM-based ASR with Mixture of Experts and Dynamic Downsampling"
+    },
+    {
+      "id": "u_6c161b50",
+      "sentAt": "2026-06-10T04:02:10.823Z",
+      "title": "GRAFT: Gain-Recalibrated Adapters for Transformer-Based Neural Population Activity Modeling"
+    },
     {
       "id": "u_8eb25e8d",
       "sentAt": "2026-06-09T23:18:57.380Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cb1518a7",
       "sentAt": "2026-05-13T14:42:40.604Z",
       "title": "Anthropic's new interpretability tool found Claude suspects it is being tested in 26% of benchmarks and never says so"
-    },
-    {
-      "id": "u_eba9eebb",
-      "sentAt": "2026-05-13T10:32:33.496Z",
-      "title": "Breaking Barriers in Neural Network Training: Introducing the HS-Jacobian"
-    },
-    {
-      "id": "u_e5a2c20a",
-      "sentAt": "2026-05-13T10:32:33.496Z",
-      "title": "Navigating Communication Topologies in Multi-Agent LLM Systems"
-    },
-    {
-      "id": "u_26087733",
-      "sentAt": "2026-05-13T10:32:33.496Z",
-      "title": "Rethinking Disaster Response with Multimodal Models"
-    },
-    {
-      "id": "u_2c908d9b",
-      "sentAt": "2026-05-13T10:32:33.496Z",
-      "title": "Can AI Models Be Trusted in Real-World Scenarios?"
-    },
-    {
-      "id": "u_238bb19",
-      "sentAt": "2026-05-13T10:32:33.496Z",
-      "title": "Cracking the Fairness Code in Generative AI"
     }
   ]
 }
