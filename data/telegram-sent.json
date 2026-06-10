@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-10T18:32:50.406Z",
+  "updatedAt": "2026-06-10T22:05:45.759Z",
   "entries": [
+    {
+      "id": "u_4723f5e8",
+      "sentAt": "2026-06-10T22:05:45.759Z",
+      "title": "Dell Teams Up with Microsoft and AMD: Boosting AI to Power Multicloud Realities"
+    },
+    {
+      "id": "u_692c3bd1",
+      "sentAt": "2026-06-10T22:05:45.759Z",
+      "title": "Dell’s Microsoft/AMD collaboration: Three insights you may have missed from theCUBE’s coverage of Dell Technologies World"
+    },
+    {
+      "id": "u_494ec21",
+      "sentAt": "2026-06-10T22:05:45.759Z",
+      "title": "Anthropic's Cautious AI: Safety at the Expense of Usability?"
+    },
+    {
+      "id": "u_6ee4e607",
+      "sentAt": "2026-06-10T22:05:45.759Z",
+      "title": "I took Andrej Karpathy's LLM Council concept to the next level (Docker, MCP, Skill, Search, local/cloud model support and much more)"
+    },
+    {
+      "id": "u_33953349",
+      "sentAt": "2026-06-10T22:05:45.759Z",
+      "title": "Apple's AI Siri Hits Regulatory Wall in Europe and China"
+    },
     {
       "id": "u_c66cb5ad",
       "sentAt": "2026-06-10T18:32:50.406Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5cd842ce",
       "sentAt": "2026-05-13T23:07:54.065Z",
       "title": "Notion just turned its workspace into a hub for AI agents"
-    },
-    {
-      "id": "u_841d56f0",
-      "sentAt": "2026-05-13T21:27:57.021Z",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows"
-    },
-    {
-      "id": "u_912edb3c",
-      "sentAt": "2026-05-13T21:27:57.021Z",
-      "title": "Reimagining Traffic Simulations with Hierarchical AI"
-    },
-    {
-      "id": "u_35ad9993",
-      "sentAt": "2026-05-13T21:27:57.021Z",
-      "title": "Unifying Reliability Techniques in AI: A New Frontier in Communication Theory"
-    },
-    {
-      "id": "u_b568b5a6",
-      "sentAt": "2026-05-13T21:27:57.021Z",
-      "title": "Fastino Labs Open-Sources GLiGuard: A 300M Parameter Safety Moderation Model That Matches or Exceeds Accuracy of Models 23–90x Its Size"
-    },
-    {
-      "id": "u_5218d82d",
-      "sentAt": "2026-05-13T21:27:57.021Z",
-      "title": "Context Is Not Control, a source-boundary eval for LLMs"
     }
   ]
 }
