@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-11T04:15:59.137Z",
+  "updatedAt": "2026-06-11T10:42:21.440Z",
   "entries": [
+    {
+      "id": "u_525f06ad",
+      "sentAt": "2026-06-11T10:42:21.440Z",
+      "title": "AI Revolutionizes Alzheimer's Staging with Multimodal Models"
+    },
+    {
+      "id": "u_7a91f42b",
+      "sentAt": "2026-06-11T10:42:21.440Z",
+      "title": "Human Touch in AI: The Secret Weapon in Healthcare Predictions"
+    },
+    {
+      "id": "u_70d14f45",
+      "sentAt": "2026-06-11T10:42:21.440Z",
+      "title": "Upriver's $14M Bet: Revolutionizing AI Data Management"
+    },
+    {
+      "id": "u_d7bcd4f6",
+      "sentAt": "2026-06-11T10:42:21.440Z",
+      "title": "IBA launches Artificial Intelligence Institute to focus on responsible AI governance - The Global Legal Post"
+    },
+    {
+      "id": "u_329e20ce",
+      "sentAt": "2026-06-11T10:42:21.440Z",
+      "title": "Frontier AI models offer sneak peak of seismic cyber shifts ahead - csoonline.com"
+    },
     {
       "id": "u_ba6434d3",
       "sentAt": "2026-06-11T04:15:59.137Z",
@@ -4975,31 +5000,6 @@
       "id": "u_54d0c2f4",
       "sentAt": "2026-05-14T06:48:49.170Z",
       "title": "RIT Launches New Major in Artificial Intelligence - Rochester Institute of Technology"
-    },
-    {
-      "id": "u_89e6a82a",
-      "sentAt": "2026-05-14T03:42:12.849Z",
-      "title": "Your AI Use Is Breaking My Brain: Why 10 Minutes of Prompting Fries Us[D]"
-    },
-    {
-      "id": "u_69f756e7",
-      "sentAt": "2026-05-14T03:42:12.849Z",
-      "title": "Anthropic's Claude Courts Small Businesses with New Automation Tools"
-    },
-    {
-      "id": "u_249af2a4",
-      "sentAt": "2026-05-14T03:42:12.849Z",
-      "title": "Anthropic launches Claude for Small Business with new automation workflows"
-    },
-    {
-      "id": "u_f9733765",
-      "sentAt": "2026-05-14T03:42:12.849Z",
-      "title": "Simpler self hosted alt to Open WebUI"
-    },
-    {
-      "id": "u_d49047a2",
-      "sentAt": "2026-05-14T03:42:12.849Z",
-      "title": "Cushman & Wakefield launches AI Impact Barometer to track how artificial intelligence is reshaping the real economy - Cushman & Wakefield"
     }
   ]
 }
