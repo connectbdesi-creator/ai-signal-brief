@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-11T16:09:18.713Z",
+  "updatedAt": "2026-06-11T20:26:36.892Z",
   "entries": [
+    {
+      "id": "u_475c3721",
+      "sentAt": "2026-06-11T20:26:36.892Z",
+      "title": "TCNJ and Mercer County Technical Schools launch AI and robotics dual enrollment pathway to build New Jersey’s future workforce | News - The College of New Jersey | News"
+    },
+    {
+      "id": "u_291f13a",
+      "sentAt": "2026-06-11T20:26:36.892Z",
+      "title": "Edge Platforms: The New Frontier for Agentic AI"
+    },
+    {
+      "id": "u_57fc60a9",
+      "sentAt": "2026-06-11T20:26:36.892Z",
+      "title": "Google’s DiffusionGemma: A Leap or Just Hype?"
+    },
+    {
+      "id": "u_51105033",
+      "sentAt": "2026-06-11T20:26:36.892Z",
+      "title": "Computex 2026 Marks The Dawn Of Physical Agentic Computing"
+    },
+    {
+      "id": "u_488fc4d7",
+      "sentAt": "2026-06-11T20:26:36.892Z",
+      "title": "Coinbase's New AI Trading Sidekick: A Game Changer or Just Hype?"
+    },
     {
       "id": "u_28c77664",
       "sentAt": "2026-06-11T16:09:18.713Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3b2913ac",
       "sentAt": "2026-05-14T14:22:56.268Z",
       "title": "Data readiness for agentic AI in financial services"
-    },
-    {
-      "id": "u_664c9d04",
-      "sentAt": "2026-05-14T10:22:57.833Z",
-      "title": "Reshaping AI Reasoning: Beyond Correct Answers"
-    },
-    {
-      "id": "u_de4bec21",
-      "sentAt": "2026-05-14T10:22:57.833Z",
-      "title": "The Secret Life of LLM Scrapers: Keeping Your Site Safe"
-    },
-    {
-      "id": "u_afaca9ca",
-      "sentAt": "2026-05-14T10:22:57.833Z",
-      "title": "AI Safety: The New Frontier of Trust, Responsibility, and Safety"
-    },
-    {
-      "id": "u_8adcd9a8",
-      "sentAt": "2026-05-14T10:22:57.833Z",
-      "title": "Built an open-source one-prompt-to-cinematic-reel pipeline on a single GPU — FLUX.2 [klein] for character keyframes, Wan2.2-I2V for animation, vision critic with auto-retry, music + 9-language narration in the same pipeline"
-    },
-    {
-      "id": "u_3b3d4d75",
-      "sentAt": "2026-05-14T10:22:57.833Z",
-      "title": "AI Shopping Agents Put New Pressure on Payments Companies - PYMNTS.com"
     }
   ]
 }
