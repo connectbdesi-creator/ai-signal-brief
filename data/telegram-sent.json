@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-10T22:05:45.759Z",
+  "updatedAt": "2026-06-11T04:15:59.137Z",
   "entries": [
+    {
+      "id": "u_ba6434d3",
+      "sentAt": "2026-06-11T04:15:59.137Z",
+      "title": "DeMix: The New Frontier in Machine Learning Data Debugging"
+    },
+    {
+      "id": "u_3ddf3fa8",
+      "sentAt": "2026-06-11T04:15:59.137Z",
+      "title": "Neuroscience Signals Could Hack Your Language Model"
+    },
+    {
+      "id": "u_f95792d3",
+      "sentAt": "2026-06-11T04:15:59.137Z",
+      "title": "Beyond representational alignment with brain-guided language models for robust reasoning"
+    },
+    {
+      "id": "u_bed29e53",
+      "sentAt": "2026-06-11T04:15:59.137Z",
+      "title": "TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data"
+    },
+    {
+      "id": "u_81892f8",
+      "sentAt": "2026-06-11T04:15:59.137Z",
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude"
+    },
     {
       "id": "u_4723f5e8",
       "sentAt": "2026-06-10T22:05:45.759Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d49047a2",
       "sentAt": "2026-05-14T03:42:12.849Z",
       "title": "Cushman & Wakefield launches AI Impact Barometer to track how artificial intelligence is reshaping the real economy - Cushman & Wakefield"
-    },
-    {
-      "id": "u_5939eeb8",
-      "sentAt": "2026-05-13T23:07:54.065Z",
-      "title": "Microsoft’s agentic security system MDASH uncovers four critical Windows RCE flaws"
-    },
-    {
-      "id": "u_202b04f1",
-      "sentAt": "2026-05-13T23:07:54.065Z",
-      "title": "4 Major Creator Economy Updates You Should Know (May 2026)"
-    },
-    {
-      "id": "u_3fa2ee1b",
-      "sentAt": "2026-05-13T23:07:54.065Z",
-      "title": "Rethinking Metrics: A New Approach to Fine-Tuning Large Language Models"
-    },
-    {
-      "id": "u_de05fedb",
-      "sentAt": "2026-05-13T23:07:54.065Z",
-      "title": "Parallel Streams: Rethinking AI Agent Communication"
-    },
-    {
-      "id": "u_5cd842ce",
-      "sentAt": "2026-05-13T23:07:54.065Z",
-      "title": "Notion just turned its workspace into a hub for AI agents"
     }
   ]
 }
