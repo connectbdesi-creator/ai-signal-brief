@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-11T20:26:36.892Z",
+  "updatedAt": "2026-06-11T23:26:39.405Z",
   "entries": [
+    {
+      "id": "u_1a505c33",
+      "sentAt": "2026-06-11T23:26:39.405Z",
+      "title": "Why Multi-Agent Reasoning Could Revamp Image Classification"
+    },
+    {
+      "id": "u_554e6874",
+      "sentAt": "2026-06-11T23:26:39.405Z",
+      "title": "Deezer's New Tool Exposes the AI Music Flood"
+    },
+    {
+      "id": "u_f82c2f63",
+      "sentAt": "2026-06-11T23:26:39.405Z",
+      "title": "Deezer built a tool to call out AI music — even on rival streaming platforms"
+    },
+    {
+      "id": "u_e0fd0abf",
+      "sentAt": "2026-06-11T23:26:39.405Z",
+      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet"
+    },
+    {
+      "id": "u_94ee8f38",
+      "sentAt": "2026-06-11T23:26:39.405Z",
+      "title": "How Benchling builds agents when the smartest AI isn't smart enough"
+    },
     {
       "id": "u_475c3721",
       "sentAt": "2026-06-11T20:26:36.892Z",
@@ -4975,31 +5000,6 @@
       "id": "u_84019b57",
       "sentAt": "2026-05-14T17:55:55.901Z",
       "title": "Anthropic announces ‘programmatic credit pool’ as agentic tool use rises"
-    },
-    {
-      "id": "u_acc29d99",
-      "sentAt": "2026-05-14T14:22:56.268Z",
-      "title": "HEPA: The AI That's Redefining Time Series Predictions"
-    },
-    {
-      "id": "u_53460206",
-      "sentAt": "2026-05-14T14:22:56.268Z",
-      "title": "ALAM: Transforming Vision-Language-Action Models with Algebraic Latent Transitions"
-    },
-    {
-      "id": "u_a459376c",
-      "sentAt": "2026-05-14T14:22:56.268Z",
-      "title": "Redefining Safety for Autonomous Systems: A Probabilistic Approach"
-    },
-    {
-      "id": "u_53e8a5a1",
-      "sentAt": "2026-05-14T14:22:56.268Z",
-      "title": "Alibaba's Qwen-Image-2.0 doubles compression and cuts generation steps from 40 to 4"
-    },
-    {
-      "id": "u_3b2913ac",
-      "sentAt": "2026-05-14T14:22:56.268Z",
-      "title": "Data readiness for agentic AI in financial services"
     }
   ]
 }
