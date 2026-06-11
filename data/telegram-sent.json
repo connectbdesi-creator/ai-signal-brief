@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-11T10:42:21.440Z",
+  "updatedAt": "2026-06-11T16:09:18.713Z",
   "entries": [
+    {
+      "id": "u_28c77664",
+      "sentAt": "2026-06-11T16:09:18.713Z",
+      "title": "Boston College launches new institute to ‘confront' AI - NBC Boston"
+    },
+    {
+      "id": "u_b42becea",
+      "sentAt": "2026-06-11T16:09:18.713Z",
+      "title": "Evaluate AI agents systematically with Agent-EvalKit"
+    },
+    {
+      "id": "u_914159d",
+      "sentAt": "2026-06-11T16:09:18.713Z",
+      "title": "Evaluate AI agents systematically with Agent-EvalKit - Amazon Web Services (AWS)"
+    },
+    {
+      "id": "u_da58ddcf",
+      "sentAt": "2026-06-11T16:09:18.713Z",
+      "title": "Apple's New Siri: A Late Entry in the AI Race"
+    },
+    {
+      "id": "u_d4cda503",
+      "sentAt": "2026-06-11T16:09:18.713Z",
+      "title": "Subliminal Learning: The Unseen Influence in Language Models"
+    },
     {
       "id": "u_525f06ad",
       "sentAt": "2026-06-11T10:42:21.440Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3b3d4d75",
       "sentAt": "2026-05-14T10:22:57.833Z",
       "title": "AI Shopping Agents Put New Pressure on Payments Companies - PYMNTS.com"
-    },
-    {
-      "id": "u_53cc8fbe",
-      "sentAt": "2026-05-14T06:48:49.170Z",
-      "title": "Computer-use MCP that can control multiple machines (Integrate with claude, Cursor, Codex or your custom harness)"
-    },
-    {
-      "id": "u_becd790f",
-      "sentAt": "2026-05-14T06:48:49.170Z",
-      "title": "Cracking Multimodal Time Series with AI: The Promise of MILM"
-    },
-    {
-      "id": "u_f27fa3cc",
-      "sentAt": "2026-05-14T06:48:49.170Z",
-      "title": "Nous Research Releases Token Superposition Training to Speed Up LLM Pre-Training by Up to 2.5x Across 270M to 10B Parameter Models"
-    },
-    {
-      "id": "u_5bb805e2",
-      "sentAt": "2026-05-14T06:48:49.170Z",
-      "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents [R]"
-    },
-    {
-      "id": "u_54d0c2f4",
-      "sentAt": "2026-05-14T06:48:49.170Z",
-      "title": "RIT Launches New Major in Artificial Intelligence - Rochester Institute of Technology"
     }
   ]
 }
