@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-11T23:26:39.405Z",
+  "updatedAt": "2026-06-12T04:18:07.533Z",
   "entries": [
+    {
+      "id": "u_e18b0b91",
+      "sentAt": "2026-06-12T04:18:07.533Z",
+      "title": "Rethinking Chatbots: The Battle of AI Memories and Philosophies"
+    },
+    {
+      "id": "u_f967a395",
+      "sentAt": "2026-06-12T04:18:07.533Z",
+      "title": "GeoNatureAgent Benchmark: A Game Changer for Environmental Data Analysis"
+    },
+    {
+      "id": "u_ecfaef7f",
+      "sentAt": "2026-06-12T04:18:07.533Z",
+      "title": "Testing Search Agents: Why Daily Tasks Matter"
+    },
+    {
+      "id": "u_80f50ed4",
+      "sentAt": "2026-06-12T04:18:07.533Z",
+      "title": "AI Models Smarten Up: Detecting Context Tampering"
+    },
+    {
+      "id": "u_9c5a8e76",
+      "sentAt": "2026-06-12T04:18:07.533Z",
+      "title": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively - The Washington Post"
+    },
     {
       "id": "u_1a505c33",
       "sentAt": "2026-06-11T23:26:39.405Z",
@@ -4975,31 +5000,6 @@
       "id": "u_186a8f83",
       "sentAt": "2026-05-14T19:51:14.355Z",
       "title": "Why Kenneth Hao's $100 Million Gift to UCSF Won't Solve the AI Funding Crunch"
-    },
-    {
-      "id": "u_33160a03",
-      "sentAt": "2026-05-14T17:55:55.901Z",
-      "title": "Everything we shipped at Interrupt"
-    },
-    {
-      "id": "u_5067591b",
-      "sentAt": "2026-05-14T17:55:55.901Z",
-      "title": "Introducing LangChain Labs"
-    },
-    {
-      "id": "u_afb7b1e8",
-      "sentAt": "2026-05-14T17:55:55.901Z",
-      "title": "ChipMATE Takes on RTL Code Generation with a Fresh Approach"
-    },
-    {
-      "id": "u_8c37dce3",
-      "sentAt": "2026-05-14T17:55:55.901Z",
-      "title": "Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_84019b57",
-      "sentAt": "2026-05-14T17:55:55.901Z",
-      "title": "Anthropic announces ‘programmatic credit pool’ as agentic tool use rises"
     }
   ]
 }
