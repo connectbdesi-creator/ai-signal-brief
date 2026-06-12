@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-12T04:18:07.533Z",
+  "updatedAt": "2026-06-12T10:19:18.160Z",
   "entries": [
+    {
+      "id": "u_f850eebb",
+      "sentAt": "2026-06-12T10:19:18.160Z",
+      "title": "Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM – Sanity check on the architecture? [D]"
+    },
+    {
+      "id": "u_6a19cb96",
+      "sentAt": "2026-06-12T10:19:18.160Z",
+      "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm"
+    },
+    {
+      "id": "u_5a4a856f",
+      "sentAt": "2026-06-12T10:19:18.160Z",
+      "title": "Former xAI Engineer Sues Elon Musk's Subsidiary Over AI Safety Concerns"
+    },
+    {
+      "id": "u_c4c2a7af",
+      "sentAt": "2026-06-12T10:19:18.160Z",
+      "title": "OpenAI Faces Lawsuit Over Allegations of Harmful Chatbot Guidance"
+    },
+    {
+      "id": "u_c725be24",
+      "sentAt": "2026-06-12T10:19:18.160Z",
+      "title": "SciR: Testing AI's Scientific Smarts Beyond the Hype"
+    },
     {
       "id": "u_e18b0b91",
       "sentAt": "2026-06-12T04:18:07.533Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f0bb648",
       "sentAt": "2026-05-14T21:14:09.493Z",
       "title": "Graphon reels in $8.3M for its persistent relational memory platform"
-    },
-    {
-      "id": "u_dcc96573",
-      "sentAt": "2026-05-14T19:51:14.355Z",
-      "title": "Developing open source LLM from ground up from pretrain - rlhf(PPO/GRPO)"
-    },
-    {
-      "id": "u_aa8d6ece",
-      "sentAt": "2026-05-14T19:51:14.355Z",
-      "title": "Anthropic Launches Claude AI Agents for Small Business Finance - PYMNTS.com"
-    },
-    {
-      "id": "u_6858d039",
-      "sentAt": "2026-05-14T19:51:14.355Z",
-      "title": "Why Most Clinical AI Fails Before It Even Launches"
-    },
-    {
-      "id": "u_af5e6923",
-      "sentAt": "2026-05-14T19:51:14.355Z",
-      "title": "Are 'Headless' Enterprises the Way Forward with AI?"
-    },
-    {
-      "id": "u_186a8f83",
-      "sentAt": "2026-05-14T19:51:14.355Z",
-      "title": "Why Kenneth Hao's $100 Million Gift to UCSF Won't Solve the AI Funding Crunch"
     }
   ]
 }
