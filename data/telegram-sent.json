@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-12T10:19:18.160Z",
+  "updatedAt": "2026-06-12T15:22:52.074Z",
   "entries": [
+    {
+      "id": "u_949a4977",
+      "sentAt": "2026-06-12T15:22:52.074Z",
+      "title": "SpaceX’s massive IPO: all the latest news"
+    },
+    {
+      "id": "u_a7699bcb",
+      "sentAt": "2026-06-12T15:22:52.074Z",
+      "title": "Mistral AI: Europe's Bold Play for AI Supremacy"
+    },
+    {
+      "id": "u_a7337d6a",
+      "sentAt": "2026-06-12T15:22:52.074Z",
+      "title": "From Copilots to Autonomous Agents: The Bold Shift in Enterprise AI"
+    },
+    {
+      "id": "u_255c72c3",
+      "sentAt": "2026-06-12T15:22:52.074Z",
+      "title": "The Judgment Tax: How AI Agents Are Rewriting UI Process Automation"
+    },
+    {
+      "id": "u_801fa346",
+      "sentAt": "2026-06-12T15:22:52.074Z",
+      "title": "Pairing Claude Code with Local Models"
+    },
     {
       "id": "u_f850eebb",
       "sentAt": "2026-06-12T10:19:18.160Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d3e2f252",
       "sentAt": "2026-05-14T22:59:57.243Z",
       "title": "Red Hat outlines sovereign AI strategy amid growing regulation and control concerns"
-    },
-    {
-      "id": "u_79406ccc",
-      "sentAt": "2026-05-14T21:14:09.493Z",
-      "title": "Google's Agentic AI: A Gamble for Consumer Trust"
-    },
-    {
-      "id": "u_7a51d343",
-      "sentAt": "2026-05-14T21:14:09.493Z",
-      "title": "Countdown to Launch: The IPOs That Could Redefine Tech Giants"
-    },
-    {
-      "id": "u_b53c6570",
-      "sentAt": "2026-05-14T21:14:09.493Z",
-      "title": "Graphon Raises $8.3M to Enhance AI Model Memory Processing"
-    },
-    {
-      "id": "u_6ddd659b",
-      "sentAt": "2026-05-14T21:14:09.493Z",
-      "title": "Boomi and AWS built the guardrails for agents before anyone was asking for them"
-    },
-    {
-      "id": "u_f0bb648",
-      "sentAt": "2026-05-14T21:14:09.493Z",
-      "title": "Graphon reels in $8.3M for its persistent relational memory platform"
     }
   ]
 }
