@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-12T18:10:13.533Z",
+  "updatedAt": "2026-06-12T21:50:08.801Z",
   "entries": [
+    {
+      "id": "u_c21a0928",
+      "sentAt": "2026-06-12T21:50:08.801Z",
+      "title": "NVIDIA's Blackwell: The New Benchmark in Agentic AI Performance"
+    },
+    {
+      "id": "u_ef7c8435",
+      "sentAt": "2026-06-12T21:50:08.801Z",
+      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark"
+    },
+    {
+      "id": "u_afd2b11f",
+      "sentAt": "2026-06-12T21:50:08.801Z",
+      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark"
+    },
+    {
+      "id": "u_19c7f305",
+      "sentAt": "2026-06-12T21:50:08.801Z",
+      "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI"
+    },
+    {
+      "id": "u_2672a41",
+      "sentAt": "2026-06-12T21:50:08.801Z",
+      "title": "OpenAI buys Ona to help rein in AI agents - InfoWorld"
+    },
     {
       "id": "u_95a4c39a",
       "sentAt": "2026-06-12T18:10:13.533Z",
@@ -4975,31 +5000,6 @@
       "id": "u_490763e1",
       "sentAt": "2026-05-15T06:58:18.197Z",
       "title": "Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning"
-    },
-    {
-      "id": "u_9e29ac8a",
-      "sentAt": "2026-05-15T03:47:21.366Z",
-      "title": "club-5060ti: practical RTX 5060 Ti local LLM notes and configs"
-    },
-    {
-      "id": "u_24e7b27a",
-      "sentAt": "2026-05-15T03:47:21.366Z",
-      "title": "OpenAI's Frustration with Apple's Siri: Legal Action on the Horizon?"
-    },
-    {
-      "id": "u_e3cf91a5",
-      "sentAt": "2026-05-15T03:47:21.366Z",
-      "title": "OpenAI reportedly mulls taking Apple to court over ChatGPT’s Siri integration"
-    },
-    {
-      "id": "u_997b7fea",
-      "sentAt": "2026-05-15T03:47:21.366Z",
-      "title": "OpenAI's Codex Goes Mobile: A big deal for Developers"
-    },
-    {
-      "id": "u_a960f517",
-      "sentAt": "2026-05-15T03:47:21.366Z",
-      "title": "Asia's AI Surge: A Blueprint for Global Tech Leadership"
     }
   ]
 }
