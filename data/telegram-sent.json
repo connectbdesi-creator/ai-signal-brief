@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-12T21:50:08.801Z",
+  "updatedAt": "2026-06-12T23:20:45.648Z",
   "entries": [
+    {
+      "id": "u_c27f4eaf",
+      "sentAt": "2026-06-12T23:20:45.648Z",
+      "title": "I scaled test-time compute for Qwen-3.6-27B and Gemma-4-31B to surpass Claude Mythos in code optimizations and speedups."
+    },
+    {
+      "id": "u_390e3e62",
+      "sentAt": "2026-06-12T23:20:45.648Z",
+      "title": "Top AI Graduate Programs That Can Launch a Rewarding Career in Artificial Intelligence - Investopedia"
+    },
+    {
+      "id": "u_28ab05c2",
+      "sentAt": "2026-06-12T23:20:45.648Z",
+      "title": "Exclusive: Sixfold launches AI underwriting agent with straight-through quote and bind capability - theinsurer.com"
+    },
+    {
+      "id": "u_aac0abe4",
+      "sentAt": "2026-06-12T23:20:45.648Z",
+      "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance"
+    },
+    {
+      "id": "u_3f87928b",
+      "sentAt": "2026-06-12T23:20:45.648Z",
+      "title": "This week's Anthropic-inspired AI freakout, explained"
+    },
     {
       "id": "u_c21a0928",
       "sentAt": "2026-06-12T21:50:08.801Z",
@@ -4975,31 +5000,6 @@
       "id": "u_28c07133",
       "sentAt": "2026-05-15T10:28:20.538Z",
       "title": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO - Tom's Hardware"
-    },
-    {
-      "id": "u_be80163c",
-      "sentAt": "2026-05-15T06:58:18.197Z",
-      "title": "Revolutionizing Healthcare Data: AI's Role in FHIR Interoperability"
-    },
-    {
-      "id": "u_cd640f2",
-      "sentAt": "2026-05-15T06:58:18.197Z",
-      "title": "Revamping Retrieval-Augmented Generation with Derivation Prompting"
-    },
-    {
-      "id": "u_2c0e3b32",
-      "sentAt": "2026-05-15T06:58:18.197Z",
-      "title": "I am not sure if I should be proud or not."
-    },
-    {
-      "id": "u_d5e86193",
-      "sentAt": "2026-05-15T06:58:18.197Z",
-      "title": "Introducing Business AI on WhatsApp for Small Businesses in India"
-    },
-    {
-      "id": "u_490763e1",
-      "sentAt": "2026-05-15T06:58:18.197Z",
-      "title": "Poetiq’s Meta-System Automatically Builds a Model-Agnostic Harness That Improved Every LLM Tested on LiveCodeBench Pro Without Fine-Tuning"
     }
   ]
 }
