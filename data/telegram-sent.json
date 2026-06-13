@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-13T11:55:53.616Z",
+  "updatedAt": "2026-06-13T14:08:11.258Z",
   "entries": [
+    {
+      "id": "u_9146b517",
+      "sentAt": "2026-06-13T14:08:11.258Z",
+      "title": "Show HN: Wmux – a native Windows terminal multiplexer for AI agents"
+    },
+    {
+      "id": "u_5e4042f0",
+      "sentAt": "2026-06-13T14:08:11.258Z",
+      "title": "Satya Nadella's AI Dilemma: More Tokens, More Problems?"
+    },
+    {
+      "id": "u_a16e8c42",
+      "sentAt": "2026-06-13T14:08:11.258Z",
+      "title": "[NEW FAMILY OF MODELS] Supra1.5 family just released!"
+    },
+    {
+      "id": "u_19ac6ce8",
+      "sentAt": "2026-06-13T14:08:11.258Z",
+      "title": "Microsoft CEO Satya Nadella admits he's a token-maxer, too: \"It's addictive\""
+    },
+    {
+      "id": "u_3790f402",
+      "sentAt": "2026-06-13T14:08:11.258Z",
+      "title": "Microsoft CEO Satya Nadella admits he's a token-maxer, too: \"It's addictive\""
+    },
     {
       "id": "u_27f8dd38",
       "sentAt": "2026-06-13T11:55:53.616Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c1828ea9",
       "sentAt": "2026-05-15T21:06:05.579Z",
       "title": "Notion's Code Revolution: How Ryan Nystrom is Shaping AI-Driven Engineering"
-    },
-    {
-      "id": "u_83a8c463",
-      "sentAt": "2026-05-15T19:43:03.208Z",
-      "title": "Cerebras Enters the AI Chip Race with a Bang"
-    },
-    {
-      "id": "u_f9a33730",
-      "sentAt": "2026-05-15T19:43:03.208Z",
-      "title": "Claude's Wild Ethical Drama: AI Learning to Play Nice"
-    },
-    {
-      "id": "u_c1ec1b99",
-      "sentAt": "2026-05-15T19:43:03.208Z",
-      "title": "Why Financial AI Needs More Than Just Smarts"
-    },
-    {
-      "id": "u_7bd812fc",
-      "sentAt": "2026-05-15T19:43:03.208Z",
-      "title": "AI Sovereignty: The New Corporate Frontier"
-    },
-    {
-      "id": "u_b748d752",
-      "sentAt": "2026-05-15T19:43:03.208Z",
-      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup"
     }
   ]
 }
