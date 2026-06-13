@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-12T23:20:45.648Z",
+  "updatedAt": "2026-06-13T04:06:15.483Z",
   "entries": [
+    {
+      "id": "u_9f2bd117",
+      "sentAt": "2026-06-13T04:06:15.483Z",
+      "title": "China cracks down on Western AI models while US companies flock to DeepSeek"
+    },
+    {
+      "id": "u_f34c2648",
+      "sentAt": "2026-06-13T04:06:15.483Z",
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI"
+    },
+    {
+      "id": "u_f880dc18",
+      "sentAt": "2026-06-13T04:06:15.483Z",
+      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order"
+    },
+    {
+      "id": "u_f752144f",
+      "sentAt": "2026-06-13T04:06:15.483Z",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5"
+    },
+    {
+      "id": "u_aaceeb8f",
+      "sentAt": "2026-06-13T04:06:15.483Z",
+      "title": "OpenAI WebRTC Audio Session, now with document context"
+    },
     {
       "id": "u_c27f4eaf",
       "sentAt": "2026-06-12T23:20:45.648Z",
@@ -4975,31 +5000,6 @@
       "id": "u_997c3b49",
       "sentAt": "2026-05-15T14:14:00.171Z",
       "title": "ClawGym Framework: Revolutionizing Personal Agent Development"
-    },
-    {
-      "id": "u_38a0679d",
-      "sentAt": "2026-05-15T10:28:20.538Z",
-      "title": "Fast-Slow Learning: A New Chapter for Language Models"
-    },
-    {
-      "id": "u_7776e008",
-      "sentAt": "2026-05-15T10:28:20.538Z",
-      "title": "OmniClean's Big Play: Debunking the Benchmark Myth"
-    },
-    {
-      "id": "u_138f8e01",
-      "sentAt": "2026-05-15T10:28:20.538Z",
-      "title": "Boosting Multimodal Models: Why SIEVES Could Be a breakthrough for Visual-Language AI"
-    },
-    {
-      "id": "u_cc5843a3",
-      "sentAt": "2026-05-15T10:28:20.538Z",
-      "title": "internlm/Intern-S2-Preview · Hugging Face"
-    },
-    {
-      "id": "u_28c07133",
-      "sentAt": "2026-05-15T10:28:20.538Z",
-      "title": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO - Tom's Hardware"
     }
   ]
 }
