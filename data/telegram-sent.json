@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-13T09:21:19.428Z",
+  "updatedAt": "2026-06-13T11:55:53.616Z",
   "entries": [
+    {
+      "id": "u_27f8dd38",
+      "sentAt": "2026-06-13T11:55:53.616Z",
+      "title": "U.S. gov't orders Anthropic to disable its newest AI models worldwide due to security threats — ban on Claude Fable 5 and Mythos 5 bars access by any foreign national, even its own employees - Tom's Hardware"
+    },
+    {
+      "id": "u_9fabb19d",
+      "sentAt": "2026-06-13T11:55:53.616Z",
+      "title": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?"
+    },
+    {
+      "id": "u_9d889083",
+      "sentAt": "2026-06-13T11:55:53.616Z",
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models"
+    },
+    {
+      "id": "u_d017320c",
+      "sentAt": "2026-06-13T11:55:53.616Z",
+      "title": "Claude Fable 5 Dethrones GPT-5.5 in AI Math Showdown"
+    },
+    {
+      "id": "u_462dbbe4",
+      "sentAt": "2026-06-13T11:55:53.616Z",
+      "title": "Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems"
+    },
     {
       "id": "u_cff32a19",
       "sentAt": "2026-06-13T09:21:19.428Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b748d752",
       "sentAt": "2026-05-15T19:43:03.208Z",
       "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup"
-    },
-    {
-      "id": "u_67b7c6ee",
-      "sentAt": "2026-05-15T17:42:31.797Z",
-      "title": "Beyond Binary: GUI Agents Get a Smarter Critic"
-    },
-    {
-      "id": "u_6270308d",
-      "sentAt": "2026-05-15T17:42:31.797Z",
-      "title": "Revolutionizing Healthcare Data: How FHIR-AgentBench Raises the Bar"
-    },
-    {
-      "id": "u_d2bf87b6",
-      "sentAt": "2026-05-15T17:42:31.797Z",
-      "title": "Unlocking Multilingual Safety: The ROK-FORTRESS Revelation"
-    },
-    {
-      "id": "u_a07508d",
-      "sentAt": "2026-05-15T17:42:31.797Z",
-      "title": "RxEval: Putting AI to the Test in Medication Recommendations"
-    },
-    {
-      "id": "u_d8a88826",
-      "sentAt": "2026-05-15T17:42:31.797Z",
-      "title": "I built a self-hosted open-source MCP server that gives any local LLM real financial data — SEC filings, 13F, insider & congressional trades, short data, FRED"
     }
   ]
 }
