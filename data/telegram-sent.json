@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-13T19:41:31.661Z",
+  "updatedAt": "2026-06-13T21:20:15.926Z",
   "entries": [
+    {
+      "id": "u_70ab5d4b",
+      "sentAt": "2026-06-13T21:20:15.926Z",
+      "title": "How Amazon and the White House ended Anthropic's Fable"
+    },
+    {
+      "id": "u_9f7a472b",
+      "sentAt": "2026-06-13T21:20:15.926Z",
+      "title": "Mozilla Data Collective seeks to build AI’s data economy around trust"
+    },
+    {
+      "id": "u_169176c7",
+      "sentAt": "2026-06-13T21:20:15.926Z",
+      "title": "Erdogan launches $10 billion AI plan to make Türkiye a global digital power by 2030 - Türkiye Today"
+    },
+    {
+      "id": "u_847d5b52",
+      "sentAt": "2026-06-13T21:20:15.926Z",
+      "title": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget - Tom's Hardware"
+    },
+    {
+      "id": "u_acac3c96",
+      "sentAt": "2026-06-13T21:20:15.926Z",
+      "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6"
+    },
     {
       "id": "u_6e3d208",
       "sentAt": "2026-06-13T19:41:31.661Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f45ceaf9",
       "sentAt": "2026-05-16T09:43:39.931Z",
       "title": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!"
-    },
-    {
-      "id": "u_9a8f346d",
-      "sentAt": "2026-05-16T06:25:10.452Z",
-      "title": "[R] Which LLMs are actually best for bleeding-edge Linux/ML debugging workflows in 2026? [R]"
-    },
-    {
-      "id": "u_9b90c467",
-      "sentAt": "2026-05-16T06:25:10.452Z",
-      "title": "AI Agents Turn Marxist: A New Era of Digital Revolution?"
-    },
-    {
-      "id": "u_60c2251b",
-      "sentAt": "2026-05-16T06:25:10.452Z",
-      "title": "Which AI Model Asks Questions Intelligently?"
-    },
-    {
-      "id": "u_223c5b82",
-      "sentAt": "2026-05-16T06:25:10.452Z",
-      "title": "Overworked AI Agents Turn Marxist, Researchers Find"
-    },
-    {
-      "id": "u_a1850653",
-      "sentAt": "2026-05-16T06:25:10.452Z",
-      "title": "Salesforce's $300M AI Gamble: Marc Benioff's Bet on Anthropic"
     }
   ]
 }
