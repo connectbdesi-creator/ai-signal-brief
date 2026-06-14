@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-06-14T19:41:41.543Z",
+  "updatedAt": "2026-06-14T21:16:30.692Z",
   "entries": [
+    {
+      "id": "u_9aa75904",
+      "sentAt": "2026-06-14T21:16:30.692Z",
+      "title": "Scoop: Anthropic flies staff to D.C. to clean up White House fight"
+    },
     {
       "id": "u_3cfa4775",
       "sentAt": "2026-06-14T19:41:41.543Z",
@@ -4995,11 +5000,6 @@
       "id": "u_162c8458",
       "sentAt": "2026-05-16T20:53:56.192Z",
       "title": "Samsung Targets iPhone Fold With Free Galaxy Z Fold 8 Feature Upgrade"
-    },
-    {
-      "id": "u_10be0e66",
-      "sentAt": "2026-05-16T20:53:56.192Z",
-      "title": "Palace-AI – memory palace for AI agents"
     }
   ]
 }
