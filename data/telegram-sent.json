@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-13T23:09:29.149Z",
+  "updatedAt": "2026-06-14T04:23:56.840Z",
   "entries": [
+    {
+      "id": "u_c2ad5dd",
+      "sentAt": "2026-06-14T04:23:56.840Z",
+      "title": "UK announces $1.5B AI infrastructure plan"
+    },
+    {
+      "id": "u_287f0a10",
+      "sentAt": "2026-06-14T04:23:56.840Z",
+      "title": "ClawMoat, runtime containment for AI agents after Fable 5"
+    },
+    {
+      "id": "u_77a22fd8",
+      "sentAt": "2026-06-14T04:23:56.840Z",
+      "title": "Lime 2.0 – Zero Human Auth for AI Agents"
+    },
+    {
+      "id": "u_e0c9393e",
+      "sentAt": "2026-06-14T04:23:56.840Z",
+      "title": "The Missing Infrastructure Between AI Agents and the EVM"
+    },
+    {
+      "id": "u_d84e978b",
+      "sentAt": "2026-06-14T04:23:56.840Z",
+      "title": "QodFlow – a Kanban board AI agents can drive via MCP"
+    },
     {
       "id": "u_c2132677",
       "sentAt": "2026-06-13T23:09:29.149Z",
@@ -4975,31 +5000,6 @@
       "id": "u_daa11a6f",
       "sentAt": "2026-05-16T13:39:24.081Z",
       "title": "Built a 6x cheaper CodeRabbit alternative using open source models"
-    },
-    {
-      "id": "u_bb55df33",
-      "sentAt": "2026-05-16T11:04:43.770Z",
-      "title": "New benchmark confirms AI video generators look stunning but still can't reason about the world"
-    },
-    {
-      "id": "u_9a9a714b",
-      "sentAt": "2026-05-16T11:04:43.770Z",
-      "title": "OpenAI bought a voice cloning startup famous for celebrity imitations"
-    },
-    {
-      "id": "u_e84297cd",
-      "sentAt": "2026-05-16T11:04:43.770Z",
-      "title": "OpenClaw's $1.3 Million Monthly Experiment: AI Unleashed in Software Development"
-    },
-    {
-      "id": "u_f140977d",
-      "sentAt": "2026-05-16T11:04:43.770Z",
-      "title": "For $1.3 million a month, OpenClaw founder Peter Steinberger runs 100 AI agents that code, review PRs, and find bugs"
-    },
-    {
-      "id": "u_4399708e",
-      "sentAt": "2026-05-16T11:04:43.770Z",
-      "title": "For $1.3 million a month, OpenClaw founder Peter Steinberger runs 100 AI agents that code, review PRs, and find bugs"
     }
   ]
 }
