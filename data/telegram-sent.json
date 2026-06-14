@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-06-14T14:23:42.357Z",
+  "updatedAt": "2026-06-14T17:23:06.827Z",
   "entries": [
+    {
+      "id": "u_3a3e88a3",
+      "sentAt": "2026-06-14T17:23:06.827Z",
+      "title": "Local .NET multi-agent LLM pipeline AI therapist using a compact wire format"
+    },
+    {
+      "id": "u_227620a1",
+      "sentAt": "2026-06-14T17:23:06.827Z",
+      "title": "Why Agents Don't Scale: It's an Engineering Problem, Not an AI Problem"
+    },
+    {
+      "id": "u_50798bde",
+      "sentAt": "2026-06-14T17:23:06.827Z",
+      "title": "Ask HN: Is anyone building real software with AI agents?"
+    },
     {
       "id": "u_4eecfae1",
       "sentAt": "2026-06-14T14:23:42.357Z",
@@ -4985,21 +5000,6 @@
       "id": "u_987f56c3",
       "sentAt": "2026-05-16T19:10:04.630Z",
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens"
-    },
-    {
-      "id": "u_fb0d6b74",
-      "sentAt": "2026-05-16T17:02:02.230Z",
-      "title": "Your AI agent is one poisoned webpage away from doing something catastrophic"
-    },
-    {
-      "id": "u_21daca78",
-      "sentAt": "2026-05-16T17:02:02.230Z",
-      "title": "Strix Halo Llama.cpp MTP Benchmarks: 27B Gets Much Faster, 35B Is Mixed"
-    },
-    {
-      "id": "u_ca6024b0",
-      "sentAt": "2026-05-16T17:02:02.230Z",
-      "title": "Sam Altman’s ego was OpenAI’s downfall"
     }
   ]
 }
