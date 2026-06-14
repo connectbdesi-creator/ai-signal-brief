@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-14T04:23:56.840Z",
+  "updatedAt": "2026-06-14T09:40:24.104Z",
   "entries": [
+    {
+      "id": "u_acaf2b2f",
+      "sentAt": "2026-06-14T09:40:24.104Z",
+      "title": "AI coding agents find the right file but miss the exact lines that matter, study shows"
+    },
+    {
+      "id": "u_434d58db",
+      "sentAt": "2026-06-14T09:40:24.104Z",
+      "title": "AI coding agents find the right file but miss the exact lines that matter, study shows"
+    },
+    {
+      "id": "u_7606d1a1",
+      "sentAt": "2026-06-14T09:40:24.104Z",
+      "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model"
+    },
+    {
+      "id": "u_fca651d0",
+      "sentAt": "2026-06-14T09:40:24.104Z",
+      "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model"
+    },
+    {
+      "id": "u_8368ae4e",
+      "sentAt": "2026-06-14T09:40:24.104Z",
+      "title": "Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s"
+    },
     {
       "id": "u_c2ad5dd",
       "sentAt": "2026-06-14T04:23:56.840Z",
@@ -4975,31 +5000,6 @@
       "id": "u_50837916",
       "sentAt": "2026-05-16T14:59:45.753Z",
       "title": "AI Agents Transforming Work Roles: Ready or Not?"
-    },
-    {
-      "id": "u_943b03e8",
-      "sentAt": "2026-05-16T13:39:24.081Z",
-      "title": "The AI Race: Mythos Dominates but at a Hefty Price"
-    },
-    {
-      "id": "u_2f34f8f4",
-      "sentAt": "2026-05-16T13:39:24.081Z",
-      "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously"
-    },
-    {
-      "id": "u_62faef89",
-      "sentAt": "2026-05-16T13:39:24.081Z",
-      "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously"
-    },
-    {
-      "id": "u_3fbf636a",
-      "sentAt": "2026-05-16T13:39:24.081Z",
-      "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale"
-    },
-    {
-      "id": "u_daa11a6f",
-      "sentAt": "2026-05-16T13:39:24.081Z",
-      "title": "Built a 6x cheaper CodeRabbit alternative using open source models"
     }
   ]
 }
