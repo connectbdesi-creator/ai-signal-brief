@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-14T12:00:19.492Z",
+  "updatedAt": "2026-06-14T14:23:42.357Z",
   "entries": [
+    {
+      "id": "u_4eecfae1",
+      "sentAt": "2026-06-14T14:23:42.357Z",
+      "title": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever"
+    },
+    {
+      "id": "u_1d9f3d45",
+      "sentAt": "2026-06-14T14:23:42.357Z",
+      "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents"
+    },
+    {
+      "id": "u_42ba792",
+      "sentAt": "2026-06-14T14:23:42.357Z",
+      "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents"
+    },
+    {
+      "id": "u_b1eb237e",
+      "sentAt": "2026-06-14T14:23:42.357Z",
+      "title": "GPU Time-Slicing for Concurrent LLM Agents on Kubernetes"
+    },
+    {
+      "id": "u_fdb7b96b",
+      "sentAt": "2026-06-14T14:23:42.357Z",
+      "title": "OpenAI hit with sweeping probe from massive coalition of 42 US state attorneys general just days after reported IPO filing — subpoena targets ChatGPT maker’s ads, data practices, handling of minors, model sycophancy, and safety policies - Tom's Hardware"
+    },
     {
       "id": "u_491ade67",
       "sentAt": "2026-06-14T12:00:19.492Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ca6024b0",
       "sentAt": "2026-05-16T17:02:02.230Z",
       "title": "Sam Altman’s ego was OpenAI’s downfall"
-    },
-    {
-      "id": "u_e9928eea",
-      "sentAt": "2026-05-16T17:02:02.230Z",
-      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy"
-    },
-    {
-      "id": "u_f15f4498",
-      "sentAt": "2026-05-16T17:02:02.230Z",
-      "title": "Extension idea: llama-server with custom samplers"
-    },
-    {
-      "id": "u_c16c54c1",
-      "sentAt": "2026-05-16T14:59:45.753Z",
-      "title": "Most enterprises are trying to scale AI on top of organizational chaos"
-    },
-    {
-      "id": "u_d44839d0",
-      "sentAt": "2026-05-16T14:59:45.753Z",
-      "title": "macOS support in Lemonade has graduated out of beta!"
-    },
-    {
-      "id": "u_f4bd9be1",
-      "sentAt": "2026-05-16T14:59:45.753Z",
-      "title": "Same double-pendulum prompt, same host renderer, and two models picked opposite θ conventions. You can see it within seconds."
     }
   ]
 }
