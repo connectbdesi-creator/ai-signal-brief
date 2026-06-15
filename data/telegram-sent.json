@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-15T12:22:27.064Z",
+  "updatedAt": "2026-06-15T18:41:14.872Z",
   "entries": [
+    {
+      "id": "u_887152b1",
+      "sentAt": "2026-06-15T18:41:14.872Z",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI"
+    },
+    {
+      "id": "u_bfad91be",
+      "sentAt": "2026-06-15T18:41:14.872Z",
+      "title": "Building a 100x Cheaper Trace Judge with Fireworks"
+    },
+    {
+      "id": "u_22f8e87f",
+      "sentAt": "2026-06-15T18:41:14.872Z",
+      "title": "Anthropic to meet with White House over AI tool suspension"
+    },
+    {
+      "id": "u_9e2907ff",
+      "sentAt": "2026-06-15T18:41:14.872Z",
+      "title": "Big Tech’s desperate last push at AI regulation"
+    },
+    {
+      "id": "u_dca60491",
+      "sentAt": "2026-06-15T18:41:14.872Z",
+      "title": "Introducing Align Evals: Streamlining LLM Application Evaluation"
+    },
     {
       "id": "u_da6afa79",
       "sentAt": "2026-06-15T12:22:27.064Z",
@@ -4975,31 +5000,6 @@
       "id": "u_30c3d04e",
       "sentAt": "2026-05-17T06:47:55.928Z",
       "title": "TypedMemory – long-term memory and reflection for AI agents"
-    },
-    {
-      "id": "u_41810467",
-      "sentAt": "2026-05-17T06:47:55.928Z",
-      "title": "Bitloops: A New Kid on the Open Source Block"
-    },
-    {
-      "id": "u_6e58f5fd",
-      "sentAt": "2026-05-17T06:47:55.928Z",
-      "title": "AWS and Gemini Spark: A New Era of Cybersecurity Challenges?"
-    },
-    {
-      "id": "u_edae6c15",
-      "sentAt": "2026-05-17T03:46:45.767Z",
-      "title": "Goodbye traditional washing machine: Changhong surprises and launches a version with panda-inspired design, artificial intelligence that identifies fabrics, triple cleaning, adaptive sensors, automatic programs, and a smart home ecosystem to transform the la - CPG Click Petróleo e Gás"
-    },
-    {
-      "id": "u_abf8c926",
-      "sentAt": "2026-05-17T03:46:45.767Z",
-      "title": "Paid HTTP APIs that AI agents auto-pay per-call (x402 and USDC)"
-    },
-    {
-      "id": "u_ada7cfe8",
-      "sentAt": "2026-05-17T03:46:45.767Z",
-      "title": "Inside Gemini Spark: Code Reveals The Skill System And Task Scheduler Powering Google's AI Agent"
     }
   ]
 }
