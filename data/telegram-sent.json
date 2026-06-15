@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-14T23:11:53.011Z",
+  "updatedAt": "2026-06-15T04:47:29.906Z",
   "entries": [
+    {
+      "id": "u_9f54581f",
+      "sentAt": "2026-06-15T04:47:29.906Z",
+      "title": "Why the US government shut down Anthropic’s latest Claude AI model - The Conversation"
+    },
+    {
+      "id": "u_6d55b0ba",
+      "sentAt": "2026-06-15T04:47:29.906Z",
+      "title": "Natively Unlearnable Large Language Models"
+    },
+    {
+      "id": "u_f24b6776",
+      "sentAt": "2026-06-15T04:47:29.906Z",
+      "title": "A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health"
+    },
+    {
+      "id": "u_94e9c8dc",
+      "sentAt": "2026-06-15T04:47:29.906Z",
+      "title": "DLawBench: Evaluating LLMs Through Multi-Turn Legal Consultation"
+    },
+    {
+      "id": "u_119e26a7",
+      "sentAt": "2026-06-15T04:47:29.906Z",
+      "title": "Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering"
+    },
     {
       "id": "u_4fb5f6f6",
       "sentAt": "2026-06-14T23:11:53.011Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ac4c5f46",
       "sentAt": "2026-05-16T22:51:38.003Z",
       "title": "Stoic-AgentOS: Bringing Philosophy to AI"
-    },
-    {
-      "id": "u_8c9c3110",
-      "sentAt": "2026-05-16T22:51:38.003Z",
-      "title": "WSL can't reach Kobold.cpp running on Windows, even though the API works fine in PowerShell, SillyTavern & a Kenshi SentientSands Mod. Does anyone know the solution?"
-    },
-    {
-      "id": "u_4413b925",
-      "sentAt": "2026-05-16T22:51:38.003Z",
-      "title": "Your AI agent is one poisoned webpage away from doing something catastrophic"
-    },
-    {
-      "id": "u_6b27ea0e",
-      "sentAt": "2026-05-16T20:53:56.192Z",
-      "title": "Best llama.cpp launch config for Qwen3.6 27B on RX 7800 XT (16 GB VRAM) for OpenClaw?"
-    },
-    {
-      "id": "u_6616e345",
-      "sentAt": "2026-05-16T20:53:56.192Z",
-      "title": "Warelay -> OpenClaw"
-    },
-    {
-      "id": "u_b414744a",
-      "sentAt": "2026-05-16T20:53:56.192Z",
-      "title": "Local Qwen 3.6 vs frontier models on a coding primitive: single-file HTML canvas driving animation - results and GIFs"
     }
   ]
 }
