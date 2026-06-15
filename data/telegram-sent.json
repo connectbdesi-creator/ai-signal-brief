@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-15T18:41:14.872Z",
+  "updatedAt": "2026-06-15T22:21:59.890Z",
   "entries": [
+    {
+      "id": "u_c480aae5",
+      "sentAt": "2026-06-15T22:21:59.890Z",
+      "title": "Radical Numerics launches with $50M to build general biological intelligence"
+    },
+    {
+      "id": "u_bbe22ccf",
+      "sentAt": "2026-06-15T22:21:59.890Z",
+      "title": "Cleo: trying to fit full analyst behavior in a 2B model [P]"
+    },
+    {
+      "id": "u_b248fe0",
+      "sentAt": "2026-06-15T22:21:59.890Z",
+      "title": "4 Things You Should Know About Fable 5"
+    },
+    {
+      "id": "u_8cf46719",
+      "sentAt": "2026-06-15T22:21:59.890Z",
+      "title": "Salesforce to acquire customer service automation startup Fin for $3.6B"
+    },
+    {
+      "id": "u_3cfcacbb",
+      "sentAt": "2026-06-15T22:21:59.890Z",
+      "title": "Introducing Gemma 4 models on Amazon Bedrock"
+    },
     {
       "id": "u_887152b1",
       "sentAt": "2026-06-15T18:41:14.872Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2c2e3dff",
       "sentAt": "2026-05-17T09:49:34.088Z",
       "title": "AI's Dilemma: When More Compute Can't Solve the Unsolvable"
-    },
-    {
-      "id": "u_2750d40d",
-      "sentAt": "2026-05-17T09:49:34.088Z",
-      "title": "New math benchmark reveals AI models confidently solve problems that have no solution"
-    },
-    {
-      "id": "u_c7b5393c",
-      "sentAt": "2026-05-17T09:49:34.088Z",
-      "title": "New math benchmark reveals AI models confidently solve problems that have no solution"
-    },
-    {
-      "id": "u_95790316",
-      "sentAt": "2026-05-17T06:47:55.928Z",
-      "title": "Deepseek V4's 1M context window: the breaking point"
-    },
-    {
-      "id": "u_6ffae1e4",
-      "sentAt": "2026-05-17T06:47:55.928Z",
-      "title": "How does Pi coding agent control Qwen's thinking verbosity? (Qwen 35B A3B, llama-server)"
-    },
-    {
-      "id": "u_30c3d04e",
-      "sentAt": "2026-05-17T06:47:55.928Z",
-      "title": "TypedMemory – long-term memory and reflection for AI agents"
     }
   ]
 }
