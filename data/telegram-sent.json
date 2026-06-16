@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-15T22:21:59.890Z",
+  "updatedAt": "2026-06-16T04:44:21.234Z",
   "entries": [
+    {
+      "id": "u_cb4a8c51",
+      "sentAt": "2026-06-16T04:44:21.234Z",
+      "title": "Remember, Don't Re-read: Stateful ReAct Agents for Token-Efficient Autonomous Experimentation"
+    },
+    {
+      "id": "u_71ea790e",
+      "sentAt": "2026-06-16T04:44:21.234Z",
+      "title": "Relational Structural Causal Models"
+    },
+    {
+      "id": "u_f9ef7077",
+      "sentAt": "2026-06-16T04:44:21.234Z",
+      "title": "Optimising Temporary Accommodation Placement Across London with AI-Powered SaaS in E-Governance Systems"
+    },
+    {
+      "id": "u_fbc6f81f",
+      "sentAt": "2026-06-16T04:44:21.234Z",
+      "title": "SPARK: Security Knowledge Priming and Representation-Guided Knowledge Activation for LLM-based Secure Code Generation"
+    },
+    {
+      "id": "u_4739500e",
+      "sentAt": "2026-06-16T04:44:21.234Z",
+      "title": "Greed Is Learned: Visible Incentives as Reward-Hacking Triggers"
+    },
     {
       "id": "u_c480aae5",
       "sentAt": "2026-06-15T22:21:59.890Z",
@@ -4975,31 +5000,6 @@
       "id": "u_aa5cadc5",
       "sentAt": "2026-05-17T11:10:43.930Z",
       "title": "Why OpenYF's World Model Can Change AI Narratives"
-    },
-    {
-      "id": "u_d6031d82",
-      "sentAt": "2026-05-17T11:10:43.930Z",
-      "title": "Why our AI agent needed a causal graph, not just a RAG database"
-    },
-    {
-      "id": "u_5620dfd",
-      "sentAt": "2026-05-17T11:10:43.930Z",
-      "title": "OpenAI's Bold Move: ChatGPT, Codex, and API Unite"
-    },
-    {
-      "id": "u_a37b18e8",
-      "sentAt": "2026-05-17T09:49:34.088Z",
-      "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases"
-    },
-    {
-      "id": "u_d17e571a",
-      "sentAt": "2026-05-17T09:49:34.088Z",
-      "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases"
-    },
-    {
-      "id": "u_2c2e3dff",
-      "sentAt": "2026-05-17T09:49:34.088Z",
-      "title": "AI's Dilemma: When More Compute Can't Solve the Unsolvable"
     }
   ]
 }
