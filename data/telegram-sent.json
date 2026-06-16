@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-16T17:01:26.898Z",
+  "updatedAt": "2026-06-16T20:56:12.665Z",
   "entries": [
+    {
+      "id": "u_fd6f6691",
+      "sentAt": "2026-06-16T20:56:12.665Z",
+      "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling"
+    },
+    {
+      "id": "u_a0cb51f0",
+      "sentAt": "2026-06-16T20:56:12.665Z",
+      "title": "Helport AI launches HyprX for hardware QR-powered service agent - Proactive financial news"
+    },
+    {
+      "id": "u_3d21c7e9",
+      "sentAt": "2026-06-16T20:56:12.665Z",
+      "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek"
+    },
+    {
+      "id": "u_eda7b571",
+      "sentAt": "2026-06-16T20:56:12.665Z",
+      "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek"
+    },
+    {
+      "id": "u_1eabefe0",
+      "sentAt": "2026-06-16T20:56:12.665Z",
+      "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups"
+    },
     {
       "id": "u_1d7b872b",
       "sentAt": "2026-06-16T17:01:26.898Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d9415782",
       "sentAt": "2026-05-17T17:00:42.294Z",
       "title": "Show HN: Due Diligence Agents – 13 AI agents for M&A contract analysis"
-    },
-    {
-      "id": "u_44935ef9",
-      "sentAt": "2026-05-17T17:00:42.294Z",
-      "title": "The Unseen Flaws in AI Governance: Why Eval Engineering Could Be Key"
-    },
-    {
-      "id": "u_708d79d1",
-      "sentAt": "2026-05-17T17:00:42.294Z",
-      "title": "Eval engineering: The missing piece of agentic AI governance"
-    },
-    {
-      "id": "u_bacc6c1f",
-      "sentAt": "2026-05-17T14:59:52.865Z",
-      "title": "I think most companies are building AI backwards"
-    },
-    {
-      "id": "u_51e7c9b4",
-      "sentAt": "2026-05-17T14:59:52.865Z",
-      "title": "Standalone Siri app to offer auto-deleting chat history, launch with beta label: report"
-    },
-    {
-      "id": "u_ada3b714",
-      "sentAt": "2026-05-17T14:59:52.865Z",
-      "title": "MTP for Qwen3.6-35B-A3B on 6GB VRAM laptop: not worth it"
     }
   ]
 }
