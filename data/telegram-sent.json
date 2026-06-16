@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-16T20:56:12.665Z",
+  "updatedAt": "2026-06-16T23:25:58.042Z",
   "entries": [
+    {
+      "id": "u_c4114851",
+      "sentAt": "2026-06-16T23:25:58.042Z",
+      "title": "Gorham Public Schools launches AI handbook for students - WGME"
+    },
+    {
+      "id": "u_609673a2",
+      "sentAt": "2026-06-16T23:25:58.042Z",
+      "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API"
+    },
+    {
+      "id": "u_f35e989f",
+      "sentAt": "2026-06-16T23:25:58.042Z",
+      "title": "The AGI moment? Databricks’ new releases zero in on support and deployment of AI agents"
+    },
+    {
+      "id": "u_38a32ea9",
+      "sentAt": "2026-06-16T23:25:58.042Z",
+      "title": "Anthropic's Fable shutdown is a big moment for open-source AI"
+    },
+    {
+      "id": "u_2c47bf3",
+      "sentAt": "2026-06-16T23:25:58.042Z",
+      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses"
+    },
     {
       "id": "u_fd6f6691",
       "sentAt": "2026-06-16T20:56:12.665Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5720f0c2",
       "sentAt": "2026-05-17T19:14:28.258Z",
       "title": "PageIndex AI: A Tool for the Content Creators"
-    },
-    {
-      "id": "u_be28e63c",
-      "sentAt": "2026-05-17T19:14:28.258Z",
-      "title": "ai slop? who knows~"
-    },
-    {
-      "id": "u_982a0661",
-      "sentAt": "2026-05-17T19:14:28.258Z",
-      "title": "Engineering a Safer World: Risk Modelling – and Safety Engineering? – For AI Lo"
-    },
-    {
-      "id": "u_e9967d77",
-      "sentAt": "2026-05-17T17:00:42.294Z",
-      "title": "Due Diligence Agents: Automating Trust in Transactions"
-    },
-    {
-      "id": "u_206911c9",
-      "sentAt": "2026-05-17T17:00:42.294Z",
-      "title": "Show HN: Agnt – Free open-source CLI to run any public or MIT-licensed AI agent"
-    },
-    {
-      "id": "u_d9415782",
-      "sentAt": "2026-05-17T17:00:42.294Z",
-      "title": "Show HN: Due Diligence Agents – 13 AI agents for M&A contract analysis"
     }
   ]
 }
