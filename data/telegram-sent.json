@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-16T04:44:21.234Z",
+  "updatedAt": "2026-06-16T11:18:05.477Z",
   "entries": [
+    {
+      "id": "u_8b2e3d4b",
+      "sentAt": "2026-06-16T11:18:05.477Z",
+      "title": "Source code for LLMs. [D]"
+    },
+    {
+      "id": "u_2f135d9d",
+      "sentAt": "2026-06-16T11:18:05.477Z",
+      "title": "Beyond Identity launches Ceros AI agent security platform"
+    },
+    {
+      "id": "u_11a311ad",
+      "sentAt": "2026-06-16T11:18:05.477Z",
+      "title": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms"
+    },
+    {
+      "id": "u_3f6a19fb",
+      "sentAt": "2026-06-16T11:18:05.477Z",
+      "title": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms"
+    },
+    {
+      "id": "u_d2639a0a",
+      "sentAt": "2026-06-16T11:18:05.477Z",
+      "title": "DeepSeek takes outside money for the first time at a $50 billion valuation"
+    },
     {
       "id": "u_cb4a8c51",
       "sentAt": "2026-06-16T04:44:21.234Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e8ddae7",
       "sentAt": "2026-05-17T13:27:54.442Z",
       "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\""
-    },
-    {
-      "id": "u_dcc19b90",
-      "sentAt": "2026-05-17T13:27:54.442Z",
-      "title": "Four AI models ran radio stations for six months and the results ranged from competent to unhinged"
-    },
-    {
-      "id": "u_a907cabb",
-      "sentAt": "2026-05-17T13:27:54.442Z",
-      "title": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs"
-    },
-    {
-      "id": "u_7bf79db2",
-      "sentAt": "2026-05-17T11:10:43.930Z",
-      "title": "Open Source vs frontier models on a single-file HTML canvas driving animation - results"
-    },
-    {
-      "id": "u_7f9ccf1c",
-      "sentAt": "2026-05-17T11:10:43.930Z",
-      "title": "OpenClaw creator burned through $1.3 million in OpenAI API tokens in a single month — bill covered 603 billion tokens across 7.6 million requests and 100 coding agents - Tom's Hardware"
-    },
-    {
-      "id": "u_aa5cadc5",
-      "sentAt": "2026-05-17T11:10:43.930Z",
-      "title": "Why OpenYF's World Model Can Change AI Narratives"
     }
   ]
 }
