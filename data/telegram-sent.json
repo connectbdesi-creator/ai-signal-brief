@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-16T11:18:05.477Z",
+  "updatedAt": "2026-06-16T17:01:26.898Z",
   "entries": [
+    {
+      "id": "u_1d7b872b",
+      "sentAt": "2026-06-16T17:01:26.898Z",
+      "title": "TwelveLabs’ video AI finds new use cases on AWS Marketplace"
+    },
+    {
+      "id": "u_6d0c41ea",
+      "sentAt": "2026-06-16T17:01:26.898Z",
+      "title": "FinancialContent - Avangard Launches New AI-Powered Investment Fund Built on More Than Two Decades of Research and Machine Learning Development - FinancialContent"
+    },
+    {
+      "id": "u_bb79987",
+      "sentAt": "2026-06-16T17:01:26.898Z",
+      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents"
+    },
+    {
+      "id": "u_7e89fbd9",
+      "sentAt": "2026-06-16T17:01:26.898Z",
+      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents"
+    },
+    {
+      "id": "u_4457a82a",
+      "sentAt": "2026-06-16T17:01:26.898Z",
+      "title": "HPE expands Private Cloud AI factory portfolio to support next-gen autonomous agents"
+    },
     {
       "id": "u_8b2e3d4b",
       "sentAt": "2026-06-16T11:18:05.477Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ada3b714",
       "sentAt": "2026-05-17T14:59:52.865Z",
       "title": "MTP for Qwen3.6-35B-A3B on 6GB VRAM laptop: not worth it"
-    },
-    {
-      "id": "u_101cd012",
-      "sentAt": "2026-05-17T14:59:52.865Z",
-      "title": "AI Agents and the Race to Machine Autonomy"
-    },
-    {
-      "id": "u_66a39918",
-      "sentAt": "2026-05-17T14:59:52.865Z",
-      "title": "Qwen3.6-27B MTP depth benchmark — RTX 3090Ti"
-    },
-    {
-      "id": "u_5884e5c2",
-      "sentAt": "2026-05-17T13:27:54.442Z",
-      "title": "AI backlash becomes a real business risk"
-    },
-    {
-      "id": "u_bb1af686",
-      "sentAt": "2026-05-17T13:27:54.442Z",
-      "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics"
-    },
-    {
-      "id": "u_5e8ddae7",
-      "sentAt": "2026-05-17T13:27:54.442Z",
-      "title": "Greg Brockman consolidates OpenAI's product teams to build an \"agentic future\""
     }
   ]
 }
