@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-17T18:23:37.514Z",
+  "updatedAt": "2026-06-17T22:03:39.816Z",
   "entries": [
+    {
+      "id": "u_b065d5be",
+      "sentAt": "2026-06-17T22:03:39.816Z",
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI"
+    },
+    {
+      "id": "u_c44ba55e",
+      "sentAt": "2026-06-17T22:03:39.816Z",
+      "title": "Get ready for Disney's big AI ads push"
+    },
+    {
+      "id": "u_c46d336",
+      "sentAt": "2026-06-17T22:03:39.816Z",
+      "title": "Google Releases Free Android Upgrade To Millions: Samsung Galaxy Next"
+    },
+    {
+      "id": "u_a0335e2b",
+      "sentAt": "2026-06-17T22:03:39.816Z",
+      "title": "Big Tech’s AI Datacenter Investments Might Be In Big Trouble"
+    },
+    {
+      "id": "u_2b74008a",
+      "sentAt": "2026-06-17T22:03:39.816Z",
+      "title": "This 'anti-bot' startup wants to pay you to interact with brands. Read the pitch deck it used to raise $18.5 million."
+    },
     {
       "id": "u_50e0b61d",
       "sentAt": "2026-06-17T18:23:37.514Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f7d31625",
       "sentAt": "2026-05-18T13:50:46.836Z",
       "title": "Small Open-Source LLMs Challenge the Giants in Quality Estimation"
-    },
-    {
-      "id": "u_45b26acf",
-      "sentAt": "2026-05-18T13:50:46.836Z",
-      "title": "H-Mem: Revolutionizing Memory Retrieval in AI Agents"
-    },
-    {
-      "id": "u_25b81b40",
-      "sentAt": "2026-05-18T13:50:46.836Z",
-      "title": "Reimagining Machine Unlearning: ASRU's Impact on Multimodal Models"
-    },
-    {
-      "id": "u_60559141",
-      "sentAt": "2026-05-18T08:13:59.512Z",
-      "title": "Breaking the Chains: How New AI Models Retain Multimodal Capabilities"
-    },
-    {
-      "id": "u_aa7ed0b7",
-      "sentAt": "2026-05-18T08:13:59.512Z",
-      "title": "GRASP: A New Era of Social Interaction Analysis in AI"
-    },
-    {
-      "id": "u_fe355803",
-      "sentAt": "2026-05-18T08:13:59.512Z",
-      "title": "OpenAI and Malta launch national ChatGPT Plus access programme - Telecompaper"
     }
   ]
 }
