@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-17T15:42:57.274Z",
+  "updatedAt": "2026-06-17T18:23:37.514Z",
   "entries": [
+    {
+      "id": "u_50e0b61d",
+      "sentAt": "2026-06-17T18:23:37.514Z",
+      "title": "Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models"
+    },
+    {
+      "id": "u_820fe1af",
+      "sentAt": "2026-06-17T18:23:37.514Z",
+      "title": "Vercel launches a new framework and enterprise controls for agentic AI infrastructure"
+    },
+    {
+      "id": "u_88c8349f",
+      "sentAt": "2026-06-17T18:23:37.514Z",
+      "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons"
+    },
+    {
+      "id": "u_ea6dfb42",
+      "sentAt": "2026-06-17T18:23:37.514Z",
+      "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons"
+    },
+    {
+      "id": "u_8e54b4d6",
+      "sentAt": "2026-06-17T18:23:37.514Z",
+      "title": "Context intelligence for your data and AI agents at scale"
+    },
     {
       "id": "u_b4f78a69",
       "sentAt": "2026-06-17T15:42:57.274Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fe355803",
       "sentAt": "2026-05-18T08:13:59.512Z",
       "title": "OpenAI and Malta launch national ChatGPT Plus access programme - Telecompaper"
-    },
-    {
-      "id": "u_113ab5b2",
-      "sentAt": "2026-05-18T08:13:59.512Z",
-      "title": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how"
-    },
-    {
-      "id": "u_18566c01",
-      "sentAt": "2026-05-18T08:13:59.512Z",
-      "title": "FUTURE TRAVEL: TRUST, AI AGENTS, AND HUMAN INSIGHTS - tourism-review.com"
-    },
-    {
-      "id": "u_d8247aae",
-      "sentAt": "2026-05-18T04:00:10.748Z",
-      "title": "Uber's AI Spending Hits a Wall: What Went Wrong?"
-    },
-    {
-      "id": "u_1d3e6024",
-      "sentAt": "2026-05-18T04:00:10.748Z",
-      "title": "Show HN: AnyFrame – Sandboxes for AI Agents"
-    },
-    {
-      "id": "u_d6cd7132",
-      "sentAt": "2026-05-18T04:00:10.748Z",
-      "title": "AI Model Leak Exposes New Contender in the Race"
     }
   ]
 }
