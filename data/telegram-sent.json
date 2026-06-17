@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-17T11:02:57.612Z",
+  "updatedAt": "2026-06-17T15:42:57.274Z",
   "entries": [
+    {
+      "id": "u_b4f78a69",
+      "sentAt": "2026-06-17T15:42:57.274Z",
+      "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning"
+    },
+    {
+      "id": "u_e64428d1",
+      "sentAt": "2026-06-17T15:42:57.274Z",
+      "title": "Towards autonomous medical artificial intelligence agents - Nature"
+    },
+    {
+      "id": "u_657e5709",
+      "sentAt": "2026-06-17T15:42:57.274Z",
+      "title": "Nvidia research shows robots that train themselves through AI coding agents"
+    },
+    {
+      "id": "u_3592c3e6",
+      "sentAt": "2026-06-17T15:42:57.274Z",
+      "title": "Nvidia research shows robots that train themselves through AI coding agents"
+    },
+    {
+      "id": "u_2aa6c929",
+      "sentAt": "2026-06-17T15:42:57.274Z",
+      "title": "Artificial intelligence agents automate life-cycle assessment - Nature"
+    },
     {
       "id": "u_1d408cba",
       "sentAt": "2026-06-17T11:02:57.612Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d6cd7132",
       "sentAt": "2026-05-18T04:00:10.748Z",
       "title": "AI Model Leak Exposes New Contender in the Race"
-    },
-    {
-      "id": "u_f6b98231",
-      "sentAt": "2026-05-18T04:00:10.748Z",
-      "title": "China Telecom launches trial AI Token subscription plans starting at $1.4 per month"
-    },
-    {
-      "id": "u_5df1fb14",
-      "sentAt": "2026-05-18T04:00:10.748Z",
-      "title": "I trained TIME: short context-triggered thinking on Qwen model instead of overthinking"
-    },
-    {
-      "id": "u_c0577d25",
-      "sentAt": "2026-05-17T22:56:35.460Z",
-      "title": "EPI – forensic evidence containers for AI agentSCITT-compatible, EU AI Act-ready"
-    },
-    {
-      "id": "u_9d2c547",
-      "sentAt": "2026-05-17T22:56:35.460Z",
-      "title": "AI Agents' 27,000 Experiments Turn Up a 2015 Flashback"
-    },
-    {
-      "id": "u_c36f365a",
-      "sentAt": "2026-05-17T22:56:35.460Z",
-      "title": "Grounding AI shopping agents using personas learned from raw clickstream data"
     }
   ]
 }
