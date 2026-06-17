@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-16T23:25:58.042Z",
+  "updatedAt": "2026-06-17T04:24:47.207Z",
   "entries": [
+    {
+      "id": "u_6ab0ff55",
+      "sentAt": "2026-06-17T04:24:47.207Z",
+      "title": "Amazon backs AI start-up developing models to simulate physical world"
+    },
+    {
+      "id": "u_c813d9d2",
+      "sentAt": "2026-06-17T04:24:47.207Z",
+      "title": "Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry"
+    },
+    {
+      "id": "u_a2ee091e",
+      "sentAt": "2026-06-17T04:24:47.207Z",
+      "title": "Reconfigurable Computing Challenge: Transformer for Jet Tagging on Versal AI Engines"
+    },
+    {
+      "id": "u_ef092e51",
+      "sentAt": "2026-06-17T04:24:47.207Z",
+      "title": "Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era"
+    },
+    {
+      "id": "u_11a0c664",
+      "sentAt": "2026-06-17T04:24:47.207Z",
+      "title": "Informative Missingness to Generate Irregular Clinical Time Series"
+    },
     {
       "id": "u_c4114851",
       "sentAt": "2026-06-16T23:25:58.042Z",
@@ -4975,31 +5000,6 @@
       "id": "u_27417c82",
       "sentAt": "2026-05-17T20:57:50.308Z",
       "title": "Why Open Source Quitters Are Gaining Ground"
-    },
-    {
-      "id": "u_6e4924a8",
-      "sentAt": "2026-05-17T20:57:50.308Z",
-      "title": "Grafting vision onto text models for fun and profit."
-    },
-    {
-      "id": "u_42643a47",
-      "sentAt": "2026-05-17T20:57:50.308Z",
-      "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production"
-    },
-    {
-      "id": "u_335e94bb",
-      "sentAt": "2026-05-17T19:14:28.258Z",
-      "title": "Moving from Composer 2/Kimi 2.6 to Qwen3.6:35b-a3b"
-    },
-    {
-      "id": "u_7f559bac",
-      "sentAt": "2026-05-17T19:14:28.258Z",
-      "title": "I can't get Qwen3.6 27B to outperform Qwen-Coder-Next and I'm not sure why"
-    },
-    {
-      "id": "u_5720f0c2",
-      "sentAt": "2026-05-17T19:14:28.258Z",
-      "title": "PageIndex AI: A Tool for the Content Creators"
     }
   ]
 }
