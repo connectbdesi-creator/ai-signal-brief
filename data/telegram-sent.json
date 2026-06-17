@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-17T04:24:47.207Z",
+  "updatedAt": "2026-06-17T11:02:57.612Z",
   "entries": [
+    {
+      "id": "u_1d408cba",
+      "sentAt": "2026-06-17T11:02:57.612Z",
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’"
+    },
+    {
+      "id": "u_50c7ce1d",
+      "sentAt": "2026-06-17T11:02:57.612Z",
+      "title": "CYGNVS launches command center for crises caused by a company’s own AI"
+    },
+    {
+      "id": "u_a2a55f27",
+      "sentAt": "2026-06-17T11:02:57.612Z",
+      "title": "Mistral AI to produce a larger family of models"
+    },
+    {
+      "id": "u_95594858",
+      "sentAt": "2026-06-17T11:02:57.612Z",
+      "title": "Lighthouse for AI Agents"
+    },
+    {
+      "id": "u_7a8ba941",
+      "sentAt": "2026-06-17T11:02:57.612Z",
+      "title": "MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget"
+    },
     {
       "id": "u_6ab0ff55",
       "sentAt": "2026-06-17T04:24:47.207Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c36f365a",
       "sentAt": "2026-05-17T22:56:35.460Z",
       "title": "Grounding AI shopping agents using personas learned from raw clickstream data"
-    },
-    {
-      "id": "u_123dd48",
-      "sentAt": "2026-05-17T22:56:35.460Z",
-      "title": "While waiting for Fara-1.5 for my coding harness"
-    },
-    {
-      "id": "u_dc246bac",
-      "sentAt": "2026-05-17T22:56:35.460Z",
-      "title": "Pushing the limit: minimax m2.7 q8_0 128k on 2x3090, 256GB DDR4"
-    },
-    {
-      "id": "u_1ccdd2de",
-      "sentAt": "2026-05-17T20:57:50.308Z",
-      "title": "Vercel Takes Programming to the Next Level with AI Agents"
-    },
-    {
-      "id": "u_adca04ae",
-      "sentAt": "2026-05-17T20:57:50.308Z",
-      "title": "Vercel's Zero: A Programming Language Designed for AI Agents"
-    },
-    {
-      "id": "u_27417c82",
-      "sentAt": "2026-05-17T20:57:50.308Z",
-      "title": "Why Open Source Quitters Are Gaining Ground"
     }
   ]
 }
