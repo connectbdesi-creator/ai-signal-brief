@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-18T18:27:42.477Z",
+  "updatedAt": "2026-06-18T22:13:28.910Z",
   "entries": [
+    {
+      "id": "u_35dceab2",
+      "sentAt": "2026-06-18T22:13:28.910Z",
+      "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]"
+    },
+    {
+      "id": "u_95d4200f",
+      "sentAt": "2026-06-18T22:13:28.910Z",
+      "title": "The White House Is Making Up Its Rules for AI in Real Time"
+    },
+    {
+      "id": "u_d0ed4bf6",
+      "sentAt": "2026-06-18T22:13:28.910Z",
+      "title": "Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight"
+    },
+    {
+      "id": "u_2aec2db1",
+      "sentAt": "2026-06-18T22:13:28.910Z",
+      "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says"
+    },
+    {
+      "id": "u_88f2408b",
+      "sentAt": "2026-06-18T22:13:28.910Z",
+      "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says"
+    },
     {
       "id": "u_78f96a58",
       "sentAt": "2026-06-18T18:27:42.477Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b9390e4f",
       "sentAt": "2026-05-19T03:54:05.268Z",
       "title": "Huang and Dell: AI's Next Frontier is Agentic - StartupHub.ai"
-    },
-    {
-      "id": "u_379dcec6",
-      "sentAt": "2026-05-19T03:54:05.268Z",
-      "title": "FSU alumnus launches AI app to help neighbors understand legislation - WTXL ABC 27 Tallahassee News"
-    },
-    {
-      "id": "u_96d49360",
-      "sentAt": "2026-05-19T03:54:05.268Z",
-      "title": "We have sub-agents at home"
-    },
-    {
-      "id": "u_f084ff06",
-      "sentAt": "2026-05-18T23:05:17.817Z",
-      "title": "NVIDIA and Dell's AI Revolution: Accelerating the Agentic Era"
-    },
-    {
-      "id": "u_f1fb765f",
-      "sentAt": "2026-05-18T23:05:17.817Z",
-      "title": "Beyond The Buzzwords: WinField Launches ‘Oz’ Artificial Intelligence, Expands BioVerified - thedailyscoop.com"
-    },
-    {
-      "id": "u_87371b2c",
-      "sentAt": "2026-05-18T23:05:17.817Z",
-      "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs"
     }
   ]
 }
