@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-18T15:35:38.585Z",
+  "updatedAt": "2026-06-18T18:27:42.477Z",
   "entries": [
+    {
+      "id": "u_78f96a58",
+      "sentAt": "2026-06-18T18:27:42.477Z",
+      "title": "Google Deepmind treats its own AI agents like rogue employees with office keys"
+    },
+    {
+      "id": "u_a1869c44",
+      "sentAt": "2026-06-18T18:27:42.477Z",
+      "title": "Google Deepmind treats its own AI agents like rogue employees with office keys"
+    },
+    {
+      "id": "u_9ba250d3",
+      "sentAt": "2026-06-18T18:27:42.477Z",
+      "title": "Calibrating 2-bit GGUFs (<10Gb) for agentic coding tasks"
+    },
+    {
+      "id": "u_4786f149",
+      "sentAt": "2026-06-18T18:27:42.477Z",
+      "title": "Introducing LangSmith’s No Code Agent Builder"
+    },
+    {
+      "id": "u_23c66fa",
+      "sentAt": "2026-06-18T18:27:42.477Z",
+      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes"
+    },
     {
       "id": "u_cabe7865",
       "sentAt": "2026-06-18T15:35:38.585Z",
@@ -4975,31 +5000,6 @@
       "id": "u_87371b2c",
       "sentAt": "2026-05-18T23:05:17.817Z",
       "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs"
-    },
-    {
-      "id": "u_784ec9a4",
-      "sentAt": "2026-05-18T23:05:17.817Z",
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required"
-    },
-    {
-      "id": "u_da053549",
-      "sentAt": "2026-05-18T23:05:17.817Z",
-      "title": "Configuration Qwen3.6-35b-a3b (12Gb VRAM)"
-    },
-    {
-      "id": "u_8337ee30",
-      "sentAt": "2026-05-18T21:15:24.765Z",
-      "title": "Pope Leo launches an AI commission ahead of papal letter release with Anthropic cofounder - Fortune"
-    },
-    {
-      "id": "u_8e92bbf5",
-      "sentAt": "2026-05-18T21:15:24.765Z",
-      "title": "Enterprises are facing an integration problem no model alone can fix"
-    },
-    {
-      "id": "u_c8d98874",
-      "sentAt": "2026-05-18T21:15:24.765Z",
-      "title": "Single-model AI image detection failed in production. Here’s what 6 models in ensemble actually look like"
     }
   ]
 }
