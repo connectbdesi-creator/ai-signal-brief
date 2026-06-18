@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-17T22:03:39.816Z",
+  "updatedAt": "2026-06-18T04:18:01.924Z",
   "entries": [
+    {
+      "id": "u_46073e67",
+      "sentAt": "2026-06-18T04:18:01.924Z",
+      "title": "Redact or Keep? A Fully Local AI Cascade for Educational Dialogue De-Identification"
+    },
+    {
+      "id": "u_e374d133",
+      "sentAt": "2026-06-18T04:18:01.924Z",
+      "title": "Montreal Forced Aligner and the state of speech-to-text alignment in 2026"
+    },
+    {
+      "id": "u_8413e17a",
+      "sentAt": "2026-06-18T04:18:01.924Z",
+      "title": "Possible or Definite? A Benchmark for Evaluating Diagnostic Uncertainty Preservation in Clinical Text"
+    },
+    {
+      "id": "u_13cf57d5",
+      "sentAt": "2026-06-18T04:18:01.924Z",
+      "title": "RECOM: A Validity Discrimination Tradeoff in Automatic Metrics for Open Ended Reddit Question Answering"
+    },
+    {
+      "id": "u_60efb949",
+      "sentAt": "2026-06-18T04:18:01.924Z",
+      "title": "HandwritingAgent: Language-Driven Handwriting Synthesis in Scalable Vector Space"
+    },
     {
       "id": "u_b065d5be",
       "sentAt": "2026-06-17T22:03:39.816Z",
@@ -4975,31 +5000,6 @@
       "id": "u_63ac8f38",
       "sentAt": "2026-05-18T16:48:50.150Z",
       "title": "Qwen 35b a3b surprises me"
-    },
-    {
-      "id": "u_adb6c1d0",
-      "sentAt": "2026-05-18T16:48:50.150Z",
-      "title": "Domain-specific AI is rewriting the rules of workforce management"
-    },
-    {
-      "id": "u_419352bc",
-      "sentAt": "2026-05-18T16:48:50.150Z",
-      "title": "Is the future of coding agents JEPA? [D]"
-    },
-    {
-      "id": "u_5b3d120",
-      "sentAt": "2026-05-18T13:50:46.836Z",
-      "title": "AI Skills and Compute Africa Foundation Launches in Kigali to Accelerate Africa’s Artificial Intelligence (AI) Future - ZAWYA"
-    },
-    {
-      "id": "u_46af3d3d",
-      "sentAt": "2026-05-18T13:50:46.836Z",
-      "title": "Balancing AI Emotional Companions: The New Frontier"
-    },
-    {
-      "id": "u_f7d31625",
-      "sentAt": "2026-05-18T13:50:46.836Z",
-      "title": "Small Open-Source LLMs Challenge the Giants in Quality Estimation"
     }
   ]
 }
