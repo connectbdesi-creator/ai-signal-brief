@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-18T04:18:01.924Z",
+  "updatedAt": "2026-06-18T10:25:24.578Z",
   "entries": [
+    {
+      "id": "u_d0ceb4ae",
+      "sentAt": "2026-06-18T10:25:24.578Z",
+      "title": "AI reshapes global labour market into two distinct paths, rewarding human skills"
+    },
+    {
+      "id": "u_6a2d6d13",
+      "sentAt": "2026-06-18T10:25:24.578Z",
+      "title": "Inside the White House's AI power center"
+    },
+    {
+      "id": "u_81c81da8",
+      "sentAt": "2026-06-18T10:25:24.578Z",
+      "title": "Trump's shadow AI policy"
+    },
+    {
+      "id": "u_428ce8dd",
+      "sentAt": "2026-06-18T10:25:24.578Z",
+      "title": "Kwai-Keye/Keye-VL-2.0-30B-A3B-GGUF · Hugging Face"
+    },
+    {
+      "id": "u_f21c484c",
+      "sentAt": "2026-06-18T10:25:24.578Z",
+      "title": "Arizona emerges as test case for AI's energy and water crunch"
+    },
     {
       "id": "u_46073e67",
       "sentAt": "2026-06-18T04:18:01.924Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c822a361",
       "sentAt": "2026-05-18T19:48:16.341Z",
       "title": "Prompting Amazon Nova 2 for content moderation"
-    },
-    {
-      "id": "u_a75b592c",
-      "sentAt": "2026-05-18T19:48:16.341Z",
-      "title": "AI Governance: The Next Critical Frontier for Enterprises"
-    },
-    {
-      "id": "u_d454cb76",
-      "sentAt": "2026-05-18T19:48:16.341Z",
-      "title": "AI made attackers smarter. Now it’s giving mid-market companies a fighting chance"
-    },
-    {
-      "id": "u_bd0443d2",
-      "sentAt": "2026-05-18T16:48:50.150Z",
-      "title": "Qwen cant wait to release 3.7 models"
-    },
-    {
-      "id": "u_5ddcdbba",
-      "sentAt": "2026-05-18T16:48:50.150Z",
-      "title": "Witchcraft, fast local semantic search on top of SQLite [P]"
-    },
-    {
-      "id": "u_63ac8f38",
-      "sentAt": "2026-05-18T16:48:50.150Z",
-      "title": "Qwen 35b a3b surprises me"
     }
   ]
 }
