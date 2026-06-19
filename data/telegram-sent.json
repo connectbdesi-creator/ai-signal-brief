@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-19T21:12:54.207Z",
+  "updatedAt": "2026-06-19T23:01:23.372Z",
   "entries": [
+    {
+      "id": "u_101ad253",
+      "sentAt": "2026-06-19T23:01:23.372Z",
+      "title": "Quoting Sean Lynch"
+    },
+    {
+      "id": "u_ff20fb74",
+      "sentAt": "2026-06-19T23:01:23.372Z",
+      "title": "Android Circuit: Android 17 Arrives, Galaxy S27 Details, Shrinking Smartphone Market"
+    },
+    {
+      "id": "u_77f43afe",
+      "sentAt": "2026-06-19T23:01:23.372Z",
+      "title": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline"
+    },
+    {
+      "id": "u_c76360fd",
+      "sentAt": "2026-06-19T23:01:23.372Z",
+      "title": "Portal and observatory launched to guide the use of artificial intelligence. - unicamp.br"
+    },
+    {
+      "id": "u_fa68c3f5",
+      "sentAt": "2026-06-19T23:01:23.372Z",
+      "title": "Efficient LLM Compression with SparseGPT and Wanda on GPU Cloud"
+    },
     {
       "id": "u_82ddab3c",
       "sentAt": "2026-06-19T21:12:54.207Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c970331c",
       "sentAt": "2026-05-19T23:05:58.317Z",
       "title": "AI Struggles to Replace Human Experts in Hydrologic Modeling"
-    },
-    {
-      "id": "u_8f5c4165",
-      "sentAt": "2026-05-19T23:05:58.317Z",
-      "title": "OpenAI announces new Guaranteed Capacity offering for customers to secure compute - CNBC"
-    },
-    {
-      "id": "u_7648b118",
-      "sentAt": "2026-05-19T23:05:58.317Z",
-      "title": "I built a live ranking of every AI agent and foundation model (open source)"
-    },
-    {
-      "id": "u_8a6e9cf4",
-      "sentAt": "2026-05-19T21:22:46.205Z",
-      "title": "The Unlearnable Edge of Reinforcement Learning"
-    },
-    {
-      "id": "u_df330630",
-      "sentAt": "2026-05-19T21:22:46.205Z",
-      "title": "How to use Google’s new AI agents to go beyond your standard searches"
-    },
-    {
-      "id": "u_6f7046bd",
-      "sentAt": "2026-05-19T21:22:46.205Z",
-      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing"
     }
   ]
 }
