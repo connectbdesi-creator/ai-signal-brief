@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-18T22:13:28.910Z",
+  "updatedAt": "2026-06-19T04:46:06.706Z",
   "entries": [
+    {
+      "id": "u_4d01a2f6",
+      "sentAt": "2026-06-19T04:46:06.706Z",
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems"
+    },
+    {
+      "id": "u_285bebdd",
+      "sentAt": "2026-06-19T04:46:06.706Z",
+      "title": "DeFrame: Debiasing Large Language Models Against Framing Effects"
+    },
+    {
+      "id": "u_55858570",
+      "sentAt": "2026-06-19T04:46:06.706Z",
+      "title": "A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots"
+    },
+    {
+      "id": "u_55c09a3c",
+      "sentAt": "2026-06-19T04:46:06.706Z",
+      "title": "Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?"
+    },
+    {
+      "id": "u_3e3851c8",
+      "sentAt": "2026-06-19T04:46:06.706Z",
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data"
+    },
     {
       "id": "u_35dceab2",
       "sentAt": "2026-06-18T22:13:28.910Z",
@@ -4975,31 +5000,6 @@
       "id": "u_476b1047",
       "sentAt": "2026-05-19T07:51:36.036Z",
       "title": "Child's Play: Why AI Still Fumbles Basic Tasks"
-    },
-    {
-      "id": "u_eb4d3be7",
-      "sentAt": "2026-05-19T07:51:36.036Z",
-      "title": "Unlocking Complex Tasks with LLMs: The PAIR Revolution"
-    },
-    {
-      "id": "u_3fb5d38f",
-      "sentAt": "2026-05-19T07:51:36.036Z",
-      "title": "Rethinking AI Evaluation: From Static to Dynamic"
-    },
-    {
-      "id": "u_4c2857a1",
-      "sentAt": "2026-05-19T03:54:05.268Z",
-      "title": "Dell Becomes OpenAI's On-Prem Channel For Frontier Models"
-    },
-    {
-      "id": "u_578a7658",
-      "sentAt": "2026-05-19T03:54:05.268Z",
-      "title": "What SEO tasks are you successfully automating with AI tools or AI agents?"
-    },
-    {
-      "id": "u_b9390e4f",
-      "sentAt": "2026-05-19T03:54:05.268Z",
-      "title": "Huang and Dell: AI's Next Frontier is Agentic - StartupHub.ai"
     }
   ]
 }
