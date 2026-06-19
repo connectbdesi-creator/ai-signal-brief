@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-19T18:02:19.026Z",
+  "updatedAt": "2026-06-19T21:12:54.207Z",
   "entries": [
+    {
+      "id": "u_82ddab3c",
+      "sentAt": "2026-06-19T21:12:54.207Z",
+      "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat"
+    },
+    {
+      "id": "u_cf6318cf",
+      "sentAt": "2026-06-19T21:12:54.207Z",
+      "title": "Read the transcript of Trump's interview with \"The Axios Show\""
+    },
+    {
+      "id": "u_17176dcd",
+      "sentAt": "2026-06-19T21:12:54.207Z",
+      "title": "OpenAI adds spend controls and usage analytics to ChatGPT Enterprise - Computerworld"
+    },
+    {
+      "id": "u_dcc4840d",
+      "sentAt": "2026-06-19T21:12:54.207Z",
+      "title": "Luca Guadagnino’s Sam Altman movie dropped by Amazon after it announces OpenAI partnership - The Guardian"
+    },
+    {
+      "id": "u_7df045f8",
+      "sentAt": "2026-06-19T21:12:54.207Z",
+      "title": "Nvidia (NVDA) Announces Artificial Intelligence Partnerships with 6 Major South Korean Companies - Insider Monkey"
+    },
     {
       "id": "u_b9f0c151",
       "sentAt": "2026-06-19T18:02:19.026Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6f7046bd",
       "sentAt": "2026-05-19T21:22:46.205Z",
       "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing"
-    },
-    {
-      "id": "u_aff8ade6",
-      "sentAt": "2026-05-19T21:22:46.205Z",
-      "title": "Reimagining Optimization: The Role of Smoothing in Gradient-Free Methods"
-    },
-    {
-      "id": "u_9287913c",
-      "sentAt": "2026-05-19T21:22:46.205Z",
-      "title": "Google's Gemini Spark: The AI Agent That Knows Too Much?"
-    },
-    {
-      "id": "u_83915287",
-      "sentAt": "2026-05-19T18:09:21.888Z",
-      "title": "Gemini 3.5: Google's Leap into the Future of AI Models"
-    },
-    {
-      "id": "u_6a981791",
-      "sentAt": "2026-05-19T18:09:21.888Z",
-      "title": "Google's AI Tools are Getting a Voice That Matters"
-    },
-    {
-      "id": "u_5e83f4f6",
-      "sentAt": "2026-05-19T18:09:21.888Z",
-      "title": "AI Mode Ushering a Paradigm Shift in Search"
     }
   ]
 }
