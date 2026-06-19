@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-19T15:27:30.516Z",
+  "updatedAt": "2026-06-19T18:02:19.026Z",
   "entries": [
+    {
+      "id": "u_b9f0c151",
+      "sentAt": "2026-06-19T18:02:19.026Z",
+      "title": "A Few Good Agents: Why Less May Be More In The AI World"
+    },
+    {
+      "id": "u_55d8ca84",
+      "sentAt": "2026-06-19T18:02:19.026Z",
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care"
+    },
+    {
+      "id": "u_33112a6b",
+      "sentAt": "2026-06-19T18:02:19.026Z",
+      "title": "Trump kneecaps Anthropic, SpaceX bags Cursor and Databricks debuts AI agent coworker"
+    },
+    {
+      "id": "u_8284c546",
+      "sentAt": "2026-06-19T18:02:19.026Z",
+      "title": "New benchmark exposes how badly AI struggles with real knowledge work"
+    },
+    {
+      "id": "u_bd86a524",
+      "sentAt": "2026-06-19T18:02:19.026Z",
+      "title": "New benchmark exposes how badly AI struggles with real knowledge work"
+    },
     {
       "id": "u_2794f114",
       "sentAt": "2026-06-19T15:27:30.516Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e83f4f6",
       "sentAt": "2026-05-19T18:09:21.888Z",
       "title": "AI Mode Ushering a Paradigm Shift in Search"
-    },
-    {
-      "id": "u_c3c53e15",
-      "sentAt": "2026-05-19T18:09:21.888Z",
-      "title": "Google Unveils Gemini Spark: The AI Agent Powering Your Digital Life"
-    },
-    {
-      "id": "u_3625be56",
-      "sentAt": "2026-05-19T18:09:21.888Z",
-      "title": "Meta's Strategic Shift: 7,000 Employees Reassigned to AI and Cloud Teams"
-    },
-    {
-      "id": "u_4f61062b",
-      "sentAt": "2026-05-19T15:32:11.334Z",
-      "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation"
-    },
-    {
-      "id": "u_dd5e8748",
-      "sentAt": "2026-05-19T15:32:11.334Z",
-      "title": "Securing AI Tools: Why Architecture Beats Prompting"
-    },
-    {
-      "id": "u_4512df55",
-      "sentAt": "2026-05-19T15:32:11.334Z",
-      "title": "Memory Matters: Why LLMs Need More Than Just Reasoning"
     }
   ]
 }
