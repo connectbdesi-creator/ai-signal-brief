@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-19T04:46:06.706Z",
+  "updatedAt": "2026-06-19T10:42:52.475Z",
   "entries": [
+    {
+      "id": "u_12640c10",
+      "sentAt": "2026-06-19T10:42:52.475Z",
+      "title": "OpenAI researchers show small doses of \"beneficial trait\" training make AI models broadly safer and harder to manipulate"
+    },
+    {
+      "id": "u_91f087cd",
+      "sentAt": "2026-06-19T10:42:52.475Z",
+      "title": "OpenAI researchers show small doses of \"beneficial trait\" training make AI models broadly safer and harder to manipulate"
+    },
+    {
+      "id": "u_c5b00bd0",
+      "sentAt": "2026-06-19T10:42:52.475Z",
+      "title": "Zhipu, DeepSeek push China’s trillion-parameter AI frontier amid US clampdown - South China Morning Post"
+    },
+    {
+      "id": "u_c5299fb0",
+      "sentAt": "2026-06-19T10:42:52.475Z",
+      "title": "Humanoid Robots: 18 Companies Racing To Build The Next Big Thing In AI"
+    },
+    {
+      "id": "u_d8d234ec",
+      "sentAt": "2026-06-19T10:42:52.475Z",
+      "title": "AI DevKit – The control plane for AI coding agents"
+    },
     {
       "id": "u_4d01a2f6",
       "sentAt": "2026-06-19T04:46:06.706Z",
@@ -4975,31 +5000,6 @@
       "id": "u_604ebfa9",
       "sentAt": "2026-05-19T11:23:22.037Z",
       "title": "Cloudflare says Anthropic's Mythos Preview finds attack chains that earlier frontier models missed"
-    },
-    {
-      "id": "u_299784e7",
-      "sentAt": "2026-05-19T11:23:22.037Z",
-      "title": "Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed"
-    },
-    {
-      "id": "u_793f327d",
-      "sentAt": "2026-05-19T11:23:22.037Z",
-      "title": "AgentKernelArena: Revolutionizing GPU Kernel Optimization"
-    },
-    {
-      "id": "u_447af3d6",
-      "sentAt": "2026-05-19T07:51:36.036Z",
-      "title": "Revolutionizing RUL: The New Era of Degradation Models"
-    },
-    {
-      "id": "u_40f42193",
-      "sentAt": "2026-05-19T07:51:36.036Z",
-      "title": "Cracking the Code of Household AI: TaskGround's Leap Forward"
-    },
-    {
-      "id": "u_476b1047",
-      "sentAt": "2026-05-19T07:51:36.036Z",
-      "title": "Child's Play: Why AI Still Fumbles Basic Tasks"
     }
   ]
 }
