@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-20T17:37:53.251Z",
+  "updatedAt": "2026-06-20T19:41:44.032Z",
   "entries": [
+    {
+      "id": "u_1b0038b7",
+      "sentAt": "2026-06-20T19:41:44.032Z",
+      "title": "Qwen code companion on vscode marketplace - thoughts"
+    },
+    {
+      "id": "u_58444ed6",
+      "sentAt": "2026-06-20T19:41:44.032Z",
+      "title": "I wrote a free 15-part series on LLM internals — real math, real tensor shapes, real hardware constraints. All grounded in Gemma 4 12B's actual config."
+    },
+    {
+      "id": "u_809be86b",
+      "sentAt": "2026-06-20T19:41:44.032Z",
+      "title": "Agents publish HTML on the internet through thethings.ai"
+    },
+    {
+      "id": "u_11776f53",
+      "sentAt": "2026-06-20T19:41:44.032Z",
+      "title": "I don't see any good orchestration system for AI agents"
+    },
+    {
+      "id": "u_d5dc9034",
+      "sentAt": "2026-06-20T19:41:44.032Z",
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own"
+    },
     {
       "id": "u_42cae05d",
       "sentAt": "2026-06-20T17:37:53.251Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b57eb120",
       "sentAt": "2026-05-20T21:58:51.431Z",
       "title": "Singapore Partners with Google and OpenAI in Ambitious AI Lab Initiative"
-    },
-    {
-      "id": "u_3c7c8b0f",
-      "sentAt": "2026-05-20T18:21:35.650Z",
-      "title": "Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals"
-    },
-    {
-      "id": "u_985076e5",
-      "sentAt": "2026-05-20T18:21:35.650Z",
-      "title": "DataDome Launches a Virtual Waiting Room for AI Shoppers - PYMNTS.com"
-    },
-    {
-      "id": "u_20041a16",
-      "sentAt": "2026-05-20T18:21:35.650Z",
-      "title": "When AI Goes Off Script: The Stability Challenge in Language Models"
-    },
-    {
-      "id": "u_b719e5bc",
-      "sentAt": "2026-05-20T18:21:35.650Z",
-      "title": "LBW-Guard: Saving Your Compute Budget from Training Chaos"
-    },
-    {
-      "id": "u_8988cc54",
-      "sentAt": "2026-05-20T18:21:35.650Z",
-      "title": "Decoding Brains: How AI Models Outperform in Action and Reasoning"
     }
   ]
 }
