@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-06-19T23:01:23.372Z",
+  "updatedAt": "2026-06-20T04:00:04.311Z",
   "entries": [
+    {
+      "id": "u_47ee0012",
+      "sentAt": "2026-06-20T04:00:04.311Z",
+      "title": "UW to launch new AI minor as universities scramble to meet workforce demand - KIRO 7 News Seattle"
+    },
+    {
+      "id": "u_2197194e",
+      "sentAt": "2026-06-20T04:00:04.311Z",
+      "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning"
+    },
+    {
+      "id": "u_e52d9300",
+      "sentAt": "2026-06-20T04:00:04.311Z",
+      "title": "Researchers grow a hypothesis tree for AI coding agents - InfoWorld"
+    },
     {
       "id": "u_101ad253",
       "sentAt": "2026-06-19T23:01:23.372Z",
@@ -4985,21 +5000,6 @@
       "id": "u_ba88906e",
       "sentAt": "2026-05-20T03:54:36.527Z",
       "title": "Running DeepSeek-V4 locally with 4x legacy RTX 2080 Ti ($2k budget setup). Custom Turing kernels, W8A8 quantization, and 255 prefill tok/s!"
-    },
-    {
-      "id": "u_b9008823",
-      "sentAt": "2026-05-19T23:05:58.317Z",
-      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything"
-    },
-    {
-      "id": "u_81a3b7d3",
-      "sentAt": "2026-05-19T23:05:58.317Z",
-      "title": "Unleashing Generative Power in Time Series with GenTS"
-    },
-    {
-      "id": "u_c970331c",
-      "sentAt": "2026-05-19T23:05:58.317Z",
-      "title": "AI Struggles to Replace Human Experts in Hydrologic Modeling"
     }
   ]
 }
