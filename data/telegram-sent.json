@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-20T10:35:59.215Z",
+  "updatedAt": "2026-06-20T14:10:37.743Z",
   "entries": [
+    {
+      "id": "u_9fac3263",
+      "sentAt": "2026-06-20T14:10:37.743Z",
+      "title": "FIDE AI – Research and public infrastructure for faith-facing AI"
+    },
+    {
+      "id": "u_854ea4c6",
+      "sentAt": "2026-06-20T14:10:37.743Z",
+      "title": "Show HN: FOSS sandbox platform that hides infra secrets from devs and AI agents"
+    },
+    {
+      "id": "u_cd2c9de2",
+      "sentAt": "2026-06-20T14:10:37.743Z",
+      "title": "OpenAI's Codex can now watch you work once and repeat the task forever"
+    },
+    {
+      "id": "u_2c8e3f5d",
+      "sentAt": "2026-06-20T14:10:37.743Z",
+      "title": "OpenAI's Codex can now watch you work once and repeat the task forever"
+    },
+    {
+      "id": "u_d398d50e",
+      "sentAt": "2026-06-20T14:10:37.743Z",
+      "title": "Show HN: Zero-config session-taste packer for AI agents"
+    },
     {
       "id": "u_ba392588",
       "sentAt": "2026-06-20T10:35:59.215Z",
@@ -4975,31 +5000,6 @@
       "id": "u_54a483a3",
       "sentAt": "2026-05-20T15:29:45.533Z",
       "title": "Stability AI releases a new audio model that can create six-minute songs"
-    },
-    {
-      "id": "u_ba6c54e8",
-      "sentAt": "2026-05-20T10:54:55.195Z",
-      "title": "SIGMA Revolutionizes Multi-Agent Systems with Conflict-Aware AI"
-    },
-    {
-      "id": "u_4e32e63d",
-      "sentAt": "2026-05-20T10:54:55.195Z",
-      "title": "AQuaUI Revolutionizes GUI Agent Models with Smarter Token Reduction"
-    },
-    {
-      "id": "u_ef2445ae",
-      "sentAt": "2026-05-20T10:54:55.195Z",
-      "title": "Google's Gemini 3.5 Flash follows Anthropic and OpenAI in making newer AI models significantly pricier"
-    },
-    {
-      "id": "u_883f3713",
-      "sentAt": "2026-05-20T10:54:55.195Z",
-      "title": "When AI Meets Software: The Hidden Boundary Shaping AI Agents"
-    },
-    {
-      "id": "u_cc46fba1",
-      "sentAt": "2026-05-20T10:54:55.195Z",
-      "title": "How Evidence-Carrying Agents Reinforce AI Safety"
     }
   ]
 }
