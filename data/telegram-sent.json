@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-20T04:00:04.311Z",
+  "updatedAt": "2026-06-20T07:56:13.429Z",
   "entries": [
+    {
+      "id": "u_740fe0d0",
+      "sentAt": "2026-06-20T07:56:13.429Z",
+      "title": "Show HN: StayUp – keep a Mac awake (lid closed) while AI agents are working"
+    },
+    {
+      "id": "u_967d348a",
+      "sentAt": "2026-06-20T07:56:13.429Z",
+      "title": "Reinforcement Learning Foundation Models Should Already Be A Thing"
+    },
+    {
+      "id": "u_89637aa9",
+      "sentAt": "2026-06-20T07:56:13.429Z",
+      "title": "A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI"
+    },
+    {
+      "id": "u_b0b1f1e3",
+      "sentAt": "2026-06-20T07:56:13.429Z",
+      "title": "Show HN: AgentArk – open-source self-hosted AI agent OS"
+    },
+    {
+      "id": "u_742bd6da",
+      "sentAt": "2026-06-20T07:56:13.429Z",
+      "title": "Show HN: Agentcard – virtual cards for AI agents, now with DoorDash checkout"
+    },
     {
       "id": "u_47ee0012",
       "sentAt": "2026-06-20T04:00:04.311Z",
@@ -4975,31 +5000,6 @@
       "id": "u_99bc83ff",
       "sentAt": "2026-05-20T07:50:32.490Z",
       "title": "llm-gemini 0.32"
-    },
-    {
-      "id": "u_8c66554a",
-      "sentAt": "2026-05-20T03:54:36.527Z",
-      "title": "Introducing OpenAI for Singapore"
-    },
-    {
-      "id": "u_78f495af",
-      "sentAt": "2026-05-20T03:54:36.527Z",
-      "title": "Genflow: The AI That Keeps Your Brand Intact"
-    },
-    {
-      "id": "u_47eb3a86",
-      "sentAt": "2026-05-20T03:54:36.527Z",
-      "title": "Rethinking Unlearning in LLMs: Introducing Distinguishable Deletion"
-    },
-    {
-      "id": "u_552f44ae",
-      "sentAt": "2026-05-20T03:54:36.527Z",
-      "title": "Redefining LLM Efficiency: Beyond Just Accuracy"
-    },
-    {
-      "id": "u_ba88906e",
-      "sentAt": "2026-05-20T03:54:36.527Z",
-      "title": "Running DeepSeek-V4 locally with 4x legacy RTX 2080 Ti ($2k budget setup). Custom Turing kernels, W8A8 quantization, and 255 prefill tok/s!"
     }
   ]
 }
