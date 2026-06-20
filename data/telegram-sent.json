@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-20T21:21:22.279Z",
+  "updatedAt": "2026-06-20T23:12:17.907Z",
   "entries": [
+    {
+      "id": "u_8a550dd",
+      "sentAt": "2026-06-20T23:12:17.907Z",
+      "title": "Show HN: Botacts – Phonebook of AI Bots"
+    },
+    {
+      "id": "u_a4e8094a",
+      "sentAt": "2026-06-20T23:12:17.907Z",
+      "title": "Any opinion about Qwen3.6-27B@BF16 vs Step3.7@IQ4_XS?"
+    },
+    {
+      "id": "u_9bb88d35",
+      "sentAt": "2026-06-20T23:12:17.907Z",
+      "title": "GLM 5.2: 98% of max level intelligence with less than half of tokens usage"
+    },
+    {
+      "id": "u_c233f023",
+      "sentAt": "2026-06-20T23:12:17.907Z",
+      "title": "Giving a local agent web access without paid search/scrape APIs: SearXNG + Scrapling"
+    },
+    {
+      "id": "u_792b4921",
+      "sentAt": "2026-06-20T23:12:17.907Z",
+      "title": "[NEW MODEL] SupraLabs just released supra-title-FFT-preview, 115K samples, almost 10x our first chat title dataset"
+    },
     {
       "id": "u_3b4baf11",
       "sentAt": "2026-06-20T21:21:22.279Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bdf538c1",
       "sentAt": "2026-05-20T23:22:28.771Z",
       "title": "Google's Gemini 3.5 Flash: A Speedster in AI Tasks"
-    },
-    {
-      "id": "u_e81d3f44",
-      "sentAt": "2026-05-20T23:22:28.771Z",
-      "title": "Quoting SpaceX S-1"
-    },
-    {
-      "id": "u_e16d0746",
-      "sentAt": "2026-05-20T23:22:28.771Z",
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time"
-    },
-    {
-      "id": "u_4ec398cb",
-      "sentAt": "2026-05-20T21:58:51.431Z",
-      "title": "HalBench: I built a custom sycophancy and hallucination benchmark and tested 4 frontier models (Sonnet 4.6, Grok 4.3, GPT 5.4 and Gemini 3.1 Pro), looking for input on what OSS models to run next!"
-    },
-    {
-      "id": "u_bffd3b33",
-      "sentAt": "2026-05-20T21:58:51.431Z",
-      "title": "Re. what ever happened to Cohere’s Command-A series of models?"
-    },
-    {
-      "id": "u_941136ca",
-      "sentAt": "2026-05-20T21:58:51.431Z",
-      "title": "White House's AI Plan: NSA Leads, Trump Bets Big on Cybersecurity"
     }
   ]
 }
