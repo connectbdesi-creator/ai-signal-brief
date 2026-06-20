@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-20T14:10:37.743Z",
+  "updatedAt": "2026-06-20T17:37:53.251Z",
   "entries": [
+    {
+      "id": "u_42cae05d",
+      "sentAt": "2026-06-20T17:37:53.251Z",
+      "title": "Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]"
+    },
+    {
+      "id": "u_23a1cacf",
+      "sentAt": "2026-06-20T17:37:53.251Z",
+      "title": "We're approaching AI agents from the wrong direction"
+    },
+    {
+      "id": "u_40d59e4e",
+      "sentAt": "2026-06-20T17:37:53.251Z",
+      "title": "Agentic AI’s challenge is getting agents to act like a team, not a crowd"
+    },
+    {
+      "id": "u_b223208",
+      "sentAt": "2026-06-20T17:37:53.251Z",
+      "title": "Agent Memory Layer: Repository-local memory for AI coding agents"
+    },
+    {
+      "id": "u_bf82f265",
+      "sentAt": "2026-06-20T17:37:53.251Z",
+      "title": "EZOps launches EZTasks AI feature - Midland Reporter-Telegram"
+    },
     {
       "id": "u_9fac3263",
       "sentAt": "2026-06-20T14:10:37.743Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8988cc54",
       "sentAt": "2026-05-20T18:21:35.650Z",
       "title": "Decoding Brains: How AI Models Outperform in Action and Reasoning"
-    },
-    {
-      "id": "u_50ea00ff",
-      "sentAt": "2026-05-20T15:29:45.533Z",
-      "title": "New Benchmark RecoAtlas Challenges AI Shopping Assistants"
-    },
-    {
-      "id": "u_6563c905",
-      "sentAt": "2026-05-20T15:29:45.533Z",
-      "title": "Revolutionizing AI Evaluation with Automated Benchmark Generation"
-    },
-    {
-      "id": "u_f22af36d",
-      "sentAt": "2026-05-20T15:29:45.533Z",
-      "title": "ReCrit: Reinventing AI's Response to Criticism"
-    },
-    {
-      "id": "u_44f31df4",
-      "sentAt": "2026-05-20T15:29:45.533Z",
-      "title": "How UCCI is Reshaping AI Model Efficiency"
-    },
-    {
-      "id": "u_54a483a3",
-      "sentAt": "2026-05-20T15:29:45.533Z",
-      "title": "Stability AI releases a new audio model that can create six-minute songs"
     }
   ]
 }
