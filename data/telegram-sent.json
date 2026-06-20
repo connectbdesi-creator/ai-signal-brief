@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-20T07:56:13.429Z",
+  "updatedAt": "2026-06-20T10:35:59.215Z",
   "entries": [
+    {
+      "id": "u_ba392588",
+      "sentAt": "2026-06-20T10:35:59.215Z",
+      "title": "As the US and China surge ahead, is Europe sleepwalking into AI disaster?"
+    },
+    {
+      "id": "u_f0b940c4",
+      "sentAt": "2026-06-20T10:35:59.215Z",
+      "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents"
+    },
+    {
+      "id": "u_5eda4f3a",
+      "sentAt": "2026-06-20T10:35:59.215Z",
+      "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents"
+    },
+    {
+      "id": "u_6d215981",
+      "sentAt": "2026-06-20T10:35:59.215Z",
+      "title": "Prompt Engineer: How Prompt Engineering, AI Prompt Engineers, ChatGPT, and Artificial Intelligence Are Reshaping the Future of Digital Innovation - vocal.media"
+    },
+    {
+      "id": "u_99829a99",
+      "sentAt": "2026-06-20T10:35:59.215Z",
+      "title": "Safran launches Land OmniGuard counter-drone system combining passive surveillance, AI and resilient navigation - Defence Industry Europe"
+    },
     {
       "id": "u_740fe0d0",
       "sentAt": "2026-06-20T07:56:13.429Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cc46fba1",
       "sentAt": "2026-05-20T10:54:55.195Z",
       "title": "How Evidence-Carrying Agents Reinforce AI Safety"
-    },
-    {
-      "id": "u_2b0f9886",
-      "sentAt": "2026-05-20T07:50:32.490Z",
-      "title": "Cracking Time Series Forecasting: Toto 2.0 Raises the Bar"
-    },
-    {
-      "id": "u_be85ecd0",
-      "sentAt": "2026-05-20T07:50:32.490Z",
-      "title": "Adversarial Suffixes: The New Frontier in AI Model Security"
-    },
-    {
-      "id": "u_f6e7b168",
-      "sentAt": "2026-05-20T07:50:32.490Z",
-      "title": "Decoding LLM Generalization: The Transport to a New Domain"
-    },
-    {
-      "id": "u_cbf65eea",
-      "sentAt": "2026-05-20T07:50:32.490Z",
-      "title": "Qwen3.7 Max scored by Artificial Analysis, 27B/35B waiting room"
-    },
-    {
-      "id": "u_99bc83ff",
-      "sentAt": "2026-05-20T07:50:32.490Z",
-      "title": "llm-gemini 0.32"
     }
   ]
 }
