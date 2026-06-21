@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-21T15:55:55.518Z",
+  "updatedAt": "2026-06-21T17:43:04.494Z",
   "entries": [
+    {
+      "id": "u_b8a81333",
+      "sentAt": "2026-06-21T17:43:04.494Z",
+      "title": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis"
+    },
+    {
+      "id": "u_b0148299",
+      "sentAt": "2026-06-21T17:43:04.494Z",
+      "title": "Show HN: Atizar-AI agents where the server runs approved actions, not the model"
+    },
+    {
+      "id": "u_a6d24f3b",
+      "sentAt": "2026-06-21T17:43:04.494Z",
+      "title": "Supervising AI Agents"
+    },
+    {
+      "id": "u_cc3718c",
+      "sentAt": "2026-06-21T17:43:04.494Z",
+      "title": "AI agents: The silent workforce shift across India's IT services industry - Business Standard"
+    },
+    {
+      "id": "u_5d88a02c",
+      "sentAt": "2026-06-21T17:43:04.494Z",
+      "title": "AI agents: The silent workforce shift across India's IT services industry - Business Standard"
+    },
     {
       "id": "u_92b3ed63",
       "sentAt": "2026-06-21T15:55:55.518Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5f4e85c6",
       "sentAt": "2026-05-21T16:40:32.887Z",
       "title": "I built a zero-code visual client to test remote MCP servers instantly (Tested with Cloudflare’s free MCP)."
-    },
-    {
-      "id": "u_787b9116",
-      "sentAt": "2026-05-21T16:40:32.887Z",
-      "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime"
-    },
-    {
-      "id": "u_55c7cd",
-      "sentAt": "2026-05-21T16:40:32.887Z",
-      "title": "OpenAI's Reasoning Model Shakes Up Mathematics"
-    },
-    {
-      "id": "u_10fb244f",
-      "sentAt": "2026-05-21T16:40:32.887Z",
-      "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking"
-    },
-    {
-      "id": "u_5735713",
-      "sentAt": "2026-05-21T16:40:32.887Z",
-      "title": "OpenAI shifts the boundary of automated reasoning with a \"milestone in AI mathematics\" that experts are now unpacking"
-    },
-    {
-      "id": "u_37b610f3",
-      "sentAt": "2026-05-21T12:47:17.970Z",
-      "title": "Workday's AI Agents Venture Beyond HR: A Strategic Leap"
     }
   ]
 }
