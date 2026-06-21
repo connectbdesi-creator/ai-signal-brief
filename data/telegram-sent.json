@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-21T04:41:27.934Z",
+  "updatedAt": "2026-06-21T09:54:58.596Z",
   "entries": [
+    {
+      "id": "u_5575d480",
+      "sentAt": "2026-06-21T09:54:58.596Z",
+      "title": "Agentic Systems Course: Learn AI Agents with an AI Coding Agent"
+    },
+    {
+      "id": "u_350dc77",
+      "sentAt": "2026-06-21T09:54:58.596Z",
+      "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps"
+    },
+    {
+      "id": "u_27dce3a5",
+      "sentAt": "2026-06-21T09:54:58.596Z",
+      "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps"
+    },
+    {
+      "id": "u_bf86513e",
+      "sentAt": "2026-06-21T09:54:58.596Z",
+      "title": "LBE – open-source execution control layer for AI agents"
+    },
+    {
+      "id": "u_5e1d8464",
+      "sentAt": "2026-06-21T09:54:58.596Z",
+      "title": "Why WebRTC beats WebSockets for realtime voice AI"
+    },
     {
       "id": "u_a87284a1",
       "sentAt": "2026-06-21T04:41:27.934Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b73a6699",
       "sentAt": "2026-05-21T09:49:11.924Z",
       "title": "MemGym: Redefining Memory Benchmarks for Real AI Tasks"
-    },
-    {
-      "id": "u_95eb9018",
-      "sentAt": "2026-05-21T09:49:11.924Z",
-      "title": "Inter-1 does streaming: real-time social signal detection from live video, audio & text"
-    },
-    {
-      "id": "u_7b14e4a9",
-      "sentAt": "2026-05-21T04:03:10.765Z",
-      "title": "Multi-Agent Reinforcement Learning for Safe Autonomous Driving Under Pedestrian Behavioral Uncertainty"
-    },
-    {
-      "id": "u_b2b53728",
-      "sentAt": "2026-05-21T04:03:10.765Z",
-      "title": "A Rigorous, Tractable Measure of Model Complexity"
-    },
-    {
-      "id": "u_a4414e69",
-      "sentAt": "2026-05-21T04:03:10.765Z",
-      "title": "Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching"
-    },
-    {
-      "id": "u_9458d829",
-      "sentAt": "2026-05-21T04:03:10.765Z",
-      "title": "Differentially Private Model Merging"
     }
   ]
 }
