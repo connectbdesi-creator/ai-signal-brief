@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-20T23:12:17.907Z",
+  "updatedAt": "2026-06-21T04:41:27.934Z",
   "entries": [
+    {
+      "id": "u_a87284a1",
+      "sentAt": "2026-06-21T04:41:27.934Z",
+      "title": "Show HN: Moduna –- Mixpanel for AI Agents"
+    },
+    {
+      "id": "u_e0dc6f2b",
+      "sentAt": "2026-06-21T04:41:27.934Z",
+      "title": "Show HN: Argybargy – A peer-to-peer bridge connecting any AI agents and sessions"
+    },
+    {
+      "id": "u_65a69488",
+      "sentAt": "2026-06-21T04:41:27.934Z",
+      "title": "Plotting AI model release cadence: two labs are accelerating, three aren't"
+    },
+    {
+      "id": "u_68d741fa",
+      "sentAt": "2026-06-21T04:41:27.934Z",
+      "title": "Beyond the $7.4B Headline: DeepSeek's Series A signals Chinese AI alliance shift"
+    },
     {
       "id": "u_8a550dd",
       "sentAt": "2026-06-20T23:12:17.907Z",
@@ -4980,26 +5000,6 @@
       "id": "u_9458d829",
       "sentAt": "2026-05-21T04:03:10.765Z",
       "title": "Differentially Private Model Merging"
-    },
-    {
-      "id": "u_830d310d",
-      "sentAt": "2026-05-21T04:03:10.765Z",
-      "title": "Compute Aligned Training: Optimizing for Test Time Inference"
-    },
-    {
-      "id": "u_1767f5e5",
-      "sentAt": "2026-05-20T23:22:28.771Z",
-      "title": "Try ik_llama.cpp with MTP if you have limited VRAM. You will be pleasantly surprised!"
-    },
-    {
-      "id": "u_fb2e79da",
-      "sentAt": "2026-05-20T23:22:28.771Z",
-      "title": "AI-Driven Content: The New Frontier of Online Extremism"
-    },
-    {
-      "id": "u_bdf538c1",
-      "sentAt": "2026-05-20T23:22:28.771Z",
-      "title": "Google's Gemini 3.5 Flash: A Speedster in AI Tasks"
     }
   ]
 }
