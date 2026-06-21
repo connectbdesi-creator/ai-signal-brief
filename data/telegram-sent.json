@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-06-21T19:47:51.931Z",
+  "updatedAt": "2026-06-21T21:18:26.791Z",
   "entries": [
+    {
+      "id": "u_63209ce",
+      "sentAt": "2026-06-21T21:18:26.791Z",
+      "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents"
+    },
+    {
+      "id": "u_eef5f78f",
+      "sentAt": "2026-06-21T21:18:26.791Z",
+      "title": "The AI Conundrum: We are living in highly subsidized, interesting times"
+    },
+    {
+      "id": "u_4b7b0dde",
+      "sentAt": "2026-06-21T21:18:26.791Z",
+      "title": "What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention."
+    },
     {
       "id": "u_196a258b",
       "sentAt": "2026-06-21T19:47:51.931Z",
@@ -4985,21 +5000,6 @@
       "id": "u_9fb28200",
       "sentAt": "2026-05-21T19:57:56.580Z",
       "title": "Intelligent radiology workflow optimization with AI agents"
-    },
-    {
-      "id": "u_aa4feac1",
-      "sentAt": "2026-05-21T19:57:56.580Z",
-      "title": "Google checks websites for llms.txt in new agentic browsing audit"
-    },
-    {
-      "id": "u_c3140c0e",
-      "sentAt": "2026-05-21T19:57:56.580Z",
-      "title": "Google checks websites for llms.txt in new agentic browsing audit"
-    },
-    {
-      "id": "u_c00b0af1",
-      "sentAt": "2026-05-21T19:57:56.580Z",
-      "title": "Howard University Launches Howard AI Network powered by AWS to Accelerate AI Research, Infrastructure, and Workforce Readiness - The Dig at Howard University"
     }
   ]
 }
