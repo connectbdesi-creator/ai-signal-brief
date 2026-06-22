@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-22T12:11:11.924Z",
+  "updatedAt": "2026-06-22T18:13:51.435Z",
   "entries": [
+    {
+      "id": "u_146d247d",
+      "sentAt": "2026-06-22T18:13:51.435Z",
+      "title": "Google makes Interactions API the default interface for Gemini models and agents"
+    },
+    {
+      "id": "u_45e88da2",
+      "sentAt": "2026-06-22T18:13:51.435Z",
+      "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments"
+    },
+    {
+      "id": "u_90f1d797",
+      "sentAt": "2026-06-22T18:13:51.435Z",
+      "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments - Amazon Web Services (AWS)"
+    },
+    {
+      "id": "u_d9b5d57d",
+      "sentAt": "2026-06-22T18:13:51.435Z",
+      "title": "Iris – A portable runtime for durable AI agents"
+    },
+    {
+      "id": "u_a255b828",
+      "sentAt": "2026-06-22T18:13:51.435Z",
+      "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop"
+    },
     {
       "id": "u_9456cd66",
       "sentAt": "2026-06-22T12:11:11.924Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e4106d50",
       "sentAt": "2026-05-22T07:51:44.421Z",
       "title": "Anyone evaluated the difference between Qwen Code for the local qwen models vs another harness? CC, OC, LC, Aider etc.."
-    },
-    {
-      "id": "u_b46283ab",
-      "sentAt": "2026-05-22T07:51:44.421Z",
-      "title": "AutoMCU: Feasibility-First MCU Neural Network Customization via LLM-based Multi-Agent Systems"
-    },
-    {
-      "id": "u_13b66293",
-      "sentAt": "2026-05-22T07:51:44.421Z",
-      "title": "ChronoMedKG: A Temporally-Grounded Biomedical Knowledge Graph and Benchmark for Clinical Reasoning"
-    },
-    {
-      "id": "u_8f1c0fdc",
-      "sentAt": "2026-05-22T07:51:44.421Z",
-      "title": "Value-Gradient Hypothesis of RL for LLMs"
-    },
-    {
-      "id": "u_a6017dbe",
-      "sentAt": "2026-05-22T03:58:39.421Z",
-      "title": "Tokens"
-    },
-    {
-      "id": "u_8677a53",
-      "sentAt": "2026-05-22T03:58:39.421Z",
-      "title": "Mississippi governor launches statewide AI education ‘framework’ - StateScoop"
     }
   ]
 }
