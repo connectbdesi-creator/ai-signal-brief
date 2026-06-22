@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-22T18:13:51.435Z",
+  "updatedAt": "2026-06-22T22:06:47.243Z",
   "entries": [
+    {
+      "id": "u_57f8c31b",
+      "sentAt": "2026-06-22T22:06:47.243Z",
+      "title": "AI Tools in Coding: Boosting Productivity, Not Morale"
+    },
+    {
+      "id": "u_d0b67ba2",
+      "sentAt": "2026-06-22T22:06:47.243Z",
+      "title": "OpenAI’s Patchwork: An AI Hand for Open Source Security"
+    },
+    {
+      "id": "u_7f7284d8",
+      "sentAt": "2026-06-22T22:06:47.243Z",
+      "title": "Revolutionizing Personal Knowledge with AI Agents"
+    },
+    {
+      "id": "u_eb7ceee1",
+      "sentAt": "2026-06-22T22:06:47.243Z",
+      "title": "The AI world is getting ‘loopy’"
+    },
+    {
+      "id": "u_64145a9e",
+      "sentAt": "2026-06-22T22:06:47.243Z",
+      "title": "Launch CRM Announces Free Launch AI Summer Challenge to Help Service Businesses Put Artificial Intelligence to - EIN News"
+    },
     {
       "id": "u_146d247d",
       "sentAt": "2026-06-22T18:13:51.435Z",
@@ -4975,31 +5000,6 @@
       "id": "u_976ed769",
       "sentAt": "2026-05-22T10:54:36.372Z",
       "title": "Claude made me realize most AI models optimize for confidence, not truth"
-    },
-    {
-      "id": "u_72cb0018",
-      "sentAt": "2026-05-22T10:54:36.372Z",
-      "title": "A Comparative Study of Language Models for Khmer Retrieval-Augmented Question Answering"
-    },
-    {
-      "id": "u_b45dfd4e",
-      "sentAt": "2026-05-22T10:54:36.372Z",
-      "title": "ACC: Compiling Agent Trajectories for Long-Context Training"
-    },
-    {
-      "id": "u_f5d653f8",
-      "sentAt": "2026-05-22T10:54:36.372Z",
-      "title": "Gorgon Halo is 6.7% faster than predecessor Strix Halo"
-    },
-    {
-      "id": "u_24f098fd",
-      "sentAt": "2026-05-22T07:51:44.421Z",
-      "title": "If Majoring In Computer Science Is Doomed Due To AI, The Latest Claim Is That Majoring In Philosophy Is The Next Best Choice"
-    },
-    {
-      "id": "u_e4106d50",
-      "sentAt": "2026-05-22T07:51:44.421Z",
-      "title": "Anyone evaluated the difference between Qwen Code for the local qwen models vs another harness? CC, OC, LC, Aider etc.."
     }
   ]
 }
