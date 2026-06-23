@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-23T07:52:53.542Z",
+  "updatedAt": "2026-06-23T11:20:50.058Z",
   "entries": [
+    {
+      "id": "u_4b9f9b7",
+      "sentAt": "2026-06-23T11:20:50.058Z",
+      "title": "HyperspaceDB v3.1.0: We built an opesource Spatial AI Engine that uses 50x less RAM than Milvus/Chroma via Matryoshka Cascades and Lorentz Geometry. [R]"
+    },
+    {
+      "id": "u_81a7ebb3",
+      "sentAt": "2026-06-23T11:20:50.058Z",
+      "title": "These are the best smart home deals this Prime Day"
+    },
+    {
+      "id": "u_e59e3de1",
+      "sentAt": "2026-06-23T11:20:50.058Z",
+      "title": "What Are AI Agents? A 2026 Definition, Types, and Why 95% Never Reach Production"
+    },
+    {
+      "id": "u_e0aa944b",
+      "sentAt": "2026-06-23T11:20:50.058Z",
+      "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark"
+    },
+    {
+      "id": "u_913494b3",
+      "sentAt": "2026-06-23T11:20:50.058Z",
+      "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark"
+    },
     {
       "id": "u_b153f6da",
       "sentAt": "2026-06-23T07:52:53.542Z",
@@ -4975,31 +5000,6 @@
       "id": "u_45f1f570",
       "sentAt": "2026-05-22T19:53:28.093Z",
       "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding"
-    },
-    {
-      "id": "u_b1fd7247",
-      "sentAt": "2026-05-22T19:53:28.093Z",
-      "title": "Read the AI executive order thwarted by Trump tech allies"
-    },
-    {
-      "id": "u_4f1ef686",
-      "sentAt": "2026-05-22T19:53:28.093Z",
-      "title": "Agents League: The Esports-Inspired Hackathon Where AI Agents Battle for Glory"
-    },
-    {
-      "id": "u_a7751e50",
-      "sentAt": "2026-05-22T19:53:28.093Z",
-      "title": "ByteShape Qwen3.6-35B-A3B: 30% faster than Unsloth IQ on 6GB VRAM laptop"
-    },
-    {
-      "id": "u_344e2e31",
-      "sentAt": "2026-05-22T17:55:51.238Z",
-      "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content"
-    },
-    {
-      "id": "u_cf59b6b3",
-      "sentAt": "2026-05-22T17:55:51.238Z",
-      "title": "AI/R Launches Platform to Bring Visibility to Artificial Intelligence Spending Across Organizations - The Manila Times"
     }
   ]
 }
