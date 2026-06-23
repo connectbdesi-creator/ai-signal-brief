@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-23T11:20:50.058Z",
+  "updatedAt": "2026-06-23T14:56:00.590Z",
   "entries": [
+    {
+      "id": "u_f01aadb2",
+      "sentAt": "2026-06-23T14:56:00.590Z",
+      "title": "Okta expands Cross App Access ecosystem to secure AI agent connections"
+    },
+    {
+      "id": "u_62913e60",
+      "sentAt": "2026-06-23T14:56:00.590Z",
+      "title": "ZenBusiness enhances its AI copilot for new business owners with step-by-step blueprints"
+    },
+    {
+      "id": "u_5c87e428",
+      "sentAt": "2026-06-23T14:56:00.590Z",
+      "title": "Exabeam launches Praxen, an open-source tool to verify AI agent behavior"
+    },
+    {
+      "id": "u_3c80f2b9",
+      "sentAt": "2026-06-23T14:56:00.590Z",
+      "title": "Beehiiv adds Cloudflare AI Crawl Control so writers can block or allow bots"
+    },
+    {
+      "id": "u_3c77baf9",
+      "sentAt": "2026-06-23T14:56:00.590Z",
+      "title": "Linux Foundation extends DNS to AI agents with new Agent Name Service"
+    },
     {
       "id": "u_4b9f9b7",
       "sentAt": "2026-06-23T11:20:50.058Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6cebff1c",
       "sentAt": "2026-05-22T21:15:05.549Z",
       "title": "OpenAI Leads in AI Coding Agents - StartupHub.ai"
-    },
-    {
-      "id": "u_99106d8a",
-      "sentAt": "2026-05-22T21:15:05.549Z",
-      "title": "Show HN: Lilo – An open source personal AI assistant that lives in Telegram"
-    },
-    {
-      "id": "u_4e67bf37",
-      "sentAt": "2026-05-22T21:15:05.549Z",
-      "title": "Video Friday: Atlas Versus a Fridge"
-    },
-    {
-      "id": "u_c4df8c42",
-      "sentAt": "2026-05-22T21:15:05.549Z",
-      "title": "Qwen-27B-IQ4_KS for ik_llama.cpp, especially for NVIDIA with 16GB VRAM"
-    },
-    {
-      "id": "u_7c25f05b",
-      "sentAt": "2026-05-22T19:53:28.093Z",
-      "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content"
-    },
-    {
-      "id": "u_45f1f570",
-      "sentAt": "2026-05-22T19:53:28.093Z",
-      "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding"
     }
   ]
 }
