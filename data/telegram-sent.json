@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-23T20:19:38.738Z",
+  "updatedAt": "2026-06-23T23:10:47.847Z",
   "entries": [
+    {
+      "id": "u_50d2311f",
+      "sentAt": "2026-06-23T23:10:47.847Z",
+      "title": "Decoding the Ising Model for Smarter Problem Solving"
+    },
+    {
+      "id": "u_eaac4f7",
+      "sentAt": "2026-06-23T23:10:47.847Z",
+      "title": "Post-Quantum Cryptography: Navigating the Secure Coding Drift"
+    },
+    {
+      "id": "u_e300da75",
+      "sentAt": "2026-06-23T23:10:47.847Z",
+      "title": "Can Voice Agents Handle Interruptions? A New Benchmark Puts Them to the Test"
+    },
+    {
+      "id": "u_8eb837d0",
+      "sentAt": "2026-06-23T23:10:47.847Z",
+      "title": "Runtime Monitors: The Clock's Ticking Problem"
+    },
+    {
+      "id": "u_1257681b",
+      "sentAt": "2026-06-23T23:10:47.847Z",
+      "title": "DeepFest returns to Riyadh as Saudi Arabia marks 2026 the Year of Artificial Intelligence - Computer Graphics World"
+    },
     {
       "id": "u_c97c9bd5",
       "sentAt": "2026-06-23T20:19:38.738Z",
@@ -4975,31 +5000,6 @@
       "id": "u_428232a8",
       "sentAt": "2026-05-23T06:36:44.175Z",
       "title": "Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)"
-    },
-    {
-      "id": "u_cfb4dfb6",
-      "sentAt": "2026-05-23T06:36:44.175Z",
-      "title": "Microsoft reports AI is more expensive than paying human employees"
-    },
-    {
-      "id": "u_a33ea11d",
-      "sentAt": "2026-05-23T06:36:44.175Z",
-      "title": "meituan-longcat/LongCat-Video-Avatar-1.5 · Hugging Face"
-    },
-    {
-      "id": "u_d811babd",
-      "sentAt": "2026-05-23T06:36:44.175Z",
-      "title": "club-rdna16: practical 16GB AMD/Radeon local LLM testing repo"
-    },
-    {
-      "id": "u_89f7f05a",
-      "sentAt": "2026-05-23T03:35:35.629Z",
-      "title": "Looking for arXiv endorsement + sharing a preprint on homeostatic cognitive architecture for AI companions [R]"
-    },
-    {
-      "id": "u_5e906a4f",
-      "sentAt": "2026-05-23T03:35:35.629Z",
-      "title": "Minor edits to AI skills can make agents go rogue"
     }
   ]
 }
