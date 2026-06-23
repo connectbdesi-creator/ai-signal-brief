@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-23T03:52:25.973Z",
+  "updatedAt": "2026-06-23T07:52:53.542Z",
   "entries": [
+    {
+      "id": "u_b153f6da",
+      "sentAt": "2026-06-23T07:52:53.542Z",
+      "title": "Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads"
+    },
+    {
+      "id": "u_2b1de45e",
+      "sentAt": "2026-06-23T07:52:53.542Z",
+      "title": "Forge – Code-Quality Guardrails for AI Agents"
+    },
+    {
+      "id": "u_557965dc",
+      "sentAt": "2026-06-23T07:52:53.542Z",
+      "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval"
+    },
+    {
+      "id": "u_7b944c40",
+      "sentAt": "2026-06-23T07:52:53.542Z",
+      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations"
+    },
+    {
+      "id": "u_1558fd90",
+      "sentAt": "2026-06-23T07:52:53.542Z",
+      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations"
+    },
     {
       "id": "u_651c581",
       "sentAt": "2026-06-23T03:52:25.973Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cf59b6b3",
       "sentAt": "2026-05-22T17:55:51.238Z",
       "title": "AI/R Launches Platform to Bring Visibility to Artificial Intelligence Spending Across Organizations - The Manila Times"
-    },
-    {
-      "id": "u_1030d0c",
-      "sentAt": "2026-05-22T17:55:51.238Z",
-      "title": "UNT launches new Bachelor of Science in AI - Community Impact | News"
-    },
-    {
-      "id": "u_cd5227a5",
-      "sentAt": "2026-05-22T17:55:51.238Z",
-      "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding"
-    },
-    {
-      "id": "u_ddab1374",
-      "sentAt": "2026-05-22T17:55:51.238Z",
-      "title": "trained a prompt injection detector using ml-intern and DeepSeek v4 Flash, runs in the browser"
-    },
-    {
-      "id": "u_aedac572",
-      "sentAt": "2026-05-22T14:46:06.988Z",
-      "title": "Open source: cloned Rocky's voice from Project Hail Mary in two days, full pipeline + 2:10 of training audio + trained RVC v2 model"
-    },
-    {
-      "id": "u_6bb0539b",
-      "sentAt": "2026-05-22T14:46:06.988Z",
-      "title": "Holding machine upgrade waiting for a model?"
     }
   ]
 }
