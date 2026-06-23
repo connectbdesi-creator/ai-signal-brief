@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-23T18:00:58.224Z",
+  "updatedAt": "2026-06-23T20:19:38.738Z",
   "entries": [
+    {
+      "id": "u_c97c9bd5",
+      "sentAt": "2026-06-23T20:19:38.738Z",
+      "title": "NVIDIA's AI Toolkit: Transforming Workflows with Specialized Agents"
+    },
+    {
+      "id": "u_486880e7",
+      "sentAt": "2026-06-23T20:19:38.738Z",
+      "title": "Momentic's AI Boost: More Code, Fewer Bugs"
+    },
+    {
+      "id": "u_e52738bc",
+      "sentAt": "2026-06-23T20:19:38.738Z",
+      "title": "CData's Threefold Bet on AI Developers: Easing Data Access"
+    },
+    {
+      "id": "u_36ff08b4",
+      "sentAt": "2026-06-23T20:19:38.738Z",
+      "title": "Linux Foundation Introduces Agent Name Service for AI Identity Verification"
+    },
+    {
+      "id": "u_acaa33fa",
+      "sentAt": "2026-06-23T20:19:38.738Z",
+      "title": "Exabeam's Praxen: A New Era for AI Agent Accountability"
+    },
     {
       "id": "u_76a5fd8d",
       "sentAt": "2026-06-23T18:00:58.224Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e906a4f",
       "sentAt": "2026-05-23T03:35:35.629Z",
       "title": "Minor edits to AI skills can make agents go rogue"
-    },
-    {
-      "id": "u_a119a834",
-      "sentAt": "2026-05-23T03:35:35.629Z",
-      "title": "Zuck defends monitoring employees to win AI race in purported leaked audio"
-    },
-    {
-      "id": "u_c614871",
-      "sentAt": "2026-05-23T03:35:35.629Z",
-      "title": "Vatican Hosts Anthropic Co-Founder for AI Encyclical Launch - Let's Data Science"
-    },
-    {
-      "id": "u_9721087d",
-      "sentAt": "2026-05-23T03:35:35.629Z",
-      "title": "Spain launches wind energy artificial intelligence laboratory - Windtech International"
-    },
-    {
-      "id": "u_4faca9e1",
-      "sentAt": "2026-05-22T23:04:26.089Z",
-      "title": "The AI Breakthrough That Has Mathematicians Paying Attention"
-    },
-    {
-      "id": "u_6cfd708c",
-      "sentAt": "2026-05-22T23:04:26.089Z",
-      "title": "Android Headlines: Galaxy Z Fold 8 Feature, RedMagic 11S Pro Debuts, Anker’s AI Earbuds"
     }
   ]
 }
