@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-24T21:39:48.085Z",
+  "updatedAt": "2026-06-24T23:07:29.019Z",
   "entries": [
+    {
+      "id": "u_f69a2a2f",
+      "sentAt": "2026-06-24T23:07:29.019Z",
+      "title": "Turbocharged AI Agents: Speed Meets Domain Expertise"
+    },
+    {
+      "id": "u_78e1272b",
+      "sentAt": "2026-06-24T23:07:29.019Z",
+      "title": "Dell's Vision: AI Agents and the Future of Work"
+    },
+    {
+      "id": "u_fa5ffab4",
+      "sentAt": "2026-06-24T23:07:29.019Z",
+      "title": "OpenAI, Broadcom unveil chip to run models faster, cheaper - SiliconValley.com"
+    },
+    {
+      "id": "u_db55f7fc",
+      "sentAt": "2026-06-24T23:07:29.019Z",
+      "title": "OpenAI unveils AI chip Jalapeno - Georgia Asian Times"
+    },
+    {
+      "id": "u_5ec4c36f",
+      "sentAt": "2026-06-24T23:07:29.019Z",
+      "title": "How to Build Memory into AI Agents"
+    },
     {
       "id": "u_10a20765",
       "sentAt": "2026-06-24T21:39:48.085Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6bc00b17",
       "sentAt": "2026-05-24T03:57:20.296Z",
       "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA"
-    },
-    {
-      "id": "u_293279cc",
-      "sentAt": "2026-05-24T03:57:20.296Z",
-      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA"
-    },
-    {
-      "id": "u_ad0d4aed",
-      "sentAt": "2026-05-24T03:57:20.296Z",
-      "title": "Anatomia: Open Source AI for Human Anatomy Education"
-    },
-    {
-      "id": "u_b597271c",
-      "sentAt": "2026-05-24T03:57:20.296Z",
-      "title": "Introducing jAgent: The Open-Source AI That Could Change the Game"
-    },
-    {
-      "id": "u_25acc89d",
-      "sentAt": "2026-05-23T22:56:40.299Z",
-      "title": "Bugcrowd Steps Up AI Training with Real Software Vulnerabilities"
-    },
-    {
-      "id": "u_bffb05a4",
-      "sentAt": "2026-05-23T22:56:40.299Z",
-      "title": "Delta-Mem: Revolutionizing Long-Term Memory in AI Agents"
     }
   ]
 }
