@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-24T17:58:05.474Z",
+  "updatedAt": "2026-06-24T19:59:41.833Z",
   "entries": [
+    {
+      "id": "u_6a530c28",
+      "sentAt": "2026-06-24T19:59:41.833Z",
+      "title": "OpenAI says ChatGPT Instant now better understands what users actually want"
+    },
+    {
+      "id": "u_4b15d13e",
+      "sentAt": "2026-06-24T19:59:41.833Z",
+      "title": "How Narrative Theory Shapes AI's Storytelling Future"
+    },
+    {
+      "id": "u_1617d962",
+      "sentAt": "2026-06-24T19:59:41.833Z",
+      "title": "Guava: Redefining the Future of Embodied Agents"
+    },
+    {
+      "id": "u_9c7288bc",
+      "sentAt": "2026-06-24T19:59:41.833Z",
+      "title": "Misfired Alignment: When AI Safety Measures Go Awry"
+    },
+    {
+      "id": "u_9a43b56b",
+      "sentAt": "2026-06-24T19:59:41.833Z",
+      "title": "Anthropic’s Claude Tag aims to turn workplace AI from a personal assistant into a teammate - Computerworld"
+    },
     {
       "id": "u_dcfdfafd",
       "sentAt": "2026-06-24T17:58:05.474Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4cfe2a01",
       "sentAt": "2026-05-23T20:57:32.700Z",
       "title": "LCGuard: Safeguarding Communication in Multi-Agent Language Models"
-    },
-    {
-      "id": "u_88ceeb8",
-      "sentAt": "2026-05-23T20:57:32.700Z",
-      "title": "AI Video Explores ChatGPT's Impact on Communication"
-    },
-    {
-      "id": "u_58ae6a25",
-      "sentAt": "2026-05-23T20:57:32.700Z",
-      "title": "Llama.cpp VS LiteRT on a custom Xiaomi 12 Pro 24/7 Server (V2 Redesign)"
-    },
-    {
-      "id": "u_5de39f9d",
-      "sentAt": "2026-05-23T20:57:32.700Z",
-      "title": "Pope and co-founder of Anthropic to launch pontiff’s AI encyclical on May 25 - Odessa American"
-    },
-    {
-      "id": "u_7f7013cc",
-      "sentAt": "2026-05-23T19:16:10.299Z",
-      "title": "SafeDB MCP – safer read-only database access for AI agents"
-    },
-    {
-      "id": "u_91838754",
-      "sentAt": "2026-05-23T19:16:10.299Z",
-      "title": "Reinforced Graph of Thoughts: A New Frontier for AI Problem Solving"
     }
   ]
 }
