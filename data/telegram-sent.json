@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-24T07:44:22.429Z",
+  "updatedAt": "2026-06-24T10:53:40.283Z",
   "entries": [
+    {
+      "id": "u_78905546",
+      "sentAt": "2026-06-24T10:53:40.283Z",
+      "title": "Unlocking the Power of Test-Time Scaling: A New Frontier for AI Models"
+    },
+    {
+      "id": "u_9b622511",
+      "sentAt": "2026-06-24T10:53:40.283Z",
+      "title": "Unmasking Bias in Language Models: TreeTracer's New Take"
+    },
+    {
+      "id": "u_7cf02720",
+      "sentAt": "2026-06-24T10:53:40.283Z",
+      "title": "Top 7 Coding Models You Can Run Locally in 2026"
+    },
+    {
+      "id": "u_bfcd52f3",
+      "sentAt": "2026-06-24T10:53:40.283Z",
+      "title": "Mistral's new OCR model beats competitors in 72 percent of blind test cases, company says"
+    },
+    {
+      "id": "u_3f72e230",
+      "sentAt": "2026-06-24T10:53:40.283Z",
+      "title": "Anthropic Drops ‘Workplace AI Agents’ Directly Inside Slack - AI News"
+    },
     {
       "id": "u_2dbf86dd",
       "sentAt": "2026-06-24T07:44:22.429Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5a503ee",
       "sentAt": "2026-05-23T15:04:06.347Z",
       "title": "Architectural Intelligence: Where Vision-Language Models Fall Short"
-    },
-    {
-      "id": "u_7630ba55",
-      "sentAt": "2026-05-23T15:04:06.347Z",
-      "title": "The Hidden Data Channels in LLM Agents: A Closer Look"
-    },
-    {
-      "id": "u_6d43a086",
-      "sentAt": "2026-05-23T15:04:06.347Z",
-      "title": "Revolutionizing LLM Reasoning: AGPO Takes the Lead"
-    },
-    {
-      "id": "u_97c4390c",
-      "sentAt": "2026-05-23T15:04:06.347Z",
-      "title": "Apex-Testing: real-world, real repos, agentic coding benchmark (Update)"
-    },
-    {
-      "id": "u_5662e47e",
-      "sentAt": "2026-05-23T13:42:52.243Z",
-      "title": "NaviAgent: The AI with a Plan"
-    },
-    {
-      "id": "u_89ee242b",
-      "sentAt": "2026-05-23T13:42:52.243Z",
-      "title": "Qwen3.6 35B-A3B MTP hits 249 t/s on a 24GB consumer GPU (RTX 5090M) — 3.4× the dense 27B variant on the same image"
     }
   ]
 }
