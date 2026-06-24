@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-23T23:10:47.847Z",
+  "updatedAt": "2026-06-24T03:53:35.352Z",
   "entries": [
+    {
+      "id": "u_257b367a",
+      "sentAt": "2026-06-24T03:53:35.352Z",
+      "title": "Decoding the Code: How Better Guidance Can Transform LLMs"
+    },
+    {
+      "id": "u_e714b063",
+      "sentAt": "2026-06-24T03:53:35.352Z",
+      "title": "Reinforcing AI Coding Agents with AgentArmor"
+    },
+    {
+      "id": "u_a3782c37",
+      "sentAt": "2026-06-24T03:53:35.352Z",
+      "title": "DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]"
+    },
+    {
+      "id": "u_d13826c4",
+      "sentAt": "2026-06-24T03:53:35.352Z",
+      "title": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines"
+    },
+    {
+      "id": "u_7f25e2b3",
+      "sentAt": "2026-06-24T03:53:35.352Z",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents"
+    },
     {
       "id": "u_50d2311f",
       "sentAt": "2026-06-23T23:10:47.847Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6e5242f5",
       "sentAt": "2026-05-23T09:57:40.594Z",
       "title": "Mozilla's Ambitious Project: What's the Real Goal?"
-    },
-    {
-      "id": "u_5cce95d5",
-      "sentAt": "2026-05-23T09:57:40.594Z",
-      "title": "Marc Andreessen's Vision of an AI-Driven Workforce: Are We Ready?"
-    },
-    {
-      "id": "u_9ea7f404",
-      "sentAt": "2026-05-23T09:57:40.594Z",
-      "title": "Claude Code: The New Default for AI Coding"
-    },
-    {
-      "id": "u_648601d0",
-      "sentAt": "2026-05-23T09:57:40.594Z",
-      "title": "AI-Powered Shopping: A New Frontier for U.S. Buyers"
-    },
-    {
-      "id": "u_8deb7ba2",
-      "sentAt": "2026-05-23T06:36:44.175Z",
-      "title": "Spice: We built an open-sourced decision layer that sits above your AI agents (controls agent actions before execution) [P]"
-    },
-    {
-      "id": "u_428232a8",
-      "sentAt": "2026-05-23T06:36:44.175Z",
-      "title": "Show HN: ThinkLLM, A knowledge graph of AI models (HTTPS://thinkllm.dev)"
     }
   ]
 }
