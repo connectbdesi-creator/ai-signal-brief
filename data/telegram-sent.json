@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-24T10:53:40.283Z",
+  "updatedAt": "2026-06-24T14:41:18.728Z",
   "entries": [
+    {
+      "id": "u_b7ef20d2",
+      "sentAt": "2026-06-24T14:41:18.728Z",
+      "title": "Adobe's AI Upgrade: A New Era for Creatives or Control Shift?"
+    },
+    {
+      "id": "u_147144b2",
+      "sentAt": "2026-06-24T14:41:18.728Z",
+      "title": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference"
+    },
+    {
+      "id": "u_3f892ce4",
+      "sentAt": "2026-06-24T14:41:18.728Z",
+      "title": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - Reuters"
+    },
+    {
+      "id": "u_124041ad",
+      "sentAt": "2026-06-24T14:41:18.728Z",
+      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' - CNBC"
+    },
+    {
+      "id": "u_96050b",
+      "sentAt": "2026-06-24T14:41:18.728Z",
+      "title": "The emergence of the web data infrastructure layer for AI"
+    },
     {
       "id": "u_78905546",
       "sentAt": "2026-06-24T10:53:40.283Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7cff3807",
       "sentAt": "2026-05-23T17:03:58.659Z",
       "title": "APEX: Redefining AI Agents' Exploration Capabilities"
-    },
-    {
-      "id": "u_ea8b5187",
-      "sentAt": "2026-05-23T17:03:58.659Z",
-      "title": "Rethinking Communication in Multi-Agent Systems"
-    },
-    {
-      "id": "u_69eec524",
-      "sentAt": "2026-05-23T17:03:58.659Z",
-      "title": "SAVER: The Smarter Approach to Multimodal Information Extraction"
-    },
-    {
-      "id": "u_5206b346",
-      "sentAt": "2026-05-23T17:03:58.659Z",
-      "title": "Google's AI Agents: A Hard Sell to Skeptical Consumers"
-    },
-    {
-      "id": "u_8dd168ac",
-      "sentAt": "2026-05-23T15:04:06.347Z",
-      "title": "Terminal-World: Elevating Command-Line AI with Efficient Task Execution"
-    },
-    {
-      "id": "u_5a503ee",
-      "sentAt": "2026-05-23T15:04:06.347Z",
-      "title": "Architectural Intelligence: Where Vision-Language Models Fall Short"
     }
   ]
 }
