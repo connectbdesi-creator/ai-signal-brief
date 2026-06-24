@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-24T14:41:18.728Z",
+  "updatedAt": "2026-06-24T17:58:05.474Z",
   "entries": [
+    {
+      "id": "u_dcfdfafd",
+      "sentAt": "2026-06-24T17:58:05.474Z",
+      "title": "Facebook rolls out an AI companion app for creators"
+    },
+    {
+      "id": "u_e2bde905",
+      "sentAt": "2026-06-24T17:58:05.474Z",
+      "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost"
+    },
+    {
+      "id": "u_2516445e",
+      "sentAt": "2026-06-24T17:58:05.474Z",
+      "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs"
+    },
+    {
+      "id": "u_ec4de25",
+      "sentAt": "2026-06-24T17:58:05.474Z",
+      "title": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else"
+    },
+    {
+      "id": "u_9ea9112a",
+      "sentAt": "2026-06-24T17:58:05.474Z",
+      "title": "Introducing computer use in Gemini 3.5 Flash"
+    },
     {
       "id": "u_b7ef20d2",
       "sentAt": "2026-06-24T14:41:18.728Z",
@@ -4975,31 +5000,6 @@
       "id": "u_91838754",
       "sentAt": "2026-05-23T19:16:10.299Z",
       "title": "Reinforced Graph of Thoughts: A New Frontier for AI Problem Solving"
-    },
-    {
-      "id": "u_4817d265",
-      "sentAt": "2026-05-23T19:16:10.299Z",
-      "title": "pipeline is really slow - consulting [D]"
-    },
-    {
-      "id": "u_4050d99b",
-      "sentAt": "2026-05-23T19:16:10.299Z",
-      "title": "AgentLantern: exposing the hidden graph of AI agent projects [P]"
-    },
-    {
-      "id": "u_c31a7c98",
-      "sentAt": "2026-05-23T19:16:10.299Z",
-      "title": "Benchmarked Needle 26M vs Qwen3-0.6B on CPU function calling, 50 queries across 5 difficulty tiers. The 23x smaller model wins on accuracy and is 4.4x faster."
-    },
-    {
-      "id": "u_2c6a8376",
-      "sentAt": "2026-05-23T17:03:58.659Z",
-      "title": "Anchor Invariance: The Next Step in LLM Safety"
-    },
-    {
-      "id": "u_7cff3807",
-      "sentAt": "2026-05-23T17:03:58.659Z",
-      "title": "APEX: Redefining AI Agents' Exploration Capabilities"
     }
   ]
 }
