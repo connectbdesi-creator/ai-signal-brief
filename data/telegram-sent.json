@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-24T03:53:35.352Z",
+  "updatedAt": "2026-06-24T07:44:22.429Z",
   "entries": [
+    {
+      "id": "u_2dbf86dd",
+      "sentAt": "2026-06-24T07:44:22.429Z",
+      "title": "Rethinking On-Policy Distillation: New Methods Boost AI's Problem-Solving Prowess"
+    },
+    {
+      "id": "u_e384d1bd",
+      "sentAt": "2026-06-24T07:44:22.429Z",
+      "title": "VeriPilot: The Future of Automated Verilog Debugging"
+    },
+    {
+      "id": "u_e43528e3",
+      "sentAt": "2026-06-24T07:44:22.429Z",
+      "title": "Breaking Down Multilingual Barriers in Medical AI Retrieval"
+    },
+    {
+      "id": "u_70ff3867",
+      "sentAt": "2026-06-24T07:44:22.429Z",
+      "title": "Anthropic Launches An Always-On AI Coworker - NDTV"
+    },
+    {
+      "id": "u_706d8c7a",
+      "sentAt": "2026-06-24T07:44:22.429Z",
+      "title": "datasette 1.0a35"
+    },
     {
       "id": "u_257b367a",
       "sentAt": "2026-06-24T03:53:35.352Z",
@@ -4975,31 +5000,6 @@
       "id": "u_89ee242b",
       "sentAt": "2026-05-23T13:42:52.243Z",
       "title": "Qwen3.6 35B-A3B MTP hits 249 t/s on a 24GB consumer GPU (RTX 5090M) — 3.4× the dense 27B variant on the same image"
-    },
-    {
-      "id": "u_1aa9815c",
-      "sentAt": "2026-05-23T13:42:52.243Z",
-      "title": "Reimagining Planning: Simulative Reasoning in AI"
-    },
-    {
-      "id": "u_5432a9a9",
-      "sentAt": "2026-05-23T13:42:52.243Z",
-      "title": "Breaking Down AI's Causality: The New Frontier in LLMs"
-    },
-    {
-      "id": "u_492a791a",
-      "sentAt": "2026-05-23T13:42:52.243Z",
-      "title": "Can Smaller Models Train Their Larger Counterparts? Enter LightReasoner"
-    },
-    {
-      "id": "u_1dc75d2c",
-      "sentAt": "2026-05-23T09:57:40.594Z",
-      "title": "WWDC 2026: Apple's AI Showdown and the Foldable iPhone Dilemma"
-    },
-    {
-      "id": "u_6e5242f5",
-      "sentAt": "2026-05-23T09:57:40.594Z",
-      "title": "Mozilla's Ambitious Project: What's the Real Goal?"
     }
   ]
 }
