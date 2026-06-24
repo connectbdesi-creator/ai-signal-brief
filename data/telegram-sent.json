@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-24T19:59:41.833Z",
+  "updatedAt": "2026-06-24T21:39:48.085Z",
   "entries": [
+    {
+      "id": "u_10a20765",
+      "sentAt": "2026-06-24T21:39:48.085Z",
+      "title": "Balancing AI Language Regulation: A New Framework"
+    },
+    {
+      "id": "u_b2664729",
+      "sentAt": "2026-06-24T21:39:48.085Z",
+      "title": "Smart EV Charging: The Next Frontier in Grid Stability"
+    },
+    {
+      "id": "u_e4fa0d6e",
+      "sentAt": "2026-06-24T21:39:48.085Z",
+      "title": "OpenAI Unveils 'Jalapeño,' Its Very First Custom AI Chip - Android Headlines"
+    },
+    {
+      "id": "u_98bb072a",
+      "sentAt": "2026-06-24T21:39:48.085Z",
+      "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency"
+    },
+    {
+      "id": "u_1307e3de",
+      "sentAt": "2026-06-24T21:39:48.085Z",
+      "title": "I reverse engineered Windows Copilot into a free OpenAI compatible API (GPT-4, no API key, no billing)"
+    },
     {
       "id": "u_6a530c28",
       "sentAt": "2026-06-24T19:59:41.833Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bffb05a4",
       "sentAt": "2026-05-23T22:56:40.299Z",
       "title": "Delta-Mem: Revolutionizing Long-Term Memory in AI Agents"
-    },
-    {
-      "id": "u_b60c489c",
-      "sentAt": "2026-05-23T22:56:40.299Z",
-      "title": "AI’s Role in Redefining Digital Trust"
-    },
-    {
-      "id": "u_f80b5943",
-      "sentAt": "2026-05-23T22:56:40.299Z",
-      "title": "Top 10 Fastest Growing AI repos this week"
-    },
-    {
-      "id": "u_b81ec7d5",
-      "sentAt": "2026-05-23T22:56:40.299Z",
-      "title": "Kazakhstan launches UNESCO’s AI Readiness Assessment Methodology (RAM) - UNESCO"
-    },
-    {
-      "id": "u_93b74c00",
-      "sentAt": "2026-05-23T20:57:32.700Z",
-      "title": "Deceptive Language Models: A New Threat to Trust"
-    },
-    {
-      "id": "u_4cfe2a01",
-      "sentAt": "2026-05-23T20:57:32.700Z",
-      "title": "LCGuard: Safeguarding Communication in Multi-Agent Language Models"
     }
   ]
 }
