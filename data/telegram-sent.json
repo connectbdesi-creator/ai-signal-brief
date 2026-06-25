@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-25T18:14:20.996Z",
+  "updatedAt": "2026-06-25T21:46:25.828Z",
   "entries": [
+    {
+      "id": "u_4a1693c5",
+      "sentAt": "2026-06-25T21:46:25.828Z",
+      "title": "Run a vLLM Server on HF Jobs in One Command"
+    },
+    {
+      "id": "u_7c677680",
+      "sentAt": "2026-06-25T21:46:25.828Z",
+      "title": "Cracking the Code: A Fresh Take on Language Model Graph Reasoning"
+    },
+    {
+      "id": "u_8ef92ed4",
+      "sentAt": "2026-06-25T21:46:25.828Z",
+      "title": "Unpacking the Fragility of AI Alignment in Fine-Tuning"
+    },
+    {
+      "id": "u_4daa5336",
+      "sentAt": "2026-06-25T21:46:25.828Z",
+      "title": "Bayesian Steerable-CNNs: A New Frontier for AI Confidence"
+    },
+    {
+      "id": "u_3c093dcb",
+      "sentAt": "2026-06-25T21:46:25.828Z",
+      "title": "Diffusion Models Get a Safety Upgrade With DiRecT"
+    },
     {
       "id": "u_d3fda6f5",
       "sentAt": "2026-06-25T18:14:20.996Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e6eedc6b",
       "sentAt": "2026-05-24T17:06:38.093Z",
       "title": "BitCPM-CANN: Native 1.58-Bit Large Language Model Training on Ascend NPU"
-    },
-    {
-      "id": "u_299e1da",
-      "sentAt": "2026-05-24T17:06:38.093Z",
-      "title": "Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed"
-    },
-    {
-      "id": "u_42bc9b8d",
-      "sentAt": "2026-05-24T17:06:38.093Z",
-      "title": "Why not dynamic active parameters (and other questions for the knowledgeable)"
-    },
-    {
-      "id": "u_5c80ab36",
-      "sentAt": "2026-05-24T17:06:38.093Z",
-      "title": "QuoteIQ Launches AI AutoReply Inside ClientHub, Bringing Action-Taking Artificial Intelligence to Home Service Contractors - InsideNoVa.com"
-    },
-    {
-      "id": "u_7bb416b2",
-      "sentAt": "2026-05-24T15:08:02.941Z",
-      "title": "Gemma 4 2B handling structured JSON output + tool calling + reasoning traces correctly via Spring AI / LM Studio — including identifying a real Java bug in code review"
-    },
-    {
-      "id": "u_8f0d95a6",
-      "sentAt": "2026-05-24T15:08:02.941Z",
-      "title": "DeepSeek Slashes Prices: Industry Disruption or Desperation?"
     }
   ]
 }
