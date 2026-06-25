@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-25T07:50:32.492Z",
+  "updatedAt": "2026-06-25T10:46:29.377Z",
   "entries": [
+    {
+      "id": "u_c3392616",
+      "sentAt": "2026-06-25T10:46:29.377Z",
+      "title": "Cracking the Code on LLMs: Why They Stumble on Simple Loops"
+    },
+    {
+      "id": "u_1e58c681",
+      "sentAt": "2026-06-25T10:46:29.377Z",
+      "title": "The Real Test for AI Agents: Bridging the Intent-Execution Gap"
+    },
+    {
+      "id": "u_267bf2b",
+      "sentAt": "2026-06-25T10:46:29.377Z",
+      "title": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen"
+    },
+    {
+      "id": "u_b822dde2",
+      "sentAt": "2026-06-25T10:46:29.377Z",
+      "title": "NVIDIA has released Nemotron-TwoTower-30B-A3B-Base-BF16, an unusual diffusion-based language model built from the Nemotron 3 Nano 30B-A3B backbone."
+    },
+    {
+      "id": "u_4841d2fd",
+      "sentAt": "2026-06-25T10:46:29.377Z",
+      "title": "World models emerge as AI’s next frontier beyond text | Daily Sabah - Daily Sabah"
+    },
     {
       "id": "u_ac77b8",
       "sentAt": "2026-06-25T07:50:32.492Z",
@@ -4975,31 +5000,6 @@
       "id": "u_298a2bc",
       "sentAt": "2026-05-24T11:23:05.819Z",
       "title": "Physicists create hybrid light-matter particles to replace electrons in AI cmpt"
-    },
-    {
-      "id": "u_d9042b9",
-      "sentAt": "2026-05-24T11:23:05.819Z",
-      "title": "What workstation to get for ~13k EUR?"
-    },
-    {
-      "id": "u_3a357678",
-      "sentAt": "2026-05-24T11:23:05.819Z",
-      "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools"
-    },
-    {
-      "id": "u_de5b26f5",
-      "sentAt": "2026-05-24T11:23:05.819Z",
-      "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools"
-    },
-    {
-      "id": "u_f9a4cca7",
-      "sentAt": "2026-05-24T09:58:44.252Z",
-      "title": "Anthropic's NSA Deal: Model Supply Continues Amid Risks"
-    },
-    {
-      "id": "u_e8867cbe",
-      "sentAt": "2026-05-24T09:58:44.252Z",
-      "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon"
     }
   ]
 }
