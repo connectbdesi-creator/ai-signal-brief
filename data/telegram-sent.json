@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-24T23:07:29.019Z",
+  "updatedAt": "2026-06-25T03:54:27.714Z",
   "entries": [
+    {
+      "id": "u_4ba8c447",
+      "sentAt": "2026-06-25T03:54:27.714Z",
+      "title": "Predicting AI Model Failures: OpenAI's New Approach"
+    },
+    {
+      "id": "u_2d3b367d",
+      "sentAt": "2026-06-25T03:54:27.714Z",
+      "title": "AWS Delivers New AI Agents to Bolster DevOps and Code Security"
+    },
+    {
+      "id": "u_7472ef30",
+      "sentAt": "2026-06-25T03:54:27.714Z",
+      "title": "Anthropic accuses Alibaba of illicitly extracting AI capabilities"
+    },
+    {
+      "id": "u_c87c33d6",
+      "sentAt": "2026-06-25T03:54:27.714Z",
+      "title": "U.S. Export Controls: A Double-Edged Sword for AI's Future"
+    },
+    {
+      "id": "u_f2188f7c",
+      "sentAt": "2026-06-25T03:54:27.714Z",
+      "title": "Anthropic's Trillion-Dollar Gamble: Is Claude Fable 5 Ready for Prime Time?"
+    },
     {
       "id": "u_f69a2a2f",
       "sentAt": "2026-06-24T23:07:29.019Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7dfb0234",
       "sentAt": "2026-05-24T07:26:53.719Z",
       "title": "Your AI agent is one tool call away from doing something you didn’t authorize. Here’s the fix."
-    },
-    {
-      "id": "u_f7a52b91",
-      "sentAt": "2026-05-24T07:26:53.719Z",
-      "title": "QuoteIQ Launches AI AutoReply Inside ClientHub, Bringing Action-Taking Artificial Intelligence to Home Service Contractors - The Daily Tribune News"
-    },
-    {
-      "id": "u_8677c0a6",
-      "sentAt": "2026-05-24T07:26:53.719Z",
-      "title": "llampart 1.0.0 - I released a standalone local web UI for llama-server with translations, extended settings and a polished conversation sidebar"
-    },
-    {
-      "id": "u_1ef2f6ed",
-      "sentAt": "2026-05-24T07:26:53.719Z",
-      "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip"
-    },
-    {
-      "id": "u_6536b05a",
-      "sentAt": "2026-05-24T03:57:20.296Z",
-      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA [D]"
-    },
-    {
-      "id": "u_6bc00b17",
-      "sentAt": "2026-05-24T03:57:20.296Z",
-      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA"
     }
   ]
 }
