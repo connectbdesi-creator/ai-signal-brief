@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-25T10:46:29.377Z",
+  "updatedAt": "2026-06-25T14:41:21.796Z",
   "entries": [
+    {
+      "id": "u_24128eea",
+      "sentAt": "2026-06-25T14:41:21.796Z",
+      "title": "Reinforcement Learning's New Architect: The Policy Model"
+    },
+    {
+      "id": "u_b75d1cc1",
+      "sentAt": "2026-06-25T14:41:21.796Z",
+      "title": "Cracking the Code of Long-Form Audio Drama with AI"
+    },
+    {
+      "id": "u_72a45ada",
+      "sentAt": "2026-06-25T14:41:21.796Z",
+      "title": "AI Models Tackle CO2 Storage: The New Frontier"
+    },
+    {
+      "id": "u_aaf1c061",
+      "sentAt": "2026-06-25T14:41:21.796Z",
+      "title": "California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce - California State Portal | CA.gov"
+    },
+    {
+      "id": "u_525e7b00",
+      "sentAt": "2026-06-25T14:41:21.796Z",
+      "title": "Anthropic claims that China's Alibaba illicitly 'distilled' its models from April to June 2026 — says effort involved 25,000 fake accounts and 28.8 million exchanges on Claude - Tom's Hardware"
+    },
     {
       "id": "u_c3392616",
       "sentAt": "2026-06-25T10:46:29.377Z",
@@ -4975,31 +5000,6 @@
       "id": "u_93af7487",
       "sentAt": "2026-05-24T13:42:33.051Z",
       "title": "Working on a cgo-free CUDA binding in Go for ML stuff Week 3 - open source [P]"
-    },
-    {
-      "id": "u_8dfbc076",
-      "sentAt": "2026-05-24T13:42:33.051Z",
-      "title": "I built a free AI travel planner for budget Europe trips"
-    },
-    {
-      "id": "u_f4646add",
-      "sentAt": "2026-05-24T13:42:33.051Z",
-      "title": "PapersWithCode new features - week 1 [P]"
-    },
-    {
-      "id": "u_be1d48db",
-      "sentAt": "2026-05-24T13:42:33.051Z",
-      "title": "How Jailbreaking AI Chatbots Exposes Their Vulnerabilities"
-    },
-    {
-      "id": "u_2264a731",
-      "sentAt": "2026-05-24T11:23:05.819Z",
-      "title": "How I do use the recent llama.cpp native tools to do web rag a.k.a. web_fetch (or anything else for the matter) directly from inside the llama-server's webui"
-    },
-    {
-      "id": "u_298a2bc",
-      "sentAt": "2026-05-24T11:23:05.819Z",
-      "title": "Physicists create hybrid light-matter particles to replace electrons in AI cmpt"
     }
   ]
 }
