@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-25T14:41:21.796Z",
+  "updatedAt": "2026-06-25T18:14:20.996Z",
   "entries": [
+    {
+      "id": "u_d3fda6f5",
+      "sentAt": "2026-06-25T18:14:20.996Z",
+      "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services"
+    },
+    {
+      "id": "u_ff01dac4",
+      "sentAt": "2026-06-25T18:14:20.996Z",
+      "title": "June 2026: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More"
+    },
+    {
+      "id": "u_3d7814e8",
+      "sentAt": "2026-06-25T18:14:20.996Z",
+      "title": "University of Idaho Launches New Artificial Intelligence Degree Programs - Dailyfly News"
+    },
+    {
+      "id": "u_fcb59c60",
+      "sentAt": "2026-06-25T18:14:20.996Z",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT"
+    },
+    {
+      "id": "u_a9aa7986",
+      "sentAt": "2026-06-25T18:14:20.996Z",
+      "title": "Mordal: Automating Multimodal Model Selection"
+    },
     {
       "id": "u_24128eea",
       "sentAt": "2026-06-25T14:41:21.796Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8f0d95a6",
       "sentAt": "2026-05-24T15:08:02.941Z",
       "title": "DeepSeek Slashes Prices: Industry Disruption or Desperation?"
-    },
-    {
-      "id": "u_7b7403fe",
-      "sentAt": "2026-05-24T15:08:02.941Z",
-      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model"
-    },
-    {
-      "id": "u_c6bf2731",
-      "sentAt": "2026-05-24T15:08:02.941Z",
-      "title": "Sortera Tech Doubles Metal Processing Capacity with AI"
-    },
-    {
-      "id": "u_275e5749",
-      "sentAt": "2026-05-24T15:08:02.941Z",
-      "title": "Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent"
-    },
-    {
-      "id": "u_17f28238",
-      "sentAt": "2026-05-24T13:42:33.051Z",
-      "title": "Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent"
-    },
-    {
-      "id": "u_93af7487",
-      "sentAt": "2026-05-24T13:42:33.051Z",
-      "title": "Working on a cgo-free CUDA binding in Go for ML stuff Week 3 - open source [P]"
     }
   ]
 }
