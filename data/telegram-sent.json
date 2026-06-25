@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-25T03:54:27.714Z",
+  "updatedAt": "2026-06-25T07:50:32.492Z",
   "entries": [
+    {
+      "id": "u_ac77b8",
+      "sentAt": "2026-06-25T07:50:32.492Z",
+      "title": "Breaking Language Barriers in Medical AI: A New Benchmark for Urdu"
+    },
+    {
+      "id": "u_5711d77c",
+      "sentAt": "2026-06-25T07:50:32.492Z",
+      "title": "PolicyAlign: A New Era in Language Model Safety"
+    },
+    {
+      "id": "u_e88e23f6",
+      "sentAt": "2026-06-25T07:50:32.492Z",
+      "title": "Revolutionizing AI Training: Agent-Authored World Modeling Steps Up"
+    },
+    {
+      "id": "u_b11f1f71",
+      "sentAt": "2026-06-25T07:50:32.492Z",
+      "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing"
+    },
+    {
+      "id": "u_43825e4",
+      "sentAt": "2026-06-25T07:50:32.492Z",
+      "title": "Improving the speed and energy-efficiency of AI agents"
+    },
     {
       "id": "u_4ba8c447",
       "sentAt": "2026-06-25T03:54:27.714Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e8867cbe",
       "sentAt": "2026-05-24T09:58:44.252Z",
       "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon"
-    },
-    {
-      "id": "u_280e35d4",
-      "sentAt": "2026-05-24T09:58:44.252Z",
-      "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon"
-    },
-    {
-      "id": "u_d676f8a9",
-      "sentAt": "2026-05-24T09:58:44.252Z",
-      "title": "Are AI Agents Ready to Code Without Escalating Risk?"
-    },
-    {
-      "id": "u_6df08cc5",
-      "sentAt": "2026-05-24T09:58:44.252Z",
-      "title": "A maintainability ratchet for AI-assisted Python"
-    },
-    {
-      "id": "u_1fefd8c7",
-      "sentAt": "2026-05-24T07:26:53.719Z",
-      "title": "ig nobody is talking about the real reason most AI agents fail in the real world"
-    },
-    {
-      "id": "u_7dfb0234",
-      "sentAt": "2026-05-24T07:26:53.719Z",
-      "title": "Your AI agent is one tool call away from doing something you didn’t authorize. Here’s the fix."
     }
   ]
 }
