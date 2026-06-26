@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-25T23:21:35.276Z",
+  "updatedAt": "2026-06-26T04:01:18.307Z",
   "entries": [
+    {
+      "id": "u_bff197e4",
+      "sentAt": "2026-06-26T04:01:18.307Z",
+      "title": "AI's New Rx: How TxAgent is Reshaping Medical Decision-Making"
+    },
+    {
+      "id": "u_2c5a9762",
+      "sentAt": "2026-06-26T04:01:18.307Z",
+      "title": "DUPL: Rethinking Uncertainty in Multimodal Reinforcement Learning"
+    },
+    {
+      "id": "u_2fb9ec47",
+      "sentAt": "2026-06-26T04:01:18.307Z",
+      "title": "MegaFold: The New Frontier in Protein Modeling"
+    },
+    {
+      "id": "u_9ebe4066",
+      "sentAt": "2026-06-26T04:01:18.307Z",
+      "title": "The Trump administration asked OpenAI to delay the launch of the new artificial intelligence model GPT-5.6 - Українські Національні Новини (УНН)"
+    },
+    {
+      "id": "u_8092e5",
+      "sentAt": "2026-06-26T04:01:18.307Z",
+      "title": "Trump administration steps in to limit OpenAI’s latest model launch - Politico"
+    },
     {
       "id": "u_cae6a9ac",
       "sentAt": "2026-06-25T23:21:35.276Z",
@@ -4975,31 +5000,6 @@
       "id": "u_411cd49a",
       "sentAt": "2026-05-24T23:00:21.195Z",
       "title": "Authorization layer for AI agents (OAuth has no idea what your agent is doing)"
-    },
-    {
-      "id": "u_ab271480",
-      "sentAt": "2026-05-24T23:00:21.195Z",
-      "title": "AI Agents Get Their Own Browser with Firefox Fork"
-    },
-    {
-      "id": "u_1f0fcfbe",
-      "sentAt": "2026-05-24T23:00:21.195Z",
-      "title": "Reimagining Gravity: New Insights into the Gravitational Constant"
-    },
-    {
-      "id": "u_6fc3537b",
-      "sentAt": "2026-05-24T21:00:25.538Z",
-      "title": "Show HN: TalkTimer, a micro-SaaS run by an AI agent team"
-    },
-    {
-      "id": "u_ffa68711",
-      "sentAt": "2026-05-24T19:22:03.313Z",
-      "title": "Quoting Armin Ronacher"
-    },
-    {
-      "id": "u_f2e0e02f",
-      "sentAt": "2026-05-24T19:22:03.313Z",
-      "title": "Ask HN: What is your daily AI stack?"
     }
   ]
 }
