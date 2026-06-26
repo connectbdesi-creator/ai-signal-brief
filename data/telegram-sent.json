@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-26T16:23:41.127Z",
+  "updatedAt": "2026-06-26T19:53:36.415Z",
   "entries": [
+    {
+      "id": "u_d3f52e82",
+      "sentAt": "2026-06-26T19:53:36.415Z",
+      "title": "UniBrain: A New Frontier in Medical Imaging"
+    },
+    {
+      "id": "u_2b3adf70",
+      "sentAt": "2026-06-26T19:53:36.415Z",
+      "title": "Reinforcement Learning's New Frontier: Navigating Multi-Objective Trade-Offs"
+    },
+    {
+      "id": "u_6f996e97",
+      "sentAt": "2026-06-26T19:53:36.415Z",
+      "title": "AI's Blind Spots: The Inattentional Gap in Safety Models"
+    },
+    {
+      "id": "u_dc5004d7",
+      "sentAt": "2026-06-26T19:53:36.415Z",
+      "title": "AEGIS: A New Shield Against API Router Attacks"
+    },
+    {
+      "id": "u_20b59928",
+      "sentAt": "2026-06-26T19:53:36.415Z",
+      "title": "Can AI Really Judge User Experience? A New Benchmark Puts It to the Test"
+    },
     {
       "id": "u_bdea4b34",
       "sentAt": "2026-06-26T16:23:41.127Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f541f87a",
       "sentAt": "2026-05-25T17:46:52.910Z",
       "title": "5 ways Pope Leo says AI could warp humanity"
-    },
-    {
-      "id": "u_7bf6963f",
-      "sentAt": "2026-05-25T17:46:52.910Z",
-      "title": "Show HN: Musts – Open-source validation loops for AI coding agents"
-    },
-    {
-      "id": "u_cd707e8b",
-      "sentAt": "2026-05-25T17:46:52.910Z",
-      "title": "Wix cutting"
-    },
-    {
-      "id": "u_5883633e",
-      "sentAt": "2026-05-25T15:15:07.957Z",
-      "title": "The Financial Times has published an article about Heretic"
-    },
-    {
-      "id": "u_dd4e9706",
-      "sentAt": "2026-05-25T15:15:07.957Z",
-      "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection"
-    },
-    {
-      "id": "u_d8f6bcf1",
-      "sentAt": "2026-05-25T15:15:07.957Z",
-      "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection"
     }
   ]
 }
