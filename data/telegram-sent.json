@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-26T04:01:18.307Z",
+  "updatedAt": "2026-06-26T09:33:28.168Z",
   "entries": [
+    {
+      "id": "u_aafa2440",
+      "sentAt": "2026-06-26T09:33:28.168Z",
+      "title": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon"
+    },
+    {
+      "id": "u_b137d8e6",
+      "sentAt": "2026-06-26T09:33:28.168Z",
+      "title": "Unveiling Option Injection: Testing LLMs' Directive Vulnerability"
+    },
+    {
+      "id": "u_c5a658a8",
+      "sentAt": "2026-06-26T09:33:28.168Z",
+      "title": "Detecting Missteps: The New Guardrail for Computer Use Agents"
+    },
+    {
+      "id": "u_b022dc18",
+      "sentAt": "2026-06-26T09:33:28.168Z",
+      "title": "Redefining Content Moderation with HarmVideoBench"
+    },
+    {
+      "id": "u_d7e6db94",
+      "sentAt": "2026-06-26T09:33:28.168Z",
+      "title": "Why Verification is the New Frontier in AI's Coding World"
+    },
     {
       "id": "u_bff197e4",
       "sentAt": "2026-06-26T04:01:18.307Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c53a0332",
       "sentAt": "2026-05-25T04:08:29.458Z",
       "title": "HN: Silau – AI detects employee burnout\""
-    },
-    {
-      "id": "u_b4f24c03",
-      "sentAt": "2026-05-25T04:08:29.458Z",
-      "title": "Sponsio: Deterministic Contract Layer for LLM Agents [P]"
-    },
-    {
-      "id": "u_24f4b4e3",
-      "sentAt": "2026-05-25T04:08:29.458Z",
-      "title": "We built a managed memory API for AI agents (open-source SDK + AGM-style belief revision for handling contradictions)"
-    },
-    {
-      "id": "u_9781de38",
-      "sentAt": "2026-05-24T23:00:21.195Z",
-      "title": "hipEngine: Fast Native Qwen 3.6 Inference for RDNA3 (Strix Halo, 7900 XTX)"
-    },
-    {
-      "id": "u_a02ec0f6",
-      "sentAt": "2026-05-24T23:00:21.195Z",
-      "title": "Memory"
-    },
-    {
-      "id": "u_411cd49a",
-      "sentAt": "2026-05-24T23:00:21.195Z",
-      "title": "Authorization layer for AI agents (OAuth has no idea what your agent is doing)"
     }
   ]
 }
