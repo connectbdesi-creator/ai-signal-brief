@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-26T19:53:36.415Z",
+  "updatedAt": "2026-06-26T21:22:16.352Z",
   "entries": [
+    {
+      "id": "u_2690ca68",
+      "sentAt": "2026-06-26T21:22:16.352Z",
+      "title": "Taylor Launches New Bachelor's Degree in AI and Machine Learning - Taylor University"
+    },
+    {
+      "id": "u_4ffb9f4c",
+      "sentAt": "2026-06-26T21:22:16.352Z",
+      "title": "Pentagon Launches ‘Agent Network’ to Advance AI-Enabled Battle Management - ExecutiveGov"
+    },
+    {
+      "id": "u_1a9675b5",
+      "sentAt": "2026-06-26T21:22:16.352Z",
+      "title": "Sudan's Conflict Monitored From Space: A New Era for Rapid Fire Detection"
+    },
+    {
+      "id": "u_bf3a9288",
+      "sentAt": "2026-06-26T21:22:16.352Z",
+      "title": "Killbench: The New Frontier in AI Defense"
+    },
+    {
+      "id": "u_6128c12d",
+      "sentAt": "2026-06-26T21:22:16.352Z",
+      "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access"
+    },
     {
       "id": "u_d3f52e82",
       "sentAt": "2026-06-26T19:53:36.415Z",
@@ -4975,31 +5000,6 @@
       "id": "u_901df47d",
       "sentAt": "2026-05-25T19:45:46.244Z",
       "title": "Google adds open source Agent Executor to support AI agents in production - InfoWorld"
-    },
-    {
-      "id": "u_27c4ddcb",
-      "sentAt": "2026-05-25T19:45:46.244Z",
-      "title": "AI content detector based on Qwen 0.8b fine-tuned on Pangram dataset"
-    },
-    {
-      "id": "u_720de619",
-      "sentAt": "2026-05-25T19:45:46.244Z",
-      "title": "𝐃𝐞𝐥𝐭𝐚 𝐀𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐑𝐞𝐬𝐢𝐝𝐮𝐚𝐥𝐬 [R]"
-    },
-    {
-      "id": "u_b0c1f184",
-      "sentAt": "2026-05-25T17:46:52.910Z",
-      "title": "Reconstructing the agent methodology: Decoupling decision-making and execution - open source [P]"
-    },
-    {
-      "id": "u_98c4c64c",
-      "sentAt": "2026-05-25T17:46:52.910Z",
-      "title": "Can AI write your code?"
-    },
-    {
-      "id": "u_f541f87a",
-      "sentAt": "2026-05-25T17:46:52.910Z",
-      "title": "5 ways Pope Leo says AI could warp humanity"
     }
   ]
 }
