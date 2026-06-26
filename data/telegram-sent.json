@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-26T21:22:16.352Z",
+  "updatedAt": "2026-06-26T23:09:40.804Z",
   "entries": [
+    {
+      "id": "u_ba16d45a",
+      "sentAt": "2026-06-26T23:09:40.804Z",
+      "title": "Agentic AI: Transforming Finance with Trust and Adaptability"
+    },
+    {
+      "id": "u_1a3a676",
+      "sentAt": "2026-06-26T23:09:40.804Z",
+      "title": "Quoting Dean W. Ball"
+    },
+    {
+      "id": "u_deff4b31",
+      "sentAt": "2026-06-26T23:09:40.804Z",
+      "title": "Took the plunge! (Minisforum MS-S1 Max)"
+    },
+    {
+      "id": "u_652d6c4c",
+      "sentAt": "2026-06-26T23:09:40.804Z",
+      "title": "OpenAI limits release of new model under pressure from US - AFR"
+    },
+    {
+      "id": "u_81e413ac",
+      "sentAt": "2026-06-26T23:09:40.804Z",
+      "title": "Local LLM Peeps"
+    },
     {
       "id": "u_2690ca68",
       "sentAt": "2026-06-26T21:22:16.352Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3bd55502",
       "sentAt": "2026-05-25T21:13:00.827Z",
       "title": "What ClickUp’s mass layoff tells us about the future of work"
-    },
-    {
-      "id": "u_25ffa69a",
-      "sentAt": "2026-05-25T21:13:00.827Z",
-      "title": "What ClickUp’s mass layoff tells us about the future of work"
-    },
-    {
-      "id": "u_da9e0308",
-      "sentAt": "2026-05-25T21:13:00.827Z",
-      "title": "As token costs shoot up, Dell doubles down on desktop AI"
-    },
-    {
-      "id": "u_83439ff7",
-      "sentAt": "2026-05-25T19:45:46.244Z",
-      "title": "Top 10 Fastest Growing AI repos this week"
-    },
-    {
-      "id": "u_d57d6182",
-      "sentAt": "2026-05-25T19:45:46.244Z",
-      "title": "The CEO AI Confidence Gap Is Costing Enterprises Billions"
-    },
-    {
-      "id": "u_901df47d",
-      "sentAt": "2026-05-25T19:45:46.244Z",
-      "title": "Google adds open source Agent Executor to support AI agents in production - InfoWorld"
     }
   ]
 }
