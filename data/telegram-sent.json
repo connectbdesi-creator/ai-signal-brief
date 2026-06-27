@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-27T19:25:23.638Z",
+  "updatedAt": "2026-06-27T21:08:13.569Z",
   "entries": [
+    {
+      "id": "u_ab9b97a3",
+      "sentAt": "2026-06-27T21:08:13.569Z",
+      "title": "Forget AGI. The prize is enterprise AGI"
+    },
+    {
+      "id": "u_9868e72e",
+      "sentAt": "2026-06-27T21:08:13.569Z",
+      "title": "AI Under Lock and Key: The U.S. Government's Grip Tightens"
+    },
+    {
+      "id": "u_337a1358",
+      "sentAt": "2026-06-27T21:08:13.569Z",
+      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’"
+    },
+    {
+      "id": "u_46a3c589",
+      "sentAt": "2026-06-27T21:08:13.569Z",
+      "title": "US allows partial release of Anthropic's Mythos AI model - DW.com"
+    },
+    {
+      "id": "u_597b3b47",
+      "sentAt": "2026-06-27T21:08:13.569Z",
+      "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5"
+    },
     {
       "id": "u_fb00490",
       "sentAt": "2026-06-27T19:25:23.638Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b770bfde",
       "sentAt": "2026-05-27T04:08:04.011Z",
       "title": "MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving"
-    },
-    {
-      "id": "u_3c96afb1",
-      "sentAt": "2026-05-27T04:08:04.011Z",
-      "title": "Vital Trace: Protocol-Constrained Patient-State Reasoning for Longitudinal Clinical Trajectories"
-    },
-    {
-      "id": "u_c9821eb",
-      "sentAt": "2026-05-27T04:08:04.011Z",
-      "title": "Entropy Sentinel: Continuous LLM Accuracy Monitoring from Decoding Entropy Traces in STEM"
-    },
-    {
-      "id": "u_ffa1f4af",
-      "sentAt": "2026-05-26T23:12:58.407Z",
-      "title": "AI's Lexical Footprint: Beyond English, Shaping Global Languages"
-    },
-    {
-      "id": "u_d490a601",
-      "sentAt": "2026-05-26T23:12:58.407Z",
-      "title": "Agent-ToM: The Next Step in Smart AI Monitoring"
-    },
-    {
-      "id": "u_57866a3c",
-      "sentAt": "2026-05-26T23:12:58.407Z",
-      "title": "Neuroscience Superintelligence: A Textbook Transformation"
     }
   ]
 }
