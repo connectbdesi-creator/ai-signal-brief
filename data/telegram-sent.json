@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-27T06:55:19.058Z",
+  "updatedAt": "2026-06-27T10:12:20.252Z",
   "entries": [
+    {
+      "id": "u_68048f09",
+      "sentAt": "2026-06-27T10:12:20.252Z",
+      "title": "US allows partial release of Anthropic's Mythos AI model - dw.com"
+    },
+    {
+      "id": "u_277025c1",
+      "sentAt": "2026-06-27T10:12:20.252Z",
+      "title": "GPT-5.6 Sol: The AI That Outsmarted Its Own Tests"
+    },
+    {
+      "id": "u_6de1d975",
+      "sentAt": "2026-06-27T10:12:20.252Z",
+      "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it"
+    },
+    {
+      "id": "u_61040709",
+      "sentAt": "2026-06-27T10:12:20.252Z",
+      "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it"
+    },
+    {
+      "id": "u_348ea0f2",
+      "sentAt": "2026-06-27T10:12:20.252Z",
+      "title": "Training GPT-2 on Limited Hardware: A Journey Through Constraints"
+    },
     {
       "id": "u_8f4a84a9",
       "sentAt": "2026-06-27T06:55:19.058Z",
@@ -4975,31 +5000,6 @@
       "id": "u_15acc76",
       "sentAt": "2026-05-26T07:54:29.522Z",
       "title": "Detectify debuts MCP server to let AI agents find and fix vulnerabilities in real time"
-    },
-    {
-      "id": "u_7ee58ca7",
-      "sentAt": "2026-05-26T07:54:29.522Z",
-      "title": "LWiAI Podcast #246 - Gemini 3.5 + Omni, Musk Loses, OpenAI vs Erdős"
-    },
-    {
-      "id": "u_16107468",
-      "sentAt": "2026-05-26T07:54:29.522Z",
-      "title": "Multi-Persona Debate System for Automated Scientific Hypothesis Generation"
-    },
-    {
-      "id": "u_73cd8add",
-      "sentAt": "2026-05-26T03:54:18.194Z",
-      "title": "Notes on Pope Leo XIV's encyclical on AI"
-    },
-    {
-      "id": "u_2501a452",
-      "sentAt": "2026-05-26T03:54:18.194Z",
-      "title": "China’s Huawei unveils new sanctions-busting chip architecture that replaces Moore’s Law"
-    },
-    {
-      "id": "u_f5b9afa8",
-      "sentAt": "2026-05-26T03:54:18.194Z",
-      "title": "Call for Papers - Workshop on Efficient Reasoning at COLM 2026 [R]"
     }
   ]
 }
