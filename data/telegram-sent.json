@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-27T13:49:32.138Z",
+  "updatedAt": "2026-06-27T15:18:11.868Z",
   "entries": [
+    {
+      "id": "u_346dc4fe",
+      "sentAt": "2026-06-27T15:18:11.868Z",
+      "title": "FORT Robotics and NVIDIA Reimagine Safety with Outside-In AI"
+    },
+    {
+      "id": "u_ec1d521e",
+      "sentAt": "2026-06-27T15:18:11.868Z",
+      "title": "ExRobotics Unveils Certified Inspection Robot Amid Industry Pressures"
+    },
+    {
+      "id": "u_46adffc5",
+      "sentAt": "2026-06-27T15:18:11.868Z",
+      "title": "Mantis Robotics Unveils Fenceless Future with MR-X"
+    },
+    {
+      "id": "u_c57da79a",
+      "sentAt": "2026-06-27T15:18:11.868Z",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back."
+    },
+    {
+      "id": "u_4e37c221",
+      "sentAt": "2026-06-27T15:18:11.868Z",
+      "title": "OpenAI's ChatGPT Update: A Step Toward Smarter Conversations"
+    },
     {
       "id": "u_8322c6fb",
       "sentAt": "2026-06-27T13:49:32.138Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fb55072d",
       "sentAt": "2026-05-26T18:30:17.130Z",
       "title": "Turning local agents into self-optimizing agents"
-    },
-    {
-      "id": "u_6a7a61db",
-      "sentAt": "2026-05-26T18:30:17.130Z",
-      "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_321fa398",
-      "sentAt": "2026-05-26T18:30:17.130Z",
-      "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_dc4955fc",
-      "sentAt": "2026-05-26T15:43:31.641Z",
-      "title": "Meet KYA: The Trust Layer Every AI Needs"
-    },
-    {
-      "id": "u_17952da7",
-      "sentAt": "2026-05-26T15:43:31.641Z",
-      "title": "Walsh Geometry: The Secret Sauce for Smarter AI Models"
-    },
-    {
-      "id": "u_61f848e",
-      "sentAt": "2026-05-26T15:43:31.641Z",
-      "title": "Microsoft Copilot Cowork Exfiltrates Files"
     }
   ]
 }
