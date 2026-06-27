@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-26T23:09:40.804Z",
+  "updatedAt": "2026-06-27T03:44:35.119Z",
   "entries": [
+    {
+      "id": "u_a5cbd081",
+      "sentAt": "2026-06-27T03:44:35.119Z",
+      "title": "Revolutionizing Cloud Computing: The Intersection of Human and Machine Intelligence"
+    },
+    {
+      "id": "u_d04e2c01",
+      "sentAt": "2026-06-27T03:44:35.119Z",
+      "title": "AdaSR: Pioneering the Future of Real-Time AI Reasoning"
+    },
+    {
+      "id": "u_3516f782",
+      "sentAt": "2026-06-27T03:44:35.119Z",
+      "title": "AgentSpec: Redefining Modular AI with Precision"
+    },
+    {
+      "id": "u_e2ebb0b",
+      "sentAt": "2026-06-27T03:44:35.119Z",
+      "title": "University of Idaho to launch AI degree programs in 2026 - KTVB"
+    },
+    {
+      "id": "u_40b09b60",
+      "sentAt": "2026-06-27T03:44:35.119Z",
+      "title": "University of Idaho launches degrees in artificial intelligence beginning in Fall 2026 - KTVB"
+    },
     {
       "id": "u_ba16d45a",
       "sentAt": "2026-06-26T23:09:40.804Z",
@@ -4975,31 +5000,6 @@
       "id": "u_57b9b17a",
       "sentAt": "2026-05-25T23:08:45.366Z",
       "title": "Update on 12x32gb sxm v100 cluster / local AI for legal drafting"
-    },
-    {
-      "id": "u_6f103e18",
-      "sentAt": "2026-05-25T23:08:45.366Z",
-      "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving"
-    },
-    {
-      "id": "u_3c03814d",
-      "sentAt": "2026-05-25T23:08:45.366Z",
-      "title": "The best Memorial Day sales you can shop this weekend"
-    },
-    {
-      "id": "u_697070a7",
-      "sentAt": "2026-05-25T21:13:00.827Z",
-      "title": "Cerebras Chip Sets Appear to be Optimized for LLM Use Cases"
-    },
-    {
-      "id": "u_bdefbea2",
-      "sentAt": "2026-05-25T21:13:00.827Z",
-      "title": "Show HN: Hackobar – One feed for AI news"
-    },
-    {
-      "id": "u_3bd55502",
-      "sentAt": "2026-05-25T21:13:00.827Z",
-      "title": "What ClickUp’s mass layoff tells us about the future of work"
     }
   ]
 }
