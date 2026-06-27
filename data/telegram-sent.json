@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-27T15:18:11.868Z",
+  "updatedAt": "2026-06-27T17:14:26.051Z",
   "entries": [
+    {
+      "id": "u_3ace7a9c",
+      "sentAt": "2026-06-27T17:14:26.051Z",
+      "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions"
+    },
+    {
+      "id": "u_5af9895e",
+      "sentAt": "2026-06-27T17:14:26.051Z",
+      "title": "Google Confirms Gemini Upgrade: AI Can Now Control Your Computer"
+    },
+    {
+      "id": "u_cb79d43a",
+      "sentAt": "2026-06-27T17:14:26.051Z",
+      "title": "How Domo went from a $2.8 billion darling to fighting for its survival"
+    },
+    {
+      "id": "u_726518f6",
+      "sentAt": "2026-06-27T17:14:26.051Z",
+      "title": "How to Build a Powerful LLM Knowledge Base"
+    },
+    {
+      "id": "u_ed7e5c84",
+      "sentAt": "2026-06-27T17:14:26.051Z",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on"
+    },
     {
       "id": "u_346dc4fe",
       "sentAt": "2026-06-27T15:18:11.868Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d6cbc588",
       "sentAt": "2026-05-26T21:48:14.384Z",
       "title": "How Feedback-Guided Attacks are Outpacing AI Defenses"
-    },
-    {
-      "id": "u_6c2c00bd",
-      "sentAt": "2026-05-26T21:48:14.384Z",
-      "title": "Do machines think or tokenize?"
-    },
-    {
-      "id": "u_57c9ea50",
-      "sentAt": "2026-05-26T21:48:14.384Z",
-      "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition"
-    },
-    {
-      "id": "u_b3268e2",
-      "sentAt": "2026-05-26T18:30:17.130Z",
-      "title": "Step-TP: The Missing Link in Optimizing Tensor Programs with AI"
-    },
-    {
-      "id": "u_9eb70d1a",
-      "sentAt": "2026-05-26T18:30:17.130Z",
-      "title": "Revamping LLM Training: The Drop-Stable-Rampup Method"
-    },
-    {
-      "id": "u_fb55072d",
-      "sentAt": "2026-05-26T18:30:17.130Z",
-      "title": "Turning local agents into self-optimizing agents"
     }
   ]
 }
