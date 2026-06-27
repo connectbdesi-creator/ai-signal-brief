@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-06-27T21:08:13.569Z",
+  "updatedAt": "2026-06-27T23:05:32.305Z",
   "entries": [
+    {
+      "id": "u_f6a6c4c",
+      "sentAt": "2026-06-27T23:05:32.305Z",
+      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations"
+    },
     {
       "id": "u_ab9b97a3",
       "sentAt": "2026-06-27T21:08:13.569Z",
@@ -4995,11 +5000,6 @@
       "id": "u_7787b29a",
       "sentAt": "2026-05-27T04:08:04.011Z",
       "title": "CFG-OEC: Classifier Free Guidance with Orthogonal Error Correction"
-    },
-    {
-      "id": "u_b770bfde",
-      "sentAt": "2026-05-27T04:08:04.011Z",
-      "title": "MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving"
     }
   ]
 }
