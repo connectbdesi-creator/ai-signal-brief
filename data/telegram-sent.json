@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-27T03:44:35.119Z",
+  "updatedAt": "2026-06-27T06:55:19.058Z",
   "entries": [
+    {
+      "id": "u_8f4a84a9",
+      "sentAt": "2026-06-27T06:55:19.058Z",
+      "title": "Memoriq: Reinventing the Wheel or Rolling Forward?"
+    },
+    {
+      "id": "u_b8ec56e6",
+      "sentAt": "2026-06-27T06:55:19.058Z",
+      "title": "AI Coding Agents: Finding Files, Missing Lines"
+    },
+    {
+      "id": "u_339d688c",
+      "sentAt": "2026-06-27T06:55:19.058Z",
+      "title": "Harness Forge: The Open Source Initiative You Need to Know About"
+    },
+    {
+      "id": "u_9c24b436",
+      "sentAt": "2026-06-27T06:55:19.058Z",
+      "title": "Ditching Agents: A Retiree's $16,000 Real Estate Win"
+    },
+    {
+      "id": "u_daeb7a5f",
+      "sentAt": "2026-06-27T06:55:19.058Z",
+      "title": "Anthropic's Model Access Halt Sparks India's AI Soul-Searching"
+    },
     {
       "id": "u_a5cbd081",
       "sentAt": "2026-06-27T03:44:35.119Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f5b9afa8",
       "sentAt": "2026-05-26T03:54:18.194Z",
       "title": "Call for Papers - Workshop on Efficient Reasoning at COLM 2026 [R]"
-    },
-    {
-      "id": "u_1c2b53fc",
-      "sentAt": "2026-05-26T03:54:18.194Z",
-      "title": "OSCAR RotationZoo - Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization"
-    },
-    {
-      "id": "u_b8352f68",
-      "sentAt": "2026-05-26T03:54:18.194Z",
-      "title": "Best Authentication Platforms for AI Agents and MCP Servers in 2026"
-    },
-    {
-      "id": "u_54aafd0",
-      "sentAt": "2026-05-25T23:08:45.366Z",
-      "title": "If you've ever wondered how rigorous data analysis+social science research can look with AI, I've finally launched a nice website for my open-source Claude Code researcher's toolkit: the Data Analyst Augmentation Framework! Equal parts interactive explainer on agentic orchestration + free tool"
-    },
-    {
-      "id": "u_189f9284",
-      "sentAt": "2026-05-25T23:08:45.366Z",
-      "title": "Building Conifer, an open-source local inference runtime (free + open source)"
-    },
-    {
-      "id": "u_57b9b17a",
-      "sentAt": "2026-05-25T23:08:45.366Z",
-      "title": "Update on 12x32gb sxm v100 cluster / local AI for legal drafting"
     }
   ]
 }
