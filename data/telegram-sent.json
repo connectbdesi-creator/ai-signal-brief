@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-27T17:14:26.051Z",
+  "updatedAt": "2026-06-27T19:25:23.638Z",
   "entries": [
+    {
+      "id": "u_fb00490",
+      "sentAt": "2026-06-27T19:25:23.638Z",
+      "title": "Artificial intelligence Agents Set to Reshape Global Travel Booking as Consumers Shift from Planning to Full Decision Automation, New Research Reveals - Travel And Tour World"
+    },
+    {
+      "id": "u_4091b2b1",
+      "sentAt": "2026-06-27T19:25:23.638Z",
+      "title": "Fable 5 Set to Return: A Strategic Lift for Anthropic"
+    },
+    {
+      "id": "u_2b534d03",
+      "sentAt": "2026-06-27T19:25:23.638Z",
+      "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions"
+    },
+    {
+      "id": "u_7298404a",
+      "sentAt": "2026-06-27T19:25:23.638Z",
+      "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1"
+    },
+    {
+      "id": "u_f3e6ddea",
+      "sentAt": "2026-06-27T19:25:23.638Z",
+      "title": "Clean GitHub repo tricks AI coding agents into running malware - BleepingComputer"
+    },
     {
       "id": "u_3ace7a9c",
       "sentAt": "2026-06-27T17:14:26.051Z",
@@ -4975,31 +5000,6 @@
       "id": "u_57866a3c",
       "sentAt": "2026-05-26T23:12:58.407Z",
       "title": "Neuroscience Superintelligence: A Textbook Transformation"
-    },
-    {
-      "id": "u_307d528e",
-      "sentAt": "2026-05-26T23:12:58.407Z",
-      "title": "Anthropic just published how they contain Claude agents, including two security incidents they got wrong"
-    },
-    {
-      "id": "u_c294c57b",
-      "sentAt": "2026-05-26T23:12:58.407Z",
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search"
-    },
-    {
-      "id": "u_b3b04e62",
-      "sentAt": "2026-05-26T21:48:14.384Z",
-      "title": "VLA Models Trip Up: Faithfulness Under Fire"
-    },
-    {
-      "id": "u_2abf6bbf",
-      "sentAt": "2026-05-26T21:48:14.384Z",
-      "title": "The Delicate Dance of On-Policy Distillation: Promise and Pitfalls"
-    },
-    {
-      "id": "u_d6cbc588",
-      "sentAt": "2026-05-26T21:48:14.384Z",
-      "title": "How Feedback-Guided Attacks are Outpacing AI Defenses"
     }
   ]
 }
