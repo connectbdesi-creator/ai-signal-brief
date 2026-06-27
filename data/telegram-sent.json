@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-27T10:12:20.252Z",
+  "updatedAt": "2026-06-27T13:49:32.138Z",
   "entries": [
+    {
+      "id": "u_8322c6fb",
+      "sentAt": "2026-06-27T13:49:32.138Z",
+      "title": "Hirebotics Unveils a No-Code Cobot Revolutionizing Painting"
+    },
+    {
+      "id": "u_684dfd3d",
+      "sentAt": "2026-06-27T13:49:32.138Z",
+      "title": "Patronus AI: The Startup Fueling AI Agent Testing Frenzy"
+    },
+    {
+      "id": "u_32294e0",
+      "sentAt": "2026-06-27T13:49:32.138Z",
+      "title": "OpenAI's Selective Rollout: A Controlled ChatGPT 5 & 6 Release"
+    },
+    {
+      "id": "u_c6fba85d",
+      "sentAt": "2026-06-27T13:49:32.138Z",
+      "title": "OpenAI's GPT 5.6: A Strategic Secrecy Fueled by Politics"
+    },
+    {
+      "id": "u_68b4685f",
+      "sentAt": "2026-06-27T13:49:32.138Z",
+      "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you"
+    },
     {
       "id": "u_68048f09",
       "sentAt": "2026-06-27T10:12:20.252Z",
@@ -4975,31 +5000,6 @@
       "id": "u_61f848e",
       "sentAt": "2026-05-26T15:43:31.641Z",
       "title": "Microsoft Copilot Cowork Exfiltrates Files"
-    },
-    {
-      "id": "u_f3c7e583",
-      "sentAt": "2026-05-26T15:43:31.641Z",
-      "title": "Current Gen-AI is like a sophisticated parrot. Here's what happened when I gave one server access."
-    },
-    {
-      "id": "u_637e3647",
-      "sentAt": "2026-05-26T15:43:31.641Z",
-      "title": "Why Your CTR Models Might Be All Wrong"
-    },
-    {
-      "id": "u_a6fff7d0",
-      "sentAt": "2026-05-26T07:54:29.522Z",
-      "title": "Gemini, Grok, and a Courtroom Defeat: AI's Eventful Week"
-    },
-    {
-      "id": "u_ccc52ed0",
-      "sentAt": "2026-05-26T07:54:29.522Z",
-      "title": "Qwen3.5 35B A3B uncensored heretic Native MTP Preserved is Out Now With the Full 785 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats"
-    },
-    {
-      "id": "u_15acc76",
-      "sentAt": "2026-05-26T07:54:29.522Z",
-      "title": "Detectify debuts MCP server to let AI agents find and fix vulnerabilities in real time"
     }
   ]
 }
