@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-06-27T23:05:32.305Z",
+  "updatedAt": "2026-06-28T04:08:19.675Z",
   "entries": [
+    {
+      "id": "u_48e006e9",
+      "sentAt": "2026-06-28T04:08:19.675Z",
+      "title": "Benchmarking Self-Hosted Gemma 2 9B vs. Frontier APIs: The FP8 Quantization Prefill Tax and VRAM Realities on an NVIDIA L4 [P]"
+    },
     {
       "id": "u_f6a6c4c",
       "sentAt": "2026-06-27T23:05:32.305Z",
@@ -4995,11 +5000,6 @@
       "id": "u_8d1b413",
       "sentAt": "2026-05-27T04:08:04.011Z",
       "title": "AI's education explosion leaves teachers in the dark"
-    },
-    {
-      "id": "u_7787b29a",
-      "sentAt": "2026-05-27T04:08:04.011Z",
-      "title": "CFG-OEC: Classifier Free Guidance with Orthogonal Error Correction"
     }
   ]
 }
