@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-28T13:53:44.704Z",
+  "updatedAt": "2026-06-28T17:16:55.782Z",
   "entries": [
+    {
+      "id": "u_4a910e9",
+      "sentAt": "2026-06-28T17:16:55.782Z",
+      "title": "The number 1 public enemy of open-source."
+    },
+    {
+      "id": "u_1d776ac8",
+      "sentAt": "2026-06-28T17:16:55.782Z",
+      "title": "Ask HN: Can you give examples of AI taste?"
+    },
+    {
+      "id": "u_b934a992",
+      "sentAt": "2026-06-28T17:16:55.782Z",
+      "title": "General Intuition Taps into Gaming to Train Smarter AI"
+    },
+    {
+      "id": "u_6a0010aa",
+      "sentAt": "2026-06-28T17:16:55.782Z",
+      "title": "Clean GitHub Repositories: The Trojan Horse for AI Agents"
+    },
+    {
+      "id": "u_1bcc2d35",
+      "sentAt": "2026-06-28T17:16:55.782Z",
+      "title": "Hypothetically speaking..."
+    },
     {
       "id": "u_3c3ea916",
       "sentAt": "2026-06-28T13:53:44.704Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1f8d9686",
       "sentAt": "2026-05-27T21:59:21.220Z",
       "title": "Trust in AI: Beyond Accuracy with the PaTAS Framework"
-    },
-    {
-      "id": "u_8ae2935c",
-      "sentAt": "2026-05-27T21:59:21.220Z",
-      "title": "Rethinking the Role of Reasoning Traces in AI Models"
-    },
-    {
-      "id": "u_e8f5de2d",
-      "sentAt": "2026-05-27T21:59:21.220Z",
-      "title": "Rethinking LLMs: Why Uncertainty Might Just Be Their Secret Weapon"
-    },
-    {
-      "id": "u_7ae828ba",
-      "sentAt": "2026-05-27T21:59:21.220Z",
-      "title": "Quantization's Role in Large Language Model Efficiency: A Deep Dive"
-    },
-    {
-      "id": "u_cd330838",
-      "sentAt": "2026-05-27T21:59:21.220Z",
-      "title": "Building AI agents for business support using Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_f180539b",
-      "sentAt": "2026-05-27T18:29:12.772Z",
-      "title": "AI coding agent Devin maker Cognition more than doubles its valuation to $26 billion in under nine months"
     }
   ]
 }
