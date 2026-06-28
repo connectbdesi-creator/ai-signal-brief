@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-28T08:57:18.603Z",
+  "updatedAt": "2026-06-28T11:48:23.780Z",
   "entries": [
+    {
+      "id": "u_5053734c",
+      "sentAt": "2026-06-28T11:48:23.780Z",
+      "title": "Qwen3.6 27B local vs Opus 4.8, voxel engine in raw C with zero frameworks"
+    },
+    {
+      "id": "u_11751013",
+      "sentAt": "2026-06-28T11:48:23.780Z",
+      "title": "Are there good closed vs open LLM rankings? Also, are 70B–350B models actually worth it?"
+    },
+    {
+      "id": "u_621a9771",
+      "sentAt": "2026-06-28T11:48:23.780Z",
+      "title": "AgentWatch: Keeping AI Agents on a Budget"
+    },
+    {
+      "id": "u_e30e2327",
+      "sentAt": "2026-06-28T11:48:23.780Z",
+      "title": "Cate Blanchett is taking on AI"
+    },
+    {
+      "id": "u_e9388f0f",
+      "sentAt": "2026-06-28T11:48:23.780Z",
+      "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement"
+    },
     {
       "id": "u_14b9b7fa",
       "sentAt": "2026-06-28T08:57:18.603Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b61454ef",
       "sentAt": "2026-05-27T15:53:46.623Z",
       "title": "AI tried to bury this politician — now people have actually heard of him"
-    },
-    {
-      "id": "u_1a8bd469",
-      "sentAt": "2026-05-27T15:53:46.623Z",
-      "title": "Is a 128 GB MacBook Pro M5 Max actually too slow for large-context local LLM coding workflows?"
-    },
-    {
-      "id": "u_98e98f01",
-      "sentAt": "2026-05-27T15:53:46.623Z",
-      "title": "AI Agents: From Hype to Hinderance"
-    },
-    {
-      "id": "u_4c3564fb",
-      "sentAt": "2026-05-27T15:53:46.623Z",
-      "title": "Robinhood's AI Trading: A Bold Move or Risky Gamble?"
-    },
-    {
-      "id": "u_65e46944",
-      "sentAt": "2026-05-27T15:53:46.623Z",
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money"
-    },
-    {
-      "id": "u_ba8417e0",
-      "sentAt": "2026-05-27T10:02:14.144Z",
-      "title": "Custom 4x RTX PRO 6000 Blackwell server vs Dell GB300 for ~30 fine-tuned production pipelines — looking for honest input on direction"
     }
   ]
 }
