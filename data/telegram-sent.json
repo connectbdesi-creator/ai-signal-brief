@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-28T04:08:19.675Z",
+  "updatedAt": "2026-06-28T08:57:18.603Z",
   "entries": [
+    {
+      "id": "u_14b9b7fa",
+      "sentAt": "2026-06-28T08:57:18.603Z",
+      "title": "As the era of artificial intelligence (AI) agents is in full swing, the competition axis of the AI i.. - 매일경제"
+    },
+    {
+      "id": "u_7439fa5d",
+      "sentAt": "2026-06-28T08:57:18.603Z",
+      "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't"
+    },
+    {
+      "id": "u_11b65fe7",
+      "sentAt": "2026-06-28T08:57:18.603Z",
+      "title": "AI's Demand for New Social Norms: Reckoning with Responsibility"
+    },
+    {
+      "id": "u_6a2e4c39",
+      "sentAt": "2026-06-28T08:57:18.603Z",
+      "title": "Why Everyone's Scrambling for Compute Power"
+    },
+    {
+      "id": "u_dc0f59a7",
+      "sentAt": "2026-06-28T08:57:18.603Z",
+      "title": "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference"
+    },
     {
       "id": "u_48e006e9",
       "sentAt": "2026-06-28T04:08:19.675Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ba8417e0",
       "sentAt": "2026-05-27T10:02:14.144Z",
       "title": "Custom 4x RTX PRO 6000 Blackwell server vs Dell GB300 for ~30 fine-tuned production pipelines — looking for honest input on direction"
-    },
-    {
-      "id": "u_9d9fbc33",
-      "sentAt": "2026-05-27T10:02:14.144Z",
-      "title": "Revolutionizing AI Search with Simplicity: The Rise of Search-E1"
-    },
-    {
-      "id": "u_b857095e",
-      "sentAt": "2026-05-27T10:02:14.144Z",
-      "title": "MobileExplorer: On-Device AI That Values Your Privacy"
-    },
-    {
-      "id": "u_1bd696d9",
-      "sentAt": "2026-05-27T10:02:14.144Z",
-      "title": "AI Agent Revolutionizes Legacy Code Transformation"
-    },
-    {
-      "id": "u_a39357ec",
-      "sentAt": "2026-05-27T10:02:14.144Z",
-      "title": "XGrammar-2: Revolutionizing Dynamic Structure in LLM Agents"
-    },
-    {
-      "id": "u_8d1b413",
-      "sentAt": "2026-05-27T04:08:04.011Z",
-      "title": "AI's education explosion leaves teachers in the dark"
     }
   ]
 }
