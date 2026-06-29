@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-29T18:11:10.308Z",
+  "updatedAt": "2026-06-29T21:37:59.753Z",
   "entries": [
+    {
+      "id": "u_2245ce08",
+      "sentAt": "2026-06-29T21:37:59.753Z",
+      "title": "Gemini’s personalized AI image generation is now free for US users"
+    },
+    {
+      "id": "u_35374df2",
+      "sentAt": "2026-06-29T21:37:59.753Z",
+      "title": "Tidal's AI Music Policy: A Bold Move to Protect Artists?"
+    },
+    {
+      "id": "u_94877a49",
+      "sentAt": "2026-06-29T21:37:59.753Z",
+      "title": "OpenAI's Codex Device: A New Era for Coders?"
+    },
+    {
+      "id": "u_183821a2",
+      "sentAt": "2026-06-29T21:37:59.753Z",
+      "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery"
+    },
+    {
+      "id": "u_3f0651a5",
+      "sentAt": "2026-06-29T21:37:59.753Z",
+      "title": "It’s time, Sam, it’s time."
+    },
     {
       "id": "u_a5b9ce91",
       "sentAt": "2026-06-29T18:11:10.308Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f003f40c",
       "sentAt": "2026-05-29T03:58:03.910Z",
       "title": "Which Coding Agent Features Are Useful For Local LLMs"
-    },
-    {
-      "id": "u_5516b176",
-      "sentAt": "2026-05-29T03:58:03.910Z",
-      "title": "Anthropic's run-rate revenue hits $47 billion"
-    },
-    {
-      "id": "u_79c185e8",
-      "sentAt": "2026-05-29T03:58:03.910Z",
-      "title": "The Intersection of Agentic Engineering and AI: Revolution or Hype?"
-    },
-    {
-      "id": "u_985d77e1",
-      "sentAt": "2026-05-29T03:58:03.910Z",
-      "title": "StepFun 3.7 Flash"
-    },
-    {
-      "id": "u_bdebce2",
-      "sentAt": "2026-05-29T03:58:03.910Z",
-      "title": "Ok, talvez eu pague pelo Meta Premium"
-    },
-    {
-      "id": "u_c38f156e",
-      "sentAt": "2026-05-28T23:20:16.373Z",
-      "title": "Claude cli >= 2.1.154 breaks local use with vLLM by introducing \"ctx\", \"msg\" and \"system\" roles for API messages. This 1-line patch to vLLM fixes it."
     }
   ]
 }
