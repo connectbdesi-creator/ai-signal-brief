@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-29T21:37:59.753Z",
+  "updatedAt": "2026-06-29T23:01:24.909Z",
   "entries": [
+    {
+      "id": "u_87a5ffb4",
+      "sentAt": "2026-06-29T23:01:24.909Z",
+      "title": "OpenAI is teasing new hardware… for Codex"
+    },
+    {
+      "id": "u_3cf464e1",
+      "sentAt": "2026-06-29T23:01:24.909Z",
+      "title": "Amazon's AI Strategy: Distilling Anthropic Models to Cut Costs"
+    },
+    {
+      "id": "u_2f1d5c9c",
+      "sentAt": "2026-06-29T23:01:24.909Z",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price"
+    },
+    {
+      "id": "u_c61a0aa0",
+      "sentAt": "2026-06-29T23:01:24.909Z",
+      "title": "AI agents are not your “coworkers”"
+    },
+    {
+      "id": "u_457956e0",
+      "sentAt": "2026-06-29T23:01:24.909Z",
+      "title": "Debugging production agents with Amazon Bedrock AgentCore Observability"
+    },
     {
       "id": "u_2245ce08",
       "sentAt": "2026-06-29T21:37:59.753Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5f843c5e",
       "sentAt": "2026-05-29T08:04:52.971Z",
       "title": "BiCoT: Making AI Models Theft-Proof Without Losing Their Smarts"
-    },
-    {
-      "id": "u_82c86a00",
-      "sentAt": "2026-05-29T08:04:52.971Z",
-      "title": "Revolutionizing Reasoning Models with Entropy-Cut Metropolis-Hastings"
-    },
-    {
-      "id": "u_e5a06e7f",
-      "sentAt": "2026-05-29T08:04:52.971Z",
-      "title": "Recalibrating AI: A New Benchmark for Machine Learning Models"
-    },
-    {
-      "id": "u_3bca81d3",
-      "sentAt": "2026-05-29T08:04:52.971Z",
-      "title": "Taming Reinforcement Learning's Wild Side with Hysteretic Policy Optimization"
-    },
-    {
-      "id": "u_a4874b5e",
-      "sentAt": "2026-05-29T08:04:52.971Z",
-      "title": "Chess-World-Model: A Fresh Benchmark for State Tracking AI"
-    },
-    {
-      "id": "u_f003f40c",
-      "sentAt": "2026-05-29T03:58:03.910Z",
-      "title": "Which Coding Agent Features Are Useful For Local LLMs"
     }
   ]
 }
