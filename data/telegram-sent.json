@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-29T15:54:54.022Z",
+  "updatedAt": "2026-06-29T18:11:10.308Z",
   "entries": [
+    {
+      "id": "u_a5b9ce91",
+      "sentAt": "2026-06-29T18:11:10.308Z",
+      "title": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in"
+    },
+    {
+      "id": "u_6a5b9da2",
+      "sentAt": "2026-06-29T18:11:10.308Z",
+      "title": "Pair Nova 2 Lite with Claude for cost-optimized document processing"
+    },
+    {
+      "id": "u_2bb68e58",
+      "sentAt": "2026-06-29T18:11:10.308Z",
+      "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS"
+    },
+    {
+      "id": "u_3924acca",
+      "sentAt": "2026-06-29T18:11:10.308Z",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business"
+    },
+    {
+      "id": "u_711a4eb2",
+      "sentAt": "2026-06-29T18:11:10.308Z",
+      "title": "The Gemini app is bringing personalized image creation to more users."
+    },
     {
       "id": "u_6cd82f29",
       "sentAt": "2026-06-29T15:54:54.022Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c38f156e",
       "sentAt": "2026-05-28T23:20:16.373Z",
       "title": "Claude cli >= 2.1.154 breaks local use with vLLM by introducing \"ctx\", \"msg\" and \"system\" roles for API messages. This 1-line patch to vLLM fixes it."
-    },
-    {
-      "id": "u_2a0a175d",
-      "sentAt": "2026-05-28T23:20:16.373Z",
-      "title": "Activation Steering: A New Frontier in AI Safety"
-    },
-    {
-      "id": "u_f55565b9",
-      "sentAt": "2026-05-28T23:20:16.373Z",
-      "title": "Anthropic's Bold Leap: Aiming for a Trillion Dollar Valuation"
-    },
-    {
-      "id": "u_403a0cf1",
-      "sentAt": "2026-05-28T23:20:16.373Z",
-      "title": "Reinforcement Learning's New Frontier: Soft-RLVR and its Impacts"
-    },
-    {
-      "id": "u_5904c595",
-      "sentAt": "2026-05-28T23:20:16.373Z",
-      "title": "Social Simulation with LLMs - Fidelity in Applications (CFP @ COLM'26) [R]"
-    },
-    {
-      "id": "u_dbfc6297",
-      "sentAt": "2026-05-28T20:28:10.303Z",
-      "title": "FluxMem: Redefining Memory for Intelligent Agents"
     }
   ]
 }
