@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-28T23:06:29.880Z",
+  "updatedAt": "2026-06-29T04:14:48.645Z",
   "entries": [
+    {
+      "id": "u_52fcd22",
+      "sentAt": "2026-06-29T04:14:48.645Z",
+      "title": "Reinforcement Learning Meets Language Models: A Winning Strategy?"
+    },
+    {
+      "id": "u_8916a9ff",
+      "sentAt": "2026-06-29T04:14:48.645Z",
+      "title": "AI Training: Balancing Between Data and Model Constraints"
+    },
+    {
+      "id": "u_9c3c2339",
+      "sentAt": "2026-06-29T04:14:48.645Z",
+      "title": "Reconstructing Agent States: The Silent Symphony of Actions"
+    },
+    {
+      "id": "u_3cfb729b",
+      "sentAt": "2026-06-29T04:14:48.645Z",
+      "title": "To meet 144% spike in demand, Syracuse launches specialized AI degrees - The College Fix"
+    },
+    {
+      "id": "u_445feeb6",
+      "sentAt": "2026-06-29T04:14:48.645Z",
+      "title": "Prism Transformer: Unlocking Latent Capacity in Neural Networks"
+    },
     {
       "id": "u_21844433",
       "sentAt": "2026-06-28T23:06:29.880Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2df35c14",
       "sentAt": "2026-05-28T13:55:22.587Z",
       "title": "Meta Ai Premium"
-    },
-    {
-      "id": "u_fcc8e486",
-      "sentAt": "2026-05-28T13:55:22.587Z",
-      "title": "DNS-AID: The Future of AI Agent Discovery Is Here"
-    },
-    {
-      "id": "u_8e13f002",
-      "sentAt": "2026-05-28T13:55:22.587Z",
-      "title": "AI agents get their own phone directory built atop DNS"
-    },
-    {
-      "id": "u_d4797f95",
-      "sentAt": "2026-05-28T13:55:22.587Z",
-      "title": "The Name’s Gaming … Cloud Gaming: ‘007 First Light’ Launches on GeForce NOW"
-    },
-    {
-      "id": "u_af56dc6c",
-      "sentAt": "2026-05-28T13:55:22.587Z",
-      "title": "Has the hunt for AI compute uncovered the next Cerebras?"
-    },
-    {
-      "id": "u_952e12e4",
-      "sentAt": "2026-05-28T08:06:12.781Z",
-      "title": "Qwen/Qwen-Image-Bench · Hugging Face"
     }
   ]
 }
