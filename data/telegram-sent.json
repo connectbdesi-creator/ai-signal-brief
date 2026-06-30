@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-29T23:01:24.909Z",
+  "updatedAt": "2026-06-30T03:56:43.125Z",
   "entries": [
+    {
+      "id": "u_46f18d75",
+      "sentAt": "2026-06-30T03:56:43.125Z",
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility"
+    },
+    {
+      "id": "u_907a1043",
+      "sentAt": "2026-06-30T03:56:43.125Z",
+      "title": "Is Congress Overlooking Children's Online Safety?"
+    },
+    {
+      "id": "u_b86fedd4",
+      "sentAt": "2026-06-30T03:56:43.125Z",
+      "title": "OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway"
+    },
+    {
+      "id": "u_b4df4d2f",
+      "sentAt": "2026-06-30T03:56:43.125Z",
+      "title": "House vote sets up Senate clash over kids' online safety"
+    },
+    {
+      "id": "u_37282d6f",
+      "sentAt": "2026-06-30T03:56:43.125Z",
+      "title": "Atlantic County, NJ, Launches Artificial Intelligence For Food & Shelter - WPG Talk Radio 95.5 FM"
+    },
     {
       "id": "u_87a5ffb4",
       "sentAt": "2026-06-29T23:01:24.909Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c43f30cf",
       "sentAt": "2026-05-29T12:48:57.874Z",
       "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory"
-    },
-    {
-      "id": "u_b8c0d92e",
-      "sentAt": "2026-05-29T12:48:57.874Z",
-      "title": "Samsung, SK Hynix join strategic investment round in Anthropic, developer of Claude AI model - KED Global"
-    },
-    {
-      "id": "u_20975cd",
-      "sentAt": "2026-05-29T12:48:57.874Z",
-      "title": "Use HTML as the primary chat language for your agents so they can draw diagrams"
-    },
-    {
-      "id": "u_47bcc36f",
-      "sentAt": "2026-05-29T12:48:57.874Z",
-      "title": "Liquid AI releases LFM2.5-8B-A1B"
-    },
-    {
-      "id": "u_ea407548",
-      "sentAt": "2026-05-29T12:48:57.874Z",
-      "title": "datasette 1.0a31"
-    },
-    {
-      "id": "u_5f843c5e",
-      "sentAt": "2026-05-29T08:04:52.971Z",
-      "title": "BiCoT: Making AI Models Theft-Proof Without Losing Their Smarts"
     }
   ]
 }
