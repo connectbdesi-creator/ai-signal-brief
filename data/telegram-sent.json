@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-30T14:30:28.258Z",
+  "updatedAt": "2026-06-30T18:01:21.931Z",
   "entries": [
+    {
+      "id": "u_2fa7304a",
+      "sentAt": "2026-06-30T18:01:21.931Z",
+      "title": "Acti puts AI agents directly into your smartphone keyboard"
+    },
+    {
+      "id": "u_1ddee406",
+      "sentAt": "2026-06-30T18:01:21.931Z",
+      "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half"
+    },
+    {
+      "id": "u_3718687e",
+      "sentAt": "2026-06-30T18:01:21.931Z",
+      "title": "Netflix's AI Voiceover in Upcoming 'Wonka' Competition: A Sign of Things to Come?"
+    },
+    {
+      "id": "u_af501dc7",
+      "sentAt": "2026-06-30T18:01:21.931Z",
+      "title": "Google launches Nano Banana 2 Lite for fast AI images and Gemini Omni Flash for video via API"
+    },
+    {
+      "id": "u_110b4353",
+      "sentAt": "2026-06-30T18:01:21.931Z",
+      "title": "Bridging AI with Science: NVIDIA and Anthropic's New Era"
+    },
     {
       "id": "u_b812c93f",
       "sentAt": "2026-06-30T14:30:28.258Z",
@@ -4975,31 +5000,6 @@
       "id": "u_669eeb04",
       "sentAt": "2026-05-30T03:42:45.640Z",
       "title": "RewardFlow: Rethinking Reinforcement Learning's Reward Problem"
-    },
-    {
-      "id": "u_955319fe",
-      "sentAt": "2026-05-30T03:42:45.640Z",
-      "title": "Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up"
-    },
-    {
-      "id": "u_ff1f1511",
-      "sentAt": "2026-05-30T03:42:45.640Z",
-      "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B"
-    },
-    {
-      "id": "u_66f5a1d3",
-      "sentAt": "2026-05-30T03:42:45.640Z",
-      "title": "Securing the Rise of AI Agents in Financial Services: From Data Chaos to Trusted Intelligence - BizTech Magazine"
-    },
-    {
-      "id": "u_1bab1439",
-      "sentAt": "2026-05-29T23:16:41.511Z",
-      "title": "MemoSight: The New Frontier in Efficient AI Reasoning"
-    },
-    {
-      "id": "u_7a8ad40d",
-      "sentAt": "2026-05-29T23:16:41.511Z",
-      "title": "Skill-Pro: Revolutionizing AI with Reusable Procedural Knowledge"
     }
   ]
 }
