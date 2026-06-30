@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-06-30T03:56:43.125Z",
+  "updatedAt": "2026-06-30T07:57:52.948Z",
   "entries": [
+    {
+      "id": "u_4b80b5d5",
+      "sentAt": "2026-06-30T07:57:52.948Z",
+      "title": "CLQT: The New Gold Standard for AI Portfolio Managers"
+    },
+    {
+      "id": "u_4493097d",
+      "sentAt": "2026-06-30T07:57:52.948Z",
+      "title": "Revolutionizing LLM Verification: SEVA Sets a New Benchmark"
+    },
+    {
+      "id": "u_df7aa7ff",
+      "sentAt": "2026-06-30T07:57:52.948Z",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding"
+    },
+    {
+      "id": "u_7666d7a6",
+      "sentAt": "2026-06-30T07:57:52.948Z",
+      "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control"
+    },
     {
       "id": "u_46f18d75",
       "sentAt": "2026-06-30T03:56:43.125Z",
@@ -4980,26 +5000,6 @@
       "id": "u_2ac964b8",
       "sentAt": "2026-05-29T17:36:19.545Z",
       "title": "AI Agents Tackle Brand Consistency: Writer Inc.'s New Approach"
-    },
-    {
-      "id": "u_470916cd",
-      "sentAt": "2026-05-29T17:36:19.545Z",
-      "title": "The Hidden Code That Shook AI Testing: A Developer's Bold Move"
-    },
-    {
-      "id": "u_7040754d",
-      "sentAt": "2026-05-29T17:36:19.545Z",
-      "title": "Rethinking AI Reasoning: The Entropy-Cut Revolution"
-    },
-    {
-      "id": "u_7a632a71",
-      "sentAt": "2026-05-29T17:36:19.545Z",
-      "title": "Cracking the Code: New Techniques Revolutionize AI Training"
-    },
-    {
-      "id": "u_c43f30cf",
-      "sentAt": "2026-05-29T12:48:57.874Z",
-      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory"
     }
   ]
 }
