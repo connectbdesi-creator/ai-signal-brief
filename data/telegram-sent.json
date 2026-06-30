@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-30T20:10:58.283Z",
+  "updatedAt": "2026-06-30T23:16:33.458Z",
   "entries": [
+    {
+      "id": "u_45ace913",
+      "sentAt": "2026-06-30T23:16:33.458Z",
+      "title": "Anthropic's Claude Science: A New Frontier or Just Hype?"
+    },
+    {
+      "id": "u_abdcb6db",
+      "sentAt": "2026-06-30T23:16:33.458Z",
+      "title": "Nano Banana 2 Lite"
+    },
+    {
+      "id": "u_ca3fbcef",
+      "sentAt": "2026-06-30T23:16:33.458Z",
+      "title": "Why Long-Horizon AI Agents Are the Next Frontier in Artificial Intelligence - HackerNoon"
+    },
+    {
+      "id": "u_733dd41d",
+      "sentAt": "2026-06-30T23:16:33.458Z",
+      "title": "OpenClaw is finally available on Android and iOS"
+    },
+    {
+      "id": "u_91d54fdf",
+      "sentAt": "2026-06-30T23:16:33.458Z",
+      "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared"
+    },
     {
       "id": "u_6ecc3252",
       "sentAt": "2026-06-30T20:10:58.283Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b5a4c9b2",
       "sentAt": "2026-05-30T10:03:24.571Z",
       "title": "Coding Agent Dopamine: The Next Step in AI Evolution?"
-    },
-    {
-      "id": "u_85083443",
-      "sentAt": "2026-05-30T10:03:24.571Z",
-      "title": "AI coding agents ships at the cost of intuition and taste"
-    },
-    {
-      "id": "u_ff422d65",
-      "sentAt": "2026-05-30T10:03:24.571Z",
-      "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents"
-    },
-    {
-      "id": "u_13dd7373",
-      "sentAt": "2026-05-30T10:03:24.571Z",
-      "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents"
-    },
-    {
-      "id": "u_e3452bb3",
-      "sentAt": "2026-05-30T06:49:21.783Z",
-      "title": "Anthropic's Claude Opus 4.8: What's Really Going On?"
-    },
-    {
-      "id": "u_62b2ff16",
-      "sentAt": "2026-05-30T06:49:21.783Z",
-      "title": "OpenAI Expands ChatGPT's Codex Control to Windows: Why It Matters"
     }
   ]
 }
