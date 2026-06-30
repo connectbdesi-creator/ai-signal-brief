@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-06-30T07:57:52.948Z",
+  "updatedAt": "2026-06-30T11:16:58.157Z",
   "entries": [
+    {
+      "id": "u_a588cb89",
+      "sentAt": "2026-06-30T11:16:58.157Z",
+      "title": "HIPPO Raises the Bar in Reinforcement Learning"
+    },
+    {
+      "id": "u_ca7ab30b",
+      "sentAt": "2026-06-30T11:16:58.157Z",
+      "title": "EntroRouter: Revolutionizing Model Routing with Efficiency"
+    },
+    {
+      "id": "u_87299d82",
+      "sentAt": "2026-06-30T11:16:58.157Z",
+      "title": "Breaking: Travel AI Model Outperforms with Knowledge Graphs"
+    },
+    {
+      "id": "u_112a0e4f",
+      "sentAt": "2026-06-30T11:16:58.157Z",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other"
+    },
+    {
+      "id": "u_59f6362c",
+      "sentAt": "2026-06-30T11:16:58.157Z",
+      "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls"
+    },
     {
       "id": "u_4b80b5d5",
       "sentAt": "2026-06-30T07:57:52.948Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d0d108bc",
       "sentAt": "2026-05-29T20:30:34.507Z",
       "title": "VikingMem: Revolutionizing Long-Term Memory in AI Models"
-    },
-    {
-      "id": "u_516f363",
-      "sentAt": "2026-05-29T20:30:34.507Z",
-      "title": "Mind-Omni: Bridging the Gap in Brain-Computer Interfaces"
-    },
-    {
-      "id": "u_2dae6450",
-      "sentAt": "2026-05-29T20:30:34.507Z",
-      "title": "DeepTool: Revolutionizing AI with Strategic Tool Use"
-    },
-    {
-      "id": "u_1ecffab7",
-      "sentAt": "2026-05-29T20:30:34.507Z",
-      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend"
-    },
-    {
-      "id": "u_9530194d",
-      "sentAt": "2026-05-29T17:36:19.545Z",
-      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M"
-    },
-    {
-      "id": "u_2ac964b8",
-      "sentAt": "2026-05-29T17:36:19.545Z",
-      "title": "AI Agents Tackle Brand Consistency: Writer Inc.'s New Approach"
     }
   ]
 }
