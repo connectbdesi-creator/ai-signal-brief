@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-01T04:11:47.795Z",
+  "updatedAt": "2026-07-01T09:54:32.678Z",
   "entries": [
+    {
+      "id": "u_23e2bac6",
+      "sentAt": "2026-07-01T09:54:32.678Z",
+      "title": "Redefining Skill in AI-Native Classrooms: A New Grading Frontier"
+    },
+    {
+      "id": "u_537468c4",
+      "sentAt": "2026-07-01T09:54:32.678Z",
+      "title": "The Philosophical Oversight of Medical AI: Why Explainability Demands More"
+    },
+    {
+      "id": "u_f85b57f",
+      "sentAt": "2026-07-01T09:54:32.678Z",
+      "title": "Rethinking Faithfulness in Text-to-Image Models"
+    },
+    {
+      "id": "u_e4cdcabb",
+      "sentAt": "2026-07-01T09:54:32.678Z",
+      "title": "Unpacking the Adaptive Context Elasticizer: A Powerful Tool for LLMs"
+    },
+    {
+      "id": "u_24b1e036",
+      "sentAt": "2026-07-01T09:54:32.678Z",
+      "title": "GuardFall Flaw Hits 10 of 11 Popular Open-Source AI Agents - Security Affairs"
+    },
     {
       "id": "u_8e85178a",
       "sentAt": "2026-07-01T04:11:47.795Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4e227adf",
       "sentAt": "2026-05-30T15:11:57.347Z",
       "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’"
-    },
-    {
-      "id": "u_241de06d",
-      "sentAt": "2026-05-30T15:11:57.347Z",
-      "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own"
-    },
-    {
-      "id": "u_bbe16f31",
-      "sentAt": "2026-05-30T15:11:57.347Z",
-      "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation"
-    },
-    {
-      "id": "u_de9e7e1d",
-      "sentAt": "2026-05-30T15:11:57.347Z",
-      "title": "I tested MTP on vLLM and llama.cpp for Gemma 4 & Qwen 3.6 — 3.34x faster inference, here are my findings RTX 6000 PRO."
-    },
-    {
-      "id": "u_736fe8d9",
-      "sentAt": "2026-05-30T13:46:24.934Z",
-      "title": "Weekly AI roundup (May 23–30, 2026): Claude Opus 4.8 Fast Mode 3x cheaper, Qwen 3.7 Max beats Claude at half the price, ChatGPT moves into Excel"
-    },
-    {
-      "id": "u_2df5f103",
-      "sentAt": "2026-05-30T13:46:24.934Z",
-      "title": "Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds"
     }
   ]
 }
