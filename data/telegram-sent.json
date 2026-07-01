@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-01T09:54:32.678Z",
+  "updatedAt": "2026-07-01T12:37:15.736Z",
   "entries": [
+    {
+      "id": "u_eecdae2a",
+      "sentAt": "2026-07-01T12:37:15.736Z",
+      "title": "AI's Open Door: Opportunity Meets Misalignment"
+    },
+    {
+      "id": "u_ff8177e4",
+      "sentAt": "2026-07-01T12:37:15.736Z",
+      "title": "Google's AI Surge: Economic Impact and the Road Ahead"
+    },
+    {
+      "id": "u_acd97f9b",
+      "sentAt": "2026-07-01T12:37:15.736Z",
+      "title": "Why AI Agents Are Falling Short of Their Promise"
+    },
+    {
+      "id": "u_a81b68e9",
+      "sentAt": "2026-07-01T12:37:15.736Z",
+      "title": "Anthropic's Fable 5: A Catalyst in U.S. AI Policy Debate"
+    },
+    {
+      "id": "u_36d24194",
+      "sentAt": "2026-07-01T12:37:15.736Z",
+      "title": "Meituan's LongCat-2.0: A Homegrown AI Marvel"
+    },
     {
       "id": "u_23e2bac6",
       "sentAt": "2026-07-01T09:54:32.678Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c335a8c9",
       "sentAt": "2026-05-30T17:12:07.446Z",
       "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot"
-    },
-    {
-      "id": "u_d8c750e9",
-      "sentAt": "2026-05-30T17:12:07.446Z",
-      "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot"
-    },
-    {
-      "id": "u_3e10f7f4",
-      "sentAt": "2026-05-30T17:12:07.446Z",
-      "title": "Anthropic's AI Fluency Scorecard: A New Metric or Just Hype?"
-    },
-    {
-      "id": "u_f8690c2d",
-      "sentAt": "2026-05-30T17:12:07.446Z",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful"
-    },
-    {
-      "id": "u_2182d3ee",
-      "sentAt": "2026-05-30T15:11:57.347Z",
-      "title": "Researchers let AI models run a simulated society; Claude safest, Grok extinct"
-    },
-    {
-      "id": "u_4e227adf",
-      "sentAt": "2026-05-30T15:11:57.347Z",
-      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’"
     }
   ]
 }
