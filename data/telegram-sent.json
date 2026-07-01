@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-01T16:31:40.556Z",
+  "updatedAt": "2026-07-01T20:00:40.726Z",
   "entries": [
+    {
+      "id": "u_e6576751",
+      "sentAt": "2026-07-01T20:00:40.726Z",
+      "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology"
+    },
+    {
+      "id": "u_cae2f37a",
+      "sentAt": "2026-07-01T20:00:40.726Z",
+      "title": "Google's June 2026 AI Update: The Tech Giant's Latest Moves"
+    },
+    {
+      "id": "u_e0aaa17c",
+      "sentAt": "2026-07-01T20:00:40.726Z",
+      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)"
+    },
+    {
+      "id": "u_5b6b70fd",
+      "sentAt": "2026-07-01T20:00:40.726Z",
+      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) - Amazon Web Services (AWS)"
+    },
+    {
+      "id": "u_332ff8b6",
+      "sentAt": "2026-07-01T20:00:40.726Z",
+      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control"
+    },
     {
       "id": "u_ae6d6ce2",
       "sentAt": "2026-07-01T16:31:40.556Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fda2ca55",
       "sentAt": "2026-05-30T21:02:38.833Z",
       "title": "Would a MacBook M5 16/24/32GB be an upgrade, complement, or waste next to my RTX 4060 laptop?"
-    },
-    {
-      "id": "u_514886f0",
-      "sentAt": "2026-05-30T21:02:38.833Z",
-      "title": "Frona v2026.5.5 – self-hosted personal AI assistant"
-    },
-    {
-      "id": "u_fa9f116c",
-      "sentAt": "2026-05-30T21:02:38.833Z",
-      "title": "AI Without LLM: A New Era of Simulated Agents Begins"
-    },
-    {
-      "id": "u_b82eb252",
-      "sentAt": "2026-05-30T21:02:38.833Z",
-      "title": "I Am Retiring from Tech to Live Offline"
-    },
-    {
-      "id": "u_fa021ca",
-      "sentAt": "2026-05-30T19:21:59.484Z",
-      "title": "For those creating personal assistants locally - how has short/long term memory impacted your experience?"
-    },
-    {
-      "id": "u_c3bdb677",
-      "sentAt": "2026-05-30T19:21:59.484Z",
-      "title": "IBM's $5 Billion Bet: Fixing Open Source Bugs Found by AI"
     }
   ]
 }
