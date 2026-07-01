@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-01T21:44:00.987Z",
+  "updatedAt": "2026-07-01T23:18:43.927Z",
   "entries": [
+    {
+      "id": "u_1af1df5c",
+      "sentAt": "2026-07-01T23:18:43.927Z",
+      "title": "Anthropic's Sonnet 5: The Cost-Effective, Task-Mastering AI Model"
+    },
+    {
+      "id": "u_6c1aec4d",
+      "sentAt": "2026-07-01T23:18:43.927Z",
+      "title": "Anker’s Liberty 5 Pro: The Three-Year Gamble On Custom Earbud Silicon"
+    },
+    {
+      "id": "u_3256cae1",
+      "sentAt": "2026-07-01T23:18:43.927Z",
+      "title": "Using Lift to Turn Research PDFs into Structured JSON with Controlled, Schema-Guided Field-Level Evaluation"
+    },
+    {
+      "id": "u_8d88e9a9",
+      "sentAt": "2026-07-01T23:18:43.927Z",
+      "title": "OpenWiki: Open Source Repo Documentation for Coding Agents"
+    },
+    {
+      "id": "u_8651a3d",
+      "sentAt": "2026-07-01T23:18:43.927Z",
+      "title": "The future is now: College of Computing & Artificial Intelligence officially launches - UW–Madison News"
+    },
     {
       "id": "u_275ba3d3",
       "sentAt": "2026-07-01T21:44:00.987Z",
@@ -4975,31 +5000,6 @@
       "id": "u_78991f24",
       "sentAt": "2026-05-31T04:09:42.262Z",
       "title": "IBM's Agentic Operating Model Puts Sovereignty At The Center"
-    },
-    {
-      "id": "u_2c831d8",
-      "sentAt": "2026-05-31T04:09:42.262Z",
-      "title": "Trajectory Releases a Concurrent Multi-LoRA Training Stack for Continual Learning, Reporting a 2.81× Experiment-Throughput Gain"
-    },
-    {
-      "id": "u_5874f355",
-      "sentAt": "2026-05-31T04:09:42.262Z",
-      "title": "Show HN: I made a Gemma 4 Mac app that names screenshots with local AI"
-    },
-    {
-      "id": "u_9b0d0559",
-      "sentAt": "2026-05-31T04:09:42.262Z",
-      "title": "Benchmarked inference engines for M1 Max 64gb-results & analysis"
-    },
-    {
-      "id": "u_bc92ae2c",
-      "sentAt": "2026-05-31T04:09:42.262Z",
-      "title": "built a small open source tool to stop AI agents from regressing after changes"
-    },
-    {
-      "id": "u_d08eab44",
-      "sentAt": "2026-05-30T23:01:28.927Z",
-      "title": "AI, Tumors, and the Hope of Personalized Cancer Treatment"
     }
   ]
 }
