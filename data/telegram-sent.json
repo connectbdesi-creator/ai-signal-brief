@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-01T20:00:40.726Z",
+  "updatedAt": "2026-07-01T21:44:00.987Z",
   "entries": [
+    {
+      "id": "u_275ba3d3",
+      "sentAt": "2026-07-01T21:44:00.987Z",
+      "title": "Anthropic's Covert Codes: A Curious Case of Steganography in AI Defense"
+    },
+    {
+      "id": "u_b315e988",
+      "sentAt": "2026-07-01T21:44:00.987Z",
+      "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier"
+    },
+    {
+      "id": "u_f99ca9ef",
+      "sentAt": "2026-07-01T21:44:00.987Z",
+      "title": "SpaceX's AI Smartphone: Thinner Than an iPhone, But Does It Matter?"
+    },
+    {
+      "id": "u_2d2973dd",
+      "sentAt": "2026-07-01T21:44:00.987Z",
+      "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology"
+    },
+    {
+      "id": "u_c627c8c6",
+      "sentAt": "2026-07-01T21:44:00.987Z",
+      "title": "Open benchmark: how well can multimodal LLMs read a calendar week-view from a screenshot? Humans ~99%, Q4 local models....."
+    },
     {
       "id": "u_e6576751",
       "sentAt": "2026-07-01T20:00:40.726Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d08eab44",
       "sentAt": "2026-05-30T23:01:28.927Z",
       "title": "AI, Tumors, and the Hope of Personalized Cancer Treatment"
-    },
-    {
-      "id": "u_fad93ba8",
-      "sentAt": "2026-05-30T23:01:28.927Z",
-      "title": "How we contain Claude across products"
-    },
-    {
-      "id": "u_36be71e0",
-      "sentAt": "2026-05-30T23:01:28.927Z",
-      "title": "Cost Analysis of my $6.4k Local LLM Server"
-    },
-    {
-      "id": "u_e1bc7b42",
-      "sentAt": "2026-05-30T23:01:28.927Z",
-      "title": "[Open Source] I built a full Git MCP server in Go that doesn't just wrap bash. It uses tree-sitter, handles real plumbing (write-tree), and runs 100% locally."
-    },
-    {
-      "id": "u_9400e1e4",
-      "sentAt": "2026-05-30T23:01:28.927Z",
-      "title": "Synthetic Customers: The New Frontier in AI-Driven Marketing"
-    },
-    {
-      "id": "u_fda2ca55",
-      "sentAt": "2026-05-30T21:02:38.833Z",
-      "title": "Would a MacBook M5 16/24/32GB be an upgrade, complement, or waste next to my RTX 4060 laptop?"
     }
   ]
 }
