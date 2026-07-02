@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-02T10:44:34.786Z",
+  "updatedAt": "2026-07-02T14:11:36.395Z",
   "entries": [
+    {
+      "id": "u_d06687b9",
+      "sentAt": "2026-07-02T14:11:36.395Z",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment"
+    },
+    {
+      "id": "u_6c212674",
+      "sentAt": "2026-07-02T14:11:36.395Z",
+      "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business"
+    },
+    {
+      "id": "u_ac1a1774",
+      "sentAt": "2026-07-02T14:11:36.395Z",
+      "title": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago"
+    },
+    {
+      "id": "u_f0876aaa",
+      "sentAt": "2026-07-02T14:11:36.395Z",
+      "title": "Karp Says Frontier AI Labs Are Stealing Enterprise Value And VCs Are Listening"
+    },
+    {
+      "id": "u_fb826813",
+      "sentAt": "2026-07-02T14:11:36.395Z",
+      "title": "UN Artificial Intelligence Panel Launches Report Ahead of Global Conference - ipsnews.net"
+    },
     {
       "id": "u_e3948837",
       "sentAt": "2026-07-02T10:44:34.786Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5d4ef363",
       "sentAt": "2026-05-31T15:19:12.342Z",
       "title": "DreamServer: The Open-Source Game Changer You Might Be Missing"
-    },
-    {
-      "id": "u_45dbc42f",
-      "sentAt": "2026-05-31T15:19:12.342Z",
-      "title": "AI Agents: Who's Really in Control?"
-    },
-    {
-      "id": "u_1f245a47",
-      "sentAt": "2026-05-31T15:19:12.342Z",
-      "title": "I built mlx-Chronos — a community benchmark leaderboard for local LLM engines on Apple Silicon (oMLX, Rapid-MLX, mlx-lm, Ollama)"
-    },
-    {
-      "id": "u_45041f01",
-      "sentAt": "2026-05-31T15:19:12.342Z",
-      "title": "toggle button for llama.cp web chat for QWEN3.6"
-    },
-    {
-      "id": "u_f9c5c804",
-      "sentAt": "2026-05-31T15:19:12.342Z",
-      "title": "Speed difference between Windows 11 and Linux with llama.cpp: a myth when using medium and large MoE models"
-    },
-    {
-      "id": "u_503bf859",
-      "sentAt": "2026-05-31T13:51:36.499Z",
-      "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics"
     }
   ]
 }
