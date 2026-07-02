@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-01T23:18:43.927Z",
+  "updatedAt": "2026-07-02T03:52:25.311Z",
   "entries": [
+    {
+      "id": "u_875cac81",
+      "sentAt": "2026-07-02T03:52:25.311Z",
+      "title": "The Real Cost of Deploying OpenClaw: More Than Just Model Weights"
+    },
+    {
+      "id": "u_434eca8f",
+      "sentAt": "2026-07-02T03:52:25.311Z",
+      "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds"
+    },
+    {
+      "id": "u_e628d7a1",
+      "sentAt": "2026-07-02T03:52:25.311Z",
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content"
+    },
+    {
+      "id": "u_927ecf6a",
+      "sentAt": "2026-07-02T03:52:25.311Z",
+      "title": "Plurality Released: fully Free and Open Source AI agents/chatbot platform for local AI"
+    },
+    {
+      "id": "u_17bdcb59",
+      "sentAt": "2026-07-02T03:52:25.311Z",
+      "title": "The gap between closed and open models might be much smaller than commonly assumed, because we don’t know what closed model providers do *in addition to* model inference"
+    },
     {
       "id": "u_1af1df5c",
       "sentAt": "2026-07-01T23:18:43.927Z",
@@ -4975,31 +5000,6 @@
       "id": "u_eb9028b1",
       "sentAt": "2026-05-31T08:51:24.623Z",
       "title": "Use any model and any provider with the official OpenAI Codex Desktop App, without modifying its code, and continue to use the official models in parallel?"
-    },
-    {
-      "id": "u_21e124fd",
-      "sentAt": "2026-05-31T08:51:24.623Z",
-      "title": "I built mlx-Chronos — a community benchmark leaderboard for local LLM engines on Apple Silicon (oMLX, Rapid-MLX, mlx-lm, Ollama) [P]"
-    },
-    {
-      "id": "u_3ca099d9",
-      "sentAt": "2026-05-31T08:51:24.623Z",
-      "title": "AI Slop: Why Forking Isn't a Walk in the Park"
-    },
-    {
-      "id": "u_939a979c",
-      "sentAt": "2026-05-31T08:51:24.623Z",
-      "title": "AI Search Agents: More Imitation Than Innovation?"
-    },
-    {
-      "id": "u_8f61a200",
-      "sentAt": "2026-05-31T08:51:24.623Z",
-      "title": "AI search agents often confirm what they already know instead of actually researching the web"
-    },
-    {
-      "id": "u_78991f24",
-      "sentAt": "2026-05-31T04:09:42.262Z",
-      "title": "IBM's Agentic Operating Model Puts Sovereignty At The Center"
     }
   ]
 }
