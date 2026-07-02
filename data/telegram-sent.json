@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-02T14:11:36.395Z",
+  "updatedAt": "2026-07-02T18:01:32.324Z",
   "entries": [
+    {
+      "id": "u_9ba6fdfa",
+      "sentAt": "2026-07-02T18:01:32.324Z",
+      "title": "AI Agents: The Real Test is in the Unexpected"
+    },
+    {
+      "id": "u_d84fa5d5",
+      "sentAt": "2026-07-02T18:01:32.324Z",
+      "title": "Understand to participate"
+    },
+    {
+      "id": "u_a41746af",
+      "sentAt": "2026-07-02T18:01:32.324Z",
+      "title": "Meta Unveils Pocket: A New Era of Interactive Social Media"
+    },
+    {
+      "id": "u_e96e2288",
+      "sentAt": "2026-07-02T18:01:32.324Z",
+      "title": "Software developers appreciation post"
+    },
+    {
+      "id": "u_c574b389",
+      "sentAt": "2026-07-02T18:01:32.324Z",
+      "title": "4 Science-Led Approaches To Accelerate Enterprise AI"
+    },
     {
       "id": "u_d06687b9",
       "sentAt": "2026-07-02T14:11:36.395Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3a131b2c",
       "sentAt": "2026-05-31T17:10:23.176Z",
       "title": "The solution might be cancelling my AI subscription"
-    },
-    {
-      "id": "u_db9530c1",
-      "sentAt": "2026-05-31T17:10:23.176Z",
-      "title": "Qwen3.6-35B vs Gemma4-26B on 7900 XTX"
-    },
-    {
-      "id": "u_e7de0c81",
-      "sentAt": "2026-05-31T17:10:23.176Z",
-      "title": "AI Transforms IT: From Firefighters to Architects"
-    },
-    {
-      "id": "u_b57cffa4",
-      "sentAt": "2026-05-31T17:10:23.176Z",
-      "title": "From reactive operations to autonomous infrastructure: What IT leaders must do next"
-    },
-    {
-      "id": "u_43e01c9e",
-      "sentAt": "2026-05-31T17:10:23.176Z",
-      "title": "Ministry of Science and Education, OpenAI launch AI-based adaptive learning platform for students - AzerNews"
-    },
-    {
-      "id": "u_5d4ef363",
-      "sentAt": "2026-05-31T15:19:12.342Z",
-      "title": "DreamServer: The Open-Source Game Changer You Might Be Missing"
     }
   ]
 }
