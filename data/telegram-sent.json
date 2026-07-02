@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-02T03:52:25.311Z",
+  "updatedAt": "2026-07-02T07:35:53.813Z",
   "entries": [
+    {
+      "id": "u_a98a9222",
+      "sentAt": "2026-07-02T07:35:53.813Z",
+      "title": "Revolutionizing AI: A New Take on Instruction Hierarchy"
+    },
+    {
+      "id": "u_e0cbf0ca",
+      "sentAt": "2026-07-02T07:35:53.813Z",
+      "title": "rBridge: A big deal for Cost-Effective AI Training"
+    },
+    {
+      "id": "u_9864d9b1",
+      "sentAt": "2026-07-02T07:35:53.813Z",
+      "title": "AI Labor Markets: The Future of Gig Economy Dynamics"
+    },
+    {
+      "id": "u_c2818acb",
+      "sentAt": "2026-07-02T07:35:53.813Z",
+      "title": "ManimAgent: The AI That Remembers to Learn"
+    },
+    {
+      "id": "u_7552d10d",
+      "sentAt": "2026-07-02T07:35:53.813Z",
+      "title": "SentryCode: Real-time Auditor + Honeytokens for AI Coding Agents [P]"
+    },
     {
       "id": "u_875cac81",
       "sentAt": "2026-07-02T03:52:25.311Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a8ebba1d",
       "sentAt": "2026-05-31T11:42:24.331Z",
       "title": "AI is turning energy into the hottest business in America"
-    },
-    {
-      "id": "u_dbc80a3",
-      "sentAt": "2026-05-31T11:42:24.331Z",
-      "title": "Claude Agent SDK: The TUI Revolution"
-    },
-    {
-      "id": "u_ff3a7c14",
-      "sentAt": "2026-05-31T11:42:24.331Z",
-      "title": "The 'Human Sandwich': A New Model for AI Collaboration"
-    },
-    {
-      "id": "u_393dce46",
-      "sentAt": "2026-05-31T11:42:24.331Z",
-      "title": "Open-Source AI Tool 'Sia' Offers New Possibilities for Developers"
-    },
-    {
-      "id": "u_b7a13e11",
-      "sentAt": "2026-05-31T11:42:24.331Z",
-      "title": "AI Agent that at inference time updates it's harness and model weights"
-    },
-    {
-      "id": "u_eb9028b1",
-      "sentAt": "2026-05-31T08:51:24.623Z",
-      "title": "Use any model and any provider with the official OpenAI Codex Desktop App, without modifying its code, and continue to use the official models in parallel?"
     }
   ]
 }
