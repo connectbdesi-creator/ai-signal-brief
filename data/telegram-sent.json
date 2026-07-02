@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-02T07:35:53.813Z",
+  "updatedAt": "2026-07-02T10:44:34.786Z",
   "entries": [
+    {
+      "id": "u_e3948837",
+      "sentAt": "2026-07-02T10:44:34.786Z",
+      "title": "VisReason: Elevating AI's Visual Comprehension Game"
+    },
+    {
+      "id": "u_11fcfc7d",
+      "sentAt": "2026-07-02T10:44:34.786Z",
+      "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data"
+    },
+    {
+      "id": "u_f42ac24f",
+      "sentAt": "2026-07-02T10:44:34.786Z",
+      "title": "SenseNova-U1-8b-MoT-Infographic-V2 (released yesterday) - An open source SOTA beast for infographic design and image editing."
+    },
+    {
+      "id": "u_cd5f02c9",
+      "sentAt": "2026-07-02T10:44:34.786Z",
+      "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Capital Partners to Power the AI Infrastructure Buildout"
+    },
+    {
+      "id": "u_6c172488",
+      "sentAt": "2026-07-02T10:44:34.786Z",
+      "title": "Together AI Raises $800 Million to Scale Cheaper Open-Source Models - PYMNTS.com"
+    },
     {
       "id": "u_a98a9222",
       "sentAt": "2026-07-02T07:35:53.813Z",
@@ -4975,31 +5000,6 @@
       "id": "u_503bf859",
       "sentAt": "2026-05-31T13:51:36.499Z",
       "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics"
-    },
-    {
-      "id": "u_48b70081",
-      "sentAt": "2026-05-31T13:51:36.499Z",
-      "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors"
-    },
-    {
-      "id": "u_1aec7d",
-      "sentAt": "2026-05-31T13:51:36.499Z",
-      "title": "Built an AI Accelerator and opensourced it. [P]"
-    },
-    {
-      "id": "u_3b1b8c93",
-      "sentAt": "2026-05-31T13:51:36.499Z",
-      "title": "AI Agents Shake Up the Tech World: Chaos or Evolution?"
-    },
-    {
-      "id": "u_ac4c9b1d",
-      "sentAt": "2026-05-31T13:51:36.499Z",
-      "title": "Why This Developer Finally Shipped That Side Project"
-    },
-    {
-      "id": "u_a8ebba1d",
-      "sentAt": "2026-05-31T11:42:24.331Z",
-      "title": "AI is turning energy into the hottest business in America"
     }
   ]
 }
