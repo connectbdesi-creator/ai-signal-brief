@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-02T18:01:32.324Z",
+  "updatedAt": "2026-07-03T14:13:04.763Z",
   "entries": [
+    {
+      "id": "u_c3def5d9",
+      "sentAt": "2026-07-03T14:13:04.763Z",
+      "title": "Micro-World - Action-controlled Interactive world model - AMD"
+    },
+    {
+      "id": "u_abe5ef8c",
+      "sentAt": "2026-07-03T14:13:04.763Z",
+      "title": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler"
+    },
+    {
+      "id": "u_5e3787c7",
+      "sentAt": "2026-07-03T14:13:04.763Z",
+      "title": "My DeepSeek V4 Pro at home got faster again"
+    },
+    {
+      "id": "u_af67d5c7",
+      "sentAt": "2026-07-03T14:13:04.763Z",
+      "title": "GLM5.2 on 5x Pro 6000s and a 5090, an expensive journey"
+    },
+    {
+      "id": "u_63830467",
+      "sentAt": "2026-07-03T14:13:04.763Z",
+      "title": "Surface Evolver Bench: my benchmark asking LLMs to write complex physical simulations in a custom data format"
+    },
     {
       "id": "u_9ba6fdfa",
       "sentAt": "2026-07-02T18:01:32.324Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d57fb93c",
       "sentAt": "2026-05-31T19:21:50.352Z",
       "title": "The Hidden Hazards of Open AI Model Weights"
-    },
-    {
-      "id": "u_9064ffa1",
-      "sentAt": "2026-05-31T19:21:50.352Z",
-      "title": "GrillKit: Open Source AI for Your Backyard BBQ"
-    },
-    {
-      "id": "u_f12260c",
-      "sentAt": "2026-05-31T19:21:50.352Z",
-      "title": "Odysseus: The Open Source AI Making Waves"
-    },
-    {
-      "id": "u_96f6a162",
-      "sentAt": "2026-05-31T19:21:50.352Z",
-      "title": "OpenJarvis: The Open Source AI Butler You Didn't Know You Needed"
-    },
-    {
-      "id": "u_81c7ef8c",
-      "sentAt": "2026-05-31T19:21:50.352Z",
-      "title": "Show HN: Vibes.design – Show HN: Vibes.design – Launch AI Apps with Vibe-Coding"
-    },
-    {
-      "id": "u_3a131b2c",
-      "sentAt": "2026-05-31T17:10:23.176Z",
-      "title": "The solution might be cancelling my AI subscription"
     }
   ]
 }
