@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-03T21:10:52.966Z",
+  "updatedAt": "2026-07-03T23:07:33.215Z",
   "entries": [
+    {
+      "id": "u_4d1aee3f",
+      "sentAt": "2026-07-03T23:07:33.215Z",
+      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems"
+    },
+    {
+      "id": "u_6c11b95e",
+      "sentAt": "2026-07-03T23:07:33.215Z",
+      "title": "Open Source AI Gap Map"
+    },
+    {
+      "id": "u_4765cbe9",
+      "sentAt": "2026-07-03T23:07:33.215Z",
+      "title": "Quoting Josh W. Comeau"
+    },
+    {
+      "id": "u_c92b0218",
+      "sentAt": "2026-07-03T23:07:33.215Z",
+      "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox"
+    },
+    {
+      "id": "u_9bda1f13",
+      "sentAt": "2026-07-03T23:07:33.215Z",
+      "title": "GPT-5.6 launches, but OpenAI is taking it slow - IBM"
+    },
     {
       "id": "u_a739f2a6",
       "sentAt": "2026-07-03T21:10:52.966Z",
@@ -4975,31 +5000,6 @@
       "id": "u_409afe7c",
       "sentAt": "2026-06-01T04:24:02.472Z",
       "title": "EMBGuard: The New Safety Net for AI's Real World Adventure"
-    },
-    {
-      "id": "u_4f1af504",
-      "sentAt": "2026-06-01T04:24:02.472Z",
-      "title": "Cracking Translation: A New Approach to Multilingual AI Models"
-    },
-    {
-      "id": "u_46610b33",
-      "sentAt": "2026-06-01T04:24:02.472Z",
-      "title": "Maven, a personal AI agent that feels like JARVIS — what an open agent harness looks like in 2026"
-    },
-    {
-      "id": "u_1f04f74c",
-      "sentAt": "2026-06-01T04:24:02.472Z",
-      "title": "Use HTML as the primary chat language of your LLM's so they can make interactive content"
-    },
-    {
-      "id": "u_afe695d5",
-      "sentAt": "2026-06-01T04:24:02.472Z",
-      "title": "Llama Studio v0.2.0"
-    },
-    {
-      "id": "u_78d5566b",
-      "sentAt": "2026-05-31T23:03:25.289Z",
-      "title": "GPU Prices. Buy now, or buy later?"
     }
   ]
 }
