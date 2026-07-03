@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-03T17:35:50.830Z",
+  "updatedAt": "2026-07-03T21:10:52.966Z",
   "entries": [
+    {
+      "id": "u_a739f2a6",
+      "sentAt": "2026-07-03T21:10:52.966Z",
+      "title": "The list of jobs most at risk from artificial intelligence is surprising, as it doesn't start with industrial robots, but rather with translators, writers, historians, call center agents, consultants, and other professionals who make their living through language - OkDiario"
+    },
+    {
+      "id": "u_9cb48eaa",
+      "sentAt": "2026-07-03T21:10:52.966Z",
+      "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents"
+    },
+    {
+      "id": "u_26b2ef56",
+      "sentAt": "2026-07-03T21:10:52.966Z",
+      "title": "Fable's judgement"
+    },
+    {
+      "id": "u_76d0b002",
+      "sentAt": "2026-07-03T21:10:52.966Z",
+      "title": "Meta's AI agent push is moving slower than Zuckerberg planned"
+    },
+    {
+      "id": "u_5bbca5ae",
+      "sentAt": "2026-07-03T21:10:52.966Z",
+      "title": "Pentagon Launches ‘War Force’ to Recruit Frontier AI Talent - The Defense Post"
+    },
     {
       "id": "u_7524fcc5",
       "sentAt": "2026-07-03T17:35:50.830Z",
@@ -4975,31 +5000,6 @@
       "id": "u_78d5566b",
       "sentAt": "2026-05-31T23:03:25.289Z",
       "title": "GPU Prices. Buy now, or buy later?"
-    },
-    {
-      "id": "u_d533e152",
-      "sentAt": "2026-05-31T23:03:25.289Z",
-      "title": "AI's Next Frontier: Smart Dashcams Revolutionizing Fleet Safety"
-    },
-    {
-      "id": "u_11b97c6",
-      "sentAt": "2026-05-31T23:03:25.289Z",
-      "title": "G7 Pushes for Open Source AI: A Double-Edged Sword?"
-    },
-    {
-      "id": "u_f4e2ed3b",
-      "sentAt": "2026-05-31T23:03:25.289Z",
-      "title": "AI Drives the Future of Mobility: A Collision Course"
-    },
-    {
-      "id": "u_1d4818b1",
-      "sentAt": "2026-05-31T23:03:25.289Z",
-      "title": "AI Models Battle Royale: Claude, ChatGPT, Grok, and Gemini"
-    },
-    {
-      "id": "u_af1432c3",
-      "sentAt": "2026-05-31T21:03:10.019Z",
-      "title": "I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, faster, GGUF-quantized, no Python"
     }
   ]
 }
