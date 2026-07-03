@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-03T14:13:04.763Z",
+  "updatedAt": "2026-07-03T17:35:50.830Z",
   "entries": [
+    {
+      "id": "u_7524fcc5",
+      "sentAt": "2026-07-03T17:35:50.830Z",
+      "title": "Security vulnerability reports have exploded since AI models started hunting for bugs"
+    },
+    {
+      "id": "u_c58c0f2e",
+      "sentAt": "2026-07-03T17:35:50.830Z",
+      "title": "AI Agents Explained: What Is a ReAct Loop and How Does It Work?"
+    },
+    {
+      "id": "u_28e88b53",
+      "sentAt": "2026-07-03T17:35:50.830Z",
+      "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do"
+    },
+    {
+      "id": "u_104a85d3",
+      "sentAt": "2026-07-03T17:35:50.830Z",
+      "title": "June 2026 newsletter"
+    },
+    {
+      "id": "u_cc6d1a0c",
+      "sentAt": "2026-07-03T17:35:50.830Z",
+      "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public"
+    },
     {
       "id": "u_c3def5d9",
       "sentAt": "2026-07-03T14:13:04.763Z",
@@ -4975,31 +5000,6 @@
       "id": "u_af1432c3",
       "sentAt": "2026-05-31T21:03:10.019Z",
       "title": "I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, faster, GGUF-quantized, no Python"
-    },
-    {
-      "id": "u_5683d88",
-      "sentAt": "2026-05-31T21:03:10.019Z",
-      "title": "AI Agents Get Their Own Phone Book: The DNS Twist"
-    },
-    {
-      "id": "u_166c1921",
-      "sentAt": "2026-05-31T21:03:10.019Z",
-      "title": "Why AI Coding Agents Struggle with User Interfaces"
-    },
-    {
-      "id": "u_141c2ae4",
-      "sentAt": "2026-05-31T21:03:10.019Z",
-      "title": "The UI problem of AI coding agents"
-    },
-    {
-      "id": "u_8d2509aa",
-      "sentAt": "2026-05-31T21:03:10.019Z",
-      "title": "Whats actually happening when a model spills out of VRAM into system memory?"
-    },
-    {
-      "id": "u_d57fb93c",
-      "sentAt": "2026-05-31T19:21:50.352Z",
-      "title": "The Hidden Hazards of Open AI Model Weights"
     }
   ]
 }
