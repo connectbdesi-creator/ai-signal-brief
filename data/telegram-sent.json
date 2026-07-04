@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-04T17:09:28.808Z",
+  "updatedAt": "2026-07-04T19:18:37.554Z",
   "entries": [
+    {
+      "id": "u_56dc45f1",
+      "sentAt": "2026-07-04T19:18:37.554Z",
+      "title": "We'll benchmark an Open weights LLM on any GPU you choose — drop your model + hardware and we'll run it. [D]"
+    },
+    {
+      "id": "u_12e67fa9",
+      "sentAt": "2026-07-04T19:18:37.554Z",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage"
+    },
     {
       "id": "u_5da811f7",
       "sentAt": "2026-07-04T17:09:28.808Z",
@@ -4990,16 +5000,6 @@
       "id": "u_a9602fcd",
       "sentAt": "2026-06-01T21:37:00.825Z",
       "title": "MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding"
-    },
-    {
-      "id": "u_43233848",
-      "sentAt": "2026-06-01T21:37:00.825Z",
-      "title": "Nvidia debuts RTX Spark processor for Windows laptops, compact desktops"
-    },
-    {
-      "id": "u_235aa794",
-      "sentAt": "2026-06-01T17:47:31.652Z",
-      "title": "Generating Realism: AI's New Frontier in Lung Cancer Detection"
     }
   ]
 }
