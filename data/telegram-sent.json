@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-03T23:07:33.215Z",
+  "updatedAt": "2026-07-04T03:26:46.978Z",
   "entries": [
+    {
+      "id": "u_f57deea6",
+      "sentAt": "2026-07-04T03:26:46.978Z",
+      "title": "University of Phoenix Launches Three New Artificial Intelligence Professional Development Pathways - AOL.com"
+    },
+    {
+      "id": "u_18c98181",
+      "sentAt": "2026-07-04T03:26:46.978Z",
+      "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]"
+    },
     {
       "id": "u_4d1aee3f",
       "sentAt": "2026-07-03T23:07:33.215Z",
@@ -4990,16 +5000,6 @@
       "id": "u_10445c3d",
       "sentAt": "2026-06-01T11:41:53.602Z",
       "title": "Deepseek V4 flash performance on DGX Spark"
-    },
-    {
-      "id": "u_2589badf",
-      "sentAt": "2026-06-01T11:41:53.602Z",
-      "title": "Launching Conifer tomorrow, an open-source local AI runtime + IDE. Different layer of the stack from PewDiePie's Odysseus, would love your honest thoughts"
-    },
-    {
-      "id": "u_409afe7c",
-      "sentAt": "2026-06-01T04:24:02.472Z",
-      "title": "EMBGuard: The New Safety Net for AI's Real World Adventure"
     }
   ]
 }
