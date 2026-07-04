@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-04T19:18:37.554Z",
+  "updatedAt": "2026-07-04T23:00:11.430Z",
   "entries": [
+    {
+      "id": "u_902e4880",
+      "sentAt": "2026-07-04T23:00:11.430Z",
+      "title": "Better Models: Worse Tools"
+    },
+    {
+      "id": "u_4a5df11e",
+      "sentAt": "2026-07-04T23:00:11.430Z",
+      "title": "If your GPU can run inference, it should be able to fine-tune too. [P]"
+    },
     {
       "id": "u_56dc45f1",
       "sentAt": "2026-07-04T19:18:37.554Z",
@@ -4990,16 +5000,6 @@
       "id": "u_d4f18687",
       "sentAt": "2026-06-01T21:37:00.825Z",
       "title": "OpenAI models and Codex on Amazon Bedrock are now generally available"
-    },
-    {
-      "id": "u_267c5cb8",
-      "sentAt": "2026-06-01T21:37:00.825Z",
-      "title": "Open sourced a fun android Launcher"
-    },
-    {
-      "id": "u_a9602fcd",
-      "sentAt": "2026-06-01T21:37:00.825Z",
-      "title": "MiniMax Releases MiniMax M3 with MSA Architecture Supporting 1M-Token Context, Native Multimodality, and Agentic Coding"
     }
   ]
 }
