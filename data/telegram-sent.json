@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-04T03:26:46.978Z",
+  "updatedAt": "2026-07-04T10:13:49.010Z",
   "entries": [
+    {
+      "id": "u_86843e51",
+      "sentAt": "2026-07-04T10:13:49.010Z",
+      "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore"
+    },
+    {
+      "id": "u_efa7e731",
+      "sentAt": "2026-07-04T10:13:49.010Z",
+      "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable"
+    },
+    {
+      "id": "u_d8b31b25",
+      "sentAt": "2026-07-04T10:13:49.010Z",
+      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code"
+    },
+    {
+      "id": "u_baef9e23",
+      "sentAt": "2026-07-04T10:13:49.010Z",
+      "title": "Anthropic vs Opensourced model"
+    },
+    {
+      "id": "u_5a8545fa",
+      "sentAt": "2026-07-04T10:13:49.010Z",
+      "title": "Do you agree with Palantir CEO Alex Karp that the enterprise \"tokenmaxxing\" business model has \"gone completely wrong\" with minimal ROI? Will open-weight models inevitably win?"
+    },
     {
       "id": "u_f57deea6",
       "sentAt": "2026-07-04T03:26:46.978Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e7b180b0",
       "sentAt": "2026-06-01T17:47:31.652Z",
       "title": "Claude maker Anthropic files for IPO with the SEC"
-    },
-    {
-      "id": "u_cba1f8c1",
-      "sentAt": "2026-06-01T17:47:31.652Z",
-      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever"
-    },
-    {
-      "id": "u_ec4ffbc2",
-      "sentAt": "2026-06-01T11:41:53.602Z",
-      "title": "Trust and Accuracy: The Cornerstones of AI Agent Success"
-    },
-    {
-      "id": "u_3ee21d41",
-      "sentAt": "2026-06-01T11:41:53.602Z",
-      "title": "Why Wasserstein GANs Are the Future of AI Training"
-    },
-    {
-      "id": "u_8cd2ba1b",
-      "sentAt": "2026-06-01T11:41:53.602Z",
-      "title": "Nvidia launches new advanced chip for artificial intelligence on personal computers - Agenzia Nova"
-    },
-    {
-      "id": "u_10445c3d",
-      "sentAt": "2026-06-01T11:41:53.602Z",
-      "title": "Deepseek V4 flash performance on DGX Spark"
     }
   ]
 }
