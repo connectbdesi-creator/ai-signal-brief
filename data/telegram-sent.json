@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-05T21:05:03.877Z",
+  "updatedAt": "2026-07-05T23:04:09.428Z",
   "entries": [
+    {
+      "id": "u_68952a82",
+      "sentAt": "2026-07-05T23:04:09.428Z",
+      "title": "Best models for generating red-team attacks? Also looking for public datasets [R]"
+    },
+    {
+      "id": "u_620ccabd",
+      "sentAt": "2026-07-05T23:04:09.428Z",
+      "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention"
+    },
     {
       "id": "u_3f28ac2d",
       "sentAt": "2026-07-05T21:05:03.877Z",
@@ -4990,16 +5000,6 @@
       "id": "u_2b28db94",
       "sentAt": "2026-06-02T20:53:43.311Z",
       "title": "SAN FRANCISCO — Microsoft unveiled its own cutting-edge artificial intelligence models in San Francisco on Tuesday, a crucial step toward reducing its dependence on OpenAI, the creator of ChatGPT. - LinkedIn"
-    },
-    {
-      "id": "u_46e35f54",
-      "sentAt": "2026-06-02T16:39:33.522Z",
-      "title": "Trump's AI Vetting Plan: A Step Toward National Security?"
-    },
-    {
-      "id": "u_4682e5a7",
-      "sentAt": "2026-06-02T16:39:33.522Z",
-      "title": "Microsoft's Surface RTX Spark: A Game Changer for Developers?"
     }
   ]
 }
