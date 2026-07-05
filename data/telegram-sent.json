@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-05T10:18:19.351Z",
+  "updatedAt": "2026-07-05T13:46:45.500Z",
   "entries": [
+    {
+      "id": "u_19f02204",
+      "sentAt": "2026-07-05T13:46:45.500Z",
+      "title": "Are we human? Why ByteDance and Alibaba are disabling AI agents in China - South China Morning Post"
+    },
+    {
+      "id": "u_3cc29c81",
+      "sentAt": "2026-07-05T13:46:45.500Z",
+      "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes"
+    },
     {
       "id": "u_372dd228",
       "sentAt": "2026-07-05T10:18:19.351Z",
@@ -4990,16 +5000,6 @@
       "id": "u_e7ad714c",
       "sentAt": "2026-06-02T04:17:24.488Z",
       "title": "NVIDIA Jetson Brings Agentic AI to the Physical World"
-    },
-    {
-      "id": "u_69328afc",
-      "sentAt": "2026-06-02T04:17:24.488Z",
-      "title": "MeshFlow: production-safe multi-agent orchestration — SHA-256 audit chain, HIPAA/SOX/GDPR built in, 70-85% token cost reduction [Open Source][D]"
-    },
-    {
-      "id": "u_1ec8044c",
-      "sentAt": "2026-06-02T04:17:24.488Z",
-      "title": "MeshFlow: An open-source orchestrator for governed, cost-optimized multi-agent workflows [D]"
     }
   ]
 }
