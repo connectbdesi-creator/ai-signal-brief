@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-07-05T07:30:09.841Z",
+  "updatedAt": "2026-07-05T10:18:19.351Z",
   "entries": [
+    {
+      "id": "u_372dd228",
+      "sentAt": "2026-07-05T10:18:19.351Z",
+      "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous"
+    },
+    {
+      "id": "u_94dfe6f2",
+      "sentAt": "2026-07-05T10:18:19.351Z",
+      "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools"
+    },
+    {
+      "id": "u_6d991009",
+      "sentAt": "2026-07-05T10:18:19.351Z",
+      "title": "As companies operating artificial intelligence (AI) agents suffer from the burden of fees under the - 매일경제"
+    },
     {
       "id": "u_83d486b7",
       "sentAt": "2026-07-05T07:30:09.841Z",
@@ -4985,21 +5000,6 @@
       "id": "u_1ec8044c",
       "sentAt": "2026-06-02T04:17:24.488Z",
       "title": "MeshFlow: An open-source orchestrator for governed, cost-optimized multi-agent workflows [D]"
-    },
-    {
-      "id": "u_328ab806",
-      "sentAt": "2026-06-01T23:41:09.958Z",
-      "title": "Alphabet unveils plan to sell $80B in shares to fund ongoing AI infrastructure buildout"
-    },
-    {
-      "id": "u_ddea85c0",
-      "sentAt": "2026-06-01T23:41:09.958Z",
-      "title": "OpenAI Models Now on AWS: A Game Changer for Enterprises"
-    },
-    {
-      "id": "u_8d24e1c3",
-      "sentAt": "2026-06-01T23:41:09.958Z",
-      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
     }
   ]
 }
