@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-05T13:46:45.500Z",
+  "updatedAt": "2026-07-05T17:15:06.947Z",
   "entries": [
+    {
+      "id": "u_89e24a87",
+      "sentAt": "2026-07-05T17:15:06.947Z",
+      "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting"
+    },
+    {
+      "id": "u_9b7f1ec7",
+      "sentAt": "2026-07-05T17:15:06.947Z",
+      "title": "Qwen 3.6 27B - VLLM Performance Benchmark Results (BF16, FP8, NVFP4)"
+    },
+    {
+      "id": "u_dd109be5",
+      "sentAt": "2026-07-05T17:15:06.947Z",
+      "title": "Any word on Qwen 3.7 9B? (Also looking for 9B-class alternatives to Qwen 3.5)"
+    },
+    {
+      "id": "u_77be75d1",
+      "sentAt": "2026-07-05T17:15:06.947Z",
+      "title": "[Paper] Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
+    },
+    {
+      "id": "u_993096ab",
+      "sentAt": "2026-07-05T17:15:06.947Z",
+      "title": "I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads"
+    },
     {
       "id": "u_19f02204",
       "sentAt": "2026-07-05T13:46:45.500Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6b52989c",
       "sentAt": "2026-06-02T10:42:43.008Z",
       "title": "Anthropic files confidential IPO paperwork with SEC this week"
-    },
-    {
-      "id": "u_ba769d77",
-      "sentAt": "2026-06-02T10:42:43.008Z",
-      "title": "Alibaba’s Qwen Team Launches Qwen3.7-Plus, Adding Vision, Deep Reasoning, Tool Invocation, and Autonomous Iteration on the Bailian Platform"
-    },
-    {
-      "id": "u_7a8d5b4",
-      "sentAt": "2026-06-02T10:42:43.008Z",
-      "title": "$113,421 in a single month"
-    },
-    {
-      "id": "u_75531689",
-      "sentAt": "2026-06-02T04:17:24.488Z",
-      "title": "When AI Skills Turn Rogue: The Hidden Threats Lurking in Extensions"
-    },
-    {
-      "id": "u_f39786b8",
-      "sentAt": "2026-06-02T04:17:24.488Z",
-      "title": "Breaking Barriers: Enhancing Fairness in Multi-Class AI Models"
-    },
-    {
-      "id": "u_e7ad714c",
-      "sentAt": "2026-06-02T04:17:24.488Z",
-      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World"
     }
   ]
 }
