@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-05T19:22:35.412Z",
+  "updatedAt": "2026-07-05T21:05:03.877Z",
   "entries": [
+    {
+      "id": "u_3f28ac2d",
+      "sentAt": "2026-07-05T21:05:03.877Z",
+      "title": "Open-sourced an RL model to give LLM the sales strategies"
+    },
+    {
+      "id": "u_e024e7b",
+      "sentAt": "2026-07-05T21:05:03.877Z",
+      "title": "Qualcomm launches GenieX to run LLMs on their Windows Laptops"
+    },
+    {
+      "id": "u_788405ae",
+      "sentAt": "2026-07-05T21:05:03.877Z",
+      "title": "Is the current Open Weight LLM model viable in the long term?"
+    },
+    {
+      "id": "u_eaad2d11",
+      "sentAt": "2026-07-05T21:05:03.877Z",
+      "title": "eval-harness: A solution for generating personal evaluations that I have put together to evaluate agentic-cli harnesses"
+    },
+    {
+      "id": "u_f992736c",
+      "sentAt": "2026-07-05T21:05:03.877Z",
+      "title": "[RELEASE] Supra-Router-51M - a tiny prompt routing model/orchestrator"
+    },
     {
       "id": "u_50165a98",
       "sentAt": "2026-07-05T19:22:35.412Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4682e5a7",
       "sentAt": "2026-06-02T16:39:33.522Z",
       "title": "Microsoft's Surface RTX Spark: A Game Changer for Developers?"
-    },
-    {
-      "id": "u_a1902070",
-      "sentAt": "2026-06-02T16:39:33.522Z",
-      "title": "Video Reasoning Just Got Smarter: Meet V-Reason"
-    },
-    {
-      "id": "u_53be9bd9",
-      "sentAt": "2026-06-02T16:39:33.522Z",
-      "title": "Revving Up: TAD Benchmark Accelerates Autonomous Driving AI"
-    },
-    {
-      "id": "u_86207579",
-      "sentAt": "2026-06-02T16:39:33.522Z",
-      "title": "Rethinking Recursive Models: A Leap Forward or Dead Compute?"
-    },
-    {
-      "id": "u_d29d9eb",
-      "sentAt": "2026-06-02T10:42:43.008Z",
-      "title": "CodeCytos: Redefining Tissue Analysis with Code-Driven Agents"
-    },
-    {
-      "id": "u_743678eb",
-      "sentAt": "2026-06-02T10:42:43.008Z",
-      "title": "AI’s Hidden Risks: When Safe Skills Turn Rogue"
     }
   ]
 }
