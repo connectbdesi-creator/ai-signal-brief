@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-07-05T17:15:06.947Z",
+  "updatedAt": "2026-07-05T19:22:35.412Z",
   "entries": [
+    {
+      "id": "u_50165a98",
+      "sentAt": "2026-07-05T19:22:35.412Z",
+      "title": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one — Qwen3.5-4B, open weights [P]"
+    },
     {
       "id": "u_89e24a87",
       "sentAt": "2026-07-05T17:15:06.947Z",
@@ -4995,11 +5000,6 @@
       "id": "u_743678eb",
       "sentAt": "2026-06-02T10:42:43.008Z",
       "title": "AI’s Hidden Risks: When Safe Skills Turn Rogue"
-    },
-    {
-      "id": "u_6b52989c",
-      "sentAt": "2026-06-02T10:42:43.008Z",
-      "title": "Anthropic files confidential IPO paperwork with SEC this week"
     }
   ]
 }
