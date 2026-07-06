@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-06T16:53:13.770Z",
+  "updatedAt": "2026-07-06T20:01:58.253Z",
   "entries": [
+    {
+      "id": "u_b54eba",
+      "sentAt": "2026-07-06T20:01:58.253Z",
+      "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost"
+    },
+    {
+      "id": "u_a5d89895",
+      "sentAt": "2026-07-06T20:01:58.253Z",
+      "title": "Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size"
+    },
+    {
+      "id": "u_ff0512b2",
+      "sentAt": "2026-07-06T20:01:58.253Z",
+      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]"
+    },
+    {
+      "id": "u_49c3746f",
+      "sentAt": "2026-07-06T20:01:58.253Z",
+      "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top"
+    },
+    {
+      "id": "u_30c77050",
+      "sentAt": "2026-07-06T20:01:58.253Z",
+      "title": "Run MiniMax models on Amazon Bedrock"
+    },
     {
       "id": "u_36d3fc71",
       "sentAt": "2026-07-06T16:53:13.770Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9b57dafe",
       "sentAt": "2026-06-03T11:06:24.479Z",
       "title": "Orbiting AI: The New Frontier in Autonomous Computing"
-    },
-    {
-      "id": "u_75ae4e0f",
-      "sentAt": "2026-06-03T11:06:24.479Z",
-      "title": "Revamping AI Training: WRIT Approach Boosts Decision-Making Skills"
-    },
-    {
-      "id": "u_e69cd94f",
-      "sentAt": "2026-06-03T11:06:24.479Z",
-      "title": "Fixing Faulty Logic: How Better Benchmarks Improve AI"
-    },
-    {
-      "id": "u_9ef23b76",
-      "sentAt": "2026-06-03T04:26:54.393Z",
-      "title": "MOSAIC Framework: Accelerating Mixture-of-Agents on Limited GPUs"
-    },
-    {
-      "id": "u_6fc18354",
-      "sentAt": "2026-06-03T04:26:54.393Z",
-      "title": "Breaking Down Barriers in Brain-Computer Interface Classification"
-    },
-    {
-      "id": "u_21eb4a6a",
-      "sentAt": "2026-06-03T04:26:54.393Z",
-      "title": "New AI Framework Cuts Memory Costs in Multimodal Reasoning"
     }
   ]
 }
