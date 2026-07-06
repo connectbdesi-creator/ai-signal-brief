@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-06T20:01:58.253Z",
+  "updatedAt": "2026-07-06T23:11:12.861Z",
   "entries": [
+    {
+      "id": "u_3cde1f7e",
+      "sentAt": "2026-07-06T23:11:12.861Z",
+      "title": "Illinois governor signs AI safety law requiring audits of frontier models - StateScoop"
+    },
+    {
+      "id": "u_92e20cd5",
+      "sentAt": "2026-07-06T23:11:12.861Z",
+      "title": "Salinas launches AI assistance - Monterey Herald"
+    },
+    {
+      "id": "u_aab71c0e",
+      "sentAt": "2026-07-06T23:11:12.861Z",
+      "title": "White House AI Standards: 30-Day Reviews, 3 Labs, and a Classified Pass Bar"
+    },
+    {
+      "id": "u_4cdab48c",
+      "sentAt": "2026-07-06T23:11:12.861Z",
+      "title": "Automatically redact PII in images with Amazon Nova"
+    },
+    {
+      "id": "u_2735005d",
+      "sentAt": "2026-07-06T23:11:12.861Z",
+      "title": "I Built a Custom Postgres MCP Server in Python (And Deleted 2,000 Lines of Code)"
+    },
     {
       "id": "u_b54eba",
       "sentAt": "2026-07-06T20:01:58.253Z",
@@ -4975,31 +5000,6 @@
       "id": "u_81c49219",
       "sentAt": "2026-06-03T16:56:18.271Z",
       "title": "Dreame L20 Ultra: High-Tech Cleaning at a Steal"
-    },
-    {
-      "id": "u_3a1555ae",
-      "sentAt": "2026-06-03T16:56:18.271Z",
-      "title": "Microsoft's Project Solara: The AI Agent Revolution"
-    },
-    {
-      "id": "u_9872ad50",
-      "sentAt": "2026-06-03T16:56:18.271Z",
-      "title": "We measured how AI capabilities INTERACT as models scale. Below 3.5B, reasoning and truthfulness fight. Above it, they cooperate. The transition is engineerable. (2 papers + interactive dashboard + 7 falsifiable predictions)"
-    },
-    {
-      "id": "u_1d8686cd",
-      "sentAt": "2026-06-03T11:06:24.479Z",
-      "title": "Nous Research releases Hermes Desktop, an open-source AI agent for every platform"
-    },
-    {
-      "id": "u_7ae1b1e6",
-      "sentAt": "2026-06-03T11:06:24.479Z",
-      "title": "Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning"
-    },
-    {
-      "id": "u_9b57dafe",
-      "sentAt": "2026-06-03T11:06:24.479Z",
-      "title": "Orbiting AI: The New Frontier in Autonomous Computing"
     }
   ]
 }
