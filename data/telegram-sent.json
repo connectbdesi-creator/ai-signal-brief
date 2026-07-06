@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-06T13:50:04.449Z",
+  "updatedAt": "2026-07-06T16:53:13.770Z",
   "entries": [
+    {
+      "id": "u_36d3fc71",
+      "sentAt": "2026-07-06T16:53:13.770Z",
+      "title": "Edly-Allen’s landmark AI safety law to address catastrophic risks, increasing transparency signed by governor - Illinois Senate Democratic Caucus"
+    },
+    {
+      "id": "u_fa03cea2",
+      "sentAt": "2026-07-06T16:53:13.770Z",
+      "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]"
+    },
+    {
+      "id": "u_1db6e17d",
+      "sentAt": "2026-07-06T16:53:13.770Z",
+      "title": "Getting Started with Hugging Face ML Intern: Your First ML Agent"
+    },
+    {
+      "id": "u_fbd13874",
+      "sentAt": "2026-07-06T16:53:13.770Z",
+      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups"
+    },
     {
       "id": "u_3e8a427d",
       "sentAt": "2026-07-06T13:50:04.449Z",
@@ -4980,26 +5000,6 @@
       "id": "u_21eb4a6a",
       "sentAt": "2026-06-03T04:26:54.393Z",
       "title": "New AI Framework Cuts Memory Costs in Multimodal Reasoning"
-    },
-    {
-      "id": "u_6b4b08e4",
-      "sentAt": "2026-06-03T04:26:54.393Z",
-      "title": "Quantum Fisher Views: A New Frontier in Multimodal Machine Learning"
-    },
-    {
-      "id": "u_13ec39f9",
-      "sentAt": "2026-06-03T04:26:54.393Z",
-      "title": "MiniMax dropped a new attention architecture. [N]"
-    },
-    {
-      "id": "u_373a45ef",
-      "sentAt": "2026-06-02T23:49:07.321Z",
-      "title": "Microsoft launches Rayfin to let developers and agents build app backends on Fabric"
-    },
-    {
-      "id": "u_e8d62ecc",
-      "sentAt": "2026-06-02T23:49:07.321Z",
-      "title": "ProtoAda: A Leap Forward in Multimodal Language Learning"
     }
   ]
 }
