@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-07T11:10:51.568Z",
+  "updatedAt": "2026-07-07T14:43:13.982Z",
   "entries": [
+    {
+      "id": "u_867b9be8",
+      "sentAt": "2026-07-07T14:43:13.982Z",
+      "title": "Three northeast Louisiana parishes launch AI pilot program - KNOE"
+    },
+    {
+      "id": "u_c9ce0b28",
+      "sentAt": "2026-07-07T14:43:13.982Z",
+      "title": "Three northeast Louisiana parishes launch AI pilot program - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
+    },
+    {
+      "id": "u_e0c2aaf9",
+      "sentAt": "2026-07-07T14:43:13.982Z",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom"
+    },
+    {
+      "id": "u_b1500783",
+      "sentAt": "2026-07-07T14:43:13.982Z",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale"
+    },
     {
       "id": "u_fa80d7fc",
       "sentAt": "2026-07-07T11:10:51.568Z",
@@ -4980,26 +5000,6 @@
       "id": "u_d37923b7",
       "sentAt": "2026-06-04T04:22:00.238Z",
       "title": "BayesWarp: A New Frontier in Testing Neural Networks"
-    },
-    {
-      "id": "u_28806535",
-      "sentAt": "2026-06-04T04:22:00.238Z",
-      "title": "Self-Evolving Prompts: A New Era in AI Optimization"
-    },
-    {
-      "id": "u_ad5eacc6",
-      "sentAt": "2026-06-04T04:22:00.238Z",
-      "title": "Enhancing AI Logic with SGR: A New Framework for Reasoning"
-    },
-    {
-      "id": "u_808072b7",
-      "sentAt": "2026-06-04T04:22:00.238Z",
-      "title": "Why Large Language Models May Not Be Ready for the Counseling Couch"
-    },
-    {
-      "id": "u_77798abf",
-      "sentAt": "2026-06-04T04:22:00.238Z",
-      "title": "MM-BizRAG: Redefining Document Parsing with Structure-Aware AI"
     }
   ]
 }
