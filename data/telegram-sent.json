@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-07T18:02:57.477Z",
+  "updatedAt": "2026-07-07T21:27:09.401Z",
   "entries": [
+    {
+      "id": "u_67e7722e",
+      "sentAt": "2026-07-07T21:27:09.401Z",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet"
+    },
+    {
+      "id": "u_792b7e64",
+      "sentAt": "2026-07-07T21:27:09.401Z",
+      "title": "sqlite-utils 4.0, now with database schema migrations"
+    },
+    {
+      "id": "u_67bffa0c",
+      "sentAt": "2026-07-07T21:27:09.401Z",
+      "title": "Meta releases first image model since Zuckerberg’s AI overhaul"
+    },
+    {
+      "id": "u_73f5039a",
+      "sentAt": "2026-07-07T21:27:09.401Z",
+      "title": "Introducing Muse Image: Image Generation Built for Your World"
+    },
+    {
+      "id": "u_e5e66bfc",
+      "sentAt": "2026-07-07T21:27:09.401Z",
+      "title": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems"
+    },
     {
       "id": "u_54080195",
       "sentAt": "2026-07-07T18:02:57.477Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f450c026",
       "sentAt": "2026-06-04T15:23:09.164Z",
       "title": "Cyber Strategy at the AI Frontier: President Trump Releases Executive Order to Promote Advanced Artificial Intelligence Innovation and Security - Sidley Austin"
-    },
-    {
-      "id": "u_6f478375",
-      "sentAt": "2026-06-04T15:23:09.164Z",
-      "title": "Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook"
-    },
-    {
-      "id": "u_e38f8025",
-      "sentAt": "2026-06-04T15:23:09.164Z",
-      "title": "Faithful uncertainty in LLM agents: calibration vs utility tradeoff in practice[D]"
-    },
-    {
-      "id": "u_1f7d4f39",
-      "sentAt": "2026-06-04T15:23:09.164Z",
-      "title": "KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apache 2.0, vLLM single flag)"
-    },
-    {
-      "id": "u_74296c6b",
-      "sentAt": "2026-06-04T15:23:09.164Z",
-      "title": "Naive question - do local models call into question the business model for AI company profitability?"
-    },
-    {
-      "id": "u_f47f9d47",
-      "sentAt": "2026-06-04T10:01:02.956Z",
-      "title": "How Endava is redesigning software delivery around AI agents"
     }
   ]
 }
