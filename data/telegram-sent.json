@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-07T03:41:58.439Z",
+  "updatedAt": "2026-07-07T07:42:25.111Z",
   "entries": [
+    {
+      "id": "u_a9940159",
+      "sentAt": "2026-07-07T07:42:25.111Z",
+      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community"
+    },
+    {
+      "id": "u_1e9b479e",
+      "sentAt": "2026-07-07T07:42:25.111Z",
+      "title": "Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context"
+    },
+    {
+      "id": "u_c3d892ed",
+      "sentAt": "2026-07-07T07:42:25.111Z",
+      "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API"
+    },
+    {
+      "id": "u_61de6f00",
+      "sentAt": "2026-07-07T07:42:25.111Z",
+      "title": "South Korea defense lab launches secure AI system - upi.com"
+    },
     {
       "id": "u_862412b9",
       "sentAt": "2026-07-07T03:41:58.439Z",
@@ -4980,26 +5000,6 @@
       "id": "u_13ac380",
       "sentAt": "2026-06-03T23:47:15.837Z",
       "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity"
-    },
-    {
-      "id": "u_4cb4022a",
-      "sentAt": "2026-06-03T23:47:15.837Z",
-      "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop"
-    },
-    {
-      "id": "u_426f199",
-      "sentAt": "2026-06-03T21:19:21.599Z",
-      "title": "TrOPD: A New Frontier in On-Policy Distillation"
-    },
-    {
-      "id": "u_c52aebb9",
-      "sentAt": "2026-06-03T21:19:21.599Z",
-      "title": "Cracking the Code: Making 2-Bit Inference Work"
-    },
-    {
-      "id": "u_f2681842",
-      "sentAt": "2026-06-03T21:19:21.599Z",
-      "title": "Optimizing Thought: A New Era in Efficient Language Models"
     }
   ]
 }
