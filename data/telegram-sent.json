@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-07T07:42:25.111Z",
+  "updatedAt": "2026-07-07T11:10:51.568Z",
   "entries": [
+    {
+      "id": "u_fa80d7fc",
+      "sentAt": "2026-07-07T11:10:51.568Z",
+      "title": "Deepseek is designing its own AI chip"
+    },
+    {
+      "id": "u_c31be68a",
+      "sentAt": "2026-07-07T11:10:51.568Z",
+      "title": "British Space Startup Launches Longevity Lab Into Orbit"
+    },
+    {
+      "id": "u_5d52c60a",
+      "sentAt": "2026-07-07T11:10:51.568Z",
+      "title": "Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]"
+    },
+    {
+      "id": "u_8fd78ad8",
+      "sentAt": "2026-07-07T11:10:51.568Z",
+      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]"
+    },
     {
       "id": "u_a9940159",
       "sentAt": "2026-07-07T07:42:25.111Z",
@@ -4980,26 +5000,6 @@
       "id": "u_77798abf",
       "sentAt": "2026-06-04T04:22:00.238Z",
       "title": "MM-BizRAG: Redefining Document Parsing with Structure-Aware AI"
-    },
-    {
-      "id": "u_271c177f",
-      "sentAt": "2026-06-03T23:47:15.837Z",
-      "title": "Latent Recursion: Revolutionizing Model Efficiency or Just Another Dead End?"
-    },
-    {
-      "id": "u_1d33e8d8",
-      "sentAt": "2026-06-03T23:47:15.837Z",
-      "title": "Google just dropped Gemma 4 12B on your laptop!!"
-    },
-    {
-      "id": "u_2de85fe8",
-      "sentAt": "2026-06-03T23:47:15.837Z",
-      "title": "llama.cpp - Qwen3.6/3.5-MTP - Share your benchmarks t/s"
-    },
-    {
-      "id": "u_13ac380",
-      "sentAt": "2026-06-03T23:47:15.837Z",
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity"
     }
   ]
 }
