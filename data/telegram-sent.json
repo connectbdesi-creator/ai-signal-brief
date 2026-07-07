@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-06T23:11:12.861Z",
+  "updatedAt": "2026-07-07T03:41:58.439Z",
   "entries": [
+    {
+      "id": "u_862412b9",
+      "sentAt": "2026-07-07T03:41:58.439Z",
+      "title": "Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS"
+    },
+    {
+      "id": "u_13a15f79",
+      "sentAt": "2026-07-07T03:41:58.439Z",
+      "title": "South Korea defense lab launches secure AI system - upi.com"
+    },
+    {
+      "id": "u_d2a83def",
+      "sentAt": "2026-07-07T03:41:58.439Z",
+      "title": "tencent/Hy3"
+    },
+    {
+      "id": "u_1499fa41",
+      "sentAt": "2026-07-07T03:41:58.439Z",
+      "title": "UCO Launches New AI Degree Programs to Meet Growing Workforce Demand - The University of Central Oklahoma"
+    },
+    {
+      "id": "u_61cdc0ac",
+      "sentAt": "2026-07-07T03:41:58.439Z",
+      "title": "How Open Models Are Driving AI Research"
+    },
     {
       "id": "u_3cde1f7e",
       "sentAt": "2026-07-06T23:11:12.861Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f2681842",
       "sentAt": "2026-06-03T21:19:21.599Z",
       "title": "Optimizing Thought: A New Era in Efficient Language Models"
-    },
-    {
-      "id": "u_901e14f4",
-      "sentAt": "2026-06-03T21:19:21.599Z",
-      "title": "Teaching AI agents to ask better questions by playing “Battleship”"
-    },
-    {
-      "id": "u_ca9c0ac7",
-      "sentAt": "2026-06-03T21:19:21.599Z",
-      "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM"
-    },
-    {
-      "id": "u_c51960d0",
-      "sentAt": "2026-06-03T16:56:18.271Z",
-      "title": "google/gemma-4-12B · Hugging Face"
-    },
-    {
-      "id": "u_685740fc",
-      "sentAt": "2026-06-03T16:56:18.271Z",
-      "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI"
-    },
-    {
-      "id": "u_81c49219",
-      "sentAt": "2026-06-03T16:56:18.271Z",
-      "title": "Dreame L20 Ultra: High-Tech Cleaning at a Steal"
     }
   ]
 }
