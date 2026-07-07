@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-07T21:27:09.401Z",
+  "updatedAt": "2026-07-07T23:05:15.932Z",
   "entries": [
+    {
+      "id": "u_acc9aa6d",
+      "sentAt": "2026-07-07T23:05:15.932Z",
+      "title": "Tools vs. Subagents: Building Effective AI Agents Without Over-Engineering"
+    },
+    {
+      "id": "u_8bf71bba",
+      "sentAt": "2026-07-07T23:05:15.932Z",
+      "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web"
+    },
+    {
+      "id": "u_47f9618e",
+      "sentAt": "2026-07-07T23:05:15.932Z",
+      "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow"
+    },
+    {
+      "id": "u_b1606054",
+      "sentAt": "2026-07-07T23:05:15.932Z",
+      "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_98a8d407",
+      "sentAt": "2026-07-07T23:05:15.932Z",
+      "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick"
+    },
     {
       "id": "u_67e7722e",
       "sentAt": "2026-07-07T21:27:09.401Z",
@@ -4975,31 +5000,6 @@
       "id": "u_29792df2",
       "sentAt": "2026-06-04T18:21:50.600Z",
       "title": "Fault Tolerance in LangGraph: Retries, Timeouts and Error Handlers"
-    },
-    {
-      "id": "u_e82b02f4",
-      "sentAt": "2026-06-04T18:21:50.600Z",
-      "title": "Radiant Logic extends identity visibility platform to enterprise AI agents with real-time risk scoring"
-    },
-    {
-      "id": "u_2e48ee94",
-      "sentAt": "2026-06-04T18:21:50.600Z",
-      "title": "NVIDIA Nemotron 3 Ultra now available on Amazon SageMaker JumpStart"
-    },
-    {
-      "id": "u_ff492bc3",
-      "sentAt": "2026-06-04T18:21:50.600Z",
-      "title": "We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and you adopt it by changing one import [P] [R]"
-    },
-    {
-      "id": "u_2deff5c9",
-      "sentAt": "2026-06-04T18:21:50.600Z",
-      "title": "Asana launches AI ‘chief of staff’ to keep projects on track - Computerworld"
-    },
-    {
-      "id": "u_f450c026",
-      "sentAt": "2026-06-04T15:23:09.164Z",
-      "title": "Cyber Strategy at the AI Frontier: President Trump Releases Executive Order to Promote Advanced Artificial Intelligence Innovation and Security - Sidley Austin"
     }
   ]
 }
