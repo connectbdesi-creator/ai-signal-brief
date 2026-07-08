@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-08T02:56:36.704Z",
+  "updatedAt": "2026-07-08T06:30:39.565Z",
   "entries": [
+    {
+      "id": "u_472de636",
+      "sentAt": "2026-07-08T06:30:39.565Z",
+      "title": "OpenAI to launch new model after US freeze - France 24"
+    },
+    {
+      "id": "u_e59c36e1",
+      "sentAt": "2026-07-08T06:30:39.565Z",
+      "title": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6"
+    },
+    {
+      "id": "u_d639e702",
+      "sentAt": "2026-07-08T06:30:39.565Z",
+      "title": "Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings"
+    },
+    {
+      "id": "u_9d40a1ab",
+      "sentAt": "2026-07-08T06:30:39.565Z",
+      "title": "Reduced NEXI protocol for the quantification of human gray matter microstructure on the Connectome 2.0 scanner"
+    },
+    {
+      "id": "u_a7f6f52d",
+      "sentAt": "2026-07-08T06:30:39.565Z",
+      "title": "IMR: Iterative Mode-World Weighted Regression for Multi-Agent Trajectory Prediction"
+    },
     {
       "id": "u_5c0029bb",
       "sentAt": "2026-07-08T02:56:36.704Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7b354c43",
       "sentAt": "2026-06-04T23:11:35.492Z",
       "title": "Airbnb’s Brian Chesky plans to launch a new AI lab"
-    },
-    {
-      "id": "u_52a1e93",
-      "sentAt": "2026-06-04T23:11:35.492Z",
-      "title": "Cloudflare acquires VoidZero, maker of the Vite JavaScript toolchain"
-    },
-    {
-      "id": "u_67fc0abc",
-      "sentAt": "2026-06-04T23:11:35.492Z",
-      "title": "Token Billing Exposes AI's Missing ROI And Puts Billion-Dollar Bets At Risk"
-    },
-    {
-      "id": "u_50b80062",
-      "sentAt": "2026-06-04T23:11:35.492Z",
-      "title": "NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents"
-    },
-    {
-      "id": "u_ad1163e0",
-      "sentAt": "2026-06-04T23:11:35.492Z",
-      "title": "cyankiwi AWQ 4-bit — 26.05 update, NVFP4 + FP8 Dynamic quantization and benchmarks across Qwen3.6 4-bit quants"
-    },
-    {
-      "id": "u_de58ad9",
-      "sentAt": "2026-06-04T21:43:43.759Z",
-      "title": "AI's Evolution: From Helpers to Decision-Makers"
     }
   ]
 }
