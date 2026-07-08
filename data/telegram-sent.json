@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-08T17:40:13.691Z",
+  "updatedAt": "2026-07-08T19:36:57.361Z",
   "entries": [
+    {
+      "id": "u_f1d92fe7",
+      "sentAt": "2026-07-08T19:36:57.361Z",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’"
+    },
+    {
+      "id": "u_1112f9ff",
+      "sentAt": "2026-07-08T19:36:57.361Z",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment"
+    },
+    {
+      "id": "u_155ddd94",
+      "sentAt": "2026-07-08T19:36:57.361Z",
+      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much"
+    },
+    {
+      "id": "u_ad00eab0",
+      "sentAt": "2026-07-08T19:36:57.361Z",
+      "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much"
+    },
+    {
+      "id": "u_e360055d",
+      "sentAt": "2026-07-08T19:36:57.361Z",
+      "title": "Complete local model asset generation pipeline"
+    },
     {
       "id": "u_ead0a1b8",
       "sentAt": "2026-07-08T17:40:13.691Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3beaf7a9",
       "sentAt": "2026-06-05T16:31:00.653Z",
       "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces"
-    },
-    {
-      "id": "u_5b0f8797",
-      "sentAt": "2026-06-05T16:31:00.653Z",
-      "title": "GWSB to launch artificial intelligence-focused master’s program in fall 2026 - The GW Hatchet"
-    },
-    {
-      "id": "u_4a0f7262",
-      "sentAt": "2026-06-05T16:31:00.653Z",
-      "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs"
-    },
-    {
-      "id": "u_5fc48f83",
-      "sentAt": "2026-06-05T16:31:00.653Z",
-      "title": "I implemented KVarN in my llama.cpp fork and ran KLD benchmarks. It's promising!"
-    },
-    {
-      "id": "u_f59569fe",
-      "sentAt": "2026-06-05T16:31:00.653Z",
-      "title": "AI Budgets: Why Agents Are Wrecking Them and What You Can Do"
-    },
-    {
-      "id": "u_696a3c07",
-      "sentAt": "2026-06-05T12:44:55.846Z",
-      "title": "Rethinking LLM Benchmarks: A Bayesian Approach to Better Metrics"
     }
   ]
 }
