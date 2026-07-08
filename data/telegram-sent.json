@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-08T14:25:41.932Z",
+  "updatedAt": "2026-07-08T17:40:13.691Z",
   "entries": [
+    {
+      "id": "u_ead0a1b8",
+      "sentAt": "2026-07-08T17:40:13.691Z",
+      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
+    },
+    {
+      "id": "u_2b8b4c6f",
+      "sentAt": "2026-07-08T17:40:13.691Z",
+      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
+    },
+    {
+      "id": "u_636ba0ae",
+      "sentAt": "2026-07-08T17:40:13.691Z",
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up"
+    },
+    {
+      "id": "u_1a615770",
+      "sentAt": "2026-07-08T17:40:13.691Z",
+      "title": "OpenAI releases new voice models for more natural live conversations"
+    },
+    {
+      "id": "u_36e6f462",
+      "sentAt": "2026-07-08T17:40:13.691Z",
+      "title": "QLLM, no transformer, no mamba and new noval architecture with O(1) inference is finally out as model"
+    },
     {
       "id": "u_25e849b6",
       "sentAt": "2026-07-08T14:25:41.932Z",
@@ -4975,31 +5000,6 @@
       "id": "u_696a3c07",
       "sentAt": "2026-06-05T12:44:55.846Z",
       "title": "Rethinking LLM Benchmarks: A Bayesian Approach to Better Metrics"
-    },
-    {
-      "id": "u_51dd7b53",
-      "sentAt": "2026-06-05T12:44:55.846Z",
-      "title": "Harnessing AI: RHO's Game-Changing Approach to Self-Optimization"
-    },
-    {
-      "id": "u_2c89285f",
-      "sentAt": "2026-06-05T12:44:55.846Z",
-      "title": "Asuka-Bench: A New Era in Code-Generation Benchmarks"
-    },
-    {
-      "id": "u_6deffbb7",
-      "sentAt": "2026-06-05T12:44:55.846Z",
-      "title": "Anthropic warns Claude AI is building itself faster than expected, calls for option to halt frontier development — 'recursive self improvement' increases risk humans lose control of AI - Tom's Hardware"
-    },
-    {
-      "id": "u_91381866",
-      "sentAt": "2026-06-05T12:44:55.846Z",
-      "title": "Quoting Andreas Kling"
-    },
-    {
-      "id": "u_8e43d679",
-      "sentAt": "2026-06-05T09:57:52.680Z",
-      "title": "Are We Underestimating Small Edge AI Models?[D]"
     }
   ]
 }
