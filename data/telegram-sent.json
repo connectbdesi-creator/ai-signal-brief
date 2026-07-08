@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-08T06:30:39.565Z",
+  "updatedAt": "2026-07-08T10:21:45.244Z",
   "entries": [
+    {
+      "id": "u_faed367d",
+      "sentAt": "2026-07-08T10:21:45.244Z",
+      "title": "China’s MiniMax Plans to Launch 2.7-Trillion Parameter Model"
+    },
+    {
+      "id": "u_9ae47bb0",
+      "sentAt": "2026-07-08T10:21:45.244Z",
+      "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government"
+    },
+    {
+      "id": "u_fedb1aa",
+      "sentAt": "2026-07-08T10:21:45.244Z",
+      "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government"
+    },
+    {
+      "id": "u_b55a3a18",
+      "sentAt": "2026-07-08T10:21:45.244Z",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips"
+    },
+    {
+      "id": "u_1cfca1c1",
+      "sentAt": "2026-07-08T10:21:45.244Z",
+      "title": "Frustrating Patchwork Of State-Level AI Laws Is Forcing AI Makers Into Devising Jurisdictionally Compliant Chatbot Models"
+    },
     {
       "id": "u_472de636",
       "sentAt": "2026-07-08T06:30:39.565Z",
@@ -4975,31 +5000,6 @@
       "id": "u_83d6e3e8",
       "sentAt": "2026-06-05T04:04:56.726Z",
       "title": "Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO"
-    },
-    {
-      "id": "u_61fee671",
-      "sentAt": "2026-06-05T04:04:56.726Z",
-      "title": "Generic Triple-Latent Compression with Gated Associative Retrieval"
-    },
-    {
-      "id": "u_3e4587f9",
-      "sentAt": "2026-06-05T04:04:56.726Z",
-      "title": "Epidemiology of Model Collapse: Modeling Synthetic Data Contamination via Bilayer SIR Dynamics"
-    },
-    {
-      "id": "u_3795791a",
-      "sentAt": "2026-06-05T04:04:56.726Z",
-      "title": "Predict and Reconstruct: Joint Objectives for Self-Supervised Language Representation Learning"
-    },
-    {
-      "id": "u_c2c0d59a",
-      "sentAt": "2026-06-05T04:04:56.726Z",
-      "title": "PEFT of SLM for Telecommunications Customer Support: A Comparative Study of LoRA Configurations with Energy Consumption Analysis"
-    },
-    {
-      "id": "u_7b354c43",
-      "sentAt": "2026-06-04T23:11:35.492Z",
-      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab"
     }
   ]
 }
