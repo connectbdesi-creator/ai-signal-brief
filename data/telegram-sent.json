@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-08T21:10:54.338Z",
+  "updatedAt": "2026-07-08T23:11:26.612Z",
   "entries": [
+    {
+      "id": "u_582e17f2",
+      "sentAt": "2026-07-08T23:11:26.612Z",
+      "title": "Southeastern hosts Artificial Intelligence Launchpad - an17.com"
+    },
+    {
+      "id": "u_73d767f3",
+      "sentAt": "2026-07-08T23:11:26.612Z",
+      "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI - VentureBeat"
+    },
+    {
+      "id": "u_bb7a6b61",
+      "sentAt": "2026-07-08T23:11:26.612Z",
+      "title": "Grok 4.5 released - GLM-5.2 shows up in xAI's own charts, 2.6 pts behind on SWE Bench Pro"
+    },
+    {
+      "id": "u_a139faa4",
+      "sentAt": "2026-07-08T23:11:26.612Z",
+      "title": "Grok 4.5 brings SpaceXAI to the the intelligence frontier - LinkedIn"
+    },
+    {
+      "id": "u_91f54b5b",
+      "sentAt": "2026-07-08T23:11:26.612Z",
+      "title": "What China Said at the UN’s First Global Dialogue on AI Governance"
+    },
     {
       "id": "u_be3e75b3",
       "sentAt": "2026-07-08T21:10:54.338Z",
@@ -4975,31 +5000,6 @@
       "id": "u_94e560ee",
       "sentAt": "2026-06-05T21:41:10.150Z",
       "title": "How OpenAI Dreaming V3 works (+ every other agent Memory Framework [N]"
-    },
-    {
-      "id": "u_63d55918",
-      "sentAt": "2026-06-05T21:41:10.150Z",
-      "title": "OpenLumara - A different kind of AI agent, written from scratch, not vibecoded. Extremely token-efficient, super small system prompt, made for local models. Everything is modular."
-    },
-    {
-      "id": "u_19269d6b",
-      "sentAt": "2026-06-05T21:41:10.150Z",
-      "title": "Running Qwen3.6-35B-A3B on a laptop RTX 4060 (8GB) — what worked, what didn't, and a surprising speculative-decoding result"
-    },
-    {
-      "id": "u_1fda81c7",
-      "sentAt": "2026-06-05T21:41:10.150Z",
-      "title": "Meet the Chinese Video AI Models Shaping the Future of Content"
-    },
-    {
-      "id": "u_992209f7",
-      "sentAt": "2026-06-05T21:41:10.150Z",
-      "title": "Satya Nadella says AI agents should be treated like employees with identities, permissions, and audits"
-    },
-    {
-      "id": "u_69abb060",
-      "sentAt": "2026-06-05T19:59:30.831Z",
-      "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time"
     }
   ]
 }
