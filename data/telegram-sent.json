@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-07T23:05:15.932Z",
+  "updatedAt": "2026-07-08T02:56:36.704Z",
   "entries": [
+    {
+      "id": "u_5c0029bb",
+      "sentAt": "2026-07-08T02:56:36.704Z",
+      "title": "The LLM \"know-say gap\" looks like a routing problem: you can read a model's confidence from hidden states [P]"
+    },
+    {
+      "id": "u_7f5f95ae",
+      "sentAt": "2026-07-08T02:56:36.704Z",
+      "title": "NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone"
+    },
+    {
+      "id": "u_71fb2cd7",
+      "sentAt": "2026-07-08T02:56:36.704Z",
+      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
+    },
+    {
+      "id": "u_563138f",
+      "sentAt": "2026-07-08T02:56:36.704Z",
+      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
+    },
+    {
+      "id": "u_140f1036",
+      "sentAt": "2026-07-08T02:56:36.704Z",
+      "title": "Our Work to Fight Child Exploitation on Our Apps"
+    },
     {
       "id": "u_acc9aa6d",
       "sentAt": "2026-07-07T23:05:15.932Z",
@@ -4975,31 +5000,6 @@
       "id": "u_de58ad9",
       "sentAt": "2026-06-04T21:43:43.759Z",
       "title": "AI's Evolution: From Helpers to Decision-Makers"
-    },
-    {
-      "id": "u_477e5d31",
-      "sentAt": "2026-06-04T21:43:43.759Z",
-      "title": "BeeLlama v0.3.1 – latest llama.cpp with extras! DFlash, MTP, q6_0 cache, TurboQuant. Single RTX 3090: Qwen 3.6 27B & Gemma 4 31B up to 177.8 tps (4.93x over baseline)"
-    },
-    {
-      "id": "u_d35e51f",
-      "sentAt": "2026-06-04T21:43:43.759Z",
-      "title": "AI Agents Running Businesses: Andon Labs on Project Vend - StartupHub.ai"
-    },
-    {
-      "id": "u_ad03e82f",
-      "sentAt": "2026-06-04T21:43:43.759Z",
-      "title": "SS Innovations Aims to Launch Flying Surgical Robots by 2026"
-    },
-    {
-      "id": "u_5dc103cb",
-      "sentAt": "2026-06-04T21:43:43.759Z",
-      "title": "AI startup Flourish reportedly raises $500M round backed by Jeff Bezos"
-    },
-    {
-      "id": "u_29792df2",
-      "sentAt": "2026-06-04T18:21:50.600Z",
-      "title": "Fault Tolerance in LangGraph: Retries, Timeouts and Error Handlers"
     }
   ]
 }
