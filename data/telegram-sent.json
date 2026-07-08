@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-08T10:21:45.244Z",
+  "updatedAt": "2026-07-08T14:25:41.932Z",
   "entries": [
+    {
+      "id": "u_25e849b6",
+      "sentAt": "2026-07-08T14:25:41.932Z",
+      "title": "Bug in top AI coding agents shows that Unix-era security headaches never really die"
+    },
+    {
+      "id": "u_f042373d",
+      "sentAt": "2026-07-08T14:25:41.932Z",
+      "title": "Playlist Launches ‘AI Concierge,’ Plans More Artificial Intelligence Products - Athletech News"
+    },
+    {
+      "id": "u_7347dcd2",
+      "sentAt": "2026-07-08T14:25:41.932Z",
+      "title": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits"
+    },
+    {
+      "id": "u_a37e22a8",
+      "sentAt": "2026-07-08T14:25:41.932Z",
+      "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year"
+    },
+    {
+      "id": "u_fde6874b",
+      "sentAt": "2026-07-08T14:25:41.932Z",
+      "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year"
+    },
     {
       "id": "u_faed367d",
       "sentAt": "2026-07-08T10:21:45.244Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8e43d679",
       "sentAt": "2026-06-05T09:57:52.680Z",
       "title": "Are We Underestimating Small Edge AI Models?[D]"
-    },
-    {
-      "id": "u_f646a39",
-      "sentAt": "2026-06-05T09:57:52.680Z",
-      "title": "Why Triple-Latent Sequence Models Could Be the Future of NLP"
-    },
-    {
-      "id": "u_485b9484",
-      "sentAt": "2026-06-05T09:57:52.680Z",
-      "title": "LongSpace-Bench: A New Frontier in Spatial Memory for MLLMs"
-    },
-    {
-      "id": "u_4fb565c",
-      "sentAt": "2026-06-05T09:57:52.680Z",
-      "title": "Revolutionizing Reasoning: Low-Rank Distillation in Language Models"
-    },
-    {
-      "id": "u_5c2032ae",
-      "sentAt": "2026-06-05T09:57:52.680Z",
-      "title": "What are the most powerful underground AI tools that no one talks about enough?"
-    },
-    {
-      "id": "u_83d6e3e8",
-      "sentAt": "2026-06-05T04:04:56.726Z",
-      "title": "Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO"
     }
   ]
 }
