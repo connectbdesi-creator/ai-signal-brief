@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-08T19:36:57.361Z",
+  "updatedAt": "2026-07-08T21:10:54.338Z",
   "entries": [
+    {
+      "id": "u_be3e75b3",
+      "sentAt": "2026-07-08T21:10:54.338Z",
+      "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
+    },
+    {
+      "id": "u_6e66608a",
+      "sentAt": "2026-07-08T21:10:54.338Z",
+      "title": "Former GitHub CEO launches competitor designed for the age of vibe coding"
+    },
+    {
+      "id": "u_13146fe2",
+      "sentAt": "2026-07-08T21:10:54.338Z",
+      "title": "Introducing Claude apps gateway for AWS"
+    },
+    {
+      "id": "u_beb31443",
+      "sentAt": "2026-07-08T21:10:54.338Z",
+      "title": "OpenAI’s advanced GPT-5.6 models to be publicly released - Nextgov/FCW"
+    },
+    {
+      "id": "u_307871ea",
+      "sentAt": "2026-07-08T21:10:54.338Z",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’"
+    },
     {
       "id": "u_f1d92fe7",
       "sentAt": "2026-07-08T19:36:57.361Z",
@@ -4975,31 +5000,6 @@
       "id": "u_69abb060",
       "sentAt": "2026-06-05T19:59:30.831Z",
       "title": "I launched a brand-new author identity with zero web presence. An AI cited him correctly in 6 days — while a firewall blocked every AI crawler from the site the whole time"
-    },
-    {
-      "id": "u_27f058cc",
-      "sentAt": "2026-06-05T19:59:30.831Z",
-      "title": "Microsoft's AI Agents Need Employee Treatment, says Nadella"
-    },
-    {
-      "id": "u_873d6431",
-      "sentAt": "2026-06-05T19:59:30.831Z",
-      "title": "AI agents being governed by other AI agents, nothing to see here"
-    },
-    {
-      "id": "u_3fd2d95c",
-      "sentAt": "2026-06-05T19:59:30.831Z",
-      "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance"
-    },
-    {
-      "id": "u_d25ed494",
-      "sentAt": "2026-06-05T19:59:30.831Z",
-      "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance"
-    },
-    {
-      "id": "u_3beaf7a9",
-      "sentAt": "2026-06-05T16:31:00.653Z",
-      "title": "The strange thing about LLM reasoning research: we're now trying to remove the chain-of-thought traces"
     }
   ]
 }
