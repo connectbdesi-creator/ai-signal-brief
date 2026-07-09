@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-09T11:02:26.500Z",
+  "updatedAt": "2026-07-09T15:16:37.259Z",
   "entries": [
+    {
+      "id": "u_ca84e33f",
+      "sentAt": "2026-07-09T15:16:37.259Z",
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI"
+    },
+    {
+      "id": "u_86b85bd2",
+      "sentAt": "2026-07-09T15:16:37.259Z",
+      "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC"
+    },
+    {
+      "id": "u_c594f9e0",
+      "sentAt": "2026-07-09T15:16:37.259Z",
+      "title": "Beyond Agentic AI: The Emergence Of Cognitive AI Ecosystems"
+    },
+    {
+      "id": "u_dee136d8",
+      "sentAt": "2026-07-09T15:16:37.259Z",
+      "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC - CNBC"
+    },
+    {
+      "id": "u_6ff4b0c",
+      "sentAt": "2026-07-09T15:16:37.259Z",
+      "title": "DeepFabric Launches Supply Chain AI Platform - WWD"
+    },
     {
       "id": "u_6f7d2a20",
       "sentAt": "2026-07-09T11:02:26.500Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1c7cf740",
       "sentAt": "2026-06-06T10:07:59.881Z",
       "title": "Microsoft's Strategic Shift: From Partnering to Pioneering AI"
-    },
-    {
-      "id": "u_825527e9",
-      "sentAt": "2026-06-06T10:07:59.881Z",
-      "title": "ToTra: A New Open Source Transformer Model That's Flying Under the Radar"
-    },
-    {
-      "id": "u_33a8d187",
-      "sentAt": "2026-06-06T10:07:59.881Z",
-      "title": "Big week for open AI, with 25+ notable open-weight drops across every modality (from Victor M on 𝕏)"
-    },
-    {
-      "id": "u_890bd795",
-      "sentAt": "2026-06-06T10:07:59.881Z",
-      "title": "The Memory Dilemma: When Should AI Recall Sensitive Data?"
-    },
-    {
-      "id": "u_2fa3f048",
-      "sentAt": "2026-06-06T10:07:59.881Z",
-      "title": "Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents"
-    },
-    {
-      "id": "u_2d58a88d",
-      "sentAt": "2026-06-06T06:55:31.889Z",
-      "title": "Revolutionizing LLM Agents with Write-Time Concurrency Control"
     }
   ]
 }
