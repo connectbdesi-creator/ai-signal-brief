@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-09T17:58:47.745Z",
+  "updatedAt": "2026-07-09T19:58:22.750Z",
   "entries": [
+    {
+      "id": "u_d0d36606",
+      "sentAt": "2026-07-09T19:58:22.750Z",
+      "title": "The new GPT-5.6 family: Luna, Terra, Sol"
+    },
+    {
+      "id": "u_4def3d15",
+      "sentAt": "2026-07-09T19:58:22.750Z",
+      "title": "Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput"
+    },
+    {
+      "id": "u_a0c1392d",
+      "sentAt": "2026-07-09T19:58:22.750Z",
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial"
+    },
+    {
+      "id": "u_eb8c4d5d",
+      "sentAt": "2026-07-09T19:58:22.750Z",
+      "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns"
+    },
+    {
+      "id": "u_e7fe326d",
+      "sentAt": "2026-07-09T19:58:22.750Z",
+      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost"
+    },
     {
       "id": "u_d6944539",
       "sentAt": "2026-07-09T17:58:47.745Z",
@@ -4975,31 +5000,6 @@
       "id": "u_49868515",
       "sentAt": "2026-06-06T15:19:01.903Z",
       "title": "AI Regulation Hits the Spotlight: House Draft Bill Aims for Control"
-    },
-    {
-      "id": "u_160e9167",
-      "sentAt": "2026-06-06T15:19:01.903Z",
-      "title": "AI's New Frontier: The Rise of AI-Generated Content"
-    },
-    {
-      "id": "u_d84d33ee",
-      "sentAt": "2026-06-06T15:19:01.903Z",
-      "title": "Roblox's AI World Model Stirs Controversy in Gaming"
-    },
-    {
-      "id": "u_c33f946d",
-      "sentAt": "2026-06-06T15:19:01.903Z",
-      "title": "Grok: The AI That Could Change How We Communicate"
-    },
-    {
-      "id": "u_399839a0",
-      "sentAt": "2026-06-06T15:19:01.903Z",
-      "title": "Experimentation with Qwen 3.6 and Gemma 4 - Guidance needed"
-    },
-    {
-      "id": "u_8ae35983",
-      "sentAt": "2026-06-06T13:50:42.557Z",
-      "title": "Trump: U.S. stake in AI giants \"could be a beautiful thing\""
     }
   ]
 }
