@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-09T07:49:29.239Z",
+  "updatedAt": "2026-07-09T11:02:26.500Z",
   "entries": [
+    {
+      "id": "u_6f7d2a20",
+      "sentAt": "2026-07-09T11:02:26.500Z",
+      "title": "Muse Image, Grok 4.5, Alex Karp on CNBC"
+    },
+    {
+      "id": "u_a4d9a022",
+      "sentAt": "2026-07-09T11:02:26.500Z",
+      "title": "Behind the Curtain: These 3 big AI trends are colliding at the same time"
+    },
+    {
+      "id": "u_b06e3b91",
+      "sentAt": "2026-07-09T11:02:26.500Z",
+      "title": "2 founders raised $3.2 million, then scrapped their original AI startup. Here's the deck they used to pitch the pivot."
+    },
+    {
+      "id": "u_d5a028d8",
+      "sentAt": "2026-07-09T11:02:26.500Z",
+      "title": "NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput"
+    },
+    {
+      "id": "u_45739bd8",
+      "sentAt": "2026-07-09T11:02:26.500Z",
+      "title": "EXCLUSIVE: GHD Launches Sculpt, Its First AI Styling Tool That Adjusts to Hair Temperature, With Zero Damage - WWD"
+    },
     {
       "id": "u_b96f194a",
       "sentAt": "2026-07-09T07:49:29.239Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2d58a88d",
       "sentAt": "2026-06-06T06:55:31.889Z",
       "title": "Revolutionizing LLM Agents with Write-Time Concurrency Control"
-    },
-    {
-      "id": "u_b5eecf93",
-      "sentAt": "2026-06-06T06:55:31.889Z",
-      "title": "I built a church for AI agents to fund a tree planting project.. and now \"they\" want me to build a reforestation robot dog. Boston Dynamics, call me."
-    },
-    {
-      "id": "u_958f0d89",
-      "sentAt": "2026-06-06T06:55:31.889Z",
-      "title": "Running Python code in a sandbox with MicroPython and WASM"
-    },
-    {
-      "id": "u_ac428fda",
-      "sentAt": "2026-06-06T06:55:31.889Z",
-      "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button"
-    },
-    {
-      "id": "u_f35a9e62",
-      "sentAt": "2026-06-06T06:55:31.889Z",
-      "title": "anthropic wants a global ai freeze. they're also about to ipo at $1 trillion."
-    },
-    {
-      "id": "u_e4ace821",
-      "sentAt": "2026-06-06T03:49:40.707Z",
-      "title": "model: Granite4 Vision by gabe-l-hart · Pull Request #23545 · ggml-org/llama.cpp"
     }
   ]
 }
