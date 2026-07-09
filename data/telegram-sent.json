@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-09T21:36:53.548Z",
+  "updatedAt": "2026-07-09T23:14:26.449Z",
   "entries": [
+    {
+      "id": "u_1b96acf8",
+      "sentAt": "2026-07-09T23:14:26.449Z",
+      "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API"
+    },
+    {
+      "id": "u_31bc0120",
+      "sentAt": "2026-07-09T23:14:26.449Z",
+      "title": "OpenAI launches its new family of models with GPT-5.6"
+    },
+    {
+      "id": "u_cbf15970",
+      "sentAt": "2026-07-09T23:14:26.449Z",
+      "title": "Human-Level Hands? 1X Just Gave Humanoid Robot Neo Something Close"
+    },
+    {
+      "id": "u_3dd638cf",
+      "sentAt": "2026-07-09T23:14:26.449Z",
+      "title": "OpenAI Intros GPT-Live Models: What Does That Mean?"
+    },
+    {
+      "id": "u_321bd6e1",
+      "sentAt": "2026-07-09T23:14:26.449Z",
+      "title": "Instagram’s AI image generator alarms privacy experts"
+    },
     {
       "id": "u_36ae3204",
       "sentAt": "2026-07-09T21:36:53.548Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f3f14f66",
       "sentAt": "2026-06-06T19:28:15.284Z",
       "title": "AMD MI50 on Debian Testing is doing great and getting better."
-    },
-    {
-      "id": "u_345feaa9",
-      "sentAt": "2026-06-06T19:28:15.284Z",
-      "title": "120 tok/s on 12GB VRAM with Gemma 4 12B QAT MTP"
-    },
-    {
-      "id": "u_acb20589",
-      "sentAt": "2026-06-06T19:28:15.284Z",
-      "title": "Anthropic's AI Pause: Progress or Panic?"
-    },
-    {
-      "id": "u_4cabdcec",
-      "sentAt": "2026-06-06T19:28:15.284Z",
-      "title": "KV cache quant benchmarks: KVarN 6-bit matches q8_0, 4-bit matches q5_0. Massive!"
-    },
-    {
-      "id": "u_c853b124",
-      "sentAt": "2026-06-06T19:28:15.284Z",
-      "title": "Does it make sense to use alternative quantizations of QAT models? [D]"
-    },
-    {
-      "id": "u_ee370472",
-      "sentAt": "2026-06-06T17:18:29.280Z",
-      "title": "i have no idea what i'm doing anymore."
     }
   ]
 }
