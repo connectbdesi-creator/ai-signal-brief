@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-09T15:16:37.259Z",
+  "updatedAt": "2026-07-09T17:58:47.745Z",
   "entries": [
+    {
+      "id": "u_d6944539",
+      "sentAt": "2026-07-09T17:58:47.745Z",
+      "title": "OpenAI launches ChatGPT Work - BNN Bloomberg"
+    },
+    {
+      "id": "u_7d59e780",
+      "sentAt": "2026-07-09T17:58:47.745Z",
+      "title": "Meta’s new AI chips will begin production in September"
+    },
+    {
+      "id": "u_7b495498",
+      "sentAt": "2026-07-09T17:58:47.745Z",
+      "title": "OpenAI launches ChatGPT Work - Reuters"
+    },
+    {
+      "id": "u_811a5bc2",
+      "sentAt": "2026-07-09T17:58:47.745Z",
+      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up"
+    },
+    {
+      "id": "u_7a7d48e9",
+      "sentAt": "2026-07-09T17:58:47.745Z",
+      "title": "Introducing Muse Spark 1.1"
+    },
     {
       "id": "u_ca84e33f",
       "sentAt": "2026-07-09T15:16:37.259Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8ae35983",
       "sentAt": "2026-06-06T13:50:42.557Z",
       "title": "Trump: U.S. stake in AI giants \"could be a beautiful thing\""
-    },
-    {
-      "id": "u_fd91ed3",
-      "sentAt": "2026-06-06T13:50:42.557Z",
-      "title": "Revenge of the AI bubble"
-    },
-    {
-      "id": "u_aec571",
-      "sentAt": "2026-06-06T13:50:42.557Z",
-      "title": "where did all the other ai companies go?"
-    },
-    {
-      "id": "u_60650f5",
-      "sentAt": "2026-06-06T13:50:42.557Z",
-      "title": "Navigating the World of AI Agents: Where Should Developers Start?"
-    },
-    {
-      "id": "u_3095226d",
-      "sentAt": "2026-06-06T13:50:42.557Z",
-      "title": "Meta's New AI Model Faces Delays: What's Really Going On?"
-    },
-    {
-      "id": "u_1c7cf740",
-      "sentAt": "2026-06-06T10:07:59.881Z",
-      "title": "Microsoft's Strategic Shift: From Partnering to Pioneering AI"
     }
   ]
 }
