@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-08T23:11:26.612Z",
+  "updatedAt": "2026-07-09T03:35:25.192Z",
   "entries": [
+    {
+      "id": "u_e0e05fc1",
+      "sentAt": "2026-07-09T03:35:25.192Z",
+      "title": "The Cockpit Only Flies on Claude"
+    },
+    {
+      "id": "u_c2e1a270",
+      "sentAt": "2026-07-09T03:35:25.192Z",
+      "title": "Bipartisan bill would launch federal study on AI and older Americans - AZ Family"
+    },
+    {
+      "id": "u_cccf25e7",
+      "sentAt": "2026-07-09T03:35:25.192Z",
+      "title": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation"
+    },
+    {
+      "id": "u_2e7c12ca",
+      "sentAt": "2026-07-09T03:35:25.192Z",
+      "title": "Fresno State launches artificial intelligence minor open to students across disciplines - ABC30 Fresno"
+    },
+    {
+      "id": "u_50719f7d",
+      "sentAt": "2026-07-09T03:35:25.192Z",
+      "title": "Fresno State launches artificial intelligence minor open to students across disciplines - Yahoo"
+    },
     {
       "id": "u_582e17f2",
       "sentAt": "2026-07-08T23:11:26.612Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f474b4e2",
       "sentAt": "2026-06-05T23:13:18.714Z",
       "title": "Collaborative AI: The Next Frontier in Gaming"
-    },
-    {
-      "id": "u_9c7f1705",
-      "sentAt": "2026-06-05T23:13:18.714Z",
-      "title": "Give your agent its own computer"
-    },
-    {
-      "id": "u_655d5a69",
-      "sentAt": "2026-06-05T23:13:18.714Z",
-      "title": "Harnessing AI's Potential: RHO's Self-Supervised Leap"
-    },
-    {
-      "id": "u_20b9c591",
-      "sentAt": "2026-06-05T23:13:18.714Z",
-      "title": "AI agents fail at the auth step more than at the reasoning step. anyone else seeing this?"
-    },
-    {
-      "id": "u_6fb9a02c",
-      "sentAt": "2026-06-05T23:13:18.714Z",
-      "title": "OpenAI to Allow US Government Early Access to Frontier Models - PYMNTS.com"
-    },
-    {
-      "id": "u_94e560ee",
-      "sentAt": "2026-06-05T21:41:10.150Z",
-      "title": "How OpenAI Dreaming V3 works (+ every other agent Memory Framework [N]"
     }
   ]
 }
