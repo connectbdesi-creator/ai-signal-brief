@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-09T03:35:25.192Z",
+  "updatedAt": "2026-07-09T07:49:29.239Z",
   "entries": [
+    {
+      "id": "u_b96f194a",
+      "sentAt": "2026-07-09T07:49:29.239Z",
+      "title": "GLM-5.2 fearmongering in the press"
+    },
+    {
+      "id": "u_67fbabf9",
+      "sentAt": "2026-07-09T07:49:29.239Z",
+      "title": "Jensen Huang says his software engineers prefer building agents to writing code"
+    },
+    {
+      "id": "u_338c7fad",
+      "sentAt": "2026-07-09T07:49:29.239Z",
+      "title": "Shares soar as Zhipu AI and Iluvatar CoreX launch secondary placements - South China Morning Post"
+    },
+    {
+      "id": "u_5354ff84",
+      "sentAt": "2026-07-09T07:49:29.239Z",
+      "title": "Anthropic expands Claude Cowork to mobile and web, letting AI agent work across devices - The Indian Express"
+    },
+    {
+      "id": "u_770fa1e6",
+      "sentAt": "2026-07-09T07:49:29.239Z",
+      "title": "When Agents Remember Too Much: Memory Poisoning Attacks on Large Language Model Agents"
+    },
     {
       "id": "u_e0e05fc1",
       "sentAt": "2026-07-09T03:35:25.192Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e4ace821",
       "sentAt": "2026-06-06T03:49:40.707Z",
       "title": "model: Granite4 Vision by gabe-l-hart · Pull Request #23545 · ggml-org/llama.cpp"
-    },
-    {
-      "id": "u_54878b16",
-      "sentAt": "2026-06-06T03:49:40.707Z",
-      "title": "How to Fine-Tune an SLM for Emotion Recognition"
-    },
-    {
-      "id": "u_605a59b3",
-      "sentAt": "2026-06-06T03:49:40.707Z",
-      "title": "[NEW MODEL] SupraLabs just released a new model! - Supra-50M-Reasoning"
-    },
-    {
-      "id": "u_9f0abe09",
-      "sentAt": "2026-06-06T03:49:40.707Z",
-      "title": "NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes"
-    },
-    {
-      "id": "u_be06ce36",
-      "sentAt": "2026-06-06T03:49:40.707Z",
-      "title": "Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing"
-    },
-    {
-      "id": "u_f474b4e2",
-      "sentAt": "2026-06-05T23:13:18.714Z",
-      "title": "Collaborative AI: The Next Frontier in Gaming"
     }
   ]
 }
