@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-09T19:58:22.750Z",
+  "updatedAt": "2026-07-09T21:36:53.548Z",
   "entries": [
+    {
+      "id": "u_36ae3204",
+      "sentAt": "2026-07-09T21:36:53.548Z",
+      "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API"
+    },
+    {
+      "id": "u_e51ab75e",
+      "sentAt": "2026-07-09T21:36:53.548Z",
+      "title": "The ChatGPT browser is already dead"
+    },
+    {
+      "id": "u_c3504445",
+      "sentAt": "2026-07-09T21:36:53.548Z",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts"
+    },
+    {
+      "id": "u_441741ca",
+      "sentAt": "2026-07-09T21:36:53.548Z",
+      "title": "Syracuse University Launches Uniquely Comprehensive AI Academic Portfolio - Newhouse School at Syracuse University"
+    },
+    {
+      "id": "u_2b094ed3",
+      "sentAt": "2026-07-09T21:36:53.548Z",
+      "title": "Endicott College Launches NEs First Artificial Intelligence Degree Program - Patch"
+    },
     {
       "id": "u_d0d36606",
       "sentAt": "2026-07-09T19:58:22.750Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ee370472",
       "sentAt": "2026-06-06T17:18:29.280Z",
       "title": "i have no idea what i'm doing anymore."
-    },
-    {
-      "id": "u_ed27ad0b",
-      "sentAt": "2026-06-06T17:18:29.280Z",
-      "title": "Cohere's unreleased coding model (early access for localllama)"
-    },
-    {
-      "id": "u_6bd8da88",
-      "sentAt": "2026-06-06T17:18:29.280Z",
-      "title": "Summer Game Fest 2026: All the news from gaming’s busiest week"
-    },
-    {
-      "id": "u_b1f4256d",
-      "sentAt": "2026-06-06T17:18:29.280Z",
-      "title": "Sakana AI’s Bold Bet: Recursive Self-Improvement Over Computation Arms Race"
-    },
-    {
-      "id": "u_5a579f37",
-      "sentAt": "2026-06-06T17:18:29.280Z",
-      "title": "Sakana AI bets AI that improves itself can break the compute arms race of frontier labs"
-    },
-    {
-      "id": "u_49868515",
-      "sentAt": "2026-06-06T15:19:01.903Z",
-      "title": "AI Regulation Hits the Spotlight: House Draft Bill Aims for Control"
     }
   ]
 }
