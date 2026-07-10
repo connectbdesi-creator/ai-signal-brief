@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-10T07:39:20.520Z",
+  "updatedAt": "2026-07-10T10:57:55.157Z",
   "entries": [
+    {
+      "id": "u_4f92c251",
+      "sentAt": "2026-07-10T10:57:55.157Z",
+      "title": "CarbonCLIP: Transforming Urban Emissions Modeling with AI"
+    },
+    {
+      "id": "u_4589468e",
+      "sentAt": "2026-07-10T10:57:55.157Z",
+      "title": "In-Context Search: A Leap in Language Model Reasoning"
+    },
+    {
+      "id": "u_773a6aa2",
+      "sentAt": "2026-07-10T10:57:55.157Z",
+      "title": "Turning LLM Reasoning into an Industrial Asset with ROAM"
+    },
+    {
+      "id": "u_a091ed71",
+      "sentAt": "2026-07-10T10:57:55.157Z",
+      "title": "Gimitest Puts Reinforcement Learning Through Its Paces"
+    },
+    {
+      "id": "u_fc3072ba",
+      "sentAt": "2026-07-10T10:57:55.157Z",
+      "title": "From Connected Agents to Collective Intelligence - Emerj Artificial Intelligence Research"
+    },
     {
       "id": "u_baea7274",
       "sentAt": "2026-07-10T07:39:20.520Z",
@@ -4975,31 +5000,6 @@
       "id": "u_336f998f",
       "sentAt": "2026-06-07T04:15:16.548Z",
       "title": "5 Months Later: open-deepthink Now Has Full Knowledge Distillation Mode"
-    },
-    {
-      "id": "u_30cfd8a2",
-      "sentAt": "2026-06-07T04:15:16.548Z",
-      "title": "Amazon's Legal Tussle with Agentic AI: A Battle for Digital Gatekeeping"
-    },
-    {
-      "id": "u_21b7d837",
-      "sentAt": "2026-06-07T04:15:16.548Z",
-      "title": "Gemma 4 31B QAT Q4 vs standard Q4 — Top1 KLD benchmark results have me confused. Someone please explain or poke holes in this."
-    },
-    {
-      "id": "u_b2096a0f",
-      "sentAt": "2026-06-07T04:15:16.548Z",
-      "title": "Show HN: Persist – an AI agent that follows up accrued channels till they reply"
-    },
-    {
-      "id": "u_2d093699",
-      "sentAt": "2026-06-07T04:15:16.548Z",
-      "title": "QAT MTP Heads Upload + PARALLEL=2 Fix + 12B 2-slot Bench"
-    },
-    {
-      "id": "u_9a117641",
-      "sentAt": "2026-06-06T23:07:30.325Z",
-      "title": "Trump Signs Executive Order for AI Testing Prior to Frontier Model Releases"
     }
   ]
 }
