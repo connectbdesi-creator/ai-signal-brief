@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-10T10:57:55.157Z",
+  "updatedAt": "2026-07-10T14:33:45.190Z",
   "entries": [
+    {
+      "id": "u_f4137968",
+      "sentAt": "2026-07-10T14:33:45.190Z",
+      "title": "ERC-8004's Trust Challenge: Can AI Agents Rely on It?"
+    },
+    {
+      "id": "u_2ce076fb",
+      "sentAt": "2026-07-10T14:33:45.190Z",
+      "title": "Breaking Barriers in Soft Robotics with Faster Simulations"
+    },
+    {
+      "id": "u_59c714dc",
+      "sentAt": "2026-07-10T14:33:45.190Z",
+      "title": "Compositional Visual Reasoning: The Next Frontier in AI"
+    },
+    {
+      "id": "u_647a2cec",
+      "sentAt": "2026-07-10T14:33:45.190Z",
+      "title": "K-Risk Dataset: The major shift for Autonomous Driving Safeguards"
+    },
+    {
+      "id": "u_ecf30792",
+      "sentAt": "2026-07-10T14:33:45.190Z",
+      "title": "Emotional Intelligence in AI: A New Framework for Multimodal Models"
+    },
     {
       "id": "u_4f92c251",
       "sentAt": "2026-07-10T10:57:55.157Z",
@@ -4975,31 +5000,6 @@
       "id": "u_965ed20",
       "sentAt": "2026-06-07T09:18:47.054Z",
       "title": "OpenAI Announces Unnerving New ChatGPT Feature Named ‘Lockdown Mode’"
-    },
-    {
-      "id": "u_cb47feca",
-      "sentAt": "2026-06-07T09:18:47.054Z",
-      "title": "Research collection of Arxiv whitepapers [R]"
-    },
-    {
-      "id": "u_d2c82f6d",
-      "sentAt": "2026-06-07T09:18:47.054Z",
-      "title": "Best 21 Low-Code and No-Code AI Tools in 2026"
-    },
-    {
-      "id": "u_22999415",
-      "sentAt": "2026-06-07T09:18:47.054Z",
-      "title": "Training AI for the Professor of Tomorrow"
-    },
-    {
-      "id": "u_d786892",
-      "sentAt": "2026-06-07T09:18:47.054Z",
-      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs"
-    },
-    {
-      "id": "u_336f998f",
-      "sentAt": "2026-06-07T04:15:16.548Z",
-      "title": "5 Months Later: open-deepthink Now Has Full Knowledge Distillation Mode"
     }
   ]
 }
