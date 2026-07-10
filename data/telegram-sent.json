@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-10T21:08:33.274Z",
+  "updatedAt": "2026-07-10T23:01:05.069Z",
   "entries": [
+    {
+      "id": "u_f71f6141",
+      "sentAt": "2026-07-10T23:01:05.069Z",
+      "title": "Securing AI Agents: A New Approach to Multi-Tool Security"
+    },
+    {
+      "id": "u_fc0acf37",
+      "sentAt": "2026-07-10T23:01:05.069Z",
+      "title": "Vision-Language Models with Text as a Constraint"
+    },
+    {
+      "id": "u_3ea11ced",
+      "sentAt": "2026-07-10T23:01:05.069Z",
+      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\""
+    },
+    {
+      "id": "u_b9608879",
+      "sentAt": "2026-07-10T23:01:05.069Z",
+      "title": "OpenAI Launches GPT-5.6 as Agentic AI Shifts ETF Outlook - ETF Database"
+    },
+    {
+      "id": "u_fd99c79a",
+      "sentAt": "2026-07-10T23:01:05.069Z",
+      "title": "Music industry launches AI-generated content labels - France 24"
+    },
     {
       "id": "u_a70d483c",
       "sentAt": "2026-07-10T21:08:33.274Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fb1577e1",
       "sentAt": "2026-06-07T19:28:01.542Z",
       "title": "Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation"
-    },
-    {
-      "id": "u_d02c6aa9",
-      "sentAt": "2026-06-07T19:28:01.542Z",
-      "title": "Xbox Games Showcase 2026: All the news and trailers"
-    },
-    {
-      "id": "u_8aff4433",
-      "sentAt": "2026-06-07T19:28:01.542Z",
-      "title": "Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI"
-    },
-    {
-      "id": "u_e5ad8090",
-      "sentAt": "2026-06-07T19:28:01.542Z",
-      "title": "A handy llama-server launcher with easy model and configuration customisation"
-    },
-    {
-      "id": "u_ef209412",
-      "sentAt": "2026-06-07T19:28:01.542Z",
-      "title": "ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection"
-    },
-    {
-      "id": "u_e1781194",
-      "sentAt": "2026-06-07T17:22:19.018Z",
-      "title": "AgentCrew: Open-Source AI that Might Just Rock the Boat"
     }
   ]
 }
