@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-09T23:14:26.449Z",
+  "updatedAt": "2026-07-10T03:37:30.250Z",
   "entries": [
+    {
+      "id": "u_8c8e0533",
+      "sentAt": "2026-07-10T03:37:30.250Z",
+      "title": "Quoting OpenAI"
+    },
+    {
+      "id": "u_ad319976",
+      "sentAt": "2026-07-10T03:37:30.250Z",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter"
+    },
+    {
+      "id": "u_57de7fcc",
+      "sentAt": "2026-07-10T03:37:30.250Z",
+      "title": "OpenAI's No. 2 executive steps down over health issues"
+    },
+    {
+      "id": "u_ec7a41c",
+      "sentAt": "2026-07-10T03:37:30.250Z",
+      "title": "Safety and innovation are complementary for the future of agentic AI - University of South Florida"
+    },
+    {
+      "id": "u_f7932179",
+      "sentAt": "2026-07-10T03:37:30.250Z",
+      "title": "An AI agent startup just let its agent run its $100 million fundraise"
+    },
     {
       "id": "u_1b96acf8",
       "sentAt": "2026-07-09T23:14:26.449Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f6d7e08d",
       "sentAt": "2026-06-06T21:08:10.825Z",
       "title": "AI Memory Fails Spectacularly: 95% Error Rate Unveiled"
-    },
-    {
-      "id": "u_640037e2",
-      "sentAt": "2026-06-06T21:08:10.825Z",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
-    },
-    {
-      "id": "u_7bc94860",
-      "sentAt": "2026-06-06T21:08:10.825Z",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks"
-    },
-    {
-      "id": "u_dae2f5b7",
-      "sentAt": "2026-06-06T21:08:10.825Z",
-      "title": "Z.ai, we need Air! GLM GGUF wen?"
-    },
-    {
-      "id": "u_303b5bad",
-      "sentAt": "2026-06-06T21:08:10.825Z",
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor"
-    },
-    {
-      "id": "u_f3f14f66",
-      "sentAt": "2026-06-06T19:28:15.284Z",
-      "title": "AMD MI50 on Debian Testing is doing great and getting better."
     }
   ]
 }
