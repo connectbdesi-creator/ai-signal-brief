@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-10T14:33:45.190Z",
+  "updatedAt": "2026-07-10T17:49:23.852Z",
   "entries": [
+    {
+      "id": "u_f4ebc6a9",
+      "sentAt": "2026-07-10T17:49:23.852Z",
+      "title": "Revving Up AI: How RT Transforms Text Embedding Models"
+    },
+    {
+      "id": "u_32d38dd1",
+      "sentAt": "2026-07-10T17:49:23.852Z",
+      "title": "How TimesX is Redefining Multimodal Forecasting"
+    },
+    {
+      "id": "u_8002e5ae",
+      "sentAt": "2026-07-10T17:49:23.852Z",
+      "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
+    },
+    {
+      "id": "u_e9bf135b",
+      "sentAt": "2026-07-10T17:49:23.852Z",
+      "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
+    },
+    {
+      "id": "u_e34b6252",
+      "sentAt": "2026-07-10T17:49:23.852Z",
+      "title": "OpenWiki Brains: Proactive Memory for AI Agents"
+    },
     {
       "id": "u_f4137968",
       "sentAt": "2026-07-10T14:33:45.190Z",
@@ -4975,31 +5000,6 @@
       "id": "u_60ee8f5a",
       "sentAt": "2026-06-07T11:50:38.299Z",
       "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app"
-    },
-    {
-      "id": "u_a9434493",
-      "sentAt": "2026-06-07T11:50:38.299Z",
-      "title": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs"
-    },
-    {
-      "id": "u_6426c7b9",
-      "sentAt": "2026-06-07T11:50:38.299Z",
-      "title": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs"
-    },
-    {
-      "id": "u_4e0faef4",
-      "sentAt": "2026-06-07T11:50:38.299Z",
-      "title": "Clustering 3x Jetson Nano Orin Supers"
-    },
-    {
-      "id": "u_bbe6f0a6",
-      "sentAt": "2026-06-07T11:50:38.299Z",
-      "title": "ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection"
-    },
-    {
-      "id": "u_965ed20",
-      "sentAt": "2026-06-07T09:18:47.054Z",
-      "title": "OpenAI Announces Unnerving New ChatGPT Feature Named ‘Lockdown Mode’"
     }
   ]
 }
