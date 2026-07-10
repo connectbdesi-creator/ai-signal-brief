@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-10T03:37:30.250Z",
+  "updatedAt": "2026-07-10T07:39:20.520Z",
   "entries": [
+    {
+      "id": "u_baea7274",
+      "sentAt": "2026-07-10T07:39:20.520Z",
+      "title": "Gemini Models: Replacing Human Ears with AI Precision"
+    },
+    {
+      "id": "u_74b153ca",
+      "sentAt": "2026-07-10T07:39:20.520Z",
+      "title": "Revamping Video Event Analysis: MAVEN Takes the Lead"
+    },
+    {
+      "id": "u_7062041b",
+      "sentAt": "2026-07-10T07:39:20.520Z",
+      "title": "Is Explainable AI the Key to Trustworthy AI Certification?"
+    },
+    {
+      "id": "u_e0077ccd",
+      "sentAt": "2026-07-10T07:39:20.520Z",
+      "title": "Investment AI: Are Language Models Truly Ready for Wall Street?"
+    },
+    {
+      "id": "u_cfe11cc6",
+      "sentAt": "2026-07-10T07:39:20.520Z",
+      "title": "Meet LingBot-World-Infinity: An Open Causal World Model With An Agentic Harness"
+    },
     {
       "id": "u_8c8e0533",
       "sentAt": "2026-07-10T03:37:30.250Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9a117641",
       "sentAt": "2026-06-06T23:07:30.325Z",
       "title": "Trump Signs Executive Order for AI Testing Prior to Frontier Model Releases"
-    },
-    {
-      "id": "u_c142f82a",
-      "sentAt": "2026-06-06T23:07:30.325Z",
-      "title": "Google’s New Colab CLI Lets Developers and AI Agents Run Python on Remote Colab GPUs and TPUs From the Terminal"
-    },
-    {
-      "id": "u_dd258df3",
-      "sentAt": "2026-06-06T23:07:30.325Z",
-      "title": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model — 1,000 Ascend 910C chips used in training - Tom's Hardware"
-    },
-    {
-      "id": "u_f8204ce2",
-      "sentAt": "2026-06-06T23:07:30.325Z",
-      "title": "DeepSeek V4 Flash is amazing! (WIP llama.cpp PR #24162)"
-    },
-    {
-      "id": "u_de4cfc1e",
-      "sentAt": "2026-06-06T23:07:30.325Z",
-      "title": "NVIDIA Releases Nemotron 3.5 ASR: A 600M-Parameter Cache-Aware Streaming Model Transcribing 40 Language-Locales in Real Time"
-    },
-    {
-      "id": "u_f6d7e08d",
-      "sentAt": "2026-06-06T21:08:10.825Z",
-      "title": "AI Memory Fails Spectacularly: 95% Error Rate Unveiled"
     }
   ]
 }
