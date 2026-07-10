@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-10T19:37:25.565Z",
+  "updatedAt": "2026-07-10T21:08:33.274Z",
   "entries": [
+    {
+      "id": "u_a70d483c",
+      "sentAt": "2026-07-10T21:08:33.274Z",
+      "title": "SpatialThinker: A Leap in AI's Spatial Reasoning"
+    },
+    {
+      "id": "u_8e17436f",
+      "sentAt": "2026-07-10T21:08:33.274Z",
+      "title": "OpenSIR: The AI That Teaches Itself and Raises the Bar"
+    },
+    {
+      "id": "u_748ccfc3",
+      "sentAt": "2026-07-10T21:08:33.274Z",
+      "title": "RustMizan: The New Benchmark for AI's Code Security Challenge"
+    },
+    {
+      "id": "u_40d16185",
+      "sentAt": "2026-07-10T21:08:33.274Z",
+      "title": "SpatialThinker: Revolutionizing Spatial Reasoning in AI"
+    },
+    {
+      "id": "u_4c3c93e0",
+      "sentAt": "2026-07-10T21:08:33.274Z",
+      "title": "AI Tutors: Answer-Driven or Just Well-Formatted?"
+    },
     {
       "id": "u_6052e4aa",
       "sentAt": "2026-07-10T19:37:25.565Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e1781194",
       "sentAt": "2026-06-07T17:22:19.018Z",
       "title": "AgentCrew: Open-Source AI that Might Just Rock the Boat"
-    },
-    {
-      "id": "u_10708cef",
-      "sentAt": "2026-06-07T17:22:19.018Z",
-      "title": "Show HN: AgentCrew – a Markdown-first operating system for AI coding agents"
-    },
-    {
-      "id": "u_5b359dba",
-      "sentAt": "2026-06-07T17:22:19.018Z",
-      "title": "Snowflake, Databricks and the model makers: The battle for the agentic client and AI back end"
-    },
-    {
-      "id": "u_2e6d8495",
-      "sentAt": "2026-06-07T17:22:19.018Z",
-      "title": "How to Save Tokens When Coding with AI Agents: Subtitle Yadda Yadda"
-    },
-    {
-      "id": "u_e645efb7",
-      "sentAt": "2026-06-07T17:22:19.018Z",
-      "title": "Control a 3D avatar with language instead of buttons"
-    },
-    {
-      "id": "u_e4676202",
-      "sentAt": "2026-06-07T14:00:44.851Z",
-      "title": "How Stack Overflow Became AI's Unlikely Mentor"
     }
   ]
 }
