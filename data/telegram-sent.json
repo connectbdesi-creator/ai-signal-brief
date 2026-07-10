@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-10T17:49:23.852Z",
+  "updatedAt": "2026-07-10T19:37:25.565Z",
   "entries": [
+    {
+      "id": "u_6052e4aa",
+      "sentAt": "2026-07-10T19:37:25.565Z",
+      "title": "Toshio Fukuda: The Robotics Legend You Need to Know"
+    },
+    {
+      "id": "u_1562acca",
+      "sentAt": "2026-07-10T19:37:25.565Z",
+      "title": "ABB Robotics Unveils Flexley Stack F712: The Future of Autonomous Forklifts"
+    },
+    {
+      "id": "u_55081931",
+      "sentAt": "2026-07-10T19:37:25.565Z",
+      "title": "ABB Robotics Unveils Game-Changing Autonomous Forklift with vSLAM Technology"
+    },
+    {
+      "id": "u_b8ca1cc8",
+      "sentAt": "2026-07-10T19:37:25.565Z",
+      "title": "Meta's Muse Image Model: A New Era for AI Creativity"
+    },
+    {
+      "id": "u_d5f909f5",
+      "sentAt": "2026-07-10T19:37:25.565Z",
+      "title": "Perplexity's New AI Tool Aims to Disrupt the Coding World"
+    },
     {
       "id": "u_f4ebc6a9",
       "sentAt": "2026-07-10T17:49:23.852Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e4676202",
       "sentAt": "2026-06-07T14:00:44.851Z",
       "title": "How Stack Overflow Became AI's Unlikely Mentor"
-    },
-    {
-      "id": "u_6dbb9019",
-      "sentAt": "2026-06-07T14:00:44.851Z",
-      "title": "Show HN: Version Control for AI Agents"
-    },
-    {
-      "id": "u_3704c6ec",
-      "sentAt": "2026-06-07T14:00:44.851Z",
-      "title": "OpenAI Bets on Autonomous AI Agents, Declares Chat 'Dead'"
-    },
-    {
-      "id": "u_ee110e97",
-      "sentAt": "2026-06-07T14:00:44.851Z",
-      "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app"
-    },
-    {
-      "id": "u_8c00efc5",
-      "sentAt": "2026-06-07T14:00:44.851Z",
-      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts"
-    },
-    {
-      "id": "u_60ee8f5a",
-      "sentAt": "2026-06-07T11:50:38.299Z",
-      "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app"
     }
   ]
 }
