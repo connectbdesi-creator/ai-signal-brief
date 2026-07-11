@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-11T13:25:52.830Z",
+  "updatedAt": "2026-07-11T14:57:21.209Z",
   "entries": [
+    {
+      "id": "u_1a1a924",
+      "sentAt": "2026-07-11T14:57:21.209Z",
+      "title": "That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It"
+    },
+    {
+      "id": "u_6dd80807",
+      "sentAt": "2026-07-11T14:57:21.209Z",
+      "title": "Colibrì proof-of-concept gains frontier-level 1.5-TB AI model — novel approach runs on only 25GB of RAM and shows promise for local AI setups - Tom's Hardware"
+    },
     {
       "id": "u_8bc1640c",
       "sentAt": "2026-07-11T13:25:52.830Z",
@@ -4990,16 +5000,6 @@
       "id": "u_de193b8e",
       "sentAt": "2026-06-08T18:31:48.185Z",
       "title": "Microsoft Research's Lens proves detailed captions matter more than raw scale for training efficient image generators"
-    },
-    {
-      "id": "u_c74b3806",
-      "sentAt": "2026-06-08T18:31:48.185Z",
-      "title": "Token Economics: Coinbase's Strategy to Tame AI Costs"
-    },
-    {
-      "id": "u_587f04ba",
-      "sentAt": "2026-06-08T15:59:04.002Z",
-      "title": "Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required"
     }
   ]
 }
