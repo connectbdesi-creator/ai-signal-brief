@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-11T17:01:07.934Z",
+  "updatedAt": "2026-07-11T19:08:51.918Z",
   "entries": [
+    {
+      "id": "u_a1c57805",
+      "sentAt": "2026-07-11T19:08:51.918Z",
+      "title": "Sovereign AI: The New Frontier in the Global Tech Race"
+    },
+    {
+      "id": "u_635fdeb1",
+      "sentAt": "2026-07-11T19:08:51.918Z",
+      "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour"
+    },
+    {
+      "id": "u_2ea0d1f8",
+      "sentAt": "2026-07-11T19:08:51.918Z",
+      "title": "AI Chatbots: New Tools in the Hands of Terrorists"
+    },
+    {
+      "id": "u_6537e70f",
+      "sentAt": "2026-07-11T19:08:51.918Z",
+      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development"
+    },
+    {
+      "id": "u_91e1a7b0",
+      "sentAt": "2026-07-11T19:08:51.918Z",
+      "title": "VultronRetriever family of models released on HuggingFace![R]"
+    },
     {
       "id": "u_8e6d209f",
       "sentAt": "2026-07-11T17:01:07.934Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cde3327c",
       "sentAt": "2026-06-08T21:52:24.543Z",
       "title": "Bridging the AI Sim-to-Real Divide: A New Model for Agent Evaluation"
-    },
-    {
-      "id": "u_f221280f",
-      "sentAt": "2026-06-08T21:52:24.543Z",
-      "title": "MemDreamer: Tackling Long-Video AI With Agentic Smarts"
-    },
-    {
-      "id": "u_e20e9cef",
-      "sentAt": "2026-06-08T21:52:24.543Z",
-      "title": "Qwen3.6-35B-A3B tool calling benchmark: ByteShape vs. Unsloth GGUFs, KV cache quants & long context performance"
-    },
-    {
-      "id": "u_8390aada",
-      "sentAt": "2026-06-08T21:52:24.543Z",
-      "title": "OpenAI Launches AI Economic Research Program - StartupHub.ai"
-    },
-    {
-      "id": "u_1930920a",
-      "sentAt": "2026-06-08T18:31:48.185Z",
-      "title": "AI Research Unveils Surprising New Algorithm, But Will It Change Anything?"
-    },
-    {
-      "id": "u_5dbc350e",
-      "sentAt": "2026-06-08T18:31:48.185Z",
-      "title": "Microsoft Lens: Punching Above Its Weight in AI Image Generation"
     }
   ]
 }
