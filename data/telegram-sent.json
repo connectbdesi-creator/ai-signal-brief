@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-11T09:40:36.714Z",
+  "updatedAt": "2026-07-11T11:08:07.802Z",
   "entries": [
+    {
+      "id": "u_f7b35619",
+      "sentAt": "2026-07-11T11:08:07.802Z",
+      "title": "Asymmetric Representation Learning: A New Neural Divergence Head"
+    },
+    {
+      "id": "u_d37e9dd",
+      "sentAt": "2026-07-11T11:08:07.802Z",
+      "title": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI"
+    },
+    {
+      "id": "u_1980e23a",
+      "sentAt": "2026-07-11T11:08:07.802Z",
+      "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development - The Motley Fool"
+    },
+    {
+      "id": "u_386d666b",
+      "sentAt": "2026-07-11T11:08:07.802Z",
+      "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees"
+    },
+    {
+      "id": "u_e8977bc1",
+      "sentAt": "2026-07-11T11:08:07.802Z",
+      "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development - The Globe and Mail"
+    },
     {
       "id": "u_66652b38",
       "sentAt": "2026-07-11T09:40:36.714Z",
@@ -4975,31 +5000,6 @@
       "id": "u_919afb19",
       "sentAt": "2026-06-08T11:02:51.267Z",
       "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men"
-    },
-    {
-      "id": "u_62f28d4e",
-      "sentAt": "2026-06-08T11:02:51.267Z",
-      "title": "Why Product-Unit Residual Networks Are Reshaping AI Interpretability"
-    },
-    {
-      "id": "u_b7a9ba6a",
-      "sentAt": "2026-06-08T11:02:51.267Z",
-      "title": "Why Bigger Isn't Always Better in LLM Cooperation"
-    },
-    {
-      "id": "u_64998fb7",
-      "sentAt": "2026-06-08T11:02:51.267Z",
-      "title": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription"
-    },
-    {
-      "id": "u_78424098",
-      "sentAt": "2026-06-08T11:02:51.267Z",
-      "title": "AI Pulse gets you the latest from the world of tech and artificial intelligence 🔴 Google pays SpaceX $920M a month for AI compute despite having its own T-P-U infrastructure 🍎 Apple WWDC 2026: Siri rebuilt on Google Gemini, OpenAI partnership expands un - LinkedIn"
-    },
-    {
-      "id": "u_d386e2ba",
-      "sentAt": "2026-06-08T04:19:50.224Z",
-      "title": "Breaking Down Bias in NLP: A Perspectivist Revolution"
     }
   ]
 }
