@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-11T02:52:10.594Z",
+  "updatedAt": "2026-07-11T06:17:09.809Z",
   "entries": [
+    {
+      "id": "u_72b7a733",
+      "sentAt": "2026-07-11T06:17:09.809Z",
+      "title": "The Great AI Shift: Why Open-Source Models Are Taking Over"
+    },
+    {
+      "id": "u_2126c379",
+      "sentAt": "2026-07-11T06:17:09.809Z",
+      "title": "Untangling AI: Why Loop and Harness Engineering Are Critical for AI Agents"
+    },
+    {
+      "id": "u_5e048606",
+      "sentAt": "2026-07-11T06:17:09.809Z",
+      "title": "The Critic-Agent Loop: A Path to Reliable AI"
+    },
+    {
+      "id": "u_5cdc1409",
+      "sentAt": "2026-07-11T06:17:09.809Z",
+      "title": "NVIDIA's Open Models Take Center Stage at ICML 2026"
+    },
+    {
+      "id": "u_23dbc8be",
+      "sentAt": "2026-07-11T06:17:09.809Z",
+      "title": "A Luxury Fashion Retailer in Bahrain Launches Its Own AI Personal Stylist - WWD"
+    },
     {
       "id": "u_2712ea8",
       "sentAt": "2026-07-11T02:52:10.594Z",
@@ -4975,31 +5000,6 @@
       "id": "u_afc504e1",
       "sentAt": "2026-06-07T23:09:50.208Z",
       "title": "AI's Grip Tightens on the Chip Industry"
-    },
-    {
-      "id": "u_55d3269f",
-      "sentAt": "2026-06-07T23:09:50.208Z",
-      "title": "Unveiling Silicon Control: The Next Step in AI Regulation?"
-    },
-    {
-      "id": "u_60fb1602",
-      "sentAt": "2026-06-07T23:09:50.208Z",
-      "title": "AI Politics: Trump's Executive Order Dance and Anthropic's Strategic Moves"
-    },
-    {
-      "id": "u_76b6af3c",
-      "sentAt": "2026-06-07T23:09:50.208Z",
-      "title": "Bright Data's AI Agent Builds Web Scraping Pipelines - StartupHub.ai"
-    },
-    {
-      "id": "u_11e02fd0",
-      "sentAt": "2026-06-07T23:09:50.208Z",
-      "title": "Meet Harness-1: A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b"
-    },
-    {
-      "id": "u_7b5f2165",
-      "sentAt": "2026-06-07T21:17:55.158Z",
-      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE"
     }
   ]
 }
