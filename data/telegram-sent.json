@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-07-11T19:08:51.918Z",
+  "updatedAt": "2026-07-11T20:53:20.810Z",
   "entries": [
+    {
+      "id": "u_6da125f7",
+      "sentAt": "2026-07-11T20:53:20.810Z",
+      "title": "ChatGPT-Live vs Pi vs Lucy OS1 vs Gemini-Live: best AI assistant to talk with?"
+    },
+    {
+      "id": "u_8e20558d",
+      "sentAt": "2026-07-11T20:53:20.810Z",
+      "title": "Weekly recap: GPT-5.6 public launch, Grok 4.5, Gemini 3.5 Pro delayed, Microsoft Copilot conversion data, DeepSeek API retirement on July 24"
+    },
+    {
+      "id": "u_9d8d0ca9",
+      "sentAt": "2026-07-11T20:53:20.810Z",
+      "title": "What is the meaning of AI benchmarks?"
+    },
     {
       "id": "u_a1c57805",
       "sentAt": "2026-07-11T19:08:51.918Z",
@@ -4985,21 +5000,6 @@
       "id": "u_9d4a9742",
       "sentAt": "2026-06-08T23:13:31.478Z",
       "title": "AI coding agents are getting better at writing code, but I'm not convinced they're getting better at understanding codebases"
-    },
-    {
-      "id": "u_7b408838",
-      "sentAt": "2026-06-08T23:13:31.478Z",
-      "title": "Apple’s New Siri AI Is Ready to Get Personal"
-    },
-    {
-      "id": "u_e1566630",
-      "sentAt": "2026-06-08T21:52:24.543Z",
-      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic"
-    },
-    {
-      "id": "u_cde3327c",
-      "sentAt": "2026-06-08T21:52:24.543Z",
-      "title": "Bridging the AI Sim-to-Real Divide: A New Model for Agent Evaluation"
     }
   ]
 }
