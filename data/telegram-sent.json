@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-10T23:01:05.069Z",
+  "updatedAt": "2026-07-11T02:52:10.594Z",
   "entries": [
+    {
+      "id": "u_2712ea8",
+      "sentAt": "2026-07-11T02:52:10.594Z",
+      "title": "CompactionRL: Redefining Long-Horizon Learning for LLMs"
+    },
+    {
+      "id": "u_f40c2840",
+      "sentAt": "2026-07-11T02:52:10.594Z",
+      "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI"
+    },
+    {
+      "id": "u_4fb6680e",
+      "sentAt": "2026-07-11T02:52:10.594Z",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue"
+    },
+    {
+      "id": "u_51258536",
+      "sentAt": "2026-07-11T02:52:10.594Z",
+      "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity"
+    },
+    {
+      "id": "u_8138c069",
+      "sentAt": "2026-07-11T02:52:10.594Z",
+      "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore"
+    },
     {
       "id": "u_f71f6141",
       "sentAt": "2026-07-10T23:01:05.069Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7b5f2165",
       "sentAt": "2026-06-07T21:17:55.158Z",
       "title": "Show HN: Nightwatch, The open-source, read-only AI SRE"
-    },
-    {
-      "id": "u_58cc3e71",
-      "sentAt": "2026-06-07T21:17:55.158Z",
-      "title": "Qwen 3.6 27B on DeepSWE"
-    },
-    {
-      "id": "u_de34238b",
-      "sentAt": "2026-06-07T21:17:55.158Z",
-      "title": "AI's Role in Shaping Public Opinion: A New Frontier"
-    },
-    {
-      "id": "u_45595d6d",
-      "sentAt": "2026-06-07T21:17:55.158Z",
-      "title": "Artificial intelligence: Xinhua plans agents for ideological opinion-shaping - Table.Briefings"
-    },
-    {
-      "id": "u_697cddac",
-      "sentAt": "2026-06-07T21:17:55.158Z",
-      "title": "Google signs $920M monthly compute deal with SpaceX — company’s projected annual data center revenue to exceed its combined proceeds from Starlink, launch services, and AI in 2025 - Tom's Hardware"
-    },
-    {
-      "id": "u_fb1577e1",
-      "sentAt": "2026-06-07T19:28:01.542Z",
-      "title": "Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation"
     }
   ]
 }
