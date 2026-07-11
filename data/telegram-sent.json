@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-11T11:08:07.802Z",
+  "updatedAt": "2026-07-11T13:25:52.830Z",
   "entries": [
+    {
+      "id": "u_8bc1640c",
+      "sentAt": "2026-07-11T13:25:52.830Z",
+      "title": "How OpenAI's Codex Just Made Copy-Paste Smarter"
+    },
+    {
+      "id": "u_3133dc1d",
+      "sentAt": "2026-07-11T13:25:52.830Z",
+      "title": "Anthropic's Fable 5: The AI Model Battleground"
+    },
+    {
+      "id": "u_c5308c72",
+      "sentAt": "2026-07-11T13:25:52.830Z",
+      "title": "Why Vision-Language-Action Models Are Shaping the Future of Robotics"
+    },
+    {
+      "id": "u_9c9b533",
+      "sentAt": "2026-07-11T13:25:52.830Z",
+      "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth"
+    },
+    {
+      "id": "u_fba8188a",
+      "sentAt": "2026-07-11T13:25:52.830Z",
+      "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore"
+    },
     {
       "id": "u_f7b35619",
       "sentAt": "2026-07-11T11:08:07.802Z",
@@ -4975,31 +5000,6 @@
       "id": "u_587f04ba",
       "sentAt": "2026-06-08T15:59:04.002Z",
       "title": "Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required"
-    },
-    {
-      "id": "u_607b9b30",
-      "sentAt": "2026-06-08T15:59:04.002Z",
-      "title": "Securing AI Agents: Snowflake and 1Password's Bold Move"
-    },
-    {
-      "id": "u_fb7a3685",
-      "sentAt": "2026-06-08T15:59:04.002Z",
-      "title": "Pega expands AI platform with agent orchestration, development tools and new pricing model"
-    },
-    {
-      "id": "u_63875810",
-      "sentAt": "2026-06-08T15:59:04.002Z",
-      "title": "Snowflake and 1Password tackle the growing challenge of securing AI agents at scale"
-    },
-    {
-      "id": "u_269e1d6a",
-      "sentAt": "2026-06-08T15:59:04.002Z",
-      "title": "Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax"
-    },
-    {
-      "id": "u_919afb19",
-      "sentAt": "2026-06-08T11:02:51.267Z",
-      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men"
     }
   ]
 }
