@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-11T06:17:09.809Z",
+  "updatedAt": "2026-07-11T09:40:36.714Z",
   "entries": [
+    {
+      "id": "u_66652b38",
+      "sentAt": "2026-07-11T09:40:36.714Z",
+      "title": "Vision-Language Models: The New Frontier in Medical Imaging?"
+    },
+    {
+      "id": "u_e173e8b5",
+      "sentAt": "2026-07-11T09:40:36.714Z",
+      "title": "MolSight: A New Era in Molecular Image Understanding"
+    },
+    {
+      "id": "u_2f11a07f",
+      "sentAt": "2026-07-11T09:40:36.714Z",
+      "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label"
+    },
+    {
+      "id": "u_33b26c7d",
+      "sentAt": "2026-07-11T09:40:36.714Z",
+      "title": "Japan weighing AI agents for understaffed local governments - The Japan Times"
+    },
+    {
+      "id": "u_27f247",
+      "sentAt": "2026-07-11T09:40:36.714Z",
+      "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs"
+    },
     {
       "id": "u_72b7a733",
       "sentAt": "2026-07-11T06:17:09.809Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d386e2ba",
       "sentAt": "2026-06-08T04:19:50.224Z",
       "title": "Breaking Down Bias in NLP: A Perspectivist Revolution"
-    },
-    {
-      "id": "u_66f363e6",
-      "sentAt": "2026-06-08T04:19:50.224Z",
-      "title": "How Complex Numbers Could Revolutionize Nuclear Mass Prediction"
-    },
-    {
-      "id": "u_7da76167",
-      "sentAt": "2026-06-08T04:19:50.224Z",
-      "title": "The Masked Advantage: Uncovering Local-Language Access to Cultural Knowledge in LLMs"
-    },
-    {
-      "id": "u_e706fa35",
-      "sentAt": "2026-06-08T04:19:50.224Z",
-      "title": "GenPO++: Generative Policy Optimization with Jacobian-free Likelihood Ratios"
-    },
-    {
-      "id": "u_ddb92a5d",
-      "sentAt": "2026-06-08T04:19:50.224Z",
-      "title": "Learning All-Terrain Locomotion for a Planetary Rover with Actively Articulated Suspension"
-    },
-    {
-      "id": "u_afc504e1",
-      "sentAt": "2026-06-07T23:09:50.208Z",
-      "title": "AI's Grip Tightens on the Chip Industry"
     }
   ]
 }
