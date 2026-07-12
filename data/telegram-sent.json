@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-07-11T22:53:13.759Z",
+  "updatedAt": "2026-07-12T03:16:31.505Z",
   "entries": [
+    {
+      "id": "u_120c82fc",
+      "sentAt": "2026-07-12T03:16:31.505Z",
+      "title": "sqlite-utils 4.1"
+    },
     {
       "id": "u_e53e0052",
       "sentAt": "2026-07-11T22:53:13.759Z",
@@ -4995,11 +5000,6 @@
       "id": "u_ec7ac033",
       "sentAt": "2026-06-09T03:51:04.657Z",
       "title": "I fine-tuned Parakeet 0.6B for medical ASR — open weights, local Mac/CUDA/CPU"
-    },
-    {
-      "id": "u_42aaee68",
-      "sentAt": "2026-06-08T23:13:31.478Z",
-      "title": "Streamlining AI Integration: Meet RunAPI"
     }
   ]
 }
