@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-07-12T03:16:31.505Z",
+  "updatedAt": "2026-07-12T06:36:08.488Z",
   "entries": [
+    {
+      "id": "u_451a8ad",
+      "sentAt": "2026-07-12T06:36:08.488Z",
+      "title": "Artificial Intelligence is Reshaping the US Financial Market; EX DeFi Launches AI-Driven Trading Technology - The Manila Times"
+    },
     {
       "id": "u_120c82fc",
       "sentAt": "2026-07-12T03:16:31.505Z",
@@ -4995,11 +5000,6 @@
       "id": "u_d0d3c4ea",
       "sentAt": "2026-06-09T03:51:04.657Z",
       "title": "Decoding LLMs: A New Framework for Trust and Clarity"
-    },
-    {
-      "id": "u_ec7ac033",
-      "sentAt": "2026-06-09T03:51:04.657Z",
-      "title": "I fine-tuned Parakeet 0.6B for medical ASR — open weights, local Mac/CUDA/CPU"
     }
   ]
 }
