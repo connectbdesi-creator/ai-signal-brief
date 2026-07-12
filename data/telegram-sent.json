@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-12T06:36:08.488Z",
+  "updatedAt": "2026-07-12T09:53:21.854Z",
   "entries": [
+    {
+      "id": "u_2da8a766",
+      "sentAt": "2026-07-12T09:53:21.854Z",
+      "title": "Overplane's New AI Model: Stripping Away the Hype"
+    },
+    {
+      "id": "u_c2461a46",
+      "sentAt": "2026-07-12T09:53:21.854Z",
+      "title": "China's DeepSeek Ventures into AI Chips: A Strategic Move"
+    },
+    {
+      "id": "u_d7383f56",
+      "sentAt": "2026-07-12T09:53:21.854Z",
+      "title": "Stripe's New Offering Sparks Interest, But Questions Remain"
+    },
+    {
+      "id": "u_3a4fa712",
+      "sentAt": "2026-07-12T09:53:21.854Z",
+      "title": "AI Agents Slay the Spire with New Memory Trick"
+    },
+    {
+      "id": "u_94b378b6",
+      "sentAt": "2026-07-12T09:53:21.854Z",
+      "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory"
+    },
     {
       "id": "u_451a8ad",
       "sentAt": "2026-07-12T06:36:08.488Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cb5c1c8c",
       "sentAt": "2026-06-09T07:53:19.767Z",
       "title": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search"
-    },
-    {
-      "id": "u_b4f31727",
-      "sentAt": "2026-06-09T07:53:19.767Z",
-      "title": "Robinhood Launches Agentic Artificial Intelligence (AI) for Stock Trading. Here's Why It Might Not Move the Stock. - AOL.com"
-    },
-    {
-      "id": "u_1baf1c5a",
-      "sentAt": "2026-06-09T03:51:04.657Z",
-      "title": "Nvidia And Microsoft Bet Agents Need Their Own Hardware"
-    },
-    {
-      "id": "u_af0c729b",
-      "sentAt": "2026-06-09T03:51:04.657Z",
-      "title": "2X tk/s (from 19.4 -> 38.1 tk/s on 1 x MI50) Playing with a hypothesis like speculative decoding.. but instead of an additional side model, exploiting that I can run multiple computations side-by-side AS IF I had Qwen3.6-27B loaded twice in memory - small quants don't use all the available compute."
-    },
-    {
-      "id": "u_c1593505",
-      "sentAt": "2026-06-09T03:51:04.657Z",
-      "title": "TRACE: A New Guardian for Long-Haul AI Monitoring"
-    },
-    {
-      "id": "u_d0d3c4ea",
-      "sentAt": "2026-06-09T03:51:04.657Z",
-      "title": "Decoding LLMs: A New Framework for Trust and Clarity"
     }
   ]
 }
