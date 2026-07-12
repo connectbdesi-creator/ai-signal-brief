@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-12T20:54:35.299Z",
+  "updatedAt": "2026-07-12T22:53:44.811Z",
   "entries": [
+    {
+      "id": "u_efe103ba",
+      "sentAt": "2026-07-12T22:53:44.811Z",
+      "title": "U.S. Export Controls Target Anthropic's AI: A Landmark Move"
+    },
+    {
+      "id": "u_21b45e31",
+      "sentAt": "2026-07-12T22:53:44.811Z",
+      "title": "Why GLM 5.2 May Be the Code Whisperer Developers Didn't Know They Needed"
+    },
+    {
+      "id": "u_1d783184",
+      "sentAt": "2026-07-12T22:53:44.811Z",
+      "title": "Gusto’s CTO Redefines Agile with a 10-Week AI Sprint"
+    },
+    {
+      "id": "u_ea2a6ead",
+      "sentAt": "2026-07-12T22:53:44.811Z",
+      "title": "Anthropic's Sonnet 5: A Frontier Model Under the Microscope"
+    },
+    {
+      "id": "u_1aa6d20a",
+      "sentAt": "2026-07-12T22:53:44.811Z",
+      "title": "Fable gets another bump"
+    },
     {
       "id": "u_dee9a5ec",
       "sentAt": "2026-07-12T20:54:35.299Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7d09b0e4",
       "sentAt": "2026-06-10T10:08:17.047Z",
       "title": "Introducing Papers Without Code [P]"
-    },
-    {
-      "id": "u_34ea1b4c",
-      "sentAt": "2026-06-10T04:02:10.823Z",
-      "title": "Using Probabilistic Programs to Train Inductive Reasoning in Large Language Models"
-    },
-    {
-      "id": "u_612eb13e",
-      "sentAt": "2026-06-10T04:02:10.823Z",
-      "title": "Operator Fusion for LLM Inference on the Tensix Architecture"
-    },
-    {
-      "id": "u_9490d77c",
-      "sentAt": "2026-06-10T04:02:10.823Z",
-      "title": "Alignment Defends LLMs from Property Inference Attacks"
-    },
-    {
-      "id": "u_927b4e4d",
-      "sentAt": "2026-06-10T04:02:10.823Z",
-      "title": "Enhancing Multilingual LLM-based ASR with Mixture of Experts and Dynamic Downsampling"
-    },
-    {
-      "id": "u_6c161b50",
-      "sentAt": "2026-06-10T04:02:10.823Z",
-      "title": "GRAFT: Gain-Recalibrated Adapters for Transformer-Based Neural Population Activity Modeling"
     }
   ]
 }
