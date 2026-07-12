@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-12T09:53:21.854Z",
+  "updatedAt": "2026-07-12T11:13:42.846Z",
   "entries": [
+    {
+      "id": "u_bf4f3f0e",
+      "sentAt": "2026-07-12T11:13:42.846Z",
+      "title": "A New Player Emerges in AI Performance Testing"
+    },
+    {
+      "id": "u_ff09e535",
+      "sentAt": "2026-07-12T11:13:42.846Z",
+      "title": "Sanbox: Isolated AI Agents with MicroVM Precision"
+    },
+    {
+      "id": "u_eac45",
+      "sentAt": "2026-07-12T11:13:42.846Z",
+      "title": "AI Model Training: Why Your Data Might Be Holding You Back"
+    },
+    {
+      "id": "u_2f1c6d4a",
+      "sentAt": "2026-07-12T11:13:42.846Z",
+      "title": "AI-Driven Video Creation: The Next Frontier in Viral Content?"
+    },
+    {
+      "id": "u_2fb78b20",
+      "sentAt": "2026-07-12T11:13:42.846Z",
+      "title": "Lip Sync AI: The Future of Talking Videos"
+    },
     {
       "id": "u_2da8a766",
       "sentAt": "2026-07-12T09:53:21.854Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2f0a4cf2",
       "sentAt": "2026-06-09T11:19:44.340Z",
       "title": "Gaming AI: The Quest for Artificial General Intelligence Through Play"
-    },
-    {
-      "id": "u_b3bdcc59",
-      "sentAt": "2026-06-09T11:19:44.340Z",
-      "title": "Filigran launches XTM One to automate threat exposure management with AI agents"
-    },
-    {
-      "id": "u_32fcc02d",
-      "sentAt": "2026-06-09T07:53:19.767Z",
-      "title": "Claude repeatedly implied that I was suicidal after I explicitly denied it around 30 times in one conversation"
-    },
-    {
-      "id": "u_9355ebc",
-      "sentAt": "2026-06-09T07:53:19.767Z",
-      "title": "Activation Steering: A Fragile Strategy in AI Models"
-    },
-    {
-      "id": "u_82e4e9bc",
-      "sentAt": "2026-06-09T07:53:19.767Z",
-      "title": "Cracking the Language Code: Clinical AI's Cross-Lingual Challenge"
-    },
-    {
-      "id": "u_cb5c1c8c",
-      "sentAt": "2026-06-09T07:53:19.767Z",
-      "title": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search"
     }
   ]
 }
