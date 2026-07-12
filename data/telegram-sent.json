@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-12T14:59:42.098Z",
+  "updatedAt": "2026-07-12T17:01:46.404Z",
   "entries": [
+    {
+      "id": "u_ac849d82",
+      "sentAt": "2026-07-12T17:01:46.404Z",
+      "title": "Anthropic Sheds Light on AI Reasoning with J-Space Research"
+    },
+    {
+      "id": "u_8838067c",
+      "sentAt": "2026-07-12T17:01:46.404Z",
+      "title": "Sam Altman and Elon Musk: The AI Rivalry Everyone's Watching"
+    },
+    {
+      "id": "u_921976c7",
+      "sentAt": "2026-07-12T17:01:46.404Z",
+      "title": "Meta's AI Photo Tool Faces Public Backlash, Gets Pulled"
+    },
+    {
+      "id": "u_706e6b56",
+      "sentAt": "2026-07-12T17:01:46.404Z",
+      "title": "Why AI Agents Need Their Own Email Strategy"
+    },
+    {
+      "id": "u_7f450aaa",
+      "sentAt": "2026-07-12T17:01:46.404Z",
+      "title": "Cracking the Code: How AI Shopping Agents Decide Where You Buy"
+    },
     {
       "id": "u_17506843",
       "sentAt": "2026-07-12T14:59:42.098Z",
@@ -4975,31 +5000,6 @@
       "id": "u_331ec458",
       "sentAt": "2026-06-09T21:49:46.446Z",
       "title": "Mind the Gap: Unveiling Hidden Vulnerabilities in Language Models"
-    },
-    {
-      "id": "u_24a52a9e",
-      "sentAt": "2026-06-09T21:49:46.446Z",
-      "title": "Cracking the Code: Predicting AI Model Performance with Precision"
-    },
-    {
-      "id": "u_c6e7acc3",
-      "sentAt": "2026-06-09T21:49:46.446Z",
-      "title": "Reasoning Arena: Transforming AI's Learning Curve"
-    },
-    {
-      "id": "u_6a598bf9",
-      "sentAt": "2026-06-09T21:49:46.446Z",
-      "title": "Setting a custom price for a model in AgentsView"
-    },
-    {
-      "id": "u_a2da18a6",
-      "sentAt": "2026-06-09T21:49:46.446Z",
-      "title": "Maryland Launches Innovation Lab for Artificial Intelligence - govtech.com"
-    },
-    {
-      "id": "u_e9120c5a",
-      "sentAt": "2026-06-09T18:09:48.841Z",
-      "title": "What will be the next breakthrough in ASR? [D]"
     }
   ]
 }
