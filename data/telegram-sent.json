@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-12T11:13:42.846Z",
+  "updatedAt": "2026-07-12T13:26:53.984Z",
   "entries": [
+    {
+      "id": "u_81e6d26e",
+      "sentAt": "2026-07-12T13:26:53.984Z",
+      "title": "Goldman Sachs Just Picked Its Chinese AI Winners — And the Open-Source Bet Is Massive"
+    },
+    {
+      "id": "u_298256ec",
+      "sentAt": "2026-07-12T13:26:53.984Z",
+      "title": "AI Is Flooding Open Source With Broken Code — and Maintainers Are Walking Away"
+    },
+    {
+      "id": "u_ae22c1b7",
+      "sentAt": "2026-07-12T13:26:53.984Z",
+      "title": "Musk vs. Altman: The $2 Trillion Fight Over Space Data Centers That Just Went Nuclear"
+    },
+    {
+      "id": "u_8a8a08f6",
+      "sentAt": "2026-07-12T13:26:53.984Z",
+      "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]"
+    },
+    {
+      "id": "u_b3919cc8",
+      "sentAt": "2026-07-12T13:26:53.984Z",
+      "title": "Daffodil International University launches AI Research Lab - Dhaka Tribune"
+    },
     {
       "id": "u_bf4f3f0e",
       "sentAt": "2026-07-12T11:13:42.846Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3d512018",
       "sentAt": "2026-06-09T18:09:48.841Z",
       "title": "Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages"
-    },
-    {
-      "id": "u_22b2d96",
-      "sentAt": "2026-06-09T18:09:48.841Z",
-      "title": "IGENBENCH: A New Benchmark Reveals the Flaws in Infographic Generation"
-    },
-    {
-      "id": "u_28ae1018",
-      "sentAt": "2026-06-09T11:19:44.340Z",
-      "title": "Navigating Crowds: HA-VLN 2.0 and the Future of AI Navigation"
-    },
-    {
-      "id": "u_f17b7216",
-      "sentAt": "2026-06-09T11:19:44.340Z",
-      "title": "Jetson Orin NX Build for Hermes Agent + Benchmarking"
-    },
-    {
-      "id": "u_305b2cbb",
-      "sentAt": "2026-06-09T11:19:44.340Z",
-      "title": "How Spatio-Temporal Verification Could Transform AI in Safety-Critical Systems"
-    },
-    {
-      "id": "u_2f0a4cf2",
-      "sentAt": "2026-06-09T11:19:44.340Z",
-      "title": "Gaming AI: The Quest for Artificial General Intelligence Through Play"
     }
   ]
 }
