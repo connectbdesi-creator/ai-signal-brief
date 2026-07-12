@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-07-12T13:26:53.984Z",
+  "updatedAt": "2026-07-12T14:59:42.098Z",
   "entries": [
+    {
+      "id": "u_17506843",
+      "sentAt": "2026-07-12T14:59:42.098Z",
+      "title": "Kira's New Evidence Architecture: A Step Forward or Just Hype?"
+    },
+    {
+      "id": "u_69ac1f25",
+      "sentAt": "2026-07-12T14:59:42.098Z",
+      "title": "Bringing AI Agents into the Production Line: What's Really Happening?"
+    },
+    {
+      "id": "u_b099797f",
+      "sentAt": "2026-07-12T14:59:42.098Z",
+      "title": "Where to publish a construction BIM Benchmark? [D]"
+    },
     {
       "id": "u_81e6d26e",
       "sentAt": "2026-07-12T13:26:53.984Z",
@@ -4985,21 +5000,6 @@
       "id": "u_e9120c5a",
       "sentAt": "2026-06-09T18:09:48.841Z",
       "title": "What will be the next breakthrough in ASR? [D]"
-    },
-    {
-      "id": "u_fad1a0c4",
-      "sentAt": "2026-06-09T18:09:48.841Z",
-      "title": "Releasing Cohere North Mini Code"
-    },
-    {
-      "id": "u_54716ecd",
-      "sentAt": "2026-06-09T18:09:48.841Z",
-      "title": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API"
-    },
-    {
-      "id": "u_3d512018",
-      "sentAt": "2026-06-09T18:09:48.841Z",
-      "title": "Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages"
     }
   ]
 }
