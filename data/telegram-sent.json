@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-13T11:15:05.634Z",
+  "updatedAt": "2026-07-13T14:40:37.647Z",
   "entries": [
+    {
+      "id": "u_b8e3abfc",
+      "sentAt": "2026-07-13T14:40:37.647Z",
+      "title": "China works on AI safety benchmark as regulators target large model risks - South China Morning Post"
+    },
+    {
+      "id": "u_489918fd",
+      "sentAt": "2026-07-13T14:40:37.647Z",
+      "title": "Apple Sues OpenAI — and the Stakes Are Bigger Than a Phone"
+    },
+    {
+      "id": "u_28bb3ce9",
+      "sentAt": "2026-07-13T14:40:37.647Z",
+      "title": "Israel Launches First Regulatory Sandbox for Artificial Intelligence in Healthcare - EIN News"
+    },
+    {
+      "id": "u_f47f125b",
+      "sentAt": "2026-07-13T14:40:37.647Z",
+      "title": "LLMbda Revolutionizes Security for AI Agents"
+    },
+    {
+      "id": "u_3356782",
+      "sentAt": "2026-07-13T14:40:37.647Z",
+      "title": "Zero Trust in the Age of AI: A Double-Edged Sword?"
+    },
     {
       "id": "u_9ff80dc2",
       "sentAt": "2026-07-13T11:15:05.634Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ba6434d3",
       "sentAt": "2026-06-11T04:15:59.137Z",
       "title": "DeMix: The New Frontier in Machine Learning Data Debugging"
-    },
-    {
-      "id": "u_3ddf3fa8",
-      "sentAt": "2026-06-11T04:15:59.137Z",
-      "title": "Neuroscience Signals Could Hack Your Language Model"
-    },
-    {
-      "id": "u_f95792d3",
-      "sentAt": "2026-06-11T04:15:59.137Z",
-      "title": "Beyond representational alignment with brain-guided language models for robust reasoning"
-    },
-    {
-      "id": "u_bed29e53",
-      "sentAt": "2026-06-11T04:15:59.137Z",
-      "title": "TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data"
-    },
-    {
-      "id": "u_81892f8",
-      "sentAt": "2026-06-11T04:15:59.137Z",
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude"
-    },
-    {
-      "id": "u_4723f5e8",
-      "sentAt": "2026-06-10T22:05:45.759Z",
-      "title": "Dell Teams Up with Microsoft and AMD: Boosting AI to Power Multicloud Realities"
     }
   ]
 }
