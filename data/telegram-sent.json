@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-13T19:39:22.248Z",
+  "updatedAt": "2026-07-13T20:59:07.048Z",
   "entries": [
+    {
+      "id": "u_6699aa16",
+      "sentAt": "2026-07-13T20:59:07.048Z",
+      "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]"
+    },
+    {
+      "id": "u_4b0270f5",
+      "sentAt": "2026-07-13T20:59:07.048Z",
+      "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI"
+    },
+    {
+      "id": "u_9968580a",
+      "sentAt": "2026-07-13T20:59:07.048Z",
+      "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI - Amazon Web Services (AWS)"
+    },
+    {
+      "id": "u_5f5daec",
+      "sentAt": "2026-07-13T20:59:07.048Z",
+      "title": "Agentic RAG: Let the Agent Search"
+    },
+    {
+      "id": "u_66587781",
+      "sentAt": "2026-07-13T20:59:07.048Z",
+      "title": "Waze adds new AI-powered features and customization updates"
+    },
     {
       "id": "u_df0c2257",
       "sentAt": "2026-07-13T19:39:22.248Z",
@@ -4975,31 +5000,6 @@
       "id": "u_475c3721",
       "sentAt": "2026-06-11T20:26:36.892Z",
       "title": "TCNJ and Mercer County Technical Schools launch AI and robotics dual enrollment pathway to build New Jersey’s future workforce | News - The College of New Jersey | News"
-    },
-    {
-      "id": "u_291f13a",
-      "sentAt": "2026-06-11T20:26:36.892Z",
-      "title": "Edge Platforms: The New Frontier for Agentic AI"
-    },
-    {
-      "id": "u_57fc60a9",
-      "sentAt": "2026-06-11T20:26:36.892Z",
-      "title": "Google’s DiffusionGemma: A Leap or Just Hype?"
-    },
-    {
-      "id": "u_51105033",
-      "sentAt": "2026-06-11T20:26:36.892Z",
-      "title": "Computex 2026 Marks The Dawn Of Physical Agentic Computing"
-    },
-    {
-      "id": "u_488fc4d7",
-      "sentAt": "2026-06-11T20:26:36.892Z",
-      "title": "Coinbase's New AI Trading Sidekick: A Game Changer or Just Hype?"
-    },
-    {
-      "id": "u_28c77664",
-      "sentAt": "2026-06-11T16:09:18.713Z",
-      "title": "Boston College launches new institute to ‘confront' AI - NBC Boston"
     }
   ]
 }
