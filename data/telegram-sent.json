@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-13T17:57:03.423Z",
+  "updatedAt": "2026-07-13T19:39:22.248Z",
   "entries": [
+    {
+      "id": "u_df0c2257",
+      "sentAt": "2026-07-13T19:39:22.248Z",
+      "title": "DeepSeek's AI Price Cuts: A Boon or a Bane for Enterprise Margins?"
+    },
+    {
+      "id": "u_e102da85",
+      "sentAt": "2026-07-13T19:39:22.248Z",
+      "title": "AI agents create virtual playgrounds to help robots get crucial training data"
+    },
+    {
+      "id": "u_e229f48f",
+      "sentAt": "2026-07-13T19:39:22.248Z",
+      "title": "OpenAI's Bold Step Into Hardware: Ambitious or Risky?"
+    },
+    {
+      "id": "u_db620d1a",
+      "sentAt": "2026-07-13T19:39:22.248Z",
+      "title": "Apple's Legal Face-off with OpenAI: The Trade Secrets Battle"
+    },
+    {
+      "id": "u_c117e092",
+      "sentAt": "2026-07-13T19:39:22.248Z",
+      "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own"
+    },
     {
       "id": "u_faac4fb2",
       "sentAt": "2026-07-13T17:57:03.423Z",
@@ -4975,31 +5000,6 @@
       "id": "u_28c77664",
       "sentAt": "2026-06-11T16:09:18.713Z",
       "title": "Boston College launches new institute to ‘confront' AI - NBC Boston"
-    },
-    {
-      "id": "u_b42becea",
-      "sentAt": "2026-06-11T16:09:18.713Z",
-      "title": "Evaluate AI agents systematically with Agent-EvalKit"
-    },
-    {
-      "id": "u_914159d",
-      "sentAt": "2026-06-11T16:09:18.713Z",
-      "title": "Evaluate AI agents systematically with Agent-EvalKit - Amazon Web Services (AWS)"
-    },
-    {
-      "id": "u_da58ddcf",
-      "sentAt": "2026-06-11T16:09:18.713Z",
-      "title": "Apple's New Siri: A Late Entry in the AI Race"
-    },
-    {
-      "id": "u_d4cda503",
-      "sentAt": "2026-06-11T16:09:18.713Z",
-      "title": "Subliminal Learning: The Unseen Influence in Language Models"
-    },
-    {
-      "id": "u_525f06ad",
-      "sentAt": "2026-06-11T10:42:21.440Z",
-      "title": "AI Revolutionizes Alzheimer's Staging with Multimodal Models"
     }
   ]
 }
