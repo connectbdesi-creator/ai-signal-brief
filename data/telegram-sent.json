@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-13T20:59:07.048Z",
+  "updatedAt": "2026-07-13T22:57:54.923Z",
   "entries": [
+    {
+      "id": "u_55e80b6f",
+      "sentAt": "2026-07-13T22:57:54.923Z",
+      "title": "AISec: The New Frontier in Securing AI Systems"
+    },
+    {
+      "id": "u_6ebd483b",
+      "sentAt": "2026-07-13T22:57:54.923Z",
+      "title": "DOOMQL"
+    },
+    {
+      "id": "u_38152780",
+      "sentAt": "2026-07-13T22:57:54.923Z",
+      "title": "datasette code-frequency chart on GitHub"
+    },
+    {
+      "id": "u_2276470c",
+      "sentAt": "2026-07-13T22:57:54.923Z",
+      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock"
+    },
+    {
+      "id": "u_f47c1e82",
+      "sentAt": "2026-07-13T22:57:54.923Z",
+      "title": "Zhipu Unveils Open-Source AI as $4 Billion Share Sale Lifts Stock - TradingView"
+    },
     {
       "id": "u_6699aa16",
       "sentAt": "2026-07-13T20:59:07.048Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1a505c33",
       "sentAt": "2026-06-11T23:26:39.405Z",
       "title": "Why Multi-Agent Reasoning Could Revamp Image Classification"
-    },
-    {
-      "id": "u_554e6874",
-      "sentAt": "2026-06-11T23:26:39.405Z",
-      "title": "Deezer's New Tool Exposes the AI Music Flood"
-    },
-    {
-      "id": "u_f82c2f63",
-      "sentAt": "2026-06-11T23:26:39.405Z",
-      "title": "Deezer built a tool to call out AI music — even on rival streaming platforms"
-    },
-    {
-      "id": "u_e0fd0abf",
-      "sentAt": "2026-06-11T23:26:39.405Z",
-      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet"
-    },
-    {
-      "id": "u_94ee8f38",
-      "sentAt": "2026-06-11T23:26:39.405Z",
-      "title": "How Benchling builds agents when the smartest AI isn't smart enough"
-    },
-    {
-      "id": "u_475c3721",
-      "sentAt": "2026-06-11T20:26:36.892Z",
-      "title": "TCNJ and Mercer County Technical Schools launch AI and robotics dual enrollment pathway to build New Jersey’s future workforce | News - The College of New Jersey | News"
     }
   ]
 }
