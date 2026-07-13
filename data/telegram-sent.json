@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-13T03:19:36.795Z",
+  "updatedAt": "2026-07-13T06:56:44.672Z",
   "entries": [
+    {
+      "id": "u_297dd0e6",
+      "sentAt": "2026-07-13T06:56:44.672Z",
+      "title": "Evolving AI Agents: GRACE Enhances Long-Term Reliability"
+    },
+    {
+      "id": "u_57eaba87",
+      "sentAt": "2026-07-13T06:56:44.672Z",
+      "title": "VTaMo: A New Frontier in Sign Language Translation"
+    },
+    {
+      "id": "u_a633f7b1",
+      "sentAt": "2026-07-13T06:56:44.672Z",
+      "title": "Quiz Systems: The AI Strategy to Beat All Odds"
+    },
+    {
+      "id": "u_95cdda2c",
+      "sentAt": "2026-07-13T06:56:44.672Z",
+      "title": "Unpacking Idioms: A Cross-Linguistic Perspective"
+    },
+    {
+      "id": "u_52d82cd5",
+      "sentAt": "2026-07-13T06:56:44.672Z",
+      "title": "Can Large Language Models Revolutionize Company Analysis?"
+    },
     {
       "id": "u_87ea7b34",
       "sentAt": "2026-07-13T03:19:36.795Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c66cb5ad",
       "sentAt": "2026-06-10T18:32:50.406Z",
       "title": "Anthropic's Fable 5 and Mythos 5: The New Frontier of AI"
-    },
-    {
-      "id": "u_271c719e",
-      "sentAt": "2026-06-10T18:32:50.406Z",
-      "title": "AI Stumbles in Spotting Errors in Economic Theory"
-    },
-    {
-      "id": "u_88f3146",
-      "sentAt": "2026-06-10T18:32:50.406Z",
-      "title": "Anthropic’s Fable 5: A Mythos-Class Model with Tight Security Leashes"
-    },
-    {
-      "id": "u_219b9f31",
-      "sentAt": "2026-06-10T18:32:50.406Z",
-      "title": "Claude Subscribers Get Free Ride Until June 22: What's the Catch?"
-    },
-    {
-      "id": "u_cc2811b8",
-      "sentAt": "2026-06-10T18:32:50.406Z",
-      "title": "DeepMind Just Dropped \"DiffusionGemma\" — Text Generation via Image-Style Diffusion Model"
-    },
-    {
-      "id": "u_66e2e4f",
-      "sentAt": "2026-06-10T10:08:17.047Z",
-      "title": "When AI Meets Esoteric Code: The Real Test of LLM Coding Agents"
     }
   ]
 }
