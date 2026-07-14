@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-14T17:17:23.725Z",
+  "updatedAt": "2026-07-14T19:23:50.372Z",
   "entries": [
+    {
+      "id": "u_62fecd4c",
+      "sentAt": "2026-07-14T19:23:50.372Z",
+      "title": "The Illusion of Risk in Distributional Reinforcement Learning"
+    },
+    {
+      "id": "u_50cce9c",
+      "sentAt": "2026-07-14T19:23:50.372Z",
+      "title": "Gemma-4-31B-AntiHal: Gemma steered to push back on false premises instead of hallucinating, without any impact to benchmark performance"
+    },
+    {
+      "id": "u_ab1977a1",
+      "sentAt": "2026-07-14T19:23:50.372Z",
+      "title": "AI's Recursive Dilemma: When Machines Train On Themselves"
+    },
+    {
+      "id": "u_55c48041",
+      "sentAt": "2026-07-14T19:23:50.372Z",
+      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock"
+    },
+    {
+      "id": "u_f1a30a1c",
+      "sentAt": "2026-07-14T19:23:50.372Z",
+      "title": "Quoting Armin Ronacher"
+    },
     {
       "id": "u_8c097723",
       "sentAt": "2026-07-14T17:17:23.725Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9f2bd117",
       "sentAt": "2026-06-13T04:06:15.483Z",
       "title": "China cracks down on Western AI models while US companies flock to DeepSeek"
-    },
-    {
-      "id": "u_f34c2648",
-      "sentAt": "2026-06-13T04:06:15.483Z",
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI"
-    },
-    {
-      "id": "u_f880dc18",
-      "sentAt": "2026-06-13T04:06:15.483Z",
-      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order"
-    },
-    {
-      "id": "u_f752144f",
-      "sentAt": "2026-06-13T04:06:15.483Z",
-      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5"
-    },
-    {
-      "id": "u_aaceeb8f",
-      "sentAt": "2026-06-13T04:06:15.483Z",
-      "title": "OpenAI WebRTC Audio Session, now with document context"
-    },
-    {
-      "id": "u_c27f4eaf",
-      "sentAt": "2026-06-12T23:20:45.648Z",
-      "title": "I scaled test-time compute for Qwen-3.6-27B and Gemma-4-31B to surpass Claude Mythos in code optimizations and speedups."
     }
   ]
 }
