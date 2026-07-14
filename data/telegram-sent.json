@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-14T10:01:29.261Z",
+  "updatedAt": "2026-07-14T13:50:39.863Z",
   "entries": [
+    {
+      "id": "u_87049538",
+      "sentAt": "2026-07-14T13:50:39.863Z",
+      "title": "GTAlign: Bridging Graphs and Tables Without Text"
+    },
+    {
+      "id": "u_12a69d4c",
+      "sentAt": "2026-07-14T13:50:39.863Z",
+      "title": "Tracing AI Model Lineage: Introducing modelDNA's Breakthrough Approach"
+    },
+    {
+      "id": "u_2b90c1e8",
+      "sentAt": "2026-07-14T13:50:39.863Z",
+      "title": "PTQ: RDQ Sets a New Benchmark"
+    },
+    {
+      "id": "u_1603fbd2",
+      "sentAt": "2026-07-14T13:50:39.863Z",
+      "title": "LLM Evaluation Frameworks Compared: How to Actually Measure What Your Model Does"
+    },
+    {
+      "id": "u_bb506ec4",
+      "sentAt": "2026-07-14T13:50:39.863Z",
+      "title": "Deepmind CEO Hassabis says \"nobody in the world knows what happens next\" so \"cautious optimism\" means building guardrails now"
+    },
     {
       "id": "u_937ea65f",
       "sentAt": "2026-07-14T10:01:29.261Z",
@@ -4975,31 +5000,6 @@
       "id": "u_95a4c39a",
       "sentAt": "2026-06-12T18:10:13.533Z",
       "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses"
-    },
-    {
-      "id": "u_ef593d6b",
-      "sentAt": "2026-06-12T18:10:13.533Z",
-      "title": "Mistral is rumored to be raising €3B at €20 valuation"
-    },
-    {
-      "id": "u_59cab188",
-      "sentAt": "2026-06-12T18:10:13.533Z",
-      "title": "Anthropic’s Battle Against AI Model Cannibalization"
-    },
-    {
-      "id": "u_e18e3151",
-      "sentAt": "2026-06-12T18:10:13.533Z",
-      "title": "Claude Fable 5: A Costly Step Forward in AI Performance"
-    },
-    {
-      "id": "u_f9a91e4e",
-      "sentAt": "2026-06-12T18:10:13.533Z",
-      "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance"
-    },
-    {
-      "id": "u_949a4977",
-      "sentAt": "2026-06-12T15:22:52.074Z",
-      "title": "SpaceX’s massive IPO: all the latest news"
     }
   ]
 }
