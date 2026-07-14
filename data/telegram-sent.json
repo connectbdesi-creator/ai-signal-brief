@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-14T21:02:46.015Z",
+  "updatedAt": "2026-07-14T22:59:08.550Z",
   "entries": [
+    {
+      "id": "u_da278610",
+      "sentAt": "2026-07-14T22:59:08.550Z",
+      "title": "simonw/pedalican"
+    },
+    {
+      "id": "u_3b7d15f5",
+      "sentAt": "2026-07-14T22:59:08.550Z",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning"
+    },
+    {
+      "id": "u_a9df8f3a",
+      "sentAt": "2026-07-14T22:59:08.550Z",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI"
+    },
+    {
+      "id": "u_23694648",
+      "sentAt": "2026-07-14T22:59:08.550Z",
+      "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data"
+    },
+    {
+      "id": "u_8c0e4f67",
+      "sentAt": "2026-07-14T22:59:08.550Z",
+      "title": "AI Drives Fintech Innovation as MoneySimpler Launches AI Automated Quantitative Trading Technology - Yahoo Finance Singapore"
+    },
     {
       "id": "u_498c6a97",
       "sentAt": "2026-07-14T21:02:46.015Z",
@@ -4975,31 +5000,6 @@
       "id": "u_27f8dd38",
       "sentAt": "2026-06-13T11:55:53.616Z",
       "title": "U.S. gov't orders Anthropic to disable its newest AI models worldwide due to security threats — ban on Claude Fable 5 and Mythos 5 bars access by any foreign national, even its own employees - Tom's Hardware"
-    },
-    {
-      "id": "u_9fabb19d",
-      "sentAt": "2026-06-13T11:55:53.616Z",
-      "title": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?"
-    },
-    {
-      "id": "u_9d889083",
-      "sentAt": "2026-06-13T11:55:53.616Z",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models"
-    },
-    {
-      "id": "u_d017320c",
-      "sentAt": "2026-06-13T11:55:53.616Z",
-      "title": "Claude Fable 5 Dethrones GPT-5.5 in AI Math Showdown"
-    },
-    {
-      "id": "u_462dbbe4",
-      "sentAt": "2026-06-13T11:55:53.616Z",
-      "title": "Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems"
-    },
-    {
-      "id": "u_cff32a19",
-      "sentAt": "2026-06-13T09:21:19.428Z",
-      "title": "Moonshot AI's Kimi K2.7 Code: A Cost-Effective Contender in Programming AI"
     }
   ]
 }
