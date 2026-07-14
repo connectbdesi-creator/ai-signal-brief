@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-14T02:44:11.514Z",
+  "updatedAt": "2026-07-14T06:13:22.926Z",
   "entries": [
+    {
+      "id": "u_d9105412",
+      "sentAt": "2026-07-14T06:13:22.926Z",
+      "title": "New Sampling Method Challenges Reinforcement Learning Costs"
+    },
+    {
+      "id": "u_171843d3",
+      "sentAt": "2026-07-14T06:13:22.926Z",
+      "title": "Opti-Agent-Bench: Redefining LLMs' Role in Optimization Challenges"
+    },
+    {
+      "id": "u_620c5da6",
+      "sentAt": "2026-07-14T06:13:22.926Z",
+      "title": "Structured Language Model Generation with Outlines"
+    },
+    {
+      "id": "u_cbad8c12",
+      "sentAt": "2026-07-14T06:13:22.926Z",
+      "title": "Israel Launches First Regulatory Sandbox for Artificial Intelligence in Healthcare - EIN News"
+    },
+    {
+      "id": "u_5dc01862",
+      "sentAt": "2026-07-14T06:13:22.926Z",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi"
+    },
     {
       "id": "u_48456529",
       "sentAt": "2026-07-14T02:44:11.514Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f850eebb",
       "sentAt": "2026-06-12T10:19:18.160Z",
       "title": "Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM – Sanity check on the architecture? [D]"
-    },
-    {
-      "id": "u_6a19cb96",
-      "sentAt": "2026-06-12T10:19:18.160Z",
-      "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm"
-    },
-    {
-      "id": "u_5a4a856f",
-      "sentAt": "2026-06-12T10:19:18.160Z",
-      "title": "Former xAI Engineer Sues Elon Musk's Subsidiary Over AI Safety Concerns"
-    },
-    {
-      "id": "u_c4c2a7af",
-      "sentAt": "2026-06-12T10:19:18.160Z",
-      "title": "OpenAI Faces Lawsuit Over Allegations of Harmful Chatbot Guidance"
-    },
-    {
-      "id": "u_c725be24",
-      "sentAt": "2026-06-12T10:19:18.160Z",
-      "title": "SciR: Testing AI's Scientific Smarts Beyond the Hype"
-    },
-    {
-      "id": "u_e18b0b91",
-      "sentAt": "2026-06-12T04:18:07.533Z",
-      "title": "Rethinking Chatbots: The Battle of AI Memories and Philosophies"
     }
   ]
 }
