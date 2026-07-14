@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-14T15:24:50.390Z",
+  "updatedAt": "2026-07-14T17:17:23.725Z",
   "entries": [
+    {
+      "id": "u_8c097723",
+      "sentAt": "2026-07-14T17:17:23.725Z",
+      "title": "Policing AI: The New Frontier in Norm Enforcement"
+    },
+    {
+      "id": "u_694d8deb",
+      "sentAt": "2026-07-14T17:17:23.725Z",
+      "title": "The Hidden Costs of Norm Enforcement in AI Models"
+    },
+    {
+      "id": "u_dddadaa9",
+      "sentAt": "2026-07-14T17:17:23.725Z",
+      "title": "EvoCUA-1.5: Redefining Online Reinforcement Learning for Desktop Agents"
+    },
+    {
+      "id": "u_69f97c62",
+      "sentAt": "2026-07-14T17:17:23.725Z",
+      "title": "DeepMind's Call for an AI Standards Body: A Necessary Step or a Misstep?"
+    },
+    {
+      "id": "u_6ebfd80e",
+      "sentAt": "2026-07-14T17:17:23.725Z",
+      "title": "DeepSeek needs more cash just weeks after closing its first $7 billion round"
+    },
     {
       "id": "u_fbdc834f",
       "sentAt": "2026-07-14T15:24:50.390Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c27f4eaf",
       "sentAt": "2026-06-12T23:20:45.648Z",
       "title": "I scaled test-time compute for Qwen-3.6-27B and Gemma-4-31B to surpass Claude Mythos in code optimizations and speedups."
-    },
-    {
-      "id": "u_390e3e62",
-      "sentAt": "2026-06-12T23:20:45.648Z",
-      "title": "Top AI Graduate Programs That Can Launch a Rewarding Career in Artificial Intelligence - Investopedia"
-    },
-    {
-      "id": "u_28ab05c2",
-      "sentAt": "2026-06-12T23:20:45.648Z",
-      "title": "Exclusive: Sixfold launches AI underwriting agent with straight-through quote and bind capability - theinsurer.com"
-    },
-    {
-      "id": "u_aac0abe4",
-      "sentAt": "2026-06-12T23:20:45.648Z",
-      "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance"
-    },
-    {
-      "id": "u_3f87928b",
-      "sentAt": "2026-06-12T23:20:45.648Z",
-      "title": "This week's Anthropic-inspired AI freakout, explained"
-    },
-    {
-      "id": "u_c21a0928",
-      "sentAt": "2026-06-12T21:50:08.801Z",
-      "title": "NVIDIA's Blackwell: The New Benchmark in Agentic AI Performance"
     }
   ]
 }
