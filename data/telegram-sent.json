@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-13T22:57:54.923Z",
+  "updatedAt": "2026-07-14T02:44:11.514Z",
   "entries": [
+    {
+      "id": "u_48456529",
+      "sentAt": "2026-07-14T02:44:11.514Z",
+      "title": "Meta's Cloud Dreams: From Llama to Leasing Out Compute"
+    },
+    {
+      "id": "u_859e030d",
+      "sentAt": "2026-07-14T02:44:11.514Z",
+      "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared"
+    },
+    {
+      "id": "u_5e5f2d08",
+      "sentAt": "2026-07-14T02:44:11.514Z",
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B"
+    },
+    {
+      "id": "u_47045167",
+      "sentAt": "2026-07-14T02:44:11.514Z",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation"
+    },
+    {
+      "id": "u_91cc8606",
+      "sentAt": "2026-07-14T02:44:11.514Z",
+      "title": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity"
+    },
     {
       "id": "u_55e80b6f",
       "sentAt": "2026-07-13T22:57:54.923Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e18b0b91",
       "sentAt": "2026-06-12T04:18:07.533Z",
       "title": "Rethinking Chatbots: The Battle of AI Memories and Philosophies"
-    },
-    {
-      "id": "u_f967a395",
-      "sentAt": "2026-06-12T04:18:07.533Z",
-      "title": "GeoNatureAgent Benchmark: A Game Changer for Environmental Data Analysis"
-    },
-    {
-      "id": "u_ecfaef7f",
-      "sentAt": "2026-06-12T04:18:07.533Z",
-      "title": "Testing Search Agents: Why Daily Tasks Matter"
-    },
-    {
-      "id": "u_80f50ed4",
-      "sentAt": "2026-06-12T04:18:07.533Z",
-      "title": "AI Models Smarten Up: Detecting Context Tampering"
-    },
-    {
-      "id": "u_9c5a8e76",
-      "sentAt": "2026-06-12T04:18:07.533Z",
-      "title": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively - The Washington Post"
-    },
-    {
-      "id": "u_1a505c33",
-      "sentAt": "2026-06-11T23:26:39.405Z",
-      "title": "Why Multi-Agent Reasoning Could Revamp Image Classification"
     }
   ]
 }
