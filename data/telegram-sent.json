@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-14T13:50:39.863Z",
+  "updatedAt": "2026-07-14T15:24:50.390Z",
   "entries": [
+    {
+      "id": "u_fbdc834f",
+      "sentAt": "2026-07-14T15:24:50.390Z",
+      "title": "CoGenCast Revolutionizes Time Series Forecasting with Hybrid Approach"
+    },
+    {
+      "id": "u_bbc3d87",
+      "sentAt": "2026-07-14T15:24:50.390Z",
+      "title": "BalDRO: Reshaping How Language Models Forget"
+    },
+    {
+      "id": "u_454e9cc4",
+      "sentAt": "2026-07-14T15:24:50.390Z",
+      "title": "Language Models: The Impact of DMPO on Diffusion Models"
+    },
+    {
+      "id": "u_89439d1",
+      "sentAt": "2026-07-14T15:24:50.390Z",
+      "title": "Reflection inks $1B compute deal with Nebius"
+    },
+    {
+      "id": "u_17bab9cb",
+      "sentAt": "2026-07-14T15:24:50.390Z",
+      "title": "Exolnet Launches Dedicated Artificial Intelligence Development - The Kingston Whig Standard"
+    },
     {
       "id": "u_87049538",
       "sentAt": "2026-07-14T13:50:39.863Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c21a0928",
       "sentAt": "2026-06-12T21:50:08.801Z",
       "title": "NVIDIA's Blackwell: The New Benchmark in Agentic AI Performance"
-    },
-    {
-      "id": "u_ef7c8435",
-      "sentAt": "2026-06-12T21:50:08.801Z",
-      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark"
-    },
-    {
-      "id": "u_afd2b11f",
-      "sentAt": "2026-06-12T21:50:08.801Z",
-      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark"
-    },
-    {
-      "id": "u_19c7f305",
-      "sentAt": "2026-06-12T21:50:08.801Z",
-      "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI"
-    },
-    {
-      "id": "u_2672a41",
-      "sentAt": "2026-06-12T21:50:08.801Z",
-      "title": "OpenAI buys Ona to help rein in AI agents - InfoWorld"
-    },
-    {
-      "id": "u_95a4c39a",
-      "sentAt": "2026-06-12T18:10:13.533Z",
-      "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses"
     }
   ]
 }
