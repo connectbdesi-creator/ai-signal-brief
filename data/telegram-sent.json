@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-14T06:13:22.926Z",
+  "updatedAt": "2026-07-14T10:01:29.261Z",
   "entries": [
+    {
+      "id": "u_937ea65f",
+      "sentAt": "2026-07-14T10:01:29.261Z",
+      "title": "Can AI Rediscover Scientific Breakthroughs? Not Quite Yet."
+    },
+    {
+      "id": "u_39ceb42d",
+      "sentAt": "2026-07-14T10:01:29.261Z",
+      "title": "AI Routing: Precision Over Guesswork"
+    },
+    {
+      "id": "u_f17b552e",
+      "sentAt": "2026-07-14T10:01:29.261Z",
+      "title": "Can Your Text-to-Image Models Handle a Real-World Tweak?"
+    },
+    {
+      "id": "u_b1c6be5a",
+      "sentAt": "2026-07-14T10:01:29.261Z",
+      "title": "Cracking the Code: Transformers' Two-Stage Training Dynamics"
+    },
+    {
+      "id": "u_9167a529",
+      "sentAt": "2026-07-14T10:01:29.261Z",
+      "title": "Why BizFinBench.v2 Is Shaking Up Financial AI Benchmarks"
+    },
     {
       "id": "u_d9105412",
       "sentAt": "2026-07-14T06:13:22.926Z",
@@ -4975,31 +5000,6 @@
       "id": "u_949a4977",
       "sentAt": "2026-06-12T15:22:52.074Z",
       "title": "SpaceX’s massive IPO: all the latest news"
-    },
-    {
-      "id": "u_a7699bcb",
-      "sentAt": "2026-06-12T15:22:52.074Z",
-      "title": "Mistral AI: Europe's Bold Play for AI Supremacy"
-    },
-    {
-      "id": "u_a7337d6a",
-      "sentAt": "2026-06-12T15:22:52.074Z",
-      "title": "From Copilots to Autonomous Agents: The Bold Shift in Enterprise AI"
-    },
-    {
-      "id": "u_255c72c3",
-      "sentAt": "2026-06-12T15:22:52.074Z",
-      "title": "The Judgment Tax: How AI Agents Are Rewriting UI Process Automation"
-    },
-    {
-      "id": "u_801fa346",
-      "sentAt": "2026-06-12T15:22:52.074Z",
-      "title": "Pairing Claude Code with Local Models"
-    },
-    {
-      "id": "u_f850eebb",
-      "sentAt": "2026-06-12T10:19:18.160Z",
-      "title": "Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM – Sanity check on the architecture? [D]"
     }
   ]
 }
