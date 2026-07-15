@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T17:20:38.416Z",
+  "updatedAt": "2026-07-15T19:16:03.605Z",
   "entries": [
+    {
+      "id": "u_2e0ed794",
+      "sentAt": "2026-07-15T19:16:03.605Z",
+      "title": "Murati’s Thinking Machines releases first AI model for broad use - Fortune"
+    },
+    {
+      "id": "u_f6e81070",
+      "sentAt": "2026-07-15T19:16:03.605Z",
+      "title": "I built a new attention mechanism (wave field) — runs 128K context where standard attention OOMs, 80+ tok/s on laptop CPU"
+    },
+    {
+      "id": "u_1adfd35",
+      "sentAt": "2026-07-15T19:16:03.605Z",
+      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance"
+    },
+    {
+      "id": "u_9780b6a8",
+      "sentAt": "2026-07-15T19:16:03.605Z",
+      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance | Amazon Web Services - Amazon Web Services (AWS)"
+    },
+    {
+      "id": "u_68a42bdc",
+      "sentAt": "2026-07-15T19:16:03.605Z",
+      "title": "Thinking Machines releases first open-weight model “Inkling”"
+    },
     {
       "id": "u_7b8e32d4",
       "sentAt": "2026-07-15T17:20:38.416Z",
@@ -4975,31 +5000,6 @@
       "id": "u_acaf2b2f",
       "sentAt": "2026-06-14T09:40:24.104Z",
       "title": "AI coding agents find the right file but miss the exact lines that matter, study shows"
-    },
-    {
-      "id": "u_434d58db",
-      "sentAt": "2026-06-14T09:40:24.104Z",
-      "title": "AI coding agents find the right file but miss the exact lines that matter, study shows"
-    },
-    {
-      "id": "u_7606d1a1",
-      "sentAt": "2026-06-14T09:40:24.104Z",
-      "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model"
-    },
-    {
-      "id": "u_fca651d0",
-      "sentAt": "2026-06-14T09:40:24.104Z",
-      "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model"
-    },
-    {
-      "id": "u_8368ae4e",
-      "sentAt": "2026-06-14T09:40:24.104Z",
-      "title": "Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s"
-    },
-    {
-      "id": "u_c2ad5dd",
-      "sentAt": "2026-06-14T04:23:56.840Z",
-      "title": "UK announces $1.5B AI infrastructure plan"
     }
   ]
 }
