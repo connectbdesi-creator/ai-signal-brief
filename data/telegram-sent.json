@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T21:03:08.712Z",
+  "updatedAt": "2026-07-15T23:00:01.154Z",
   "entries": [
+    {
+      "id": "u_cbee6873",
+      "sentAt": "2026-07-15T23:00:01.154Z",
+      "title": "Cadence's AuraStack: AI Super Agent or Overhyped Promise?"
+    },
+    {
+      "id": "u_648d16c3",
+      "sentAt": "2026-07-15T23:00:01.154Z",
+      "title": "Why Enterprise AI Orchestration Isn't Living Up to Its Promise"
+    },
+    {
+      "id": "u_c6f03163",
+      "sentAt": "2026-07-15T23:00:01.154Z",
+      "title": "Illinois Enacts Frontier AI Safety Law - Davis Wright Tremaine"
+    },
+    {
+      "id": "u_4957df9",
+      "sentAt": "2026-07-15T23:00:01.154Z",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents"
+    },
+    {
+      "id": "u_c7f7bd27",
+      "sentAt": "2026-07-15T23:00:01.154Z",
+      "title": "OpenAI Just Launched Its First Hardware Product—and It’s a Tiny Keyboard for Bossing Around AI Agents - Gizmodo"
+    },
     {
       "id": "u_8c5fd7c5",
       "sentAt": "2026-07-15T21:03:08.712Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3a3e88a3",
       "sentAt": "2026-06-14T17:23:06.827Z",
       "title": "Local .NET multi-agent LLM pipeline AI therapist using a compact wire format"
-    },
-    {
-      "id": "u_227620a1",
-      "sentAt": "2026-06-14T17:23:06.827Z",
-      "title": "Why Agents Don't Scale: It's an Engineering Problem, Not an AI Problem"
-    },
-    {
-      "id": "u_50798bde",
-      "sentAt": "2026-06-14T17:23:06.827Z",
-      "title": "Ask HN: Is anyone building real software with AI agents?"
-    },
-    {
-      "id": "u_4eecfae1",
-      "sentAt": "2026-06-14T14:23:42.357Z",
-      "title": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever"
-    },
-    {
-      "id": "u_1d9f3d45",
-      "sentAt": "2026-06-14T14:23:42.357Z",
-      "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents"
-    },
-    {
-      "id": "u_42ba792",
-      "sentAt": "2026-06-14T14:23:42.357Z",
-      "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents"
     }
   ]
 }
