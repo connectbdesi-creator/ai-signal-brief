@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T02:42:23.879Z",
+  "updatedAt": "2026-07-15T06:18:14.874Z",
   "entries": [
+    {
+      "id": "u_a008092f",
+      "sentAt": "2026-07-15T06:18:14.874Z",
+      "title": "CurioSFT: Rethinking AI Training for Smarter Exploration"
+    },
+    {
+      "id": "u_b594c493",
+      "sentAt": "2026-07-15T06:18:14.874Z",
+      "title": "Branching Neural Networks: A New Era of Multitasking AI"
+    },
+    {
+      "id": "u_4f4b5144",
+      "sentAt": "2026-07-15T06:18:14.874Z",
+      "title": "Simulating Human Mobility with MobCache: Efficiency Meets Fidelity"
+    },
+    {
+      "id": "u_bcc38ab4",
+      "sentAt": "2026-07-15T06:18:14.874Z",
+      "title": "AI’s Potential in Specialized Domains: The CANDI-QA Benchmark"
+    },
+    {
+      "id": "u_cd1f00ab",
+      "sentAt": "2026-07-15T06:18:14.874Z",
+      "title": "Anthropic launches free Claude for Teachers - The Hill"
+    },
     {
       "id": "u_e7109fb1",
       "sentAt": "2026-07-15T02:42:23.879Z",
@@ -4975,31 +5000,6 @@
       "id": "u_de35f9d",
       "sentAt": "2026-06-13T17:26:32.280Z",
       "title": "America's race categories face a stress test"
-    },
-    {
-      "id": "u_769e8f8a",
-      "sentAt": "2026-06-13T17:26:32.280Z",
-      "title": "ABC's FCC fight could redefine press freedom"
-    },
-    {
-      "id": "u_84d19dc9",
-      "sentAt": "2026-06-13T17:26:32.280Z",
-      "title": "The fight over America's vaccine future"
-    },
-    {
-      "id": "u_fd0c8aa8",
-      "sentAt": "2026-06-13T17:26:32.280Z",
-      "title": "The power decisions that could shape the next century"
-    },
-    {
-      "id": "u_5911341",
-      "sentAt": "2026-06-13T17:26:32.280Z",
-      "title": "The Mutualism Accord: a draft protocol for local-first, user-loyal AI agents"
-    },
-    {
-      "id": "u_9146b517",
-      "sentAt": "2026-06-13T14:08:11.258Z",
-      "title": "Show HN: Wmux – a native Windows terminal multiplexer for AI agents"
     }
   ]
 }
