@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T15:27:31.091Z",
+  "updatedAt": "2026-07-15T17:20:38.416Z",
   "entries": [
+    {
+      "id": "u_7b8e32d4",
+      "sentAt": "2026-07-15T17:20:38.416Z",
+      "title": "OpenAI's 'Reverse Federalism' Could Reshape AI Governance"
+    },
+    {
+      "id": "u_37824b71",
+      "sentAt": "2026-07-15T17:20:38.416Z",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI"
+    },
+    {
+      "id": "u_a0f6e01e",
+      "sentAt": "2026-07-15T17:20:38.416Z",
+      "title": "Bonsai 27B is a full open reasoning model that fits on an iPhone"
+    },
+    {
+      "id": "u_47c7f047",
+      "sentAt": "2026-07-15T17:20:38.416Z",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI"
+    },
+    {
+      "id": "u_39aa2f3b",
+      "sentAt": "2026-07-15T17:20:38.416Z",
+      "title": "Agents need their own computer. Here's how to give them one safely."
+    },
     {
       "id": "u_4eb8c43",
       "sentAt": "2026-07-15T15:27:31.091Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c2ad5dd",
       "sentAt": "2026-06-14T04:23:56.840Z",
       "title": "UK announces $1.5B AI infrastructure plan"
-    },
-    {
-      "id": "u_287f0a10",
-      "sentAt": "2026-06-14T04:23:56.840Z",
-      "title": "ClawMoat, runtime containment for AI agents after Fable 5"
-    },
-    {
-      "id": "u_77a22fd8",
-      "sentAt": "2026-06-14T04:23:56.840Z",
-      "title": "Lime 2.0 – Zero Human Auth for AI Agents"
-    },
-    {
-      "id": "u_e0c9393e",
-      "sentAt": "2026-06-14T04:23:56.840Z",
-      "title": "The Missing Infrastructure Between AI Agents and the EVM"
-    },
-    {
-      "id": "u_d84e978b",
-      "sentAt": "2026-06-14T04:23:56.840Z",
-      "title": "QodFlow – a Kanban board AI agents can drive via MCP"
-    },
-    {
-      "id": "u_c2132677",
-      "sentAt": "2026-06-13T23:09:29.149Z",
-      "title": "Closed AI Risks being hostile to startups"
     }
   ]
 }
