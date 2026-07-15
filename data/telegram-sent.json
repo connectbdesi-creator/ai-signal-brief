@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T19:16:03.605Z",
+  "updatedAt": "2026-07-15T21:03:08.712Z",
   "entries": [
+    {
+      "id": "u_8c5fd7c5",
+      "sentAt": "2026-07-15T21:03:08.712Z",
+      "title": "Inkling's Big Leap: A New Player in the AI Arena"
+    },
+    {
+      "id": "u_3f811a57",
+      "sentAt": "2026-07-15T21:03:08.712Z",
+      "title": "OpenAI's GPT-Red: The AI That's Outperforming Humans at Defending AI"
+    },
+    {
+      "id": "u_ad003c8c",
+      "sentAt": "2026-07-15T21:03:08.712Z",
+      "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did"
+    },
+    {
+      "id": "u_14420fff",
+      "sentAt": "2026-07-15T21:03:08.712Z",
+      "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?"
+    },
+    {
+      "id": "u_f527f804",
+      "sentAt": "2026-07-15T21:03:08.712Z",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
+    },
     {
       "id": "u_2e0ed794",
       "sentAt": "2026-07-15T19:16:03.605Z",
@@ -4975,31 +5000,6 @@
       "id": "u_42ba792",
       "sentAt": "2026-06-14T14:23:42.357Z",
       "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents"
-    },
-    {
-      "id": "u_b1eb237e",
-      "sentAt": "2026-06-14T14:23:42.357Z",
-      "title": "GPU Time-Slicing for Concurrent LLM Agents on Kubernetes"
-    },
-    {
-      "id": "u_fdb7b96b",
-      "sentAt": "2026-06-14T14:23:42.357Z",
-      "title": "OpenAI hit with sweeping probe from massive coalition of 42 US state attorneys general just days after reported IPO filing — subpoena targets ChatGPT maker’s ads, data practices, handling of minors, model sycophancy, and safety policies - Tom's Hardware"
-    },
-    {
-      "id": "u_491ade67",
-      "sentAt": "2026-06-14T12:00:19.492Z",
-      "title": "Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Governs, and Shares AI Agents Across Claude Code, Codex, and Pi"
-    },
-    {
-      "id": "u_28f2757c",
-      "sentAt": "2026-06-14T12:00:19.492Z",
-      "title": "Publishing WASM wheels to PyPI for use with Pyodide"
-    },
-    {
-      "id": "u_acaf2b2f",
-      "sentAt": "2026-06-14T09:40:24.104Z",
-      "title": "AI coding agents find the right file but miss the exact lines that matter, study shows"
     }
   ]
 }
