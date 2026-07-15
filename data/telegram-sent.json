@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T06:18:14.874Z",
+  "updatedAt": "2026-07-15T10:05:54.590Z",
   "entries": [
+    {
+      "id": "u_9cf668b3",
+      "sentAt": "2026-07-15T10:05:54.590Z",
+      "title": "PrismML's Bold Move: Compressing AI for Apple's Ambitions"
+    },
+    {
+      "id": "u_7a6e737c",
+      "sentAt": "2026-07-15T10:05:54.590Z",
+      "title": "Agentic AI: The Next Frontier in Service Computing"
+    },
+    {
+      "id": "u_71eb72ee",
+      "sentAt": "2026-07-15T10:05:54.590Z",
+      "title": "SheetMind: Automation for the Spreadsheet Age"
+    },
+    {
+      "id": "u_922d854",
+      "sentAt": "2026-07-15T10:05:54.590Z",
+      "title": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation"
+    },
+    {
+      "id": "u_b264bff5",
+      "sentAt": "2026-07-15T10:05:54.590Z",
+      "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive"
+    },
     {
       "id": "u_a008092f",
       "sentAt": "2026-07-15T06:18:14.874Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6e3d208",
       "sentAt": "2026-06-13T19:41:31.661Z",
       "title": "Ask HN: Did we witness the \"Trinity moment\" for AI?"
-    },
-    {
-      "id": "u_81424292",
-      "sentAt": "2026-06-13T19:41:31.661Z",
-      "title": "Eywa: Local-first memory for AI agents, with a receipt for every fact"
-    },
-    {
-      "id": "u_24aec12a",
-      "sentAt": "2026-06-13T19:41:31.661Z",
-      "title": "What We're No Longer Seeing: AI and the Invisible Newcomer in Open Source"
-    },
-    {
-      "id": "u_9112bfa6",
-      "sentAt": "2026-06-13T19:41:31.661Z",
-      "title": "I built a one click installer on token compression engine for AI tools"
-    },
-    {
-      "id": "u_1ed0dffa",
-      "sentAt": "2026-06-13T19:41:31.661Z",
-      "title": "Anthropic, the creator of Claude, closes access to its most advanced AI models - Diari ARA"
-    },
-    {
-      "id": "u_de35f9d",
-      "sentAt": "2026-06-13T17:26:32.280Z",
-      "title": "America's race categories face a stress test"
     }
   ]
 }
