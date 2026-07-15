@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T13:49:06.777Z",
+  "updatedAt": "2026-07-15T15:27:31.091Z",
   "entries": [
+    {
+      "id": "u_4eb8c43",
+      "sentAt": "2026-07-15T15:27:31.091Z",
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets"
+    },
+    {
+      "id": "u_39cf2add",
+      "sentAt": "2026-07-15T15:27:31.091Z",
+      "title": "Cloud-Native AI: Revolutionizing How Machines Work"
+    },
+    {
+      "id": "u_8f8f7fde",
+      "sentAt": "2026-07-15T15:27:31.091Z",
+      "title": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain"
+    },
+    {
+      "id": "u_c162f4e2",
+      "sentAt": "2026-07-15T15:27:31.091Z",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet"
+    },
+    {
+      "id": "u_64043744",
+      "sentAt": "2026-07-15T15:27:31.091Z",
+      "title": "Trust in AI Agents: The Balance of Autonomy and Oversight"
+    },
     {
       "id": "u_58f9df16",
       "sentAt": "2026-07-15T13:49:06.777Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c2132677",
       "sentAt": "2026-06-13T23:09:29.149Z",
       "title": "Closed AI Risks being hostile to startups"
-    },
-    {
-      "id": "u_4b1a4baf",
-      "sentAt": "2026-06-13T23:09:29.149Z",
-      "title": "OpenDevOps – An open-source AI agent that investigates AWS/Azure incidents"
-    },
-    {
-      "id": "u_db5e48c1",
-      "sentAt": "2026-06-13T23:09:29.149Z",
-      "title": "Visa Officially Allowing AI Agents to Go Ham With Your Credit Card - Futurism"
-    },
-    {
-      "id": "u_192a6004",
-      "sentAt": "2026-06-13T23:09:29.149Z",
-      "title": "Google Research's Gemini-SQL2 tops text-to-SQL benchmarks by a wide margin"
-    },
-    {
-      "id": "u_15370d69",
-      "sentAt": "2026-06-13T23:09:29.149Z",
-      "title": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file"
-    },
-    {
-      "id": "u_70ab5d4b",
-      "sentAt": "2026-06-13T21:20:15.926Z",
-      "title": "How Amazon and the White House ended Anthropic's Fable"
     }
   ]
 }
