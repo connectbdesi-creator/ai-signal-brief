@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T10:05:54.590Z",
+  "updatedAt": "2026-07-15T13:49:06.777Z",
   "entries": [
+    {
+      "id": "u_58f9df16",
+      "sentAt": "2026-07-15T13:49:06.777Z",
+      "title": "Anthropic vs OpenAI: The AI Regulation Face-Off"
+    },
+    {
+      "id": "u_99f70033",
+      "sentAt": "2026-07-15T13:49:06.777Z",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models"
+    },
+    {
+      "id": "u_cc91fea4",
+      "sentAt": "2026-07-15T13:49:06.777Z",
+      "title": "GPT-5.6 Wiped a Production Database and rm -rf'd a Developer's Machine — With Permission"
+    },
+    {
+      "id": "u_52652298",
+      "sentAt": "2026-07-15T13:49:06.777Z",
+      "title": "7 Python Frameworks for Orchestrating Local AI Agents"
+    },
+    {
+      "id": "u_2a82940c",
+      "sentAt": "2026-07-15T13:49:06.777Z",
+      "title": "Scikit-Ollama for Scikit-LLM/Ollama Integration"
+    },
     {
       "id": "u_9cf668b3",
       "sentAt": "2026-07-15T10:05:54.590Z",
@@ -4975,31 +5000,6 @@
       "id": "u_70ab5d4b",
       "sentAt": "2026-06-13T21:20:15.926Z",
       "title": "How Amazon and the White House ended Anthropic's Fable"
-    },
-    {
-      "id": "u_9f7a472b",
-      "sentAt": "2026-06-13T21:20:15.926Z",
-      "title": "Mozilla Data Collective seeks to build AI’s data economy around trust"
-    },
-    {
-      "id": "u_169176c7",
-      "sentAt": "2026-06-13T21:20:15.926Z",
-      "title": "Erdogan launches $10 billion AI plan to make Türkiye a global digital power by 2030 - Türkiye Today"
-    },
-    {
-      "id": "u_847d5b52",
-      "sentAt": "2026-06-13T21:20:15.926Z",
-      "title": "AI costs spike as subscriptions hit pricing wall — firms turn towards Chinese LLMs, open-source models to extend budget - Tom's Hardware"
-    },
-    {
-      "id": "u_acac3c96",
-      "sentAt": "2026-06-13T21:20:15.926Z",
-      "title": "Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% on Kimi Code Bench v2 Over K2.6"
-    },
-    {
-      "id": "u_6e3d208",
-      "sentAt": "2026-06-13T19:41:31.661Z",
-      "title": "Ask HN: Did we witness the \"Trinity moment\" for AI?"
     }
   ]
 }
