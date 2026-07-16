@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-16T19:16:15.576Z",
+  "updatedAt": "2026-07-16T21:03:32.246Z",
   "entries": [
+    {
+      "id": "u_ad31ccd3",
+      "sentAt": "2026-07-16T21:03:32.246Z",
+      "title": "Why Chinese AI Models Now Command Nearly Half of US Enterprise Tokens"
+    },
+    {
+      "id": "u_d94c59d2",
+      "sentAt": "2026-07-16T21:03:32.246Z",
+      "title": "Turning AI Failures Into Future Successes with the Eval Flywheel"
+    },
+    {
+      "id": "u_f3d80ca9",
+      "sentAt": "2026-07-16T21:03:32.246Z",
+      "title": "Tracing AI Agents: Why Superficial Logs Aren’t Enough"
+    },
+    {
+      "id": "u_ffb6365e",
+      "sentAt": "2026-07-16T21:03:32.246Z",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark"
+    },
+    {
+      "id": "u_3f0fc5cd",
+      "sentAt": "2026-07-16T21:03:32.246Z",
+      "title": "Kimi's K3: The AI Giant That Might End Bargain AI"
+    },
     {
       "id": "u_7ac70101",
       "sentAt": "2026-07-16T19:16:15.576Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bb79987",
       "sentAt": "2026-06-16T17:01:26.898Z",
       "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents"
-    },
-    {
-      "id": "u_7e89fbd9",
-      "sentAt": "2026-06-16T17:01:26.898Z",
-      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents"
-    },
-    {
-      "id": "u_4457a82a",
-      "sentAt": "2026-06-16T17:01:26.898Z",
-      "title": "HPE expands Private Cloud AI factory portfolio to support next-gen autonomous agents"
-    },
-    {
-      "id": "u_8b2e3d4b",
-      "sentAt": "2026-06-16T11:18:05.477Z",
-      "title": "Source code for LLMs. [D]"
-    },
-    {
-      "id": "u_2f135d9d",
-      "sentAt": "2026-06-16T11:18:05.477Z",
-      "title": "Beyond Identity launches Ceros AI agent security platform"
-    },
-    {
-      "id": "u_11a311ad",
-      "sentAt": "2026-06-16T11:18:05.477Z",
-      "title": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms"
     }
   ]
 }
