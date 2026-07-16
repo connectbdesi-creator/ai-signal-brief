@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-16T10:11:39.520Z",
+  "updatedAt": "2026-07-16T14:00:06.298Z",
   "entries": [
+    {
+      "id": "u_62e998ee",
+      "sentAt": "2026-07-16T14:00:06.298Z",
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu"
+    },
+    {
+      "id": "u_ffa1d007",
+      "sentAt": "2026-07-16T14:00:06.298Z",
+      "title": "Why Frontier AI Models Might Not Play Nice"
+    },
+    {
+      "id": "u_368c35e0",
+      "sentAt": "2026-07-16T14:00:06.298Z",
+      "title": "AI Deployment: Shifting from Training to Action"
+    },
+    {
+      "id": "u_ee957a79",
+      "sentAt": "2026-07-16T14:00:06.298Z",
+      "title": "AI: A Server That Gives Claude a Memory"
+    },
+    {
+      "id": "u_6235bfed",
+      "sentAt": "2026-07-16T14:00:06.298Z",
+      "title": "The Death of the Monolithic AI Model: A Paradigm Shift"
+    },
     {
       "id": "u_e64a41e0",
       "sentAt": "2026-07-16T10:11:39.520Z",
@@ -4975,31 +5000,6 @@
       "id": "u_22f8e87f",
       "sentAt": "2026-06-15T18:41:14.872Z",
       "title": "Anthropic to meet with White House over AI tool suspension"
-    },
-    {
-      "id": "u_9e2907ff",
-      "sentAt": "2026-06-15T18:41:14.872Z",
-      "title": "Big Tech’s desperate last push at AI regulation"
-    },
-    {
-      "id": "u_dca60491",
-      "sentAt": "2026-06-15T18:41:14.872Z",
-      "title": "Introducing Align Evals: Streamlining LLM Application Evaluation"
-    },
-    {
-      "id": "u_da6afa79",
-      "sentAt": "2026-06-15T12:22:27.064Z",
-      "title": "PrintGuard 2.0 — ShuffleNetV2 + few-shot prototypical network, TFLite via LiteRT, ≈5 MB, runs unmodified in the browser (Pyodide) and on CPython [P]"
-    },
-    {
-      "id": "u_85ac178",
-      "sentAt": "2026-06-15T12:22:27.064Z",
-      "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns"
-    },
-    {
-      "id": "u_fae96a54",
-      "sentAt": "2026-06-15T12:22:27.064Z",
-      "title": "Undo lands $37M to give AI agents the runtime context to fix bugs"
     }
   ]
 }
