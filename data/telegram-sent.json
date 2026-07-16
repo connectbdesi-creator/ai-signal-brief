@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-16T17:20:46.674Z",
+  "updatedAt": "2026-07-16T19:16:15.576Z",
   "entries": [
+    {
+      "id": "u_7ac70101",
+      "sentAt": "2026-07-16T19:16:15.576Z",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials"
+    },
+    {
+      "id": "u_67740a95",
+      "sentAt": "2026-07-16T19:16:15.576Z",
+      "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection"
+    },
+    {
+      "id": "u_b88e5731",
+      "sentAt": "2026-07-16T19:16:15.576Z",
+      "title": "Google Vids now lets you star in your own AI videos"
+    },
+    {
+      "id": "u_7bfa26c2",
+      "sentAt": "2026-07-16T19:16:15.576Z",
+      "title": "Meet Memo: The Robot Aiming to Make Laundry Hassle-Free"
+    },
+    {
+      "id": "u_dca4a86d",
+      "sentAt": "2026-07-16T19:16:15.576Z",
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app"
+    },
     {
       "id": "u_6a23104b",
       "sentAt": "2026-07-16T17:20:46.674Z",
@@ -4975,31 +5000,6 @@
       "id": "u_11a311ad",
       "sentAt": "2026-06-16T11:18:05.477Z",
       "title": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms"
-    },
-    {
-      "id": "u_3f6a19fb",
-      "sentAt": "2026-06-16T11:18:05.477Z",
-      "title": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms"
-    },
-    {
-      "id": "u_d2639a0a",
-      "sentAt": "2026-06-16T11:18:05.477Z",
-      "title": "DeepSeek takes outside money for the first time at a $50 billion valuation"
-    },
-    {
-      "id": "u_cb4a8c51",
-      "sentAt": "2026-06-16T04:44:21.234Z",
-      "title": "Remember, Don't Re-read: Stateful ReAct Agents for Token-Efficient Autonomous Experimentation"
-    },
-    {
-      "id": "u_71ea790e",
-      "sentAt": "2026-06-16T04:44:21.234Z",
-      "title": "Relational Structural Causal Models"
-    },
-    {
-      "id": "u_f9ef7077",
-      "sentAt": "2026-06-16T04:44:21.234Z",
-      "title": "Optimising Temporary Accommodation Placement Across London with AI-Powered SaaS in E-Governance Systems"
     }
   ]
 }
