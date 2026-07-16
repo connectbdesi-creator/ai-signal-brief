@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-15T23:00:01.154Z",
+  "updatedAt": "2026-07-16T02:49:05.828Z",
   "entries": [
+    {
+      "id": "u_3e9bab4c",
+      "sentAt": "2026-07-16T02:49:05.828Z",
+      "title": "Murati Knows OpenAI’s Secrets. Her New AI Signals She Prefers China’s."
+    },
+    {
+      "id": "u_ffefe6b0",
+      "sentAt": "2026-07-16T02:49:05.828Z",
+      "title": "Mermaid to Unicode box art (grok-mermaid)"
+    },
+    {
+      "id": "u_646f8b14",
+      "sentAt": "2026-07-16T02:49:05.828Z",
+      "title": "xai-org/grok-build, now open source"
+    },
+    {
+      "id": "u_28f44542",
+      "sentAt": "2026-07-16T02:49:05.828Z",
+      "title": "Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort"
+    },
+    {
+      "id": "u_8c662642",
+      "sentAt": "2026-07-16T02:49:05.828Z",
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI"
+    },
     {
       "id": "u_cbee6873",
       "sentAt": "2026-07-15T23:00:01.154Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3cfa4775",
       "sentAt": "2026-06-14T19:41:41.543Z",
       "title": "Frona v2026.6.0 – self-hosted personal AI assistant"
-    },
-    {
-      "id": "u_7fb4dfb6",
-      "sentAt": "2026-06-14T19:41:41.543Z",
-      "title": "Audit checklists for AI coding agents – 30 invariants, any language"
-    },
-    {
-      "id": "u_88f133a2",
-      "sentAt": "2026-06-14T19:41:41.543Z",
-      "title": "Nobody Is Measuring What Your AI Agents Are Worth"
-    },
-    {
-      "id": "u_ffe2450a",
-      "sentAt": "2026-06-14T19:41:41.543Z",
-      "title": "10 best practices for optimizing generative and agentic AI costs"
-    },
-    {
-      "id": "u_83817295",
-      "sentAt": "2026-06-14T19:41:41.543Z",
-      "title": "Burpwn – Burp Suite but its for AI agents (it works)"
-    },
-    {
-      "id": "u_3a3e88a3",
-      "sentAt": "2026-06-14T17:23:06.827Z",
-      "title": "Local .NET multi-agent LLM pipeline AI therapist using a compact wire format"
     }
   ]
 }
