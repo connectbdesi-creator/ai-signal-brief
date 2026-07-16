@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-16T21:03:32.246Z",
+  "updatedAt": "2026-07-16T22:59:30.429Z",
   "entries": [
+    {
+      "id": "u_5f8cfc5b",
+      "sentAt": "2026-07-16T22:59:30.429Z",
+      "title": "Will we have a 27B model with Fable capabilities in 5 months? History says yes"
+    },
+    {
+      "id": "u_812b4522",
+      "sentAt": "2026-07-16T22:59:30.429Z",
+      "title": "I tested all llama.cpp's speculative decoding methods on Qwen 3.6 27B: MTP ~2.7x, DFlash ~3.7x, n-gram stack ~6x on real coding. Local AI win. My findings on RTX 6000 PRO."
+    },
+    {
+      "id": "u_c570ad74",
+      "sentAt": "2026-07-16T22:59:30.429Z",
+      "title": "KIMI K3 Beats Claude Fable and GPT 5.6 sol in arena.ai!!!"
+    },
+    {
+      "id": "u_a06dcdc2",
+      "sentAt": "2026-07-16T22:59:30.429Z",
+      "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI"
+    },
+    {
+      "id": "u_454410b3",
+      "sentAt": "2026-07-16T22:59:30.429Z",
+      "title": "Introducing Grok on Amazon Bedrock"
+    },
     {
       "id": "u_ad31ccd3",
       "sentAt": "2026-07-16T21:03:32.246Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3d21c7e9",
       "sentAt": "2026-06-16T20:56:12.665Z",
       "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek"
-    },
-    {
-      "id": "u_eda7b571",
-      "sentAt": "2026-06-16T20:56:12.665Z",
-      "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek"
-    },
-    {
-      "id": "u_1eabefe0",
-      "sentAt": "2026-06-16T20:56:12.665Z",
-      "title": "Pegasus Tech Ventures launches $60M fund for physical AI startups"
-    },
-    {
-      "id": "u_1d7b872b",
-      "sentAt": "2026-06-16T17:01:26.898Z",
-      "title": "TwelveLabs’ video AI finds new use cases on AWS Marketplace"
-    },
-    {
-      "id": "u_6d0c41ea",
-      "sentAt": "2026-06-16T17:01:26.898Z",
-      "title": "FinancialContent - Avangard Launches New AI-Powered Investment Fund Built on More Than Two Decades of Research and Machine Learning Development - FinancialContent"
-    },
-    {
-      "id": "u_bb79987",
-      "sentAt": "2026-06-16T17:01:26.898Z",
-      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents"
     }
   ]
 }
