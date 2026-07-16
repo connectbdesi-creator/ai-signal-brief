@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-16T15:43:54.004Z",
+  "updatedAt": "2026-07-16T17:20:46.674Z",
   "entries": [
+    {
+      "id": "u_6a23104b",
+      "sentAt": "2026-07-16T17:20:46.674Z",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix"
+    },
+    {
+      "id": "u_b6c9df01",
+      "sentAt": "2026-07-16T17:20:46.674Z",
+      "title": "Enterprises Trust AI Evaluations Less, But Grant More Autonomy"
+    },
+    {
+      "id": "u_76ce5baf",
+      "sentAt": "2026-07-16T17:20:46.674Z",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway"
+    },
+    {
+      "id": "u_89a3a044",
+      "sentAt": "2026-07-16T17:20:46.674Z",
+      "title": "Prepare These 5 Assets Before Your AI Agents Take On More Work"
+    },
+    {
+      "id": "u_cdeb35b0",
+      "sentAt": "2026-07-16T17:20:46.674Z",
+      "title": "ChatGPT's Teen Safety Upgrades: A Necessary Step or Overkill?"
+    },
     {
       "id": "u_ee534e2f",
       "sentAt": "2026-07-16T15:43:54.004Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f9ef7077",
       "sentAt": "2026-06-16T04:44:21.234Z",
       "title": "Optimising Temporary Accommodation Placement Across London with AI-Powered SaaS in E-Governance Systems"
-    },
-    {
-      "id": "u_fbc6f81f",
-      "sentAt": "2026-06-16T04:44:21.234Z",
-      "title": "SPARK: Security Knowledge Priming and Representation-Guided Knowledge Activation for LLM-based Secure Code Generation"
-    },
-    {
-      "id": "u_4739500e",
-      "sentAt": "2026-06-16T04:44:21.234Z",
-      "title": "Greed Is Learned: Visible Incentives as Reward-Hacking Triggers"
-    },
-    {
-      "id": "u_c480aae5",
-      "sentAt": "2026-06-15T22:21:59.890Z",
-      "title": "Radical Numerics launches with $50M to build general biological intelligence"
-    },
-    {
-      "id": "u_bbe22ccf",
-      "sentAt": "2026-06-15T22:21:59.890Z",
-      "title": "Cleo: trying to fit full analyst behavior in a 2B model [P]"
-    },
-    {
-      "id": "u_b248fe0",
-      "sentAt": "2026-06-15T22:21:59.890Z",
-      "title": "4 Things You Should Know About Fable 5"
     }
   ]
 }
