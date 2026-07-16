@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-16T14:00:06.298Z",
+  "updatedAt": "2026-07-16T15:43:54.004Z",
   "entries": [
+    {
+      "id": "u_ee534e2f",
+      "sentAt": "2026-07-16T15:43:54.004Z",
+      "title": "Yes, you can now order DoorDash from the command line"
+    },
+    {
+      "id": "u_18fa36ad",
+      "sentAt": "2026-07-16T15:43:54.004Z",
+      "title": "UA Hope-Texarkana Launches Certificate Of Proficiency In Artificial Intelligence - Texarkana Today"
+    },
+    {
+      "id": "u_ade29acf",
+      "sentAt": "2026-07-16T15:43:54.004Z",
+      "title": "Inkling: Our open-weights model"
+    },
+    {
+      "id": "u_d5b3e5",
+      "sentAt": "2026-07-16T15:43:54.004Z",
+      "title": "Why is OpenAI selling a ChatGPT basketball?"
+    },
+    {
+      "id": "u_7eaf0f9f",
+      "sentAt": "2026-07-16T15:43:54.004Z",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product"
+    },
     {
       "id": "u_62e998ee",
       "sentAt": "2026-07-16T14:00:06.298Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b248fe0",
       "sentAt": "2026-06-15T22:21:59.890Z",
       "title": "4 Things You Should Know About Fable 5"
-    },
-    {
-      "id": "u_8cf46719",
-      "sentAt": "2026-06-15T22:21:59.890Z",
-      "title": "Salesforce to acquire customer service automation startup Fin for $3.6B"
-    },
-    {
-      "id": "u_3cfcacbb",
-      "sentAt": "2026-06-15T22:21:59.890Z",
-      "title": "Introducing Gemma 4 models on Amazon Bedrock"
-    },
-    {
-      "id": "u_887152b1",
-      "sentAt": "2026-06-15T18:41:14.872Z",
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI"
-    },
-    {
-      "id": "u_bfad91be",
-      "sentAt": "2026-06-15T18:41:14.872Z",
-      "title": "Building a 100x Cheaper Trace Judge with Fireworks"
-    },
-    {
-      "id": "u_22f8e87f",
-      "sentAt": "2026-06-15T18:41:14.872Z",
-      "title": "Anthropic to meet with White House over AI tool suspension"
     }
   ]
 }
