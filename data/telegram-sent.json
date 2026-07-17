@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T02:51:36.213Z",
+  "updatedAt": "2026-07-17T06:19:39.713Z",
   "entries": [
+    {
+      "id": "u_eda7e99f",
+      "sentAt": "2026-07-17T06:19:39.713Z",
+      "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding"
+    },
+    {
+      "id": "u_e71fe650",
+      "sentAt": "2026-07-17T06:19:39.713Z",
+      "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models"
+    },
+    {
+      "id": "u_6bea3ff6",
+      "sentAt": "2026-07-17T06:19:39.713Z",
+      "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System"
+    },
+    {
+      "id": "u_767e755e",
+      "sentAt": "2026-07-17T06:19:39.713Z",
+      "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving"
+    },
+    {
+      "id": "u_2472ace1",
+      "sentAt": "2026-07-17T06:19:39.713Z",
+      "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems"
+    },
     {
       "id": "u_27ce10c5",
       "sentAt": "2026-07-17T02:51:36.213Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a2ee091e",
       "sentAt": "2026-06-17T04:24:47.207Z",
       "title": "Reconfigurable Computing Challenge: Transformer for Jet Tagging on Versal AI Engines"
-    },
-    {
-      "id": "u_ef092e51",
-      "sentAt": "2026-06-17T04:24:47.207Z",
-      "title": "Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era"
-    },
-    {
-      "id": "u_11a0c664",
-      "sentAt": "2026-06-17T04:24:47.207Z",
-      "title": "Informative Missingness to Generate Irregular Clinical Time Series"
-    },
-    {
-      "id": "u_c4114851",
-      "sentAt": "2026-06-16T23:25:58.042Z",
-      "title": "Gorham Public Schools launches AI handbook for students - WGME"
-    },
-    {
-      "id": "u_609673a2",
-      "sentAt": "2026-06-16T23:25:58.042Z",
-      "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API"
-    },
-    {
-      "id": "u_f35e989f",
-      "sentAt": "2026-06-16T23:25:58.042Z",
-      "title": "The AGI moment? Databricks’ new releases zero in on support and deployment of AI agents"
     }
   ]
 }
