@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T06:19:39.713Z",
+  "updatedAt": "2026-07-17T10:00:53.316Z",
   "entries": [
+    {
+      "id": "u_2ad65100",
+      "sentAt": "2026-07-17T10:00:53.316Z",
+      "title": "China just erased America's AI lead"
+    },
+    {
+      "id": "u_51723079",
+      "sentAt": "2026-07-17T10:00:53.316Z",
+      "title": "Pro-AI super PAC keeps $31M ready for the midterms"
+    },
+    {
+      "id": "u_866e37c",
+      "sentAt": "2026-07-17T10:00:53.316Z",
+      "title": "I'm a working mom who uses AI agents to manage childcare, our family calendar, and my mental load. Here's my setup."
+    },
+    {
+      "id": "u_aab2e2eb",
+      "sentAt": "2026-07-17T10:00:53.316Z",
+      "title": "Tired Of Building AI Agents? There's A Simpler Way To Work Smarter"
+    },
+    {
+      "id": "u_3779e5e5",
+      "sentAt": "2026-07-17T10:00:53.316Z",
+      "title": "How an influx of salt may affect microbial ecosystems"
+    },
     {
       "id": "u_eda7e99f",
       "sentAt": "2026-07-17T06:19:39.713Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a2a55f27",
       "sentAt": "2026-06-17T11:02:57.612Z",
       "title": "Mistral AI to produce a larger family of models"
-    },
-    {
-      "id": "u_95594858",
-      "sentAt": "2026-06-17T11:02:57.612Z",
-      "title": "Lighthouse for AI Agents"
-    },
-    {
-      "id": "u_7a8ba941",
-      "sentAt": "2026-06-17T11:02:57.612Z",
-      "title": "MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget"
-    },
-    {
-      "id": "u_6ab0ff55",
-      "sentAt": "2026-06-17T04:24:47.207Z",
-      "title": "Amazon backs AI start-up developing models to simulate physical world"
-    },
-    {
-      "id": "u_c813d9d2",
-      "sentAt": "2026-06-17T04:24:47.207Z",
-      "title": "Diagnosing and Repairing Shape-Prior Shortcuts in Long-Range Single-Shot Fringe Projection Profilometry"
-    },
-    {
-      "id": "u_a2ee091e",
-      "sentAt": "2026-06-17T04:24:47.207Z",
-      "title": "Reconfigurable Computing Challenge: Transformer for Jet Tagging on Versal AI Engines"
     }
   ]
 }
