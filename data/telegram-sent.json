@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T20:59:33.379Z",
+  "updatedAt": "2026-07-17T22:52:40.614Z",
   "entries": [
+    {
+      "id": "u_2d5dcbb0",
+      "sentAt": "2026-07-17T22:52:40.614Z",
+      "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds"
+    },
+    {
+      "id": "u_f96a766f",
+      "sentAt": "2026-07-17T22:52:40.614Z",
+      "title": "AI Agents Finally Get Access Without the Password - PYMNTS.com"
+    },
+    {
+      "id": "u_716fcfae",
+      "sentAt": "2026-07-17T22:52:40.614Z",
+      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage"
+    },
+    {
+      "id": "u_3c5a503d",
+      "sentAt": "2026-07-17T22:52:40.614Z",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them"
+    },
+    {
+      "id": "u_37653cf4",
+      "sentAt": "2026-07-17T22:52:40.614Z",
+      "title": "A scorecard for the AI age"
+    },
     {
       "id": "u_21918474",
       "sentAt": "2026-07-17T20:59:33.379Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1793d379",
       "sentAt": "2026-06-18T15:35:38.585Z",
       "title": "The Identity Apocalypse: AI Agents And The End Of Digital Trust"
-    },
-    {
-      "id": "u_dc427335",
-      "sentAt": "2026-06-18T15:35:38.585Z",
-      "title": "Korea emerges as global AI battleground as Anthropic launches Seoul office - KED Global"
-    },
-    {
-      "id": "u_add2087c",
-      "sentAt": "2026-06-18T15:35:38.585Z",
-      "title": "Midjourney, known for AI image generation, unveils a full-body ultrasound scanner and its own spa"
-    },
-    {
-      "id": "u_d0ceb4ae",
-      "sentAt": "2026-06-18T10:25:24.578Z",
-      "title": "AI reshapes global labour market into two distinct paths, rewarding human skills"
-    },
-    {
-      "id": "u_6a2d6d13",
-      "sentAt": "2026-06-18T10:25:24.578Z",
-      "title": "Inside the White House's AI power center"
-    },
-    {
-      "id": "u_81c81da8",
-      "sentAt": "2026-06-18T10:25:24.578Z",
-      "title": "Trump's shadow AI policy"
     }
   ]
 }
