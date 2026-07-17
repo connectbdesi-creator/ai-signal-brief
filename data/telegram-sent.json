@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T17:15:30.885Z",
+  "updatedAt": "2026-07-17T19:15:10.703Z",
   "entries": [
+    {
+      "id": "u_34b0952c",
+      "sentAt": "2026-07-17T19:15:10.703Z",
+      "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT - The Washington Post"
+    },
+    {
+      "id": "u_3adf3196",
+      "sentAt": "2026-07-17T19:15:10.703Z",
+      "title": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs"
+    },
+    {
+      "id": "u_6904cc2c",
+      "sentAt": "2026-07-17T19:15:10.703Z",
+      "title": "EY re-envisions RAG around multimodal knowledge graphs to improve accuracy"
+    },
+    {
+      "id": "u_fe1729c6",
+      "sentAt": "2026-07-17T19:15:10.703Z",
+      "title": "Weave Robotics launches Isaac, its first mobile humanoid robot"
+    },
+    {
+      "id": "u_e4a22e7a",
+      "sentAt": "2026-07-17T19:15:10.703Z",
+      "title": "Morgan State University Launches Artificial Intelligence Degree to Prepare Students for the Next Era of Innovation - Morgan State University"
+    },
     {
       "id": "u_e1f6b075",
       "sentAt": "2026-07-17T17:15:30.885Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8413e17a",
       "sentAt": "2026-06-18T04:18:01.924Z",
       "title": "Possible or Definite? A Benchmark for Evaluating Diagnostic Uncertainty Preservation in Clinical Text"
-    },
-    {
-      "id": "u_13cf57d5",
-      "sentAt": "2026-06-18T04:18:01.924Z",
-      "title": "RECOM: A Validity Discrimination Tradeoff in Automatic Metrics for Open Ended Reddit Question Answering"
-    },
-    {
-      "id": "u_60efb949",
-      "sentAt": "2026-06-18T04:18:01.924Z",
-      "title": "HandwritingAgent: Language-Driven Handwriting Synthesis in Scalable Vector Space"
-    },
-    {
-      "id": "u_b065d5be",
-      "sentAt": "2026-06-17T22:03:39.816Z",
-      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI"
-    },
-    {
-      "id": "u_c44ba55e",
-      "sentAt": "2026-06-17T22:03:39.816Z",
-      "title": "Get ready for Disney's big AI ads push"
-    },
-    {
-      "id": "u_c46d336",
-      "sentAt": "2026-06-17T22:03:39.816Z",
-      "title": "Google Releases Free Android Upgrade To Millions: Samsung Galaxy Next"
     }
   ]
 }
