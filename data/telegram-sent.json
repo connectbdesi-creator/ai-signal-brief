@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T15:16:57.824Z",
+  "updatedAt": "2026-07-17T17:15:30.885Z",
   "entries": [
+    {
+      "id": "u_e1f6b075",
+      "sentAt": "2026-07-17T17:15:30.885Z",
+      "title": "Introducing Mobile Layout for Amazon Quick dashboards"
+    },
+    {
+      "id": "u_170fb8fd",
+      "sentAt": "2026-07-17T17:15:30.885Z",
+      "title": "How to Work Effectively with GPT-5.6"
+    },
+    {
+      "id": "u_bd1fa281",
+      "sentAt": "2026-07-17T17:15:30.885Z",
+      "title": "China’s Moonshot unveils new AI model - Taipei Times"
+    },
+    {
+      "id": "u_855fb7f7",
+      "sentAt": "2026-07-17T17:15:30.885Z",
+      "title": "The next DeepSeek? A surprise AI breakthrough in China is rattling US market heavyweights."
+    },
+    {
+      "id": "u_c58603d1",
+      "sentAt": "2026-07-17T17:15:30.885Z",
+      "title": "What smart people are saying about China's hot new Kimi K3 AI model"
+    },
     {
       "id": "u_c1933a91",
       "sentAt": "2026-07-17T15:16:57.824Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c46d336",
       "sentAt": "2026-06-17T22:03:39.816Z",
       "title": "Google Releases Free Android Upgrade To Millions: Samsung Galaxy Next"
-    },
-    {
-      "id": "u_a0335e2b",
-      "sentAt": "2026-06-17T22:03:39.816Z",
-      "title": "Big Tech’s AI Datacenter Investments Might Be In Big Trouble"
-    },
-    {
-      "id": "u_2b74008a",
-      "sentAt": "2026-06-17T22:03:39.816Z",
-      "title": "This 'anti-bot' startup wants to pay you to interact with brands. Read the pitch deck it used to raise $18.5 million."
-    },
-    {
-      "id": "u_50e0b61d",
-      "sentAt": "2026-06-17T18:23:37.514Z",
-      "title": "Amazon, Nvidia, and AMD bet $310 million on AI startup building 3D world models"
-    },
-    {
-      "id": "u_820fe1af",
-      "sentAt": "2026-06-17T18:23:37.514Z",
-      "title": "Vercel launches a new framework and enterprise controls for agentic AI infrastructure"
-    },
-    {
-      "id": "u_88c8349f",
-      "sentAt": "2026-06-17T18:23:37.514Z",
-      "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons"
     }
   ]
 }
