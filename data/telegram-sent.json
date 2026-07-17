@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T13:44:53.032Z",
+  "updatedAt": "2026-07-17T15:16:57.824Z",
   "entries": [
+    {
+      "id": "u_c1933a91",
+      "sentAt": "2026-07-17T15:16:57.824Z",
+      "title": "Using Classical ML to Empower AI Agents"
+    },
+    {
+      "id": "u_a6042c42",
+      "sentAt": "2026-07-17T15:16:57.824Z",
+      "title": "China-Thailand Joint Laboratory for Intelligent Prediction and Early Warning of Meteorological Disasters launched - World Meteorological Organization WMO"
+    },
+    {
+      "id": "u_f8e14069",
+      "sentAt": "2026-07-17T15:16:57.824Z",
+      "title": "China’s Xi Jinping launches new AI alliance: What is it? - Al Jazeera"
+    },
+    {
+      "id": "u_7c5b6a95",
+      "sentAt": "2026-07-17T15:16:57.824Z",
+      "title": "Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop"
+    },
+    {
+      "id": "u_6cb5c888",
+      "sentAt": "2026-07-17T15:16:57.824Z",
+      "title": "3 reasons China's Kimi K3 is turning heads in Silicon Valley"
+    },
     {
       "id": "u_d3d6f7db",
       "sentAt": "2026-07-17T13:44:53.032Z",
@@ -4975,31 +5000,6 @@
       "id": "u_88c8349f",
       "sentAt": "2026-06-17T18:23:37.514Z",
       "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons"
-    },
-    {
-      "id": "u_ea6dfb42",
-      "sentAt": "2026-06-17T18:23:37.514Z",
-      "title": "Zhipu AI's GLM-5.2 closes in on closed-source leaders in coding marathons"
-    },
-    {
-      "id": "u_8e54b4d6",
-      "sentAt": "2026-06-17T18:23:37.514Z",
-      "title": "Context intelligence for your data and AI agents at scale"
-    },
-    {
-      "id": "u_b4f78a69",
-      "sentAt": "2026-06-17T15:42:57.274Z",
-      "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning"
-    },
-    {
-      "id": "u_e64428d1",
-      "sentAt": "2026-06-17T15:42:57.274Z",
-      "title": "Towards autonomous medical artificial intelligence agents - Nature"
-    },
-    {
-      "id": "u_657e5709",
-      "sentAt": "2026-06-17T15:42:57.274Z",
-      "title": "Nvidia research shows robots that train themselves through AI coding agents"
     }
   ]
 }
