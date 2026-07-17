@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T10:00:53.316Z",
+  "updatedAt": "2026-07-17T13:44:53.032Z",
   "entries": [
+    {
+      "id": "u_d3d6f7db",
+      "sentAt": "2026-07-17T13:44:53.032Z",
+      "title": "Claude Sonnet 5 Just Became the Default AI for Everyone — and the Price Drop Is the Real Story"
+    },
+    {
+      "id": "u_805b3c15",
+      "sentAt": "2026-07-17T13:44:53.032Z",
+      "title": "The UN Just Held Its First Global AI Governance Summit — and the Warning Was Blunt"
+    },
+    {
+      "id": "u_7f76c4db",
+      "sentAt": "2026-07-17T13:44:53.032Z",
+      "title": "Meta Just Launched Its First Paid AI Model — and It Changes the Open-Source Game"
+    },
+    {
+      "id": "u_6069d0f",
+      "sentAt": "2026-07-17T13:44:53.032Z",
+      "title": "SpaceXAI Just Launched Grok 4.5 — and It Was Trained on Real Developer Behavior"
+    },
+    {
+      "id": "u_176a86cb",
+      "sentAt": "2026-07-17T13:44:53.032Z",
+      "title": "OpenAI GPT-5.6 Goes Public — Three Models, One Strategy, and a New Kind of AI Release"
+    },
     {
       "id": "u_2ad65100",
       "sentAt": "2026-07-17T10:00:53.316Z",
@@ -4975,31 +5000,6 @@
       "id": "u_657e5709",
       "sentAt": "2026-06-17T15:42:57.274Z",
       "title": "Nvidia research shows robots that train themselves through AI coding agents"
-    },
-    {
-      "id": "u_3592c3e6",
-      "sentAt": "2026-06-17T15:42:57.274Z",
-      "title": "Nvidia research shows robots that train themselves through AI coding agents"
-    },
-    {
-      "id": "u_2aa6c929",
-      "sentAt": "2026-06-17T15:42:57.274Z",
-      "title": "Artificial intelligence agents automate life-cycle assessment - Nature"
-    },
-    {
-      "id": "u_1d408cba",
-      "sentAt": "2026-06-17T11:02:57.612Z",
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’"
-    },
-    {
-      "id": "u_50c7ce1d",
-      "sentAt": "2026-06-17T11:02:57.612Z",
-      "title": "CYGNVS launches command center for crises caused by a company’s own AI"
-    },
-    {
-      "id": "u_a2a55f27",
-      "sentAt": "2026-06-17T11:02:57.612Z",
-      "title": "Mistral AI to produce a larger family of models"
     }
   ]
 }
