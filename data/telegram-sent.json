@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T19:15:10.703Z",
+  "updatedAt": "2026-07-17T20:59:33.379Z",
   "entries": [
+    {
+      "id": "u_21918474",
+      "sentAt": "2026-07-17T20:59:33.379Z",
+      "title": "One MacBook vs 2× DGX Spark: DeepSeek-V4-Flash scored 54% vs 52% on Terminal-Bench 2.1"
+    },
+    {
+      "id": "u_35586d1",
+      "sentAt": "2026-07-17T20:59:33.379Z",
+      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did"
+    },
+    {
+      "id": "u_dbc52039",
+      "sentAt": "2026-07-17T20:59:33.379Z",
+      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did"
+    },
+    {
+      "id": "u_e6b53961",
+      "sentAt": "2026-07-17T20:59:33.379Z",
+      "title": "Chinese AI model Kimi K3 sends shockwaves through Silicon Valley, challenging ChatGPT, Claude - TRT World"
+    },
+    {
+      "id": "u_89aea24e",
+      "sentAt": "2026-07-17T20:59:33.379Z",
+      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage"
+    },
     {
       "id": "u_34b0952c",
       "sentAt": "2026-07-17T19:15:10.703Z",
@@ -4975,31 +5000,6 @@
       "id": "u_81c81da8",
       "sentAt": "2026-06-18T10:25:24.578Z",
       "title": "Trump's shadow AI policy"
-    },
-    {
-      "id": "u_428ce8dd",
-      "sentAt": "2026-06-18T10:25:24.578Z",
-      "title": "Kwai-Keye/Keye-VL-2.0-30B-A3B-GGUF · Hugging Face"
-    },
-    {
-      "id": "u_f21c484c",
-      "sentAt": "2026-06-18T10:25:24.578Z",
-      "title": "Arizona emerges as test case for AI's energy and water crunch"
-    },
-    {
-      "id": "u_46073e67",
-      "sentAt": "2026-06-18T04:18:01.924Z",
-      "title": "Redact or Keep? A Fully Local AI Cascade for Educational Dialogue De-Identification"
-    },
-    {
-      "id": "u_e374d133",
-      "sentAt": "2026-06-18T04:18:01.924Z",
-      "title": "Montreal Forced Aligner and the state of speech-to-text alignment in 2026"
-    },
-    {
-      "id": "u_8413e17a",
-      "sentAt": "2026-06-18T04:18:01.924Z",
-      "title": "Possible or Definite? A Benchmark for Evaluating Diagnostic Uncertainty Preservation in Clinical Text"
     }
   ]
 }
