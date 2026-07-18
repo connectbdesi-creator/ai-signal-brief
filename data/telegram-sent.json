@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-18T11:06:30.223Z",
+  "updatedAt": "2026-07-18T13:22:03.253Z",
   "entries": [
+    {
+      "id": "u_95208022",
+      "sentAt": "2026-07-18T13:22:03.253Z",
+      "title": "China Just Created the World's First AI Agent Regulations — and They're Now Enforceable"
+    },
+    {
+      "id": "u_19c0a020",
+      "sentAt": "2026-07-18T13:22:03.253Z",
+      "title": "Global Startup Funding Just Hit $510 Billion in Six Months — and AI Took 70% of It"
+    },
+    {
+      "id": "u_b4ca7eb4",
+      "sentAt": "2026-07-18T13:22:03.253Z",
+      "title": "xAI's Grok Build CLI Was Secretly Uploading Full Repositories — and the Opt-Out Didn't Stop It"
+    },
+    {
+      "id": "u_63a400e5",
+      "sentAt": "2026-07-18T13:22:03.253Z",
+      "title": "Moonshot AI Just Dropped Kimi K3 — a 2.8 Trillion Parameter Open-Weight Model That Challenges US Dominance"
+    },
+    {
+      "id": "u_d1e35765",
+      "sentAt": "2026-07-18T13:22:03.253Z",
+      "title": "AI race splits in two as China wages open-weight insurgency"
+    },
     {
       "id": "u_8fa95aa2",
       "sentAt": "2026-07-18T11:06:30.223Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6127ab75",
       "sentAt": "2026-06-19T15:27:30.516Z",
       "title": "The film about Sam Altman has been dropped by Amazon MGM"
-    },
-    {
-      "id": "u_7df4694f",
-      "sentAt": "2026-06-19T15:27:30.516Z",
-      "title": "Introducing Web Search on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_27253574",
-      "sentAt": "2026-06-19T15:27:30.516Z",
-      "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick"
-    },
-    {
-      "id": "u_12640c10",
-      "sentAt": "2026-06-19T10:42:52.475Z",
-      "title": "OpenAI researchers show small doses of \"beneficial trait\" training make AI models broadly safer and harder to manipulate"
-    },
-    {
-      "id": "u_91f087cd",
-      "sentAt": "2026-06-19T10:42:52.475Z",
-      "title": "OpenAI researchers show small doses of \"beneficial trait\" training make AI models broadly safer and harder to manipulate"
-    },
-    {
-      "id": "u_c5b00bd0",
-      "sentAt": "2026-06-19T10:42:52.475Z",
-      "title": "Zhipu, DeepSeek push China’s trillion-parameter AI frontier amid US clampdown - South China Morning Post"
     }
   ]
 }
