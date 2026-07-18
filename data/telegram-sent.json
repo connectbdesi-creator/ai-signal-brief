@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-17T22:52:40.614Z",
+  "updatedAt": "2026-07-18T02:43:53.835Z",
   "entries": [
+    {
+      "id": "u_b59045f",
+      "sentAt": "2026-07-18T02:43:53.835Z",
+      "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]"
+    },
+    {
+      "id": "u_4c6d9fd6",
+      "sentAt": "2026-07-18T02:43:53.835Z",
+      "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead - The New York Times"
+    },
+    {
+      "id": "u_3780fa38",
+      "sentAt": "2026-07-18T02:43:53.835Z",
+      "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT - New York Daily News"
+    },
+    {
+      "id": "u_45887f77",
+      "sentAt": "2026-07-18T02:43:53.835Z",
+      "title": "Morgan State University Launches Artificial Intelligence Degree to Prepare Students for the Next Era of Innovation - WEAA"
+    },
+    {
+      "id": "u_d125244a",
+      "sentAt": "2026-07-18T02:43:53.835Z",
+      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills"
+    },
     {
       "id": "u_2d5dcbb0",
       "sentAt": "2026-07-17T22:52:40.614Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9ba250d3",
       "sentAt": "2026-06-18T18:27:42.477Z",
       "title": "Calibrating 2-bit GGUFs (<10Gb) for agentic coding tasks"
-    },
-    {
-      "id": "u_4786f149",
-      "sentAt": "2026-06-18T18:27:42.477Z",
-      "title": "Introducing LangSmith’s No Code Agent Builder"
-    },
-    {
-      "id": "u_23c66fa",
-      "sentAt": "2026-06-18T18:27:42.477Z",
-      "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes"
-    },
-    {
-      "id": "u_cabe7865",
-      "sentAt": "2026-06-18T15:35:38.585Z",
-      "title": "General Intuition in talks to raise $300M at around $2B valuation"
-    },
-    {
-      "id": "u_45507654",
-      "sentAt": "2026-06-18T15:35:38.585Z",
-      "title": "Who decides when AI is too dangerous?"
-    },
-    {
-      "id": "u_1793d379",
-      "sentAt": "2026-06-18T15:35:38.585Z",
-      "title": "The Identity Apocalypse: AI Agents And The End Of Digital Trust"
     }
   ]
 }
