@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-18T06:07:23.663Z",
+  "updatedAt": "2026-07-18T09:37:43.545Z",
   "entries": [
+    {
+      "id": "u_61dc84f8",
+      "sentAt": "2026-07-18T09:37:43.545Z",
+      "title": "Is it safe to say kimi k3 can beat the opus 4.7 and gpt 5.4 ? (In agentic task and frontend and backend coding.) (All at max mode)"
+    },
+    {
+      "id": "u_e45d680f",
+      "sentAt": "2026-07-18T09:37:43.545Z",
+      "title": "AI Gets Trapped in a Circular Loop on Climate Science"
+    },
+    {
+      "id": "u_7047b962",
+      "sentAt": "2026-07-18T09:37:43.545Z",
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents"
+    },
+    {
+      "id": "u_22a66ce9",
+      "sentAt": "2026-07-18T09:37:43.545Z",
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents"
+    },
+    {
+      "id": "u_de5b832e",
+      "sentAt": "2026-07-18T09:37:43.545Z",
+      "title": "Google Cloud’s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite"
+    },
     {
       "id": "u_b58896ec",
       "sentAt": "2026-07-18T06:07:23.663Z",
@@ -4975,31 +5000,6 @@
       "id": "u_55858570",
       "sentAt": "2026-06-19T04:46:06.706Z",
       "title": "A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots"
-    },
-    {
-      "id": "u_55c09a3c",
-      "sentAt": "2026-06-19T04:46:06.706Z",
-      "title": "Beyond the GUI Paradigm: Do Mobile Agents Need the Phone Screen?"
-    },
-    {
-      "id": "u_3e3851c8",
-      "sentAt": "2026-06-19T04:46:06.706Z",
-      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data"
-    },
-    {
-      "id": "u_35dceab2",
-      "sentAt": "2026-06-18T22:13:28.910Z",
-      "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]"
-    },
-    {
-      "id": "u_95d4200f",
-      "sentAt": "2026-06-18T22:13:28.910Z",
-      "title": "The White House Is Making Up Its Rules for AI in Real Time"
-    },
-    {
-      "id": "u_d0ed4bf6",
-      "sentAt": "2026-06-18T22:13:28.910Z",
-      "title": "Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight"
     }
   ]
 }
