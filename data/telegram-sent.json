@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-18T02:43:53.835Z",
+  "updatedAt": "2026-07-18T06:07:23.663Z",
   "entries": [
+    {
+      "id": "u_b58896ec",
+      "sentAt": "2026-07-18T06:07:23.663Z",
+      "title": "Claude make Fable 5 permanent"
+    },
+    {
+      "id": "u_3faa3585",
+      "sentAt": "2026-07-18T06:07:23.663Z",
+      "title": "Neural Architectures for Amortized Bayesian Inference: Statistical Foundations and Empirical Assessments"
+    },
+    {
+      "id": "u_eb5b36e0",
+      "sentAt": "2026-07-18T06:07:23.663Z",
+      "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems"
+    },
+    {
+      "id": "u_41b66efb",
+      "sentAt": "2026-07-18T06:07:23.663Z",
+      "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say"
+    },
+    {
+      "id": "u_bbb818d5",
+      "sentAt": "2026-07-18T06:07:23.663Z",
+      "title": "A year ago you told me my open-source screen-watching app was flaky. You were right, so I spent the year fixing it with your feedback. Thank you r/LocalLLaMA c: !!"
+    },
     {
       "id": "u_b59045f",
       "sentAt": "2026-07-18T02:43:53.835Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d0ed4bf6",
       "sentAt": "2026-06-18T22:13:28.910Z",
       "title": "Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent’s Work and Learns Overnight"
-    },
-    {
-      "id": "u_2aec2db1",
-      "sentAt": "2026-06-18T22:13:28.910Z",
-      "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says"
-    },
-    {
-      "id": "u_88f2408b",
-      "sentAt": "2026-06-18T22:13:28.910Z",
-      "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says"
-    },
-    {
-      "id": "u_78f96a58",
-      "sentAt": "2026-06-18T18:27:42.477Z",
-      "title": "Google Deepmind treats its own AI agents like rogue employees with office keys"
-    },
-    {
-      "id": "u_a1869c44",
-      "sentAt": "2026-06-18T18:27:42.477Z",
-      "title": "Google Deepmind treats its own AI agents like rogue employees with office keys"
-    },
-    {
-      "id": "u_9ba250d3",
-      "sentAt": "2026-06-18T18:27:42.477Z",
-      "title": "Calibrating 2-bit GGUFs (<10Gb) for agentic coding tasks"
     }
   ]
 }
