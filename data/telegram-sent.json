@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-18T17:00:33.373Z",
+  "updatedAt": "2026-07-18T19:09:23.709Z",
   "entries": [
+    {
+      "id": "u_3a76e364",
+      "sentAt": "2026-07-18T19:09:23.709Z",
+      "title": "Kimi: Threat or menace?"
+    },
+    {
+      "id": "u_ab1ad2e5",
+      "sentAt": "2026-07-18T19:09:23.709Z",
+      "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT - Broadband Breakfast"
+    },
+    {
+      "id": "u_7279ef54",
+      "sentAt": "2026-07-18T19:09:23.709Z",
+      "title": "Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform."
+    },
+    {
+      "id": "u_5e4a255a",
+      "sentAt": "2026-07-18T19:09:23.709Z",
+      "title": "\"Basalt Labs\" pulling a generationally dumb scam. Incredibly stupid lmao. Claiming 99.44% on HLE with tools. Model they released is based on Qwen2.5-7B-Instruct and the model they're serving on their website is DeepSeek."
+    },
+    {
+      "id": "u_c15af394",
+      "sentAt": "2026-07-18T19:09:23.709Z",
+      "title": "If you're building a harness, here is a simple tool to catch cache invalidation in your calls to LLMs"
+    },
     {
       "id": "u_31f17ee4",
       "sentAt": "2026-07-18T17:00:33.373Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7df045f8",
       "sentAt": "2026-06-19T21:12:54.207Z",
       "title": "Nvidia (NVDA) Announces Artificial Intelligence Partnerships with 6 Major South Korean Companies - Insider Monkey"
-    },
-    {
-      "id": "u_b9f0c151",
-      "sentAt": "2026-06-19T18:02:19.026Z",
-      "title": "A Few Good Agents: Why Less May Be More In The AI World"
-    },
-    {
-      "id": "u_55d8ca84",
-      "sentAt": "2026-06-19T18:02:19.026Z",
-      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care"
-    },
-    {
-      "id": "u_33112a6b",
-      "sentAt": "2026-06-19T18:02:19.026Z",
-      "title": "Trump kneecaps Anthropic, SpaceX bags Cursor and Databricks debuts AI agent coworker"
-    },
-    {
-      "id": "u_8284c546",
-      "sentAt": "2026-06-19T18:02:19.026Z",
-      "title": "New benchmark exposes how badly AI struggles with real knowledge work"
-    },
-    {
-      "id": "u_bd86a524",
-      "sentAt": "2026-06-19T18:02:19.026Z",
-      "title": "New benchmark exposes how badly AI struggles with real knowledge work"
     }
   ]
 }
