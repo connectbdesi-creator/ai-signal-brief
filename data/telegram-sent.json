@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-07-18T13:22:03.253Z",
+  "updatedAt": "2026-07-18T14:56:48.630Z",
   "entries": [
+    {
+      "id": "u_c40fee55",
+      "sentAt": "2026-07-18T14:56:48.630Z",
+      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing"
+    },
     {
       "id": "u_95208022",
       "sentAt": "2026-07-18T13:22:03.253Z",
@@ -4995,11 +5000,6 @@
       "id": "u_adeb026c",
       "sentAt": "2026-06-19T15:27:30.516Z",
       "title": "Bcachefs exits experimental status in new 'performance release'"
-    },
-    {
-      "id": "u_6127ab75",
-      "sentAt": "2026-06-19T15:27:30.516Z",
-      "title": "The film about Sam Altman has been dropped by Amazon MGM"
     }
   ]
 }
