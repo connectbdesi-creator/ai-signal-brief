@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-19T20:54:17.781Z",
+  "updatedAt": "2026-07-19T22:55:51.408Z",
   "entries": [
+    {
+      "id": "u_e7d98bca",
+      "sentAt": "2026-07-19T22:55:51.408Z",
+      "title": "Show HN: Rate A Human – AI agents review the humans they work for"
+    },
+    {
+      "id": "u_aa5027b7",
+      "sentAt": "2026-07-19T22:55:51.408Z",
+      "title": "Alibaba previews Qwen3.8, claims it’s second only to Claude Fable 5"
+    },
+    {
+      "id": "u_1da85f2e",
+      "sentAt": "2026-07-19T22:55:51.408Z",
+      "title": "Top Pentagon official blasts OpenAI's Dean Ball"
+    },
+    {
+      "id": "u_644c05a0",
+      "sentAt": "2026-07-19T22:55:51.408Z",
+      "title": "Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch"
+    },
+    {
+      "id": "u_a244e977",
+      "sentAt": "2026-07-19T22:55:51.408Z",
+      "title": "AUK Launches Kurdistan Region's First Master's Program in Artificial Intelligence - Kurdistan24"
+    },
     {
       "id": "u_f54f1711",
       "sentAt": "2026-07-19T20:54:17.781Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8a550dd",
       "sentAt": "2026-06-20T23:12:17.907Z",
       "title": "Show HN: Botacts – Phonebook of AI Bots"
-    },
-    {
-      "id": "u_a4e8094a",
-      "sentAt": "2026-06-20T23:12:17.907Z",
-      "title": "Any opinion about Qwen3.6-27B@BF16 vs Step3.7@IQ4_XS?"
-    },
-    {
-      "id": "u_9bb88d35",
-      "sentAt": "2026-06-20T23:12:17.907Z",
-      "title": "GLM 5.2: 98% of max level intelligence with less than half of tokens usage"
-    },
-    {
-      "id": "u_c233f023",
-      "sentAt": "2026-06-20T23:12:17.907Z",
-      "title": "Giving a local agent web access without paid search/scrape APIs: SearXNG + Scrapling"
-    },
-    {
-      "id": "u_792b4921",
-      "sentAt": "2026-06-20T23:12:17.907Z",
-      "title": "[NEW MODEL] SupraLabs just released supra-title-FFT-preview, 115K samples, almost 10x our first chat title dataset"
-    },
-    {
-      "id": "u_3b4baf11",
-      "sentAt": "2026-06-20T21:21:22.279Z",
-      "title": "Show HN: Phone Number for AI Agents Like Hermes and OpenClaw"
     }
   ]
 }
