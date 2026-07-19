@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-19T06:32:43.313Z",
+  "updatedAt": "2026-07-19T09:54:10.414Z",
   "entries": [
+    {
+      "id": "u_5ada527a",
+      "sentAt": "2026-07-19T09:54:10.414Z",
+      "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math"
+    },
+    {
+      "id": "u_1321e0c0",
+      "sentAt": "2026-07-19T09:54:10.414Z",
+      "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math"
+    },
+    {
+      "id": "u_343ad225",
+      "sentAt": "2026-07-19T09:54:10.414Z",
+      "title": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree"
+    },
+    {
+      "id": "u_5c83eb64",
+      "sentAt": "2026-07-19T09:54:10.414Z",
+      "title": "AI text detectors struggle when language models mimic an author's style"
+    },
+    {
+      "id": "u_d718e18b",
+      "sentAt": "2026-07-19T09:54:10.414Z",
+      "title": "AI text detectors struggle when language models mimic an author's style"
+    },
     {
       "id": "u_37299c7",
       "sentAt": "2026-07-19T06:32:43.313Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b0b1f1e3",
       "sentAt": "2026-06-20T07:56:13.429Z",
       "title": "Show HN: AgentArk – open-source self-hosted AI agent OS"
-    },
-    {
-      "id": "u_742bd6da",
-      "sentAt": "2026-06-20T07:56:13.429Z",
-      "title": "Show HN: Agentcard – virtual cards for AI agents, now with DoorDash checkout"
-    },
-    {
-      "id": "u_47ee0012",
-      "sentAt": "2026-06-20T04:00:04.311Z",
-      "title": "UW to launch new AI minor as universities scramble to meet workforce demand - KIRO 7 News Seattle"
-    },
-    {
-      "id": "u_2197194e",
-      "sentAt": "2026-06-20T04:00:04.311Z",
-      "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning"
-    },
-    {
-      "id": "u_e52d9300",
-      "sentAt": "2026-06-20T04:00:04.311Z",
-      "title": "Researchers grow a hypothesis tree for AI coding agents - InfoWorld"
-    },
-    {
-      "id": "u_101ad253",
-      "sentAt": "2026-06-19T23:01:23.372Z",
-      "title": "Quoting Sean Lynch"
     }
   ]
 }
