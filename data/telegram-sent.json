@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-07-19T14:59:06.961Z",
+  "updatedAt": "2026-07-19T17:01:06.082Z",
   "entries": [
+    {
+      "id": "u_a4fbe2da",
+      "sentAt": "2026-07-19T17:01:06.082Z",
+      "title": "Connecting AI agents to outside services explodes the risk radius"
+    },
+    {
+      "id": "u_88c507d0",
+      "sentAt": "2026-07-19T17:01:06.082Z",
+      "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong"
+    },
+    {
+      "id": "u_2391152f",
+      "sentAt": "2026-07-19T17:01:06.082Z",
+      "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents - MarkTechPost"
+    },
     {
       "id": "u_81387928",
       "sentAt": "2026-07-19T14:59:06.961Z",
@@ -4985,21 +5000,6 @@
       "id": "u_42cae05d",
       "sentAt": "2026-06-20T17:37:53.251Z",
       "title": "Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]"
-    },
-    {
-      "id": "u_23a1cacf",
-      "sentAt": "2026-06-20T17:37:53.251Z",
-      "title": "We're approaching AI agents from the wrong direction"
-    },
-    {
-      "id": "u_40d59e4e",
-      "sentAt": "2026-06-20T17:37:53.251Z",
-      "title": "Agentic AI’s challenge is getting agents to act like a team, not a crowd"
-    },
-    {
-      "id": "u_b223208",
-      "sentAt": "2026-06-20T17:37:53.251Z",
-      "title": "Agent Memory Layer: Repository-local memory for AI coding agents"
     }
   ]
 }
