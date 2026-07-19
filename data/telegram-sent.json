@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-19T09:54:10.414Z",
+  "updatedAt": "2026-07-19T11:10:41.964Z",
   "entries": [
+    {
+      "id": "u_eebf5232",
+      "sentAt": "2026-07-19T11:10:41.964Z",
+      "title": "Agent Arena: Benchmarking AI Agent Devtool Onboarding"
+    },
+    {
+      "id": "u_9437322f",
+      "sentAt": "2026-07-19T11:10:41.964Z",
+      "title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their “open-source” AI technology are making the California titans of AI sweat. Read more: https: - LinkedIn"
+    },
+    {
+      "id": "u_85ee57b7",
+      "sentAt": "2026-07-19T11:10:41.964Z",
+      "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing"
+    },
+    {
+      "id": "u_5a01ab48",
+      "sentAt": "2026-07-19T11:10:41.964Z",
+      "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing"
+    },
+    {
+      "id": "u_cf3ab537",
+      "sentAt": "2026-07-19T11:10:41.964Z",
+      "title": "AI coding agents should optimize for less owned code"
+    },
     {
       "id": "u_5ada527a",
       "sentAt": "2026-07-19T09:54:10.414Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6d215981",
       "sentAt": "2026-06-20T10:35:59.215Z",
       "title": "Prompt Engineer: How Prompt Engineering, AI Prompt Engineers, ChatGPT, and Artificial Intelligence Are Reshaping the Future of Digital Innovation - vocal.media"
-    },
-    {
-      "id": "u_99829a99",
-      "sentAt": "2026-06-20T10:35:59.215Z",
-      "title": "Safran launches Land OmniGuard counter-drone system combining passive surveillance, AI and resilient navigation - Defence Industry Europe"
-    },
-    {
-      "id": "u_740fe0d0",
-      "sentAt": "2026-06-20T07:56:13.429Z",
-      "title": "Show HN: StayUp – keep a Mac awake (lid closed) while AI agents are working"
-    },
-    {
-      "id": "u_967d348a",
-      "sentAt": "2026-06-20T07:56:13.429Z",
-      "title": "Reinforcement Learning Foundation Models Should Already Be A Thing"
-    },
-    {
-      "id": "u_89637aa9",
-      "sentAt": "2026-06-20T07:56:13.429Z",
-      "title": "A Controlled Benchmark of Quantum-Latent GAN Augmentation for Brain MRI"
-    },
-    {
-      "id": "u_b0b1f1e3",
-      "sentAt": "2026-06-20T07:56:13.429Z",
-      "title": "Show HN: AgentArk – open-source self-hosted AI agent OS"
     }
   ]
 }
