@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-19T11:10:41.964Z",
+  "updatedAt": "2026-07-19T13:23:23.421Z",
   "entries": [
+    {
+      "id": "u_b40ffc0f",
+      "sentAt": "2026-07-19T13:23:23.421Z",
+      "title": "Alibaba Just Launched an Entire Cloud Architecture Built Around AI Agents — Not Apps"
+    },
+    {
+      "id": "u_4ac6344d",
+      "sentAt": "2026-07-19T13:23:23.421Z",
+      "title": "OpenAI and Anthropic Just Filed for Trillion-Dollar IPOs — and 42 State Attorneys General Are Investigating"
+    },
+    {
+      "id": "u_ca01ef9d",
+      "sentAt": "2026-07-19T13:23:23.421Z",
+      "title": "I built llms.txt files to make local businesses discoverable by AI agents"
+    },
+    {
+      "id": "u_ced5e5c8",
+      "sentAt": "2026-07-19T13:23:23.421Z",
+      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\""
+    },
+    {
+      "id": "u_139025a7",
+      "sentAt": "2026-07-19T13:23:23.421Z",
+      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\""
+    },
     {
       "id": "u_eebf5232",
       "sentAt": "2026-07-19T11:10:41.964Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2c8e3f5d",
       "sentAt": "2026-06-20T14:10:37.743Z",
       "title": "OpenAI's Codex can now watch you work once and repeat the task forever"
-    },
-    {
-      "id": "u_d398d50e",
-      "sentAt": "2026-06-20T14:10:37.743Z",
-      "title": "Show HN: Zero-config session-taste packer for AI agents"
-    },
-    {
-      "id": "u_ba392588",
-      "sentAt": "2026-06-20T10:35:59.215Z",
-      "title": "As the US and China surge ahead, is Europe sleepwalking into AI disaster?"
-    },
-    {
-      "id": "u_f0b940c4",
-      "sentAt": "2026-06-20T10:35:59.215Z",
-      "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents"
-    },
-    {
-      "id": "u_5eda4f3a",
-      "sentAt": "2026-06-20T10:35:59.215Z",
-      "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents"
-    },
-    {
-      "id": "u_6d215981",
-      "sentAt": "2026-06-20T10:35:59.215Z",
-      "title": "Prompt Engineer: How Prompt Engineering, AI Prompt Engineers, ChatGPT, and Artificial Intelligence Are Reshaping the Future of Digital Innovation - vocal.media"
     }
   ]
 }
