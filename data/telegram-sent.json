@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-18T20:53:39.346Z",
+  "updatedAt": "2026-07-19T02:58:12.401Z",
   "entries": [
+    {
+      "id": "u_dc496923",
+      "sentAt": "2026-07-19T02:58:12.401Z",
+      "title": "Open Weight Models Are Turning Inference Into A Control Point"
+    },
+    {
+      "id": "u_c5d58b32",
+      "sentAt": "2026-07-19T02:58:12.401Z",
+      "title": "Fine-Tuning Qwen3 with LoRA Using NVIDIA NeMo AutoModel: A Complete Single-GPU Google Colab Workflow Tutorial"
+    },
     {
       "id": "u_99bc4fcf",
       "sentAt": "2026-07-18T20:53:39.346Z",
@@ -4990,16 +5000,6 @@
       "id": "u_82ddab3c",
       "sentAt": "2026-06-19T21:12:54.207Z",
       "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat"
-    },
-    {
-      "id": "u_cf6318cf",
-      "sentAt": "2026-06-19T21:12:54.207Z",
-      "title": "Read the transcript of Trump's interview with \"The Axios Show\""
-    },
-    {
-      "id": "u_17176dcd",
-      "sentAt": "2026-06-19T21:12:54.207Z",
-      "title": "OpenAI adds spend controls and usage analytics to ChatGPT Enterprise - Computerworld"
     }
   ]
 }
