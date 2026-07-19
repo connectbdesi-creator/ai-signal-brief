@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-19T02:58:12.401Z",
+  "updatedAt": "2026-07-19T06:32:43.313Z",
   "entries": [
+    {
+      "id": "u_37299c7",
+      "sentAt": "2026-07-19T06:32:43.313Z",
+      "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents"
+    },
+    {
+      "id": "u_b7419020",
+      "sentAt": "2026-07-19T06:32:43.313Z",
+      "title": "China Launches World's Largest Open AI Model To Rival US Tech Giants - NDTV"
+    },
+    {
+      "id": "u_457e1796",
+      "sentAt": "2026-07-19T06:32:43.313Z",
+      "title": "Claude Code uses Bun written in Rust now"
+    },
+    {
+      "id": "u_ead08d04",
+      "sentAt": "2026-07-19T06:32:43.313Z",
+      "title": "Show HN: Flightwake – a flight recorder for AI coding agents, not a navigator"
+    },
+    {
+      "id": "u_1e07fc8",
+      "sentAt": "2026-07-19T06:32:43.313Z",
+      "title": "SafeAI – Open-Source Static AI Risk Analyzer for AI Agents"
+    },
     {
       "id": "u_dc496923",
       "sentAt": "2026-07-19T02:58:12.401Z",
@@ -4975,31 +5000,6 @@
       "id": "u_101ad253",
       "sentAt": "2026-06-19T23:01:23.372Z",
       "title": "Quoting Sean Lynch"
-    },
-    {
-      "id": "u_ff20fb74",
-      "sentAt": "2026-06-19T23:01:23.372Z",
-      "title": "Android Circuit: Android 17 Arrives, Galaxy S27 Details, Shrinking Smartphone Market"
-    },
-    {
-      "id": "u_77f43afe",
-      "sentAt": "2026-06-19T23:01:23.372Z",
-      "title": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline"
-    },
-    {
-      "id": "u_c76360fd",
-      "sentAt": "2026-06-19T23:01:23.372Z",
-      "title": "Portal and observatory launched to guide the use of artificial intelligence. - unicamp.br"
-    },
-    {
-      "id": "u_fa68c3f5",
-      "sentAt": "2026-06-19T23:01:23.372Z",
-      "title": "Efficient LLM Compression with SparseGPT and Wanda on GPU Cloud"
-    },
-    {
-      "id": "u_82ddab3c",
-      "sentAt": "2026-06-19T21:12:54.207Z",
-      "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat"
     }
   ]
 }
