@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-19T17:01:06.082Z",
+  "updatedAt": "2026-07-19T19:10:41.643Z",
   "entries": [
+    {
+      "id": "u_10ae67f4",
+      "sentAt": "2026-07-19T19:10:41.643Z",
+      "title": "The bottleneck for AI agents isn't the model anymore. It's the context layer"
+    },
+    {
+      "id": "u_28b1993e",
+      "sentAt": "2026-07-19T19:10:41.643Z",
+      "title": "I Made 11 AI Agents Do My Job. Here's What Happened"
+    },
     {
       "id": "u_a4fbe2da",
       "sentAt": "2026-07-19T17:01:06.082Z",
@@ -4990,16 +5000,6 @@
       "id": "u_11776f53",
       "sentAt": "2026-06-20T19:41:44.032Z",
       "title": "I don't see any good orchestration system for AI agents"
-    },
-    {
-      "id": "u_d5dc9034",
-      "sentAt": "2026-06-20T19:41:44.032Z",
-      "title": "Agency stole bestselling author's book, used AI to relaunch as their own"
-    },
-    {
-      "id": "u_42cae05d",
-      "sentAt": "2026-06-20T17:37:53.251Z",
-      "title": "Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]"
     }
   ]
 }
