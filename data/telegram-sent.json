@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-19T19:10:41.643Z",
+  "updatedAt": "2026-07-19T20:54:17.781Z",
   "entries": [
+    {
+      "id": "u_f54f1711",
+      "sentAt": "2026-07-19T20:54:17.781Z",
+      "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions"
+    },
+    {
+      "id": "u_9f97cde0",
+      "sentAt": "2026-07-19T20:54:17.781Z",
+      "title": "I argued with the father of open source for 2 years Now the AI fight is the same"
+    },
+    {
+      "id": "u_bf219963",
+      "sentAt": "2026-07-19T20:54:17.781Z",
+      "title": "Google delays Gemini 3.5 Pro to boost its AI model - Inspenet"
+    },
+    {
+      "id": "u_ae3c411e",
+      "sentAt": "2026-07-19T20:54:17.781Z",
+      "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)"
+    },
+    {
+      "id": "u_80cf7e93",
+      "sentAt": "2026-07-19T20:54:17.781Z",
+      "title": "New Launch Ferrari Luce 2026 Car Artificial Intelligence (gGdLEqjLsI) - Mshale"
+    },
     {
       "id": "u_10ae67f4",
       "sentAt": "2026-07-19T19:10:41.643Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3b4baf11",
       "sentAt": "2026-06-20T21:21:22.279Z",
       "title": "Show HN: Phone Number for AI Agents Like Hermes and OpenClaw"
-    },
-    {
-      "id": "u_ca52780f",
-      "sentAt": "2026-06-20T21:21:22.279Z",
-      "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]"
-    },
-    {
-      "id": "u_1b0038b7",
-      "sentAt": "2026-06-20T19:41:44.032Z",
-      "title": "Qwen code companion on vscode marketplace - thoughts"
-    },
-    {
-      "id": "u_58444ed6",
-      "sentAt": "2026-06-20T19:41:44.032Z",
-      "title": "I wrote a free 15-part series on LLM internals — real math, real tensor shapes, real hardware constraints. All grounded in Gemma 4 12B's actual config."
-    },
-    {
-      "id": "u_809be86b",
-      "sentAt": "2026-06-20T19:41:44.032Z",
-      "title": "Agents publish HTML on the internet through thethings.ai"
-    },
-    {
-      "id": "u_11776f53",
-      "sentAt": "2026-06-20T19:41:44.032Z",
-      "title": "I don't see any good orchestration system for AI agents"
     }
   ]
 }
