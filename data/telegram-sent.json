@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-19T13:23:23.421Z",
+  "updatedAt": "2026-07-19T14:59:06.961Z",
   "entries": [
+    {
+      "id": "u_81387928",
+      "sentAt": "2026-07-19T14:59:06.961Z",
+      "title": "Frontier AI Labs Are Renting Compute From Their Competitors"
+    },
+    {
+      "id": "u_41cf31c4",
+      "sentAt": "2026-07-19T14:59:06.961Z",
+      "title": "iPhone 18 Pro Pricing Can Dominate Market And Start A New Super Cycle"
+    },
+    {
+      "id": "u_17580169",
+      "sentAt": "2026-07-19T14:59:06.961Z",
+      "title": "AUK Launches Kurdistan Region's First Master's Program in Artificial Intelligence - Kurdistan24"
+    },
+    {
+      "id": "u_5643657c",
+      "sentAt": "2026-07-19T14:59:06.961Z",
+      "title": "AI work agents: China’s Ant, Tencent, Alibaba, Baidu flex for enterprise clients - South China Morning Post"
+    },
+    {
+      "id": "u_5a598523",
+      "sentAt": "2026-07-19T14:59:06.961Z",
+      "title": "Hong Kong can serve as a ‘launch pad’ for AI firms, finance chief Paul Chan says - South China Morning Post"
+    },
     {
       "id": "u_b40ffc0f",
       "sentAt": "2026-07-19T13:23:23.421Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b223208",
       "sentAt": "2026-06-20T17:37:53.251Z",
       "title": "Agent Memory Layer: Repository-local memory for AI coding agents"
-    },
-    {
-      "id": "u_bf82f265",
-      "sentAt": "2026-06-20T17:37:53.251Z",
-      "title": "EZOps launches EZTasks AI feature - Midland Reporter-Telegram"
-    },
-    {
-      "id": "u_9fac3263",
-      "sentAt": "2026-06-20T14:10:37.743Z",
-      "title": "FIDE AI – Research and public infrastructure for faith-facing AI"
-    },
-    {
-      "id": "u_854ea4c6",
-      "sentAt": "2026-06-20T14:10:37.743Z",
-      "title": "Show HN: FOSS sandbox platform that hides infra secrets from devs and AI agents"
-    },
-    {
-      "id": "u_cd2c9de2",
-      "sentAt": "2026-06-20T14:10:37.743Z",
-      "title": "OpenAI's Codex can now watch you work once and repeat the task forever"
-    },
-    {
-      "id": "u_2c8e3f5d",
-      "sentAt": "2026-06-20T14:10:37.743Z",
-      "title": "OpenAI's Codex can now watch you work once and repeat the task forever"
     }
   ]
 }
