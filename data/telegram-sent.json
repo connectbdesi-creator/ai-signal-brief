@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-20T10:55:07.529Z",
+  "updatedAt": "2026-07-20T14:11:58.258Z",
   "entries": [
+    {
+      "id": "u_134b3098",
+      "sentAt": "2026-07-20T14:11:58.258Z",
+      "title": "A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming"
+    },
+    {
+      "id": "u_7b7444af",
+      "sentAt": "2026-07-20T14:11:58.258Z",
+      "title": "EU's AI labeling rules take effect next month"
+    },
+    {
+      "id": "u_bf1bb767",
+      "sentAt": "2026-07-20T14:11:58.258Z",
+      "title": "Israel's $45M AI Influence Campaign Is Targeting US Voters — and Your Chatbot"
+    },
+    {
+      "id": "u_688d08b1",
+      "sentAt": "2026-07-20T14:11:58.258Z",
+      "title": "Trump Admin Considers a Ban on Foreign Open-Source AI — and Kimi K3 Is the Trigger"
+    },
+    {
+      "id": "u_abfe6612",
+      "sentAt": "2026-07-20T14:11:58.258Z",
+      "title": "GPT-5.6 Found a $500,000 WordPress RCE for $25 — and It Took 10 Hours"
+    },
     {
       "id": "u_fe74c977",
       "sentAt": "2026-07-20T10:55:07.529Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a6d24f3b",
       "sentAt": "2026-06-21T17:43:04.494Z",
       "title": "Supervising AI Agents"
-    },
-    {
-      "id": "u_cc3718c",
-      "sentAt": "2026-06-21T17:43:04.494Z",
-      "title": "AI agents: The silent workforce shift across India's IT services industry - Business Standard"
-    },
-    {
-      "id": "u_5d88a02c",
-      "sentAt": "2026-06-21T17:43:04.494Z",
-      "title": "AI agents: The silent workforce shift across India's IT services industry - Business Standard"
-    },
-    {
-      "id": "u_92b3ed63",
-      "sentAt": "2026-06-21T15:55:55.518Z",
-      "title": "Cannes Lions 2026 unveils the Digital Craft Lions shortlist, featuring 39 finalists that show how technology, design, data, artificial intelligence and user experience are reshaping digital creativity - Roastbrief US"
-    },
-    {
-      "id": "u_76c118db",
-      "sentAt": "2026-06-21T15:55:55.518Z",
-      "title": "Ask HN: Do you give AI coding agents their own GitHub account?"
-    },
-    {
-      "id": "u_9aa9784a",
-      "sentAt": "2026-06-21T15:55:55.518Z",
-      "title": "Show HN: Cloak – let AI agents use your API keys without ever seeing them"
     }
   ]
 }
