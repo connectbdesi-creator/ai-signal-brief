@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-19T22:55:51.408Z",
+  "updatedAt": "2026-07-20T03:27:30.246Z",
   "entries": [
+    {
+      "id": "u_a9360bfe",
+      "sentAt": "2026-07-20T03:27:30.246Z",
+      "title": "Dart Framework – Systems Thinking Skill for AI Agents"
+    },
+    {
+      "id": "u_13d7213b",
+      "sentAt": "2026-07-20T03:27:30.246Z",
+      "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model"
+    },
+    {
+      "id": "u_aab235be",
+      "sentAt": "2026-07-20T03:27:30.246Z",
+      "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared"
+    },
+    {
+      "id": "u_b7c50209",
+      "sentAt": "2026-07-20T03:27:30.246Z",
+      "title": "Fractale-350M-base: memory as trained behaviour instead of long context, a fully open research release"
+    },
+    {
+      "id": "u_a1f654b",
+      "sentAt": "2026-07-20T03:27:30.246Z",
+      "title": "My thoughts on qwen 3.8 so far with agentic coding."
+    },
     {
       "id": "u_e7d98bca",
       "sentAt": "2026-07-19T22:55:51.408Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e1d8464",
       "sentAt": "2026-06-21T09:54:58.596Z",
       "title": "Why WebRTC beats WebSockets for realtime voice AI"
-    },
-    {
-      "id": "u_a87284a1",
-      "sentAt": "2026-06-21T04:41:27.934Z",
-      "title": "Show HN: Moduna –- Mixpanel for AI Agents"
-    },
-    {
-      "id": "u_e0dc6f2b",
-      "sentAt": "2026-06-21T04:41:27.934Z",
-      "title": "Show HN: Argybargy – A peer-to-peer bridge connecting any AI agents and sessions"
-    },
-    {
-      "id": "u_65a69488",
-      "sentAt": "2026-06-21T04:41:27.934Z",
-      "title": "Plotting AI model release cadence: two labs are accelerating, three aren't"
-    },
-    {
-      "id": "u_68d741fa",
-      "sentAt": "2026-06-21T04:41:27.934Z",
-      "title": "Beyond the $7.4B Headline: DeepSeek's Series A signals Chinese AI alliance shift"
-    },
-    {
-      "id": "u_8a550dd",
-      "sentAt": "2026-06-20T23:12:17.907Z",
-      "title": "Show HN: Botacts – Phonebook of AI Bots"
     }
   ]
 }
