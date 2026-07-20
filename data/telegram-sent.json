@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-20T18:06:52.749Z",
+  "updatedAt": "2026-07-20T21:14:34.772Z",
   "entries": [
+    {
+      "id": "u_757d87c4",
+      "sentAt": "2026-07-20T21:14:34.772Z",
+      "title": "XRPPower Launches Free AI-Powered Smart App, Providing Passive Asset Growth Solutions for Global Financial Users - markets.businessinsider.com"
+    },
+    {
+      "id": "u_c6343afd",
+      "sentAt": "2026-07-20T21:14:34.772Z",
+      "title": "Infinity raises $15M to run AI inference on any chipset"
+    },
+    {
+      "id": "u_39027242",
+      "sentAt": "2026-07-20T21:14:34.772Z",
+      "title": "Top Trump AI safety director leaves job after 3 months"
+    },
+    {
+      "id": "u_755d511a",
+      "sentAt": "2026-07-20T21:14:34.772Z",
+      "title": "X relaunches a rebuilt Android app after year-long effort"
+    },
+    {
+      "id": "u_a6457b7a",
+      "sentAt": "2026-07-20T21:14:34.772Z",
+      "title": "Reverse-engineering is cheap now"
+    },
     {
       "id": "u_bb9e51d9",
       "sentAt": "2026-07-20T18:06:52.749Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d39d07f",
       "sentAt": "2026-06-21T23:18:26.299Z",
       "title": "Compass – guardrails and a hard budget cap for AI coding agents"
-    },
-    {
-      "id": "u_ba0c7c8f",
-      "sentAt": "2026-06-21T23:18:26.299Z",
-      "title": "I Gave an AI a Civilization to Run. It Built a Nuke – Launching CivBench"
-    },
-    {
-      "id": "u_3b51901f",
-      "sentAt": "2026-06-21T23:18:26.299Z",
-      "title": "Temporary Cloudflare Accounts for AI agents"
-    },
-    {
-      "id": "u_feab47de",
-      "sentAt": "2026-06-21T23:18:26.299Z",
-      "title": "Securing the Future of AI Agents"
-    },
-    {
-      "id": "u_63209ce",
-      "sentAt": "2026-06-21T21:18:26.791Z",
-      "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents"
-    },
-    {
-      "id": "u_eef5f78f",
-      "sentAt": "2026-06-21T21:18:26.791Z",
-      "title": "The AI Conundrum: We are living in highly subsidized, interesting times"
     }
   ]
 }
