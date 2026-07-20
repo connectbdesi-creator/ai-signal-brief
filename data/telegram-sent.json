@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-20T03:27:30.246Z",
+  "updatedAt": "2026-07-20T06:50:04.127Z",
   "entries": [
+    {
+      "id": "u_5de210f8",
+      "sentAt": "2026-07-20T06:50:04.127Z",
+      "title": "More Than 60 Nations Unite as IIHM Launches GAIHEC, the Worlds First Global AI Hospitality Education Council - TheWire.in"
+    },
+    {
+      "id": "u_e6f38e7",
+      "sentAt": "2026-07-20T06:50:04.127Z",
+      "title": "Silicon Valley is freaking out over China's open-source AI strategy"
+    },
+    {
+      "id": "u_580fcc81",
+      "sentAt": "2026-07-20T06:50:04.127Z",
+      "title": "Process Reward Informed Tree Rollout for Effective Multi-Turn RL"
+    },
+    {
+      "id": "u_c3213ff8",
+      "sentAt": "2026-07-20T06:50:04.127Z",
+      "title": "AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots"
+    },
+    {
+      "id": "u_7777dc26",
+      "sentAt": "2026-07-20T06:50:04.127Z",
+      "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning"
+    },
     {
       "id": "u_a9360bfe",
       "sentAt": "2026-07-20T03:27:30.246Z",
@@ -4975,31 +5000,6 @@
       "id": "u_210d5713",
       "sentAt": "2026-06-21T12:11:52.687Z",
       "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level"
-    },
-    {
-      "id": "u_5575d480",
-      "sentAt": "2026-06-21T09:54:58.596Z",
-      "title": "Agentic Systems Course: Learn AI Agents with an AI Coding Agent"
-    },
-    {
-      "id": "u_350dc77",
-      "sentAt": "2026-06-21T09:54:58.596Z",
-      "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps"
-    },
-    {
-      "id": "u_27dce3a5",
-      "sentAt": "2026-06-21T09:54:58.596Z",
-      "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps"
-    },
-    {
-      "id": "u_bf86513e",
-      "sentAt": "2026-06-21T09:54:58.596Z",
-      "title": "LBE – open-source execution control layer for AI agents"
-    },
-    {
-      "id": "u_5e1d8464",
-      "sentAt": "2026-06-21T09:54:58.596Z",
-      "title": "Why WebRTC beats WebSockets for realtime voice AI"
     }
   ]
 }
