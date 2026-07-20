@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-20T14:11:58.258Z",
+  "updatedAt": "2026-07-20T18:06:52.749Z",
   "entries": [
+    {
+      "id": "u_bb9e51d9",
+      "sentAt": "2026-07-20T18:06:52.749Z",
+      "title": "Chinese AI model rivals ChatGPT, jolting Silicon Valley - Los Angeles Times"
+    },
+    {
+      "id": "u_c08d190",
+      "sentAt": "2026-07-20T18:06:52.749Z",
+      "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation"
+    },
+    {
+      "id": "u_33003362",
+      "sentAt": "2026-07-20T18:06:52.749Z",
+      "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation"
+    },
+    {
+      "id": "u_68a6ee53",
+      "sentAt": "2026-07-20T18:06:52.749Z",
+      "title": "Custom OS installation now available on AWS DeepRacer devices"
+    },
+    {
+      "id": "u_e4caf302",
+      "sentAt": "2026-07-20T18:06:52.749Z",
+      "title": "Ethiopian Artificial Intelligence Institute launches fifth Summer Camp for 500 teenagers - Tech Review Africa"
+    },
     {
       "id": "u_134b3098",
       "sentAt": "2026-07-20T14:11:58.258Z",
@@ -4975,31 +5000,6 @@
       "id": "u_eef5f78f",
       "sentAt": "2026-06-21T21:18:26.791Z",
       "title": "The AI Conundrum: We are living in highly subsidized, interesting times"
-    },
-    {
-      "id": "u_4b7b0dde",
-      "sentAt": "2026-06-21T21:18:26.791Z",
-      "title": "What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention."
-    },
-    {
-      "id": "u_196a258b",
-      "sentAt": "2026-06-21T19:47:51.931Z",
-      "title": "Tool Calling, Explained: How AI Agents Decide What to Do Next"
-    },
-    {
-      "id": "u_b8a81333",
-      "sentAt": "2026-06-21T17:43:04.494Z",
-      "title": "Show HN: Jacobi–IDE for Abaqus subroutine with analytical tests and AI diagnosis"
-    },
-    {
-      "id": "u_b0148299",
-      "sentAt": "2026-06-21T17:43:04.494Z",
-      "title": "Show HN: Atizar-AI agents where the server runs approved actions, not the model"
-    },
-    {
-      "id": "u_a6d24f3b",
-      "sentAt": "2026-06-21T17:43:04.494Z",
-      "title": "Supervising AI Agents"
     }
   ]
 }
