@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-20T21:14:34.772Z",
+  "updatedAt": "2026-07-20T23:02:53.116Z",
   "entries": [
+    {
+      "id": "u_8fd275bf",
+      "sentAt": "2026-07-20T23:02:53.116Z",
+      "title": "Kimi-K3 isn’t quite better than Fable yet, but it’s definitely getting closer."
+    },
+    {
+      "id": "u_77da5001",
+      "sentAt": "2026-07-20T23:02:53.116Z",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient"
+    },
+    {
+      "id": "u_5c925441",
+      "sentAt": "2026-07-20T23:02:53.116Z",
+      "title": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages"
+    },
+    {
+      "id": "u_c3ea0707",
+      "sentAt": "2026-07-20T23:02:53.116Z",
+      "title": "Google's secret 'Frozen v2' AI chip could make Gemini up to 10 times more efficient, report says - WION"
+    },
+    {
+      "id": "u_6879a279",
+      "sentAt": "2026-07-20T23:02:53.116Z",
+      "title": "Anthropic Launches Rare Disease AI Grants - StartupHub.ai"
+    },
     {
       "id": "u_757d87c4",
       "sentAt": "2026-07-20T21:14:34.772Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3ae24392",
       "sentAt": "2026-06-22T04:47:11.260Z",
       "title": "When AI Agents Do the Work, What Do We Lose?"
-    },
-    {
-      "id": "u_de117e16",
-      "sentAt": "2026-06-22T04:47:11.260Z",
-      "title": "Ask HN: What will AI coding look like when today's CS freshmen graduate?"
-    },
-    {
-      "id": "u_995b8771",
-      "sentAt": "2026-06-22T04:47:11.260Z",
-      "title": "Maybe the AI race isn’t about models at all, but about trust and organizational intelligence"
-    },
-    {
-      "id": "u_643ba1c0",
-      "sentAt": "2026-06-22T04:47:11.260Z",
-      "title": "Show HN: ANMA, boundary contracts for cheaper AI coding agents"
-    },
-    {
-      "id": "u_5081dba8",
-      "sentAt": "2026-06-21T23:18:26.299Z",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees"
-    },
-    {
-      "id": "u_d39d07f",
-      "sentAt": "2026-06-21T23:18:26.299Z",
-      "title": "Compass – guardrails and a hard budget cap for AI coding agents"
     }
   ]
 }
