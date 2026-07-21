@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-21T15:48:39.831Z",
+  "updatedAt": "2026-07-21T17:24:01.805Z",
   "entries": [
+    {
+      "id": "u_a4acafb0",
+      "sentAt": "2026-07-21T17:24:01.805Z",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro"
+    },
+    {
+      "id": "u_8e82573b",
+      "sentAt": "2026-07-21T17:24:01.805Z",
+      "title": "Introducing the ChatGPT for small business program"
+    },
+    {
+      "id": "u_d943a98a",
+      "sentAt": "2026-07-21T17:24:01.805Z",
+      "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training"
+    },
+    {
+      "id": "u_6ab12c9c",
+      "sentAt": "2026-07-21T17:24:01.805Z",
+      "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis"
+    },
+    {
+      "id": "u_dced2f26",
+      "sentAt": "2026-07-21T17:24:01.805Z",
+      "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs - AI News"
+    },
     {
       "id": "u_e2a8babc",
       "sentAt": "2026-07-21T15:48:39.831Z",
@@ -4975,31 +5000,6 @@
       "id": "u_81a7ebb3",
       "sentAt": "2026-06-23T11:20:50.058Z",
       "title": "These are the best smart home deals this Prime Day"
-    },
-    {
-      "id": "u_e59e3de1",
-      "sentAt": "2026-06-23T11:20:50.058Z",
-      "title": "What Are AI Agents? A 2026 Definition, Types, and Why 95% Never Reach Production"
-    },
-    {
-      "id": "u_e0aa944b",
-      "sentAt": "2026-06-23T11:20:50.058Z",
-      "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark"
-    },
-    {
-      "id": "u_913494b3",
-      "sentAt": "2026-06-23T11:20:50.058Z",
-      "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark"
-    },
-    {
-      "id": "u_b153f6da",
-      "sentAt": "2026-06-23T07:52:53.542Z",
-      "title": "Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads"
-    },
-    {
-      "id": "u_2b1de45e",
-      "sentAt": "2026-06-23T07:52:53.542Z",
-      "title": "Forge – Code-Quality Guardrails for AI Agents"
     }
   ]
 }
