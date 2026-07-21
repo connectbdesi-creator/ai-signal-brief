@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-21T21:13:29.271Z",
+  "updatedAt": "2026-07-21T23:00:15.610Z",
   "entries": [
+    {
+      "id": "u_212ecd10",
+      "sentAt": "2026-07-21T23:00:15.610Z",
+      "title": "OpenAI says its own AI models broke out of testing and hacked Hugging Face"
+    },
+    {
+      "id": "u_c88ac32e",
+      "sentAt": "2026-07-21T23:00:15.610Z",
+      "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it"
+    },
+    {
+      "id": "u_60505f86",
+      "sentAt": "2026-07-21T23:00:15.610Z",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system"
+    },
+    {
+      "id": "u_27e443d9",
+      "sentAt": "2026-07-21T23:00:15.610Z",
+      "title": "AMD capitalizes on AI momentum with systems strategy for open-source and hybrid technologies"
+    },
+    {
+      "id": "u_d2c5c497",
+      "sentAt": "2026-07-21T23:00:15.610Z",
+      "title": "Temporal takes on the chaos behind enterprise AI agents"
+    },
     {
       "id": "u_2e0fc203",
       "sentAt": "2026-07-21T21:13:29.271Z",
@@ -4975,31 +5000,6 @@
       "id": "u_486880e7",
       "sentAt": "2026-06-23T20:19:38.738Z",
       "title": "Momentic's AI Boost: More Code, Fewer Bugs"
-    },
-    {
-      "id": "u_e52738bc",
-      "sentAt": "2026-06-23T20:19:38.738Z",
-      "title": "CData's Threefold Bet on AI Developers: Easing Data Access"
-    },
-    {
-      "id": "u_36ff08b4",
-      "sentAt": "2026-06-23T20:19:38.738Z",
-      "title": "Linux Foundation Introduces Agent Name Service for AI Identity Verification"
-    },
-    {
-      "id": "u_acaa33fa",
-      "sentAt": "2026-06-23T20:19:38.738Z",
-      "title": "Exabeam's Praxen: A New Era for AI Agent Accountability"
-    },
-    {
-      "id": "u_76a5fd8d",
-      "sentAt": "2026-06-23T18:00:58.224Z",
-      "title": "White House quiet on OpenAI's Mythos-like model"
-    },
-    {
-      "id": "u_a187d34c",
-      "sentAt": "2026-06-23T18:00:58.224Z",
-      "title": "China's AI advances collide with U.S. safety debate"
     }
   ]
 }
