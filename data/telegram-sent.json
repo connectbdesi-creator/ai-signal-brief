@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-21T02:54:29.664Z",
+  "updatedAt": "2026-07-21T06:31:21.579Z",
   "entries": [
+    {
+      "id": "u_afaf7dcc",
+      "sentAt": "2026-07-21T06:31:21.579Z",
+      "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters"
+    },
+    {
+      "id": "u_b812c650",
+      "sentAt": "2026-07-21T06:31:21.579Z",
+      "title": "China weighs tighter export controls on AI models and chips"
+    },
+    {
+      "id": "u_4aec43cf",
+      "sentAt": "2026-07-21T06:31:21.579Z",
+      "title": "China weighs tighter export controls on AI models and chips - Financial Times"
+    },
+    {
+      "id": "u_222976bc",
+      "sentAt": "2026-07-21T06:31:21.579Z",
+      "title": "Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning"
+    },
+    {
+      "id": "u_899427d0",
+      "sentAt": "2026-07-21T06:31:21.579Z",
+      "title": "RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation"
+    },
     {
       "id": "u_572c3fd5",
       "sentAt": "2026-07-21T02:54:29.664Z",
@@ -4975,31 +5000,6 @@
       "id": "u_45e88da2",
       "sentAt": "2026-06-22T18:13:51.435Z",
       "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments"
-    },
-    {
-      "id": "u_90f1d797",
-      "sentAt": "2026-06-22T18:13:51.435Z",
-      "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments - Amazon Web Services (AWS)"
-    },
-    {
-      "id": "u_d9b5d57d",
-      "sentAt": "2026-06-22T18:13:51.435Z",
-      "title": "Iris – A portable runtime for durable AI agents"
-    },
-    {
-      "id": "u_a255b828",
-      "sentAt": "2026-06-22T18:13:51.435Z",
-      "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop"
-    },
-    {
-      "id": "u_9456cd66",
-      "sentAt": "2026-06-22T12:11:11.924Z",
-      "title": "Nokia, Google Cloud unleash Gemini-powered AI agents to fix telco network headaches - fiercewireless.com"
-    },
-    {
-      "id": "u_3cd3ba2",
-      "sentAt": "2026-06-22T12:11:11.924Z",
-      "title": "I Shot Films for 30 Years. Now I'm Building Safety Systems for AI Agents"
     }
   ]
 }
