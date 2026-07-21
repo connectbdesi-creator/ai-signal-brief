@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-21T19:27:56.190Z",
+  "updatedAt": "2026-07-21T21:13:29.271Z",
   "entries": [
+    {
+      "id": "u_2e0fc203",
+      "sentAt": "2026-07-21T21:13:29.271Z",
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models"
+    },
+    {
+      "id": "u_b207c409",
+      "sentAt": "2026-07-21T21:13:29.271Z",
+      "title": "EU Parliament Launches AI Hub While Lawmakers Owe No AI-Drafting Disclosure - Tech Times"
+    },
+    {
+      "id": "u_65af484a",
+      "sentAt": "2026-07-21T21:13:29.271Z",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents"
+    },
+    {
+      "id": "u_30d62b8f",
+      "sentAt": "2026-07-21T21:13:29.271Z",
+      "title": "‘Beyond the GPU’ video series: What to expect from theCUBE’s July 23 coverage"
+    },
+    {
+      "id": "u_1558edbd",
+      "sentAt": "2026-07-21T21:13:29.271Z",
+      "title": "Substack adds an AI detector to help spot blogs written by no one"
+    },
     {
       "id": "u_adf5da5c",
       "sentAt": "2026-07-21T19:27:56.190Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a187d34c",
       "sentAt": "2026-06-23T18:00:58.224Z",
       "title": "China's AI advances collide with U.S. safety debate"
-    },
-    {
-      "id": "u_878248c8",
-      "sentAt": "2026-06-23T18:00:58.224Z",
-      "title": "Anthropic launches Claude Tag in research preview for Slack users - Reuters"
-    },
-    {
-      "id": "u_dd8733e7",
-      "sentAt": "2026-06-23T18:00:58.224Z",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time"
-    },
-    {
-      "id": "u_1e89fb09",
-      "sentAt": "2026-06-23T18:00:58.224Z",
-      "title": "Build a protein research copilot with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_f01aadb2",
-      "sentAt": "2026-06-23T14:56:00.590Z",
-      "title": "Okta expands Cross App Access ecosystem to secure AI agent connections"
-    },
-    {
-      "id": "u_62913e60",
-      "sentAt": "2026-06-23T14:56:00.590Z",
-      "title": "ZenBusiness enhances its AI copilot for new business owners with step-by-step blueprints"
     }
   ]
 }
