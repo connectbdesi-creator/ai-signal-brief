@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-21T06:31:21.579Z",
+  "updatedAt": "2026-07-21T10:27:41.274Z",
   "entries": [
+    {
+      "id": "u_73665f54",
+      "sentAt": "2026-07-21T10:27:41.274Z",
+      "title": "LWiAI Podcast #247 - Opus 4.8, MAI, Anthropic IPO, Minimax-M3"
+    },
+    {
+      "id": "u_5de600da",
+      "sentAt": "2026-07-21T10:27:41.274Z",
+      "title": "The Open Source AI China Problem Just got Worse"
+    },
+    {
+      "id": "u_ef2e29fe",
+      "sentAt": "2026-07-21T10:27:41.274Z",
+      "title": "Inside a group's push for whites-only communities \"heritage communities\""
+    },
+    {
+      "id": "u_8747a017",
+      "sentAt": "2026-07-21T10:27:41.274Z",
+      "title": "Meta Will Now Tell Parents If Their Teen’s AI Chat Turns Dark. Should It?"
+    },
+    {
+      "id": "u_37338bb4",
+      "sentAt": "2026-07-21T10:27:41.274Z",
+      "title": "AI Agents ‘Get Honest’ About Their Own Work"
+    },
     {
       "id": "u_afaf7dcc",
       "sentAt": "2026-07-21T06:31:21.579Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d0b67ba2",
       "sentAt": "2026-06-22T22:06:47.243Z",
       "title": "OpenAI’s Patchwork: An AI Hand for Open Source Security"
-    },
-    {
-      "id": "u_7f7284d8",
-      "sentAt": "2026-06-22T22:06:47.243Z",
-      "title": "Revolutionizing Personal Knowledge with AI Agents"
-    },
-    {
-      "id": "u_eb7ceee1",
-      "sentAt": "2026-06-22T22:06:47.243Z",
-      "title": "The AI world is getting ‘loopy’"
-    },
-    {
-      "id": "u_64145a9e",
-      "sentAt": "2026-06-22T22:06:47.243Z",
-      "title": "Launch CRM Announces Free Launch AI Summer Challenge to Help Service Businesses Put Artificial Intelligence to - EIN News"
-    },
-    {
-      "id": "u_146d247d",
-      "sentAt": "2026-06-22T18:13:51.435Z",
-      "title": "Google makes Interactions API the default interface for Gemini models and agents"
-    },
-    {
-      "id": "u_45e88da2",
-      "sentAt": "2026-06-22T18:13:51.435Z",
-      "title": "Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments"
     }
   ]
 }
