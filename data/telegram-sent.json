@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-21T17:24:01.805Z",
+  "updatedAt": "2026-07-21T19:27:56.190Z",
   "entries": [
+    {
+      "id": "u_adf5da5c",
+      "sentAt": "2026-07-21T19:27:56.190Z",
+      "title": "How Apollo Uses Deep Agents and LangSmith for GTM AI"
+    },
+    {
+      "id": "u_1e104147",
+      "sentAt": "2026-07-21T19:27:56.190Z",
+      "title": "Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built for Agentic Workloads"
+    },
+    {
+      "id": "u_be226ecc",
+      "sentAt": "2026-07-21T19:27:56.190Z",
+      "title": "China's 'open' AI is a terrible business, and nothing like open-source software"
+    },
+    {
+      "id": "u_c18385c7",
+      "sentAt": "2026-07-21T19:27:56.190Z",
+      "title": "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro"
+    },
+    {
+      "id": "u_90d8323a",
+      "sentAt": "2026-07-21T19:27:56.190Z",
+      "title": "poolside/Laguna-S-2.1 released! Finally an interesting 120B contender!"
+    },
     {
       "id": "u_a4acafb0",
       "sentAt": "2026-07-21T17:24:01.805Z",
@@ -4975,31 +5000,6 @@
       "id": "u_62913e60",
       "sentAt": "2026-06-23T14:56:00.590Z",
       "title": "ZenBusiness enhances its AI copilot for new business owners with step-by-step blueprints"
-    },
-    {
-      "id": "u_5c87e428",
-      "sentAt": "2026-06-23T14:56:00.590Z",
-      "title": "Exabeam launches Praxen, an open-source tool to verify AI agent behavior"
-    },
-    {
-      "id": "u_3c80f2b9",
-      "sentAt": "2026-06-23T14:56:00.590Z",
-      "title": "Beehiiv adds Cloudflare AI Crawl Control so writers can block or allow bots"
-    },
-    {
-      "id": "u_3c77baf9",
-      "sentAt": "2026-06-23T14:56:00.590Z",
-      "title": "Linux Foundation extends DNS to AI agents with new Agent Name Service"
-    },
-    {
-      "id": "u_4b9f9b7",
-      "sentAt": "2026-06-23T11:20:50.058Z",
-      "title": "HyperspaceDB v3.1.0: We built an opesource Spatial AI Engine that uses 50x less RAM than Milvus/Chroma via Matryoshka Cascades and Lorentz Geometry. [R]"
-    },
-    {
-      "id": "u_81a7ebb3",
-      "sentAt": "2026-06-23T11:20:50.058Z",
-      "title": "These are the best smart home deals this Prime Day"
     }
   ]
 }
