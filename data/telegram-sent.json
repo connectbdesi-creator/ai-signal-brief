@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-21T13:58:54.744Z",
+  "updatedAt": "2026-07-21T15:48:39.831Z",
   "entries": [
+    {
+      "id": "u_e2a8babc",
+      "sentAt": "2026-07-21T15:48:39.831Z",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+    },
+    {
+      "id": "u_be4a407f",
+      "sentAt": "2026-07-21T15:48:39.831Z",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
+    },
+    {
+      "id": "u_a111ccda",
+      "sentAt": "2026-07-21T15:48:39.831Z",
+      "title": "Hugging Face CEO Warns Attackers Are Already Using AI Agents"
+    },
+    {
+      "id": "u_bb99d25c",
+      "sentAt": "2026-07-21T15:48:39.831Z",
+      "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe"
+    },
+    {
+      "id": "u_5f6b196f",
+      "sentAt": "2026-07-21T15:48:39.831Z",
+      "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe"
+    },
     {
       "id": "u_f2a8a486",
       "sentAt": "2026-07-21T13:58:54.744Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2b1de45e",
       "sentAt": "2026-06-23T07:52:53.542Z",
       "title": "Forge – Code-Quality Guardrails for AI Agents"
-    },
-    {
-      "id": "u_557965dc",
-      "sentAt": "2026-06-23T07:52:53.542Z",
-      "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval"
-    },
-    {
-      "id": "u_7b944c40",
-      "sentAt": "2026-06-23T07:52:53.542Z",
-      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations"
-    },
-    {
-      "id": "u_1558fd90",
-      "sentAt": "2026-06-23T07:52:53.542Z",
-      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations"
-    },
-    {
-      "id": "u_651c581",
-      "sentAt": "2026-06-23T03:52:25.973Z",
-      "title": "AgentCard.sh: The Tool Nobody Uses but Everyone Talks About"
-    },
-    {
-      "id": "u_a9d3aba1",
-      "sentAt": "2026-06-23T03:52:25.973Z",
-      "title": "AI's Next Frontier: The Big Debate on Chain-of-Thought Models"
     }
   ]
 }
