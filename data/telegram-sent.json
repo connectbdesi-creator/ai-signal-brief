@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-22T02:52:13.120Z",
+  "updatedAt": "2026-07-22T06:31:38.723Z",
   "entries": [
+    {
+      "id": "u_f637bb1a",
+      "sentAt": "2026-07-22T06:31:38.723Z",
+      "title": "OpenAI reports 'unprecedented' autonomous hack by AI agents - Yahoo"
+    },
+    {
+      "id": "u_64dcc5d3",
+      "sentAt": "2026-07-22T06:31:38.723Z",
+      "title": "Google is introducing a generative artificial intelligence (AI) model that reduces the amount of tok.. - 매일경제"
+    },
+    {
+      "id": "u_9fb4749e",
+      "sentAt": "2026-07-22T06:31:38.723Z",
+      "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI - UNESCO"
+    },
+    {
+      "id": "u_654aae3b",
+      "sentAt": "2026-07-22T06:31:38.723Z",
+      "title": "OpenAI Doubles Agentic User Base as Cheaper Chinese Models Threaten US Dominance - The Daily Upside"
+    },
+    {
+      "id": "u_13384e72",
+      "sentAt": "2026-07-22T06:31:38.723Z",
+      "title": "Here's what smart people are saying about OpenAI models hacking Hugging Face on their own"
+    },
     {
       "id": "u_f686be0f",
       "sentAt": "2026-07-22T02:52:13.120Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e714b063",
       "sentAt": "2026-06-24T03:53:35.352Z",
       "title": "Reinforcing AI Coding Agents with AgentArmor"
-    },
-    {
-      "id": "u_a3782c37",
-      "sentAt": "2026-06-24T03:53:35.352Z",
-      "title": "DeepSWE: new benchmark looking at how well today's frontier models can actually write code [R]"
-    },
-    {
-      "id": "u_d13826c4",
-      "sentAt": "2026-06-24T03:53:35.352Z",
-      "title": "Mistral OCR 4 Brings Citation-Ready Structured Output to RAG, Agentic, and Enterprise Search Pipelines"
-    },
-    {
-      "id": "u_7f25e2b3",
-      "sentAt": "2026-06-24T03:53:35.352Z",
-      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents"
-    },
-    {
-      "id": "u_50d2311f",
-      "sentAt": "2026-06-23T23:10:47.847Z",
-      "title": "Decoding the Ising Model for Smarter Problem Solving"
-    },
-    {
-      "id": "u_eaac4f7",
-      "sentAt": "2026-06-23T23:10:47.847Z",
-      "title": "Post-Quantum Cryptography: Navigating the Secure Coding Drift"
     }
   ]
 }
