@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-22T19:25:27.610Z",
+  "updatedAt": "2026-07-22T21:17:04.035Z",
   "entries": [
+    {
+      "id": "u_990cfbad",
+      "sentAt": "2026-07-22T21:17:04.035Z",
+      "title": "Moving Execution Authority Out of the Model [D]"
+    },
+    {
+      "id": "u_740b21dc",
+      "sentAt": "2026-07-22T21:17:04.035Z",
+      "title": "OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim - The Guardian"
+    },
+    {
+      "id": "u_3cb82503",
+      "sentAt": "2026-07-22T21:17:04.035Z",
+      "title": "OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim"
+    },
+    {
+      "id": "u_afd6b1d7",
+      "sentAt": "2026-07-22T21:17:04.035Z",
+      "title": "Anthropic to buy up to two gigawatts of GPU capacity from AMD"
+    },
+    {
+      "id": "u_4d087835",
+      "sentAt": "2026-07-22T21:17:04.035Z",
+      "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations"
+    },
     {
       "id": "u_80dd400d",
       "sentAt": "2026-07-22T19:25:27.610Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e2bde905",
       "sentAt": "2026-06-24T17:58:05.474Z",
       "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost"
-    },
-    {
-      "id": "u_2516445e",
-      "sentAt": "2026-06-24T17:58:05.474Z",
-      "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs"
-    },
-    {
-      "id": "u_ec4de25",
-      "sentAt": "2026-06-24T17:58:05.474Z",
-      "title": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else"
-    },
-    {
-      "id": "u_9ea9112a",
-      "sentAt": "2026-06-24T17:58:05.474Z",
-      "title": "Introducing computer use in Gemini 3.5 Flash"
-    },
-    {
-      "id": "u_b7ef20d2",
-      "sentAt": "2026-06-24T14:41:18.728Z",
-      "title": "Adobe's AI Upgrade: A New Era for Creatives or Control Shift?"
-    },
-    {
-      "id": "u_147144b2",
-      "sentAt": "2026-06-24T14:41:18.728Z",
-      "title": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference"
     }
   ]
 }
