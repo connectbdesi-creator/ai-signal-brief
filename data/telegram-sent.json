@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-22T21:17:04.035Z",
+  "updatedAt": "2026-07-22T23:07:54.631Z",
   "entries": [
+    {
+      "id": "u_fa538193",
+      "sentAt": "2026-07-22T23:07:54.631Z",
+      "title": "Are AI labs pelicanmaxxing?"
+    },
+    {
+      "id": "u_6cb3af92",
+      "sentAt": "2026-07-22T23:07:54.631Z",
+      "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents"
+    },
+    {
+      "id": "u_1214afa9",
+      "sentAt": "2026-07-22T23:07:54.631Z",
+      "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]"
+    },
+    {
+      "id": "u_225de4dd",
+      "sentAt": "2026-07-22T23:07:54.631Z",
+      "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics"
+    },
+    {
+      "id": "u_206621c1",
+      "sentAt": "2026-07-22T23:07:54.631Z",
+      "title": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim - The Guardian"
+    },
     {
       "id": "u_990cfbad",
       "sentAt": "2026-07-22T21:17:04.035Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4b15d13e",
       "sentAt": "2026-06-24T19:59:41.833Z",
       "title": "How Narrative Theory Shapes AI's Storytelling Future"
-    },
-    {
-      "id": "u_1617d962",
-      "sentAt": "2026-06-24T19:59:41.833Z",
-      "title": "Guava: Redefining the Future of Embodied Agents"
-    },
-    {
-      "id": "u_9c7288bc",
-      "sentAt": "2026-06-24T19:59:41.833Z",
-      "title": "Misfired Alignment: When AI Safety Measures Go Awry"
-    },
-    {
-      "id": "u_9a43b56b",
-      "sentAt": "2026-06-24T19:59:41.833Z",
-      "title": "Anthropic’s Claude Tag aims to turn workplace AI from a personal assistant into a teammate - Computerworld"
-    },
-    {
-      "id": "u_dcfdfafd",
-      "sentAt": "2026-06-24T17:58:05.474Z",
-      "title": "Facebook rolls out an AI companion app for creators"
-    },
-    {
-      "id": "u_e2bde905",
-      "sentAt": "2026-06-24T17:58:05.474Z",
-      "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost"
     }
   ]
 }
