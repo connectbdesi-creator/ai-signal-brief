@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-21T23:00:15.610Z",
+  "updatedAt": "2026-07-22T02:52:13.120Z",
   "entries": [
+    {
+      "id": "u_f686be0f",
+      "sentAt": "2026-07-22T02:52:13.120Z",
+      "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook"
+    },
+    {
+      "id": "u_acd5d6f3",
+      "sentAt": "2026-07-22T02:52:13.120Z",
+      "title": "Mistral AI strikes multibillion deal with Microsoft to build out Azure infrastructure in Europe"
+    },
+    {
+      "id": "u_29fd0692",
+      "sentAt": "2026-07-22T02:52:13.120Z",
+      "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face"
+    },
+    {
+      "id": "u_e183104b",
+      "sentAt": "2026-07-22T02:52:13.120Z",
+      "title": "SkyPilot nabs $20M to ease AI infrastructure management"
+    },
+    {
+      "id": "u_8abd7dc9",
+      "sentAt": "2026-07-22T02:52:13.120Z",
+      "title": "U.S. Treasury Secretary Bessent threatens sanctions against Chinese AI model makers"
+    },
     {
       "id": "u_212ecd10",
       "sentAt": "2026-07-21T23:00:15.610Z",
@@ -4975,31 +5000,6 @@
       "id": "u_eaac4f7",
       "sentAt": "2026-06-23T23:10:47.847Z",
       "title": "Post-Quantum Cryptography: Navigating the Secure Coding Drift"
-    },
-    {
-      "id": "u_e300da75",
-      "sentAt": "2026-06-23T23:10:47.847Z",
-      "title": "Can Voice Agents Handle Interruptions? A New Benchmark Puts Them to the Test"
-    },
-    {
-      "id": "u_8eb837d0",
-      "sentAt": "2026-06-23T23:10:47.847Z",
-      "title": "Runtime Monitors: The Clock's Ticking Problem"
-    },
-    {
-      "id": "u_1257681b",
-      "sentAt": "2026-06-23T23:10:47.847Z",
-      "title": "DeepFest returns to Riyadh as Saudi Arabia marks 2026 the Year of Artificial Intelligence - Computer Graphics World"
-    },
-    {
-      "id": "u_c97c9bd5",
-      "sentAt": "2026-06-23T20:19:38.738Z",
-      "title": "NVIDIA's AI Toolkit: Transforming Workflows with Specialized Agents"
-    },
-    {
-      "id": "u_486880e7",
-      "sentAt": "2026-06-23T20:19:38.738Z",
-      "title": "Momentic's AI Boost: More Code, Fewer Bugs"
     }
   ]
 }
