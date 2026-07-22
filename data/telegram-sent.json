@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-22T17:23:25.059Z",
+  "updatedAt": "2026-07-22T19:25:27.610Z",
   "entries": [
+    {
+      "id": "u_80dd400d",
+      "sentAt": "2026-07-22T19:25:27.610Z",
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook"
+    },
+    {
+      "id": "u_4896db57",
+      "sentAt": "2026-07-22T19:25:27.610Z",
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook"
+    },
+    {
+      "id": "u_22aa145a",
+      "sentAt": "2026-07-22T19:25:27.610Z",
+      "title": "'Gemini who?': Rivals dunk on Google's delayed frontier AI"
+    },
+    {
+      "id": "u_dc09cdaa",
+      "sentAt": "2026-07-22T19:25:27.610Z",
+      "title": "Amazon cuts some jobs in its artificial general intelligence unit"
+    },
+    {
+      "id": "u_3ef2c420",
+      "sentAt": "2026-07-22T19:25:27.610Z",
+      "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion"
+    },
     {
       "id": "u_6ab09aeb",
       "sentAt": "2026-07-22T17:23:25.059Z",
@@ -4975,31 +5000,6 @@
       "id": "u_147144b2",
       "sentAt": "2026-06-24T14:41:18.728Z",
       "title": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference"
-    },
-    {
-      "id": "u_3f892ce4",
-      "sentAt": "2026-06-24T14:41:18.728Z",
-      "title": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - Reuters"
-    },
-    {
-      "id": "u_124041ad",
-      "sentAt": "2026-06-24T14:41:18.728Z",
-      "title": "OpenAI unveils first chip as part of Broadcom deal in effort to 'build the full stack' - CNBC"
-    },
-    {
-      "id": "u_96050b",
-      "sentAt": "2026-06-24T14:41:18.728Z",
-      "title": "The emergence of the web data infrastructure layer for AI"
-    },
-    {
-      "id": "u_78905546",
-      "sentAt": "2026-06-24T10:53:40.283Z",
-      "title": "Unlocking the Power of Test-Time Scaling: A New Frontier for AI Models"
-    },
-    {
-      "id": "u_9b622511",
-      "sentAt": "2026-06-24T10:53:40.283Z",
-      "title": "Unmasking Bias in Language Models: TreeTracer's New Take"
     }
   ]
 }
