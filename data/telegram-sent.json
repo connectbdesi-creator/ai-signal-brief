@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-22T14:02:10.563Z",
+  "updatedAt": "2026-07-22T17:23:25.059Z",
   "entries": [
+    {
+      "id": "u_6ab09aeb",
+      "sentAt": "2026-07-22T17:23:25.059Z",
+      "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion"
+    },
+    {
+      "id": "u_36d0bf69",
+      "sentAt": "2026-07-22T17:23:25.059Z",
+      "title": "Instead of panicking about the Hugging Face attack, people need to start questioning OpenAI's insecure sandboxes."
+    },
+    {
+      "id": "u_760d5927",
+      "sentAt": "2026-07-22T17:23:25.059Z",
+      "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations"
+    },
+    {
+      "id": "u_1a368cfe",
+      "sentAt": "2026-07-22T17:23:25.059Z",
+      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost"
+    },
+    {
+      "id": "u_67981909",
+      "sentAt": "2026-07-22T17:23:25.059Z",
+      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost"
+    },
     {
       "id": "u_59038408",
       "sentAt": "2026-07-22T14:02:10.563Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9b622511",
       "sentAt": "2026-06-24T10:53:40.283Z",
       "title": "Unmasking Bias in Language Models: TreeTracer's New Take"
-    },
-    {
-      "id": "u_7cf02720",
-      "sentAt": "2026-06-24T10:53:40.283Z",
-      "title": "Top 7 Coding Models You Can Run Locally in 2026"
-    },
-    {
-      "id": "u_bfcd52f3",
-      "sentAt": "2026-06-24T10:53:40.283Z",
-      "title": "Mistral's new OCR model beats competitors in 72 percent of blind test cases, company says"
-    },
-    {
-      "id": "u_3f72e230",
-      "sentAt": "2026-06-24T10:53:40.283Z",
-      "title": "Anthropic Drops ‘Workplace AI Agents’ Directly Inside Slack - AI News"
-    },
-    {
-      "id": "u_2dbf86dd",
-      "sentAt": "2026-06-24T07:44:22.429Z",
-      "title": "Rethinking On-Policy Distillation: New Methods Boost AI's Problem-Solving Prowess"
-    },
-    {
-      "id": "u_e384d1bd",
-      "sentAt": "2026-06-24T07:44:22.429Z",
-      "title": "VeriPilot: The Future of Automated Verilog Debugging"
     }
   ]
 }
