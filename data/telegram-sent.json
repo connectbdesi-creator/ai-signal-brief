@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-22T06:31:38.723Z",
+  "updatedAt": "2026-07-22T14:02:10.563Z",
   "entries": [
+    {
+      "id": "u_59038408",
+      "sentAt": "2026-07-22T14:02:10.563Z",
+      "title": "OpenAI launches a new platform for deploying artificial intelligence agents - المتداول العربي"
+    },
+    {
+      "id": "u_ab5cfb6a",
+      "sentAt": "2026-07-22T14:02:10.563Z",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
+    },
+    {
+      "id": "u_5556dd18",
+      "sentAt": "2026-07-22T14:02:10.563Z",
+      "title": "TIL Why my dual 5060 Ti setup refuses to go past 50% usage and no, it's not broken."
+    },
+    {
+      "id": "u_4371c507",
+      "sentAt": "2026-07-22T14:02:10.563Z",
+      "title": "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents"
+    },
+    {
+      "id": "u_632c010d",
+      "sentAt": "2026-07-22T14:02:10.563Z",
+      "title": "OpenAI's AI Agent Escaped Its Sandbox and Hacked Hugging Face — by Itself"
+    },
     {
       "id": "u_f637bb1a",
       "sentAt": "2026-07-22T06:31:38.723Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e384d1bd",
       "sentAt": "2026-06-24T07:44:22.429Z",
       "title": "VeriPilot: The Future of Automated Verilog Debugging"
-    },
-    {
-      "id": "u_e43528e3",
-      "sentAt": "2026-06-24T07:44:22.429Z",
-      "title": "Breaking Down Multilingual Barriers in Medical AI Retrieval"
-    },
-    {
-      "id": "u_70ff3867",
-      "sentAt": "2026-06-24T07:44:22.429Z",
-      "title": "Anthropic Launches An Always-On AI Coworker - NDTV"
-    },
-    {
-      "id": "u_706d8c7a",
-      "sentAt": "2026-06-24T07:44:22.429Z",
-      "title": "datasette 1.0a35"
-    },
-    {
-      "id": "u_257b367a",
-      "sentAt": "2026-06-24T03:53:35.352Z",
-      "title": "Decoding the Code: How Better Guidance Can Transform LLMs"
-    },
-    {
-      "id": "u_e714b063",
-      "sentAt": "2026-06-24T03:53:35.352Z",
-      "title": "Reinforcing AI Coding Agents with AgentArmor"
     }
   ]
 }
