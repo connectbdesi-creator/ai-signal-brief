@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-23T14:08:00.690Z",
+  "updatedAt": "2026-07-23T17:25:17.126Z",
   "entries": [
+    {
+      "id": "u_5b297412",
+      "sentAt": "2026-07-23T17:25:17.126Z",
+      "title": "Runway launches AI model router as generative media gets crowded"
+    },
+    {
+      "id": "u_ca83e324",
+      "sentAt": "2026-07-23T17:25:17.126Z",
+      "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes"
+    },
+    {
+      "id": "u_17d0e470",
+      "sentAt": "2026-07-23T17:25:17.126Z",
+      "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes"
+    },
+    {
+      "id": "u_d5fe727e",
+      "sentAt": "2026-07-23T17:25:17.126Z",
+      "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore"
+    },
+    {
+      "id": "u_6ba2f718",
+      "sentAt": "2026-07-23T17:25:17.126Z",
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users"
+    },
     {
       "id": "u_d27702ce",
       "sentAt": "2026-07-23T14:08:00.690Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1e58c681",
       "sentAt": "2026-06-25T10:46:29.377Z",
       "title": "The Real Test for AI Agents: Bridging the Intent-Execution Gap"
-    },
-    {
-      "id": "u_267bf2b",
-      "sentAt": "2026-06-25T10:46:29.377Z",
-      "title": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen"
-    },
-    {
-      "id": "u_b822dde2",
-      "sentAt": "2026-06-25T10:46:29.377Z",
-      "title": "NVIDIA has released Nemotron-TwoTower-30B-A3B-Base-BF16, an unusual diffusion-based language model built from the Nemotron 3 Nano 30B-A3B backbone."
-    },
-    {
-      "id": "u_4841d2fd",
-      "sentAt": "2026-06-25T10:46:29.377Z",
-      "title": "World models emerge as AI’s next frontier beyond text | Daily Sabah - Daily Sabah"
-    },
-    {
-      "id": "u_ac77b8",
-      "sentAt": "2026-06-25T07:50:32.492Z",
-      "title": "Breaking Language Barriers in Medical AI: A New Benchmark for Urdu"
-    },
-    {
-      "id": "u_5711d77c",
-      "sentAt": "2026-06-25T07:50:32.492Z",
-      "title": "PolicyAlign: A New Era in Language Model Safety"
     }
   ]
 }
