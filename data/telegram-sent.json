@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-23T21:07:26.673Z",
+  "updatedAt": "2026-07-23T22:59:13.557Z",
   "entries": [
+    {
+      "id": "u_c44c7b96",
+      "sentAt": "2026-07-23T22:59:13.557Z",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?"
+    },
+    {
+      "id": "u_8cdbfbe8",
+      "sentAt": "2026-07-23T22:59:13.557Z",
+      "title": "AegisAI banks $36M as AI spear phishing surges fivefold in a year"
+    },
+    {
+      "id": "u_afb9abce",
+      "sentAt": "2026-07-23T22:59:13.557Z",
+      "title": "Warner unveils sweeping AI legislative framework focused on safety, data centers, workforce protections - 13newsnow.com"
+    },
+    {
+      "id": "u_d1ca42ec",
+      "sentAt": "2026-07-23T22:59:13.557Z",
+      "title": "OpenAI's new release turns a bad week ugly for software stocks"
+    },
+    {
+      "id": "u_1a033feb",
+      "sentAt": "2026-07-23T22:59:13.557Z",
+      "title": "AI Kill Switch Act: Official Bill Text by Reps. Lieu and Moran (2026)"
+    },
     {
       "id": "u_bf47fb9b",
       "sentAt": "2026-07-23T21:07:26.673Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7c677680",
       "sentAt": "2026-06-25T21:46:25.828Z",
       "title": "Cracking the Code: A Fresh Take on Language Model Graph Reasoning"
-    },
-    {
-      "id": "u_8ef92ed4",
-      "sentAt": "2026-06-25T21:46:25.828Z",
-      "title": "Unpacking the Fragility of AI Alignment in Fine-Tuning"
-    },
-    {
-      "id": "u_4daa5336",
-      "sentAt": "2026-06-25T21:46:25.828Z",
-      "title": "Bayesian Steerable-CNNs: A New Frontier for AI Confidence"
-    },
-    {
-      "id": "u_3c093dcb",
-      "sentAt": "2026-06-25T21:46:25.828Z",
-      "title": "Diffusion Models Get a Safety Upgrade With DiRecT"
-    },
-    {
-      "id": "u_d3fda6f5",
-      "sentAt": "2026-06-25T18:14:20.996Z",
-      "title": "Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services"
-    },
-    {
-      "id": "u_ff01dac4",
-      "sentAt": "2026-06-25T18:14:20.996Z",
-      "title": "June 2026: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More"
     }
   ]
 }
