@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-23T10:25:47.780Z",
+  "updatedAt": "2026-07-23T14:08:00.690Z",
   "entries": [
+    {
+      "id": "u_d27702ce",
+      "sentAt": "2026-07-23T14:08:00.690Z",
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era"
+    },
+    {
+      "id": "u_8fe18f80",
+      "sentAt": "2026-07-23T14:08:00.690Z",
+      "title": "Your First AI Agent Is An Experiment, Not A Product"
+    },
+    {
+      "id": "u_abf15f7d",
+      "sentAt": "2026-07-23T14:08:00.690Z",
+      "title": "Google's Gemini 3.6 Flash Is Here, and It's Not What Anyone Expected"
+    },
+    {
+      "id": "u_5abe2004",
+      "sentAt": "2026-07-23T14:08:00.690Z",
+      "title": "The White House Just Put a 30-Day Leash on Frontier AI, and Meta Got Left Out"
+    },
+    {
+      "id": "u_19a89a23",
+      "sentAt": "2026-07-23T14:08:00.690Z",
+      "title": "Kimi K3 Just Vaporized $314 Billion From OpenAI and Anthropic's IPO Dreams"
+    },
     {
       "id": "u_f2400598",
       "sentAt": "2026-07-23T10:25:47.780Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5711d77c",
       "sentAt": "2026-06-25T07:50:32.492Z",
       "title": "PolicyAlign: A New Era in Language Model Safety"
-    },
-    {
-      "id": "u_e88e23f6",
-      "sentAt": "2026-06-25T07:50:32.492Z",
-      "title": "Revolutionizing AI Training: Agent-Authored World Modeling Steps Up"
-    },
-    {
-      "id": "u_b11f1f71",
-      "sentAt": "2026-06-25T07:50:32.492Z",
-      "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing"
-    },
-    {
-      "id": "u_43825e4",
-      "sentAt": "2026-06-25T07:50:32.492Z",
-      "title": "Improving the speed and energy-efficiency of AI agents"
-    },
-    {
-      "id": "u_4ba8c447",
-      "sentAt": "2026-06-25T03:54:27.714Z",
-      "title": "Predicting AI Model Failures: OpenAI's New Approach"
-    },
-    {
-      "id": "u_2d3b367d",
-      "sentAt": "2026-06-25T03:54:27.714Z",
-      "title": "AWS Delivers New AI Agents to Bolster DevOps and Code Security"
     }
   ]
 }
