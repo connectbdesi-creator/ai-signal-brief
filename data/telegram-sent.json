@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-22T23:07:54.631Z",
+  "updatedAt": "2026-07-23T03:13:28.247Z",
   "entries": [
+    {
+      "id": "u_c51381e",
+      "sentAt": "2026-07-23T03:13:28.247Z",
+      "title": "AI infrastructure demand is outrunning even the boldest supply chain playbooks"
+    },
+    {
+      "id": "u_c6d3b70",
+      "sentAt": "2026-07-23T03:13:28.247Z",
+      "title": "AI home-selling platform launches in Arizona, offering flat-fee alternative - AZ Family"
+    },
+    {
+      "id": "u_2aca0ab9",
+      "sentAt": "2026-07-23T03:13:28.247Z",
+      "title": "AI home-selling platform launches in Arizona - AZ Family"
+    },
+    {
+      "id": "u_dbe39d18",
+      "sentAt": "2026-07-23T03:13:28.247Z",
+      "title": "Show HN: Grimoire – Best Practices for Everyone Installed for Your AI Agents"
+    },
+    {
+      "id": "u_f7b22a10",
+      "sentAt": "2026-07-23T03:13:28.247Z",
+      "title": "Show HN: LitigationBench. A Litigation Task-Based AI Benchmark"
+    },
     {
       "id": "u_fa538193",
       "sentAt": "2026-07-22T23:07:54.631Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b2664729",
       "sentAt": "2026-06-24T21:39:48.085Z",
       "title": "Smart EV Charging: The Next Frontier in Grid Stability"
-    },
-    {
-      "id": "u_e4fa0d6e",
-      "sentAt": "2026-06-24T21:39:48.085Z",
-      "title": "OpenAI Unveils 'Jalapeño,' Its Very First Custom AI Chip - Android Headlines"
-    },
-    {
-      "id": "u_98bb072a",
-      "sentAt": "2026-06-24T21:39:48.085Z",
-      "title": "Gradium Launches stt-translate and s2s-translate, Real-Time Speech Translation Models Beating gpt-realtime-translate on Accuracy and Latency"
-    },
-    {
-      "id": "u_1307e3de",
-      "sentAt": "2026-06-24T21:39:48.085Z",
-      "title": "I reverse engineered Windows Copilot into a free OpenAI compatible API (GPT-4, no API key, no billing)"
-    },
-    {
-      "id": "u_6a530c28",
-      "sentAt": "2026-06-24T19:59:41.833Z",
-      "title": "OpenAI says ChatGPT Instant now better understands what users actually want"
-    },
-    {
-      "id": "u_4b15d13e",
-      "sentAt": "2026-06-24T19:59:41.833Z",
-      "title": "How Narrative Theory Shapes AI's Storytelling Future"
     }
   ]
 }
