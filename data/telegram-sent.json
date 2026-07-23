@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-23T19:22:22.422Z",
+  "updatedAt": "2026-07-23T21:07:26.673Z",
   "entries": [
+    {
+      "id": "u_bf47fb9b",
+      "sentAt": "2026-07-23T21:07:26.673Z",
+      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress"
+    },
+    {
+      "id": "u_282ad07b",
+      "sentAt": "2026-07-23T21:07:26.673Z",
+      "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat"
+    },
+    {
+      "id": "u_c7a941b8",
+      "sentAt": "2026-07-23T21:07:26.673Z",
+      "title": "ChatGPT will give you worse health advice if you don't pay"
+    },
+    {
+      "id": "u_75d99c33",
+      "sentAt": "2026-07-23T21:07:26.673Z",
+      "title": "ChatGPT will give you worse health advice if you don't pay"
+    },
+    {
+      "id": "u_c4fa0473",
+      "sentAt": "2026-07-23T21:07:26.673Z",
+      "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]"
+    },
     {
       "id": "u_9baba939",
       "sentAt": "2026-07-23T19:22:22.422Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ff01dac4",
       "sentAt": "2026-06-25T18:14:20.996Z",
       "title": "June 2026: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More"
-    },
-    {
-      "id": "u_3d7814e8",
-      "sentAt": "2026-06-25T18:14:20.996Z",
-      "title": "University of Idaho Launches New Artificial Intelligence Degree Programs - Dailyfly News"
-    },
-    {
-      "id": "u_fcb59c60",
-      "sentAt": "2026-06-25T18:14:20.996Z",
-      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT"
-    },
-    {
-      "id": "u_a9aa7986",
-      "sentAt": "2026-06-25T18:14:20.996Z",
-      "title": "Mordal: Automating Multimodal Model Selection"
-    },
-    {
-      "id": "u_24128eea",
-      "sentAt": "2026-06-25T14:41:21.796Z",
-      "title": "Reinforcement Learning's New Architect: The Policy Model"
-    },
-    {
-      "id": "u_b75d1cc1",
-      "sentAt": "2026-06-25T14:41:21.796Z",
-      "title": "Cracking the Code of Long-Form Audio Drama with AI"
     }
   ]
 }
