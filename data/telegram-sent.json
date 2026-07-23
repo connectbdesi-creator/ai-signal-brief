@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-23T06:32:17.225Z",
+  "updatedAt": "2026-07-23T10:25:47.780Z",
   "entries": [
+    {
+      "id": "u_f2400598",
+      "sentAt": "2026-07-23T10:25:47.780Z",
+      "title": "DeepSeek Founder’s 4-hour investor meeting: DeepSeek is prioritizing AGI over user growth and commercialisation"
+    },
+    {
+      "id": "u_f841478c",
+      "sentAt": "2026-07-23T10:25:47.780Z",
+      "title": "ANTARES project launch: Artificial Intelligence aims to speed up the search for new antibacterials - EIN Presswire"
+    },
+    {
+      "id": "u_631afe1e",
+      "sentAt": "2026-07-23T10:25:47.780Z",
+      "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge"
+    },
+    {
+      "id": "u_9ff5065a",
+      "sentAt": "2026-07-23T10:25:47.780Z",
+      "title": "[Paper] SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD"
+    },
+    {
+      "id": "u_7ea247ad",
+      "sentAt": "2026-07-23T10:25:47.780Z",
+      "title": "Model \"distillation\" accusations are getting way overblown at this point"
+    },
     {
       "id": "u_71d1e783",
       "sentAt": "2026-07-23T06:32:17.225Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2d3b367d",
       "sentAt": "2026-06-25T03:54:27.714Z",
       "title": "AWS Delivers New AI Agents to Bolster DevOps and Code Security"
-    },
-    {
-      "id": "u_7472ef30",
-      "sentAt": "2026-06-25T03:54:27.714Z",
-      "title": "Anthropic accuses Alibaba of illicitly extracting AI capabilities"
-    },
-    {
-      "id": "u_c87c33d6",
-      "sentAt": "2026-06-25T03:54:27.714Z",
-      "title": "U.S. Export Controls: A Double-Edged Sword for AI's Future"
-    },
-    {
-      "id": "u_f2188f7c",
-      "sentAt": "2026-06-25T03:54:27.714Z",
-      "title": "Anthropic's Trillion-Dollar Gamble: Is Claude Fable 5 Ready for Prime Time?"
-    },
-    {
-      "id": "u_f69a2a2f",
-      "sentAt": "2026-06-24T23:07:29.019Z",
-      "title": "Turbocharged AI Agents: Speed Meets Domain Expertise"
-    },
-    {
-      "id": "u_78e1272b",
-      "sentAt": "2026-06-24T23:07:29.019Z",
-      "title": "Dell's Vision: AI Agents and the Future of Work"
     }
   ]
 }
