@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-24T02:52:43.957Z",
+  "updatedAt": "2026-07-24T06:28:17.871Z",
   "entries": [
+    {
+      "id": "u_1f2d565b",
+      "sentAt": "2026-07-24T06:28:17.871Z",
+      "title": "Show HN: Generous free tier for SERP and AI web scraping"
+    },
+    {
+      "id": "u_84e27c10",
+      "sentAt": "2026-07-24T06:28:17.871Z",
+      "title": "Flux 3: From AI image generation to visual intelligence"
+    },
+    {
+      "id": "u_1fdfc88f",
+      "sentAt": "2026-07-24T06:28:17.871Z",
+      "title": "ReliableTableQA:How Much Supervision Does Reliability Annotation Need?"
+    },
+    {
+      "id": "u_29130ee2",
+      "sentAt": "2026-07-24T06:28:17.871Z",
+      "title": "When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion"
+    },
+    {
+      "id": "u_700a1d78",
+      "sentAt": "2026-07-24T06:28:17.871Z",
+      "title": "SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales"
+    },
     {
       "id": "u_d8d79a8d",
       "sentAt": "2026-07-24T02:52:43.957Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2c5a9762",
       "sentAt": "2026-06-26T04:01:18.307Z",
       "title": "DUPL: Rethinking Uncertainty in Multimodal Reinforcement Learning"
-    },
-    {
-      "id": "u_2fb9ec47",
-      "sentAt": "2026-06-26T04:01:18.307Z",
-      "title": "MegaFold: The New Frontier in Protein Modeling"
-    },
-    {
-      "id": "u_9ebe4066",
-      "sentAt": "2026-06-26T04:01:18.307Z",
-      "title": "The Trump administration asked OpenAI to delay the launch of the new artificial intelligence model GPT-5.6 - Українські Національні Новини (УНН)"
-    },
-    {
-      "id": "u_8092e5",
-      "sentAt": "2026-06-26T04:01:18.307Z",
-      "title": "Trump administration steps in to limit OpenAI’s latest model launch - Politico"
-    },
-    {
-      "id": "u_cae6a9ac",
-      "sentAt": "2026-06-25T23:21:35.276Z",
-      "title": "AI's New Frontier: Relational Causal Models"
-    },
-    {
-      "id": "u_80f150c9",
-      "sentAt": "2026-06-25T23:21:35.276Z",
-      "title": "OpenAI Limits GPT-5.6 Rollout Amid Government Scrutiny"
     }
   ]
 }
