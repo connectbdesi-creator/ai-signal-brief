@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-24T15:26:36.949Z",
+  "updatedAt": "2026-07-24T17:40:12.239Z",
   "entries": [
+    {
+      "id": "u_37d9371",
+      "sentAt": "2026-07-24T17:40:12.239Z",
+      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs"
+    },
+    {
+      "id": "u_6ce6f829",
+      "sentAt": "2026-07-24T17:40:12.239Z",
+      "title": "Anthropic launches Opus 5"
+    },
+    {
+      "id": "u_bf6704e",
+      "sentAt": "2026-07-24T17:40:12.239Z",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities"
+    },
+    {
+      "id": "u_16554f5f",
+      "sentAt": "2026-07-24T17:40:12.239Z",
+      "title": "Meta is making its AI chatbot more like an assistant"
+    },
+    {
+      "id": "u_980f61bc",
+      "sentAt": "2026-07-24T17:40:12.239Z",
+      "title": "Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet"
+    },
     {
       "id": "u_fb0eceb1",
       "sentAt": "2026-07-24T15:26:36.949Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2b3adf70",
       "sentAt": "2026-06-26T19:53:36.415Z",
       "title": "Reinforcement Learning's New Frontier: Navigating Multi-Objective Trade-Offs"
-    },
-    {
-      "id": "u_6f996e97",
-      "sentAt": "2026-06-26T19:53:36.415Z",
-      "title": "AI's Blind Spots: The Inattentional Gap in Safety Models"
-    },
-    {
-      "id": "u_dc5004d7",
-      "sentAt": "2026-06-26T19:53:36.415Z",
-      "title": "AEGIS: A New Shield Against API Router Attacks"
-    },
-    {
-      "id": "u_20b59928",
-      "sentAt": "2026-06-26T19:53:36.415Z",
-      "title": "Can AI Really Judge User Experience? A New Benchmark Puts It to the Test"
-    },
-    {
-      "id": "u_bdea4b34",
-      "sentAt": "2026-06-26T16:23:41.127Z",
-      "title": "US tells OpenAI to restrict access to its most powerful AI model - Computerworld"
-    },
-    {
-      "id": "u_f22c4122",
-      "sentAt": "2026-06-26T16:23:41.127Z",
-      "title": "Patent Representation Learning: A Dive into Contrastive Objectives"
     }
   ]
 }
