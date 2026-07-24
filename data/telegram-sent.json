@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-24T13:50:33.522Z",
+  "updatedAt": "2026-07-24T15:26:36.949Z",
   "entries": [
+    {
+      "id": "u_fb0eceb1",
+      "sentAt": "2026-07-24T15:26:36.949Z",
+      "title": "Midjourney acquired the astrology app Co-Star"
+    },
+    {
+      "id": "u_ae089761",
+      "sentAt": "2026-07-24T15:26:36.949Z",
+      "title": "Synopsys targets physical AI complexity with co-design and agentic chip workflows"
+    },
+    {
+      "id": "u_d0f3afca",
+      "sentAt": "2026-07-24T15:26:36.949Z",
+      "title": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool"
+    },
+    {
+      "id": "u_c656ca40",
+      "sentAt": "2026-07-24T15:26:36.949Z",
+      "title": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool"
+    },
+    {
+      "id": "u_770226f4",
+      "sentAt": "2026-07-24T15:26:36.949Z",
+      "title": "Google Expands Gemini With Cheaper Models And A Wider Agent Push"
+    },
     {
       "id": "u_19bca9d8",
       "sentAt": "2026-07-24T13:50:33.522Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f22c4122",
       "sentAt": "2026-06-26T16:23:41.127Z",
       "title": "Patent Representation Learning: A Dive into Contrastive Objectives"
-    },
-    {
-      "id": "u_d1833ae1",
-      "sentAt": "2026-06-26T16:23:41.127Z",
-      "title": "Revolutionizing AI with RECA: Efficiency Over Size"
-    },
-    {
-      "id": "u_6c321e95",
-      "sentAt": "2026-06-26T16:23:41.127Z",
-      "title": "Reinforcement Learning's Surprising Shortcut: The Perplexity Paradox"
-    },
-    {
-      "id": "u_4de5e9d0",
-      "sentAt": "2026-06-26T16:23:41.127Z",
-      "title": "OpenAI's ChatGPT-5.6 gets the same banhammer treatment as Anthropic’s Mythos from the federal government — source says that Washington cautioned OpenAI against releasing the model without receiving approval - Tom's Hardware"
-    },
-    {
-      "id": "u_56f51155",
-      "sentAt": "2026-06-26T12:13:49.380Z",
-      "title": "Decoding Irony's Enigma with a Fusion of Signals in AI"
-    },
-    {
-      "id": "u_b4ebc43b",
-      "sentAt": "2026-06-26T12:13:49.380Z",
-      "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit"
     }
   ]
 }
