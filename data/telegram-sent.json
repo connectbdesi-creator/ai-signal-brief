@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-23T22:59:13.557Z",
+  "updatedAt": "2026-07-24T02:52:43.957Z",
   "entries": [
+    {
+      "id": "u_d8d79a8d",
+      "sentAt": "2026-07-24T02:52:43.957Z",
+      "title": "Nutanix and AMD build enterprise AI stack to take agents from pilot to production"
+    },
+    {
+      "id": "u_2638db7b",
+      "sentAt": "2026-07-24T02:52:43.957Z",
+      "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents"
+    },
+    {
+      "id": "u_da1b4ba9",
+      "sentAt": "2026-07-24T02:52:43.957Z",
+      "title": "AgentForger proves AI agents can become persistent insider threats - csoonline.com"
+    },
+    {
+      "id": "u_ea003e15",
+      "sentAt": "2026-07-24T02:52:43.957Z",
+      "title": "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be"
+    },
+    {
+      "id": "u_8259ef9f",
+      "sentAt": "2026-07-24T02:52:43.957Z",
+      "title": "OpenAI launches Health in ChatGPT a day after lawsuit seeks to block it"
+    },
     {
       "id": "u_c44c7b96",
       "sentAt": "2026-07-23T22:59:13.557Z",
@@ -4975,31 +5000,6 @@
       "id": "u_80f150c9",
       "sentAt": "2026-06-25T23:21:35.276Z",
       "title": "OpenAI Limits GPT-5.6 Rollout Amid Government Scrutiny"
-    },
-    {
-      "id": "u_1c331f01",
-      "sentAt": "2026-06-25T23:21:35.276Z",
-      "title": "Revolutionizing Q-Learning: The Impact of Operator-Theoretic Advances"
-    },
-    {
-      "id": "u_18ca8f18",
-      "sentAt": "2026-06-25T23:21:35.276Z",
-      "title": "Reinforcement Learning's New Frontier: Automating LLM Reasoning"
-    },
-    {
-      "id": "u_589ad04b",
-      "sentAt": "2026-06-25T23:21:35.276Z",
-      "title": "Cracking the Code on Deep Learning Generalization"
-    },
-    {
-      "id": "u_4a1693c5",
-      "sentAt": "2026-06-25T21:46:25.828Z",
-      "title": "Run a vLLM Server on HF Jobs in One Command"
-    },
-    {
-      "id": "u_7c677680",
-      "sentAt": "2026-06-25T21:46:25.828Z",
-      "title": "Cracking the Code: A Fresh Take on Language Model Graph Reasoning"
     }
   ]
 }
