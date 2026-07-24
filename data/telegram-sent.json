@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-24T10:21:59.640Z",
+  "updatedAt": "2026-07-24T13:50:33.522Z",
   "entries": [
+    {
+      "id": "u_19bca9d8",
+      "sentAt": "2026-07-24T13:50:33.522Z",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app"
+    },
+    {
+      "id": "u_8401f786",
+      "sentAt": "2026-07-24T13:50:33.522Z",
+      "title": "US and China Agree on Open-Source AI in Historic APEC Chengdu Declaration"
+    },
+    {
+      "id": "u_65e4757",
+      "sentAt": "2026-07-24T13:50:33.522Z",
+      "title": "FLI AI Safety Index 2026: No Lab Passes, Everyone Is Retreating From Safety"
+    },
+    {
+      "id": "u_43b408e3",
+      "sentAt": "2026-07-24T13:50:33.522Z",
+      "title": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun"
+    },
+    {
+      "id": "u_e50815a4",
+      "sentAt": "2026-07-24T13:50:33.522Z",
+      "title": "AI Agents Are Pulling The Post-Quantum Deadline Forward"
+    },
     {
       "id": "u_8196afec",
       "sentAt": "2026-07-24T10:21:59.640Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b4ebc43b",
       "sentAt": "2026-06-26T12:13:49.380Z",
       "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit"
-    },
-    {
-      "id": "u_b4a44d3a",
-      "sentAt": "2026-06-26T12:13:49.380Z",
-      "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\""
-    },
-    {
-      "id": "u_85d9995d",
-      "sentAt": "2026-06-26T12:13:49.380Z",
-      "title": "China’s Zhipu AI sparks new ‘DeepSeek moment’ with cost-effective coding model - South China Morning Post"
-    },
-    {
-      "id": "u_51c6153d",
-      "sentAt": "2026-06-26T12:13:49.380Z",
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
-    },
-    {
-      "id": "u_aafa2440",
-      "sentAt": "2026-06-26T09:33:28.168Z",
-      "title": "Meet container: Apple’s Open-Source Swift Tool for Running Linux Containers as Lightweight VMs on Apple Silicon"
-    },
-    {
-      "id": "u_b137d8e6",
-      "sentAt": "2026-06-26T09:33:28.168Z",
-      "title": "Unveiling Option Injection: Testing LLMs' Directive Vulnerability"
     }
   ]
 }
