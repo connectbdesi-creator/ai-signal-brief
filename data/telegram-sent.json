@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-24T19:28:12.370Z",
+  "updatedAt": "2026-07-24T21:07:00.635Z",
   "entries": [
+    {
+      "id": "u_a3180470",
+      "sentAt": "2026-07-24T21:07:00.635Z",
+      "title": "NVIDIA, Microsoft Lead Push for Open AI Models After Kimi K3 Launch - TradingView"
+    },
+    {
+      "id": "u_bd782833",
+      "sentAt": "2026-07-24T21:07:00.635Z",
+      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price"
+    },
+    {
+      "id": "u_c445384e",
+      "sentAt": "2026-07-24T21:07:00.635Z",
+      "title": "Morgan State University Launches Undergraduate Degree in Artificial Intelligence - The Journal of Blacks in Higher Education"
+    },
+    {
+      "id": "u_fd070bae",
+      "sentAt": "2026-07-24T21:07:00.635Z",
+      "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts"
+    },
+    {
+      "id": "u_8c9ad262",
+      "sentAt": "2026-07-24T21:07:00.635Z",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions"
+    },
     {
       "id": "u_b517afc7",
       "sentAt": "2026-07-24T19:28:12.370Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1a3a676",
       "sentAt": "2026-06-26T23:09:40.804Z",
       "title": "Quoting Dean W. Ball"
-    },
-    {
-      "id": "u_deff4b31",
-      "sentAt": "2026-06-26T23:09:40.804Z",
-      "title": "Took the plunge! (Minisforum MS-S1 Max)"
-    },
-    {
-      "id": "u_652d6c4c",
-      "sentAt": "2026-06-26T23:09:40.804Z",
-      "title": "OpenAI limits release of new model under pressure from US - AFR"
-    },
-    {
-      "id": "u_81e413ac",
-      "sentAt": "2026-06-26T23:09:40.804Z",
-      "title": "Local LLM Peeps"
-    },
-    {
-      "id": "u_2690ca68",
-      "sentAt": "2026-06-26T21:22:16.352Z",
-      "title": "Taylor Launches New Bachelor's Degree in AI and Machine Learning - Taylor University"
-    },
-    {
-      "id": "u_4ffb9f4c",
-      "sentAt": "2026-06-26T21:22:16.352Z",
-      "title": "Pentagon Launches ‘Agent Network’ to Advance AI-Enabled Battle Management - ExecutiveGov"
     }
   ]
 }
