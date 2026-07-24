@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-24T17:40:12.239Z",
+  "updatedAt": "2026-07-24T19:28:12.370Z",
   "entries": [
+    {
+      "id": "u_b517afc7",
+      "sentAt": "2026-07-24T19:28:12.370Z",
+      "title": "Katy ISD launches artificial intelligence framework for 2026-27 school year | Katy - Fulshear - Community Impact"
+    },
+    {
+      "id": "u_15fa864f",
+      "sentAt": "2026-07-24T19:28:12.370Z",
+      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price"
+    },
+    {
+      "id": "u_f299843",
+      "sentAt": "2026-07-24T19:28:12.370Z",
+      "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters"
+    },
+    {
+      "id": "u_a9b3ae7e",
+      "sentAt": "2026-07-24T19:28:12.370Z",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage"
+    },
+    {
+      "id": "u_ee490db0",
+      "sentAt": "2026-07-24T19:28:12.370Z",
+      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model"
+    },
     {
       "id": "u_37d9371",
       "sentAt": "2026-07-24T17:40:12.239Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4ffb9f4c",
       "sentAt": "2026-06-26T21:22:16.352Z",
       "title": "Pentagon Launches ‘Agent Network’ to Advance AI-Enabled Battle Management - ExecutiveGov"
-    },
-    {
-      "id": "u_1a9675b5",
-      "sentAt": "2026-06-26T21:22:16.352Z",
-      "title": "Sudan's Conflict Monitored From Space: A New Era for Rapid Fire Detection"
-    },
-    {
-      "id": "u_bf3a9288",
-      "sentAt": "2026-06-26T21:22:16.352Z",
-      "title": "Killbench: The New Frontier in AI Defense"
-    },
-    {
-      "id": "u_6128c12d",
-      "sentAt": "2026-06-26T21:22:16.352Z",
-      "title": "OpenAI Previews GPT-5.6 With Sol, Terra, and Luna: Tiered Models, New Reasoning Modes, Limited Access"
-    },
-    {
-      "id": "u_d3f52e82",
-      "sentAt": "2026-06-26T19:53:36.415Z",
-      "title": "UniBrain: A New Frontier in Medical Imaging"
-    },
-    {
-      "id": "u_2b3adf70",
-      "sentAt": "2026-06-26T19:53:36.415Z",
-      "title": "Reinforcement Learning's New Frontier: Navigating Multi-Objective Trade-Offs"
     }
   ]
 }
