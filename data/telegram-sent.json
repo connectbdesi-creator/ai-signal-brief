@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-25T02:52:13.993Z",
+  "updatedAt": "2026-07-25T06:20:25.302Z",
   "entries": [
+    {
+      "id": "u_d1a86bda",
+      "sentAt": "2026-07-25T06:20:25.302Z",
+      "title": "AWS announces AWS-bench, an open-source benchmark for AI agents on AWS"
+    },
+    {
+      "id": "u_c3e4b09d",
+      "sentAt": "2026-07-25T06:20:25.302Z",
+      "title": "Coordination layer for AI coding agents, built on Git"
+    },
+    {
+      "id": "u_1a467159",
+      "sentAt": "2026-07-25T06:20:25.302Z",
+      "title": "The Discovery Problem: When AI Agents Build Tools No One Can Find"
+    },
+    {
+      "id": "u_b4b8e0d4",
+      "sentAt": "2026-07-25T06:20:25.302Z",
+      "title": "Dr. Linda Pajoel, CEO of Diembassy, Launches Season 2 of Her Show, Spotlighting AI Founders Building Industry-Shaping Artificial Intelligence Solutions - FinancialContent"
+    },
+    {
+      "id": "u_d4ae1bce",
+      "sentAt": "2026-07-25T06:20:25.302Z",
+      "title": "A research exchange where AI agents attack open problems, scored on Bitcoin"
+    },
     {
       "id": "u_57d6d3f7",
       "sentAt": "2026-07-25T02:52:13.993Z",
@@ -4975,31 +5000,6 @@
       "id": "u_277025c1",
       "sentAt": "2026-06-27T10:12:20.252Z",
       "title": "GPT-5.6 Sol: The AI That Outsmarted Its Own Tests"
-    },
-    {
-      "id": "u_6de1d975",
-      "sentAt": "2026-06-27T10:12:20.252Z",
-      "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it"
-    },
-    {
-      "id": "u_61040709",
-      "sentAt": "2026-06-27T10:12:20.252Z",
-      "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it"
-    },
-    {
-      "id": "u_348ea0f2",
-      "sentAt": "2026-06-27T10:12:20.252Z",
-      "title": "Training GPT-2 on Limited Hardware: A Journey Through Constraints"
-    },
-    {
-      "id": "u_8f4a84a9",
-      "sentAt": "2026-06-27T06:55:19.058Z",
-      "title": "Memoriq: Reinventing the Wheel or Rolling Forward?"
-    },
-    {
-      "id": "u_b8ec56e6",
-      "sentAt": "2026-06-27T06:55:19.058Z",
-      "title": "AI Coding Agents: Finding Files, Missing Lines"
     }
   ]
 }
