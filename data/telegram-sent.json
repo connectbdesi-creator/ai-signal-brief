@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-25T15:05:39.769Z",
+  "updatedAt": "2026-07-25T17:02:06.930Z",
   "entries": [
+    {
+      "id": "u_2aed9a2",
+      "sentAt": "2026-07-25T17:02:06.930Z",
+      "title": "How much are you actually using your local models these days? Which ones do you reach for the most?"
+    },
+    {
+      "id": "u_5dc509a1",
+      "sentAt": "2026-07-25T17:02:06.930Z",
+      "title": "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure - Tom's Hardware"
+    },
+    {
+      "id": "u_f43d5a68",
+      "sentAt": "2026-07-25T17:02:06.930Z",
+      "title": "iPhone 18 Release Date: Spring Delay Boosts Autumn iPhone 18 Pro Sales"
+    },
+    {
+      "id": "u_a2ca2bd7",
+      "sentAt": "2026-07-25T17:02:06.930Z",
+      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry"
+    },
+    {
+      "id": "u_4204fe43",
+      "sentAt": "2026-07-25T17:02:06.930Z",
+      "title": "AWS EC2 compute evolves to meet agentic AI and physical AI demand"
+    },
     {
       "id": "u_3c273c29",
       "sentAt": "2026-07-25T15:05:39.769Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4091b2b1",
       "sentAt": "2026-06-27T19:25:23.638Z",
       "title": "Fable 5 Set to Return: A Strategic Lift for Anthropic"
-    },
-    {
-      "id": "u_2b534d03",
-      "sentAt": "2026-06-27T19:25:23.638Z",
-      "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions"
-    },
-    {
-      "id": "u_7298404a",
-      "sentAt": "2026-06-27T19:25:23.638Z",
-      "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1"
-    },
-    {
-      "id": "u_f3e6ddea",
-      "sentAt": "2026-06-27T19:25:23.638Z",
-      "title": "Clean GitHub repo tricks AI coding agents into running malware - BleepingComputer"
-    },
-    {
-      "id": "u_3ace7a9c",
-      "sentAt": "2026-06-27T17:14:26.051Z",
-      "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions"
-    },
-    {
-      "id": "u_5af9895e",
-      "sentAt": "2026-06-27T17:14:26.051Z",
-      "title": "Google Confirms Gemini Upgrade: AI Can Now Control Your Computer"
     }
   ]
 }
