@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-25T20:56:06.020Z",
+  "updatedAt": "2026-07-25T22:57:42.933Z",
   "entries": [
+    {
+      "id": "u_3a2a7179",
+      "sentAt": "2026-07-25T22:57:42.933Z",
+      "title": "Ruff v0.16.0"
+    },
+    {
+      "id": "u_3e3bc3d0",
+      "sentAt": "2026-07-25T22:57:42.933Z",
+      "title": "Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'"
+    },
     {
       "id": "u_99820c5f",
       "sentAt": "2026-07-25T20:56:06.020Z",
@@ -4990,16 +5000,6 @@
       "id": "u_dc0f59a7",
       "sentAt": "2026-06-28T08:57:18.603Z",
       "title": "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference"
-    },
-    {
-      "id": "u_48e006e9",
-      "sentAt": "2026-06-28T04:08:19.675Z",
-      "title": "Benchmarking Self-Hosted Gemma 2 9B vs. Frontier APIs: The FP8 Quantization Prefill Tax and VRAM Realities on an NVIDIA L4 [P]"
-    },
-    {
-      "id": "u_f6a6c4c",
-      "sentAt": "2026-06-27T23:05:32.305Z",
-      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations"
     }
   ]
 }
