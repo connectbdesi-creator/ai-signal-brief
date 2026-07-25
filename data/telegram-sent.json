@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-25T19:11:25.662Z",
+  "updatedAt": "2026-07-25T20:56:06.020Z",
   "entries": [
+    {
+      "id": "u_99820c5f",
+      "sentAt": "2026-07-25T20:56:06.020Z",
+      "title": "Artificial Intelligence model goes rogue, escaping man-made protections - Newstalk"
+    },
+    {
+      "id": "u_b34f9ae8",
+      "sentAt": "2026-07-25T20:56:06.020Z",
+      "title": "Anthropic launches Claude Opus 5 AI model, priced at half of Fable 5 - ETEnterpriseai.com"
+    },
     {
       "id": "u_6f8f7244",
       "sentAt": "2026-07-25T19:11:25.662Z",
@@ -4990,16 +5000,6 @@
       "id": "u_f6a6c4c",
       "sentAt": "2026-06-27T23:05:32.305Z",
       "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations"
-    },
-    {
-      "id": "u_ab9b97a3",
-      "sentAt": "2026-06-27T21:08:13.569Z",
-      "title": "Forget AGI. The prize is enterprise AGI"
-    },
-    {
-      "id": "u_9868e72e",
-      "sentAt": "2026-06-27T21:08:13.569Z",
-      "title": "AI Under Lock and Key: The U.S. Government's Grip Tightens"
     }
   ]
 }
