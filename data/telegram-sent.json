@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-25T06:20:25.302Z",
+  "updatedAt": "2026-07-25T11:13:20.555Z",
   "entries": [
+    {
+      "id": "u_f3f02b1d",
+      "sentAt": "2026-07-25T11:13:20.555Z",
+      "title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents"
+    },
+    {
+      "id": "u_31524da0",
+      "sentAt": "2026-07-25T11:13:20.555Z",
+      "title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents"
+    },
+    {
+      "id": "u_113f67d2",
+      "sentAt": "2026-07-25T11:13:20.555Z",
+      "title": "Sandbox-bwrap-Nix: A lightweight sandbox for AI agents and experiments"
+    },
+    {
+      "id": "u_818f2b12",
+      "sentAt": "2026-07-25T11:13:20.555Z",
+      "title": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price"
+    },
+    {
+      "id": "u_7fbe1010",
+      "sentAt": "2026-07-25T11:13:20.555Z",
+      "title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks"
+    },
     {
       "id": "u_d1a86bda",
       "sentAt": "2026-07-25T06:20:25.302Z",
@@ -4975,31 +5000,6 @@
       "id": "u_684dfd3d",
       "sentAt": "2026-06-27T13:49:32.138Z",
       "title": "Patronus AI: The Startup Fueling AI Agent Testing Frenzy"
-    },
-    {
-      "id": "u_32294e0",
-      "sentAt": "2026-06-27T13:49:32.138Z",
-      "title": "OpenAI's Selective Rollout: A Controlled ChatGPT 5 & 6 Release"
-    },
-    {
-      "id": "u_c6fba85d",
-      "sentAt": "2026-06-27T13:49:32.138Z",
-      "title": "OpenAI's GPT 5.6: A Strategic Secrecy Fueled by Politics"
-    },
-    {
-      "id": "u_68b4685f",
-      "sentAt": "2026-06-27T13:49:32.138Z",
-      "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you"
-    },
-    {
-      "id": "u_68048f09",
-      "sentAt": "2026-06-27T10:12:20.252Z",
-      "title": "US allows partial release of Anthropic's Mythos AI model - dw.com"
-    },
-    {
-      "id": "u_277025c1",
-      "sentAt": "2026-06-27T10:12:20.252Z",
-      "title": "GPT-5.6 Sol: The AI That Outsmarted Its Own Tests"
     }
   ]
 }
