@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-25T17:02:06.930Z",
+  "updatedAt": "2026-07-25T19:11:25.662Z",
   "entries": [
+    {
+      "id": "u_6f8f7244",
+      "sentAt": "2026-07-25T19:11:25.662Z",
+      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published"
+    },
+    {
+      "id": "u_e7d45ea5",
+      "sentAt": "2026-07-25T19:11:25.662Z",
+      "title": "OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure"
+    },
+    {
+      "id": "u_36c9f5bb",
+      "sentAt": "2026-07-25T19:11:25.662Z",
+      "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)"
+    },
+    {
+      "id": "u_5638cef8",
+      "sentAt": "2026-07-25T19:11:25.662Z",
+      "title": "Ask HN: What do you do when your AI agents are working?"
+    },
+    {
+      "id": "u_8d777f76",
+      "sentAt": "2026-07-25T19:11:25.662Z",
+      "title": "HPE targets HPC and AI infrastructure convergence as supercomputing scale meets enterprise AI"
+    },
     {
       "id": "u_2aed9a2",
       "sentAt": "2026-07-25T17:02:06.930Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9868e72e",
       "sentAt": "2026-06-27T21:08:13.569Z",
       "title": "AI Under Lock and Key: The U.S. Government's Grip Tightens"
-    },
-    {
-      "id": "u_337a1358",
-      "sentAt": "2026-06-27T21:08:13.569Z",
-      "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’"
-    },
-    {
-      "id": "u_46a3c589",
-      "sentAt": "2026-06-27T21:08:13.569Z",
-      "title": "US allows partial release of Anthropic's Mythos AI model - DW.com"
-    },
-    {
-      "id": "u_597b3b47",
-      "sentAt": "2026-06-27T21:08:13.569Z",
-      "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5"
-    },
-    {
-      "id": "u_fb00490",
-      "sentAt": "2026-06-27T19:25:23.638Z",
-      "title": "Artificial intelligence Agents Set to Reshape Global Travel Booking as Consumers Shift from Planning to Full Decision Automation, New Research Reveals - Travel And Tour World"
-    },
-    {
-      "id": "u_4091b2b1",
-      "sentAt": "2026-06-27T19:25:23.638Z",
-      "title": "Fable 5 Set to Return: A Strategic Lift for Anthropic"
     }
   ]
 }
