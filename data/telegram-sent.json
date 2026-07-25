@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-25T11:13:20.555Z",
+  "updatedAt": "2026-07-25T13:40:52.311Z",
   "entries": [
+    {
+      "id": "u_ec9aab64",
+      "sentAt": "2026-07-25T13:40:52.311Z",
+      "title": "CachyLLama: llama.cpp fork with persistent SSD-backed KV caching for local agent workflows"
+    },
+    {
+      "id": "u_14cf0e15",
+      "sentAt": "2026-07-25T13:40:52.311Z",
+      "title": "White House 30-Day AI Review Framework Finalizes — Meta Excluded, Benchmarks Classified"
+    },
+    {
+      "id": "u_e408b2be",
+      "sentAt": "2026-07-25T13:40:52.311Z",
+      "title": "Claude Opus 5 Lands in Microsoft 365 Copilot — The Two-Model Enterprise AI Era Begins"
+    },
+    {
+      "id": "u_a0079ea6",
+      "sentAt": "2026-07-25T13:40:52.311Z",
+      "title": "Kimi K3 Open Weights Drop Sunday — 2.8T Params, Self-Hosting Guide, and the License Question"
+    },
+    {
+      "id": "u_a002a0dc",
+      "sentAt": "2026-07-25T13:40:52.311Z",
+      "title": "Anthropic Pays SpaceXAI $1.25B/Month for Colossus 1 Compute — Musk Can Pull It If Claude \"Harms Humanity\""
+    },
     {
       "id": "u_f3f02b1d",
       "sentAt": "2026-07-25T11:13:20.555Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ec1d521e",
       "sentAt": "2026-06-27T15:18:11.868Z",
       "title": "ExRobotics Unveils Certified Inspection Robot Amid Industry Pressures"
-    },
-    {
-      "id": "u_46adffc5",
-      "sentAt": "2026-06-27T15:18:11.868Z",
-      "title": "Mantis Robotics Unveils Fenceless Future with MR-X"
-    },
-    {
-      "id": "u_c57da79a",
-      "sentAt": "2026-06-27T15:18:11.868Z",
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back."
-    },
-    {
-      "id": "u_4e37c221",
-      "sentAt": "2026-06-27T15:18:11.868Z",
-      "title": "OpenAI's ChatGPT Update: A Step Toward Smarter Conversations"
-    },
-    {
-      "id": "u_8322c6fb",
-      "sentAt": "2026-06-27T13:49:32.138Z",
-      "title": "Hirebotics Unveils a No-Code Cobot Revolutionizing Painting"
-    },
-    {
-      "id": "u_684dfd3d",
-      "sentAt": "2026-06-27T13:49:32.138Z",
-      "title": "Patronus AI: The Startup Fueling AI Agent Testing Frenzy"
     }
   ]
 }
