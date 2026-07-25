@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-24T23:03:38.311Z",
+  "updatedAt": "2026-07-25T02:52:13.993Z",
   "entries": [
+    {
+      "id": "u_57d6d3f7",
+      "sentAt": "2026-07-25T02:52:13.993Z",
+      "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements"
+    },
+    {
+      "id": "u_e8099cc2",
+      "sentAt": "2026-07-25T02:52:13.993Z",
+      "title": "Quoting Boris Cherny"
+    },
+    {
+      "id": "u_7c6a6f63",
+      "sentAt": "2026-07-25T02:52:13.993Z",
+      "title": "Nvidia, other tech giants caution against open-source AI ban in open letter"
+    },
+    {
+      "id": "u_559c3200",
+      "sentAt": "2026-07-25T02:52:13.993Z",
+      "title": "Canada launches public consultation on artificial intelligence transparency - Mugglehead Investment Magazine"
+    },
+    {
+      "id": "u_261bfb16",
+      "sentAt": "2026-07-25T02:52:13.993Z",
+      "title": "Introducing Claude Opus 5"
+    },
     {
       "id": "u_bb4b06e6",
       "sentAt": "2026-07-24T23:03:38.311Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b8ec56e6",
       "sentAt": "2026-06-27T06:55:19.058Z",
       "title": "AI Coding Agents: Finding Files, Missing Lines"
-    },
-    {
-      "id": "u_339d688c",
-      "sentAt": "2026-06-27T06:55:19.058Z",
-      "title": "Harness Forge: The Open Source Initiative You Need to Know About"
-    },
-    {
-      "id": "u_9c24b436",
-      "sentAt": "2026-06-27T06:55:19.058Z",
-      "title": "Ditching Agents: A Retiree's $16,000 Real Estate Win"
-    },
-    {
-      "id": "u_daeb7a5f",
-      "sentAt": "2026-06-27T06:55:19.058Z",
-      "title": "Anthropic's Model Access Halt Sparks India's AI Soul-Searching"
-    },
-    {
-      "id": "u_a5cbd081",
-      "sentAt": "2026-06-27T03:44:35.119Z",
-      "title": "Revolutionizing Cloud Computing: The Intersection of Human and Machine Intelligence"
-    },
-    {
-      "id": "u_d04e2c01",
-      "sentAt": "2026-06-27T03:44:35.119Z",
-      "title": "AdaSR: Pioneering the Future of Real-Time AI Reasoning"
     }
   ]
 }
