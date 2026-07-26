@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-07-26T15:08:05.982Z",
+  "updatedAt": "2026-07-26T17:04:59.954Z",
   "entries": [
+    {
+      "id": "u_5c22fb3f",
+      "sentAt": "2026-07-26T17:04:59.954Z",
+      "title": "What is the risk of using Chinese open AI models like Kimi K3?"
+    },
+    {
+      "id": "u_7283e00b",
+      "sentAt": "2026-07-26T17:04:59.954Z",
+      "title": "We compared different LLMs on IMO 2026 [R]"
+    },
+    {
+      "id": "u_85fe4936",
+      "sentAt": "2026-07-26T17:04:59.954Z",
+      "title": "Metro Momentum Launches AI Digital Badge Series - Metro State University"
+    },
     {
       "id": "u_6f34cb42",
       "sentAt": "2026-07-26T15:08:05.982Z",
@@ -4985,21 +5000,6 @@
       "id": "u_d9c14e74",
       "sentAt": "2026-06-28T19:25:37.419Z",
       "title": "Monlite: An Open Source Journey with No Fanfare Yet"
-    },
-    {
-      "id": "u_1ccdf34",
-      "sentAt": "2026-06-28T19:25:37.419Z",
-      "title": "Show HN: Prose or Con, can you detect AI writing?"
-    },
-    {
-      "id": "u_ca9456b7",
-      "sentAt": "2026-06-28T19:25:37.419Z",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short"
-    },
-    {
-      "id": "u_3e29c60",
-      "sentAt": "2026-06-28T19:25:37.419Z",
-      "title": "AI Agents in HR: Automation Isn't the Endgame"
     }
   ]
 }
