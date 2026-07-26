@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-26T03:17:29.920Z",
+  "updatedAt": "2026-07-26T06:39:01.085Z",
   "entries": [
+    {
+      "id": "u_80f4d9a0",
+      "sentAt": "2026-07-26T06:39:01.085Z",
+      "title": "Show HN: Axtary – Content Authorization for AI Agents"
+    },
+    {
+      "id": "u_8820f4ac",
+      "sentAt": "2026-07-26T06:39:01.085Z",
+      "title": "SEC acquiring AI agents to monitor phone locations, social media, credit headers"
+    },
+    {
+      "id": "u_ba843bc3",
+      "sentAt": "2026-07-26T06:39:01.085Z",
+      "title": "The state of AI agents, in numbers"
+    },
+    {
+      "id": "u_cd567eba",
+      "sentAt": "2026-07-26T06:39:01.085Z",
+      "title": "ExploitGym – Can AI Agents Turn Security Vulnerabilities into Real Attacks?"
+    },
     {
       "id": "u_d730a923",
       "sentAt": "2026-07-26T03:17:29.920Z",
@@ -4980,26 +5000,6 @@
       "id": "u_e30e2327",
       "sentAt": "2026-06-28T11:48:23.780Z",
       "title": "Cate Blanchett is taking on AI"
-    },
-    {
-      "id": "u_e9388f0f",
-      "sentAt": "2026-06-28T11:48:23.780Z",
-      "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement"
-    },
-    {
-      "id": "u_14b9b7fa",
-      "sentAt": "2026-06-28T08:57:18.603Z",
-      "title": "As the era of artificial intelligence (AI) agents is in full swing, the competition axis of the AI i.. - 매일경제"
-    },
-    {
-      "id": "u_7439fa5d",
-      "sentAt": "2026-06-28T08:57:18.603Z",
-      "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't"
-    },
-    {
-      "id": "u_11b65fe7",
-      "sentAt": "2026-06-28T08:57:18.603Z",
-      "title": "AI's Demand for New Social Norms: Reckoning with Responsibility"
     }
   ]
 }
