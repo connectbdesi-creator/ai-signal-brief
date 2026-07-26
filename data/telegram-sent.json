@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-26T06:39:01.085Z",
+  "updatedAt": "2026-07-26T10:02:56.811Z",
   "entries": [
+    {
+      "id": "u_eac36d0",
+      "sentAt": "2026-07-26T10:02:56.811Z",
+      "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence"
+    },
+    {
+      "id": "u_3af2d5d7",
+      "sentAt": "2026-07-26T10:02:56.811Z",
+      "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence"
+    },
+    {
+      "id": "u_cd8497b2",
+      "sentAt": "2026-07-26T10:02:56.811Z",
+      "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides"
+    },
+    {
+      "id": "u_457c7c6b",
+      "sentAt": "2026-07-26T10:02:56.811Z",
+      "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides"
+    },
+    {
+      "id": "u_64c1961c",
+      "sentAt": "2026-07-26T10:02:56.811Z",
+      "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns"
+    },
     {
       "id": "u_80f4d9a0",
       "sentAt": "2026-07-26T06:39:01.085Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d5933dbb",
       "sentAt": "2026-06-28T13:53:44.704Z",
       "title": "AI Tools Fuel Controversy in EU Tobacco Law Feedback"
-    },
-    {
-      "id": "u_6505717b",
-      "sentAt": "2026-06-28T13:53:44.704Z",
-      "title": "Only three AI models finished above starting capital in a 500-day startup survival test"
-    },
-    {
-      "id": "u_5053734c",
-      "sentAt": "2026-06-28T11:48:23.780Z",
-      "title": "Qwen3.6 27B local vs Opus 4.8, voxel engine in raw C with zero frameworks"
-    },
-    {
-      "id": "u_11751013",
-      "sentAt": "2026-06-28T11:48:23.780Z",
-      "title": "Are there good closed vs open LLM rankings? Also, are 70B–350B models actually worth it?"
-    },
-    {
-      "id": "u_621a9771",
-      "sentAt": "2026-06-28T11:48:23.780Z",
-      "title": "AgentWatch: Keeping AI Agents on a Budget"
-    },
-    {
-      "id": "u_e30e2327",
-      "sentAt": "2026-06-28T11:48:23.780Z",
-      "title": "Cate Blanchett is taking on AI"
     }
   ]
 }
