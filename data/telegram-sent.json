@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-26T17:04:59.954Z",
+  "updatedAt": "2026-07-26T19:16:12.828Z",
   "entries": [
+    {
+      "id": "u_cfae8530",
+      "sentAt": "2026-07-26T19:16:12.828Z",
+      "title": "Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction"
+    },
+    {
+      "id": "u_72d954d7",
+      "sentAt": "2026-07-26T19:16:12.828Z",
+      "title": "I built a Triton backend for Falcon3-10B-1.58bit: 97.5 tok/s decode on an RTX 5070"
+    },
+    {
+      "id": "u_f10e57c6",
+      "sentAt": "2026-07-26T19:16:12.828Z",
+      "title": "Let Your AI Read the Frontier Labs' Homework"
+    },
+    {
+      "id": "u_8a28fc51",
+      "sentAt": "2026-07-26T19:16:12.828Z",
+      "title": "90 agentic bakeoff runs: ThinkingCap vs Fable Fusion vs stock Qwen3.6-27B"
+    },
+    {
+      "id": "u_20d70b73",
+      "sentAt": "2026-07-26T19:16:12.828Z",
+      "title": "23 Gemma4-E4B models compared with abliterlitics: the most downloaded one is also the most broken"
+    },
     {
       "id": "u_5c22fb3f",
       "sentAt": "2026-07-26T17:04:59.954Z",
@@ -4975,31 +5000,6 @@
       "id": "u_dd7bc8c3",
       "sentAt": "2026-06-28T21:05:27.159Z",
       "title": "Insilico, SK Launch Up-to-$2.5B Neuroimmune AI Drug Collaboration - Genetic Engineering and Biotechnology News"
-    },
-    {
-      "id": "u_cedea6fc",
-      "sentAt": "2026-06-28T21:05:27.159Z",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short"
-    },
-    {
-      "id": "u_454c709a",
-      "sentAt": "2026-06-28T21:05:27.159Z",
-      "title": "Work, Skills, And AI: Human Resources Angles On The Agentic Future"
-    },
-    {
-      "id": "u_300471b7",
-      "sentAt": "2026-06-28T21:05:27.159Z",
-      "title": "AgentCrawl: Are We Really Ready for Autonomous Browsing Agents?"
-    },
-    {
-      "id": "u_a5fab39e",
-      "sentAt": "2026-06-28T21:05:27.159Z",
-      "title": "Show HN: Verigate – Cryptographic authorization receipts for AI agents"
-    },
-    {
-      "id": "u_d9c14e74",
-      "sentAt": "2026-06-28T19:25:37.419Z",
-      "title": "Monlite: An Open Source Journey with No Fanfare Yet"
     }
   ]
 }
