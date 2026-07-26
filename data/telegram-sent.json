@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-26T19:16:12.828Z",
+  "updatedAt": "2026-07-26T21:01:57.431Z",
   "entries": [
+    {
+      "id": "u_722ffd98",
+      "sentAt": "2026-07-26T21:01:57.431Z",
+      "title": "Has anyone compared pre-training, SFT/LoRA and reinforcement post-training on Qwen3.6-27B?"
+    },
+    {
+      "id": "u_7f55f0d0",
+      "sentAt": "2026-07-26T21:01:57.431Z",
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud"
+    },
     {
       "id": "u_cfae8530",
       "sentAt": "2026-07-26T19:16:12.828Z",
@@ -4990,16 +5000,6 @@
       "id": "u_794aa048",
       "sentAt": "2026-06-28T23:06:29.880Z",
       "title": "Suno launches Spark incubator program to feed independent artists to its AI machine"
-    },
-    {
-      "id": "u_2517b1f1",
-      "sentAt": "2026-06-28T23:06:29.880Z",
-      "title": "Ablo – The collaboration layer for AI agents"
-    },
-    {
-      "id": "u_dd7bc8c3",
-      "sentAt": "2026-06-28T21:05:27.159Z",
-      "title": "Insilico, SK Launch Up-to-$2.5B Neuroimmune AI Drug Collaboration - Genetic Engineering and Biotechnology News"
     }
   ]
 }
