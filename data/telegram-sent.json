@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-26T13:35:28.505Z",
+  "updatedAt": "2026-07-26T15:08:05.982Z",
   "entries": [
+    {
+      "id": "u_6f34cb42",
+      "sentAt": "2026-07-26T15:08:05.982Z",
+      "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]"
+    },
+    {
+      "id": "u_dd8a46f0",
+      "sentAt": "2026-07-26T15:08:05.982Z",
+      "title": "KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments"
+    },
+    {
+      "id": "u_a89e7d05",
+      "sentAt": "2026-07-26T15:08:05.982Z",
+      "title": "MoneySimpler Launches AI-Powered Quantitative Trading Platform as AI Reshapes Financial Technology - USA Today"
+    },
+    {
+      "id": "u_ddf11d5d",
+      "sentAt": "2026-07-26T15:08:05.982Z",
+      "title": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run"
+    },
+    {
+      "id": "u_8040038f",
+      "sentAt": "2026-07-26T15:08:05.982Z",
+      "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns"
+    },
     {
       "id": "u_188ed58d",
       "sentAt": "2026-07-26T13:35:28.505Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3e29c60",
       "sentAt": "2026-06-28T19:25:37.419Z",
       "title": "AI Agents in HR: Automation Isn't the Endgame"
-    },
-    {
-      "id": "u_d70e8309",
-      "sentAt": "2026-06-28T19:25:37.419Z",
-      "title": "Offline Monitoring for AI Agents: A Reality Check"
-    },
-    {
-      "id": "u_4a910e9",
-      "sentAt": "2026-06-28T17:16:55.782Z",
-      "title": "The number 1 public enemy of open-source."
-    },
-    {
-      "id": "u_1d776ac8",
-      "sentAt": "2026-06-28T17:16:55.782Z",
-      "title": "Ask HN: Can you give examples of AI taste?"
-    },
-    {
-      "id": "u_b934a992",
-      "sentAt": "2026-06-28T17:16:55.782Z",
-      "title": "General Intuition Taps into Gaming to Train Smarter AI"
-    },
-    {
-      "id": "u_6a0010aa",
-      "sentAt": "2026-06-28T17:16:55.782Z",
-      "title": "Clean GitHub Repositories: The Trojan Horse for AI Agents"
     }
   ]
 }
