@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-26T10:02:56.811Z",
+  "updatedAt": "2026-07-26T13:35:28.505Z",
   "entries": [
+    {
+      "id": "u_188ed58d",
+      "sentAt": "2026-07-26T13:35:28.505Z",
+      "title": "A Developer Ran an LLM on an $8 ESP32 Chip — And Quietly Broke the Cloud AI Model for IoT"
+    },
+    {
+      "id": "u_a4d1d46d",
+      "sentAt": "2026-07-26T13:35:28.505Z",
+      "title": "Claude Code Gutted Its System Prompt by 80% — And Nothing Broke. Here's What It Means"
+    },
+    {
+      "id": "u_1584bd0f",
+      "sentAt": "2026-07-26T13:35:28.505Z",
+      "title": "Optical Tech Would Update a Robot’s AI on the Fly"
+    },
+    {
+      "id": "u_a7c15b12",
+      "sentAt": "2026-07-26T13:35:28.505Z",
+      "title": "How to Give an LLM Agent a Browser"
+    },
+    {
+      "id": "u_8be5f59b",
+      "sentAt": "2026-07-26T13:35:28.505Z",
+      "title": "What Sam Altman will tell the White House this week"
+    },
     {
       "id": "u_eac36d0",
       "sentAt": "2026-07-26T10:02:56.811Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6a0010aa",
       "sentAt": "2026-06-28T17:16:55.782Z",
       "title": "Clean GitHub Repositories: The Trojan Horse for AI Agents"
-    },
-    {
-      "id": "u_1bcc2d35",
-      "sentAt": "2026-06-28T17:16:55.782Z",
-      "title": "Hypothetically speaking..."
-    },
-    {
-      "id": "u_3c3ea916",
-      "sentAt": "2026-06-28T13:53:44.704Z",
-      "title": "Google's AI Cold Shoulder to Meta: What It Means"
-    },
-    {
-      "id": "u_8c27985",
-      "sentAt": "2026-06-28T13:53:44.704Z",
-      "title": "Google limits Meta's use of its Gemini AI models"
-    },
-    {
-      "id": "u_7f1d384e",
-      "sentAt": "2026-06-28T13:53:44.704Z",
-      "title": "When AI Meets Open Source: Unpacking the Latest Dataset Release"
-    },
-    {
-      "id": "u_d5933dbb",
-      "sentAt": "2026-06-28T13:53:44.704Z",
-      "title": "AI Tools Fuel Controversy in EU Tobacco Law Feedback"
     }
   ]
 }
