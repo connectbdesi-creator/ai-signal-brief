@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-26T23:02:31.938Z",
+  "updatedAt": "2026-07-27T03:27:14.573Z",
   "entries": [
+    {
+      "id": "u_5f6ccb9e",
+      "sentAt": "2026-07-27T03:27:14.573Z",
+      "title": "My Ollama box picks the music now: an agentic DJ running on a 9B model"
+    },
+    {
+      "id": "u_ea172c6d",
+      "sentAt": "2026-07-27T03:27:14.573Z",
+      "title": "Anthropic releases ‘more efficient’ Claude Opus 5 AI model - InfoWorld"
+    },
+    {
+      "id": "u_1a40a930",
+      "sentAt": "2026-07-27T03:27:14.573Z",
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs"
+    },
+    {
+      "id": "u_96a774e4",
+      "sentAt": "2026-07-27T03:27:14.573Z",
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs"
+    },
+    {
+      "id": "u_dd2ce38e",
+      "sentAt": "2026-07-27T03:27:14.573Z",
+      "title": "Unexpected use of local llm"
+    },
     {
       "id": "u_796581b6",
       "sentAt": "2026-07-26T23:02:31.938Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9c3c2339",
       "sentAt": "2026-06-29T04:14:48.645Z",
       "title": "Reconstructing Agent States: The Silent Symphony of Actions"
-    },
-    {
-      "id": "u_3cfb729b",
-      "sentAt": "2026-06-29T04:14:48.645Z",
-      "title": "To meet 144% spike in demand, Syracuse launches specialized AI degrees - The College Fix"
-    },
-    {
-      "id": "u_445feeb6",
-      "sentAt": "2026-06-29T04:14:48.645Z",
-      "title": "Prism Transformer: Unlocking Latent Capacity in Neural Networks"
-    },
-    {
-      "id": "u_21844433",
-      "sentAt": "2026-06-28T23:06:29.880Z",
-      "title": "Quoting Jon Udell"
-    },
-    {
-      "id": "u_c86df6d4",
-      "sentAt": "2026-06-28T23:06:29.880Z",
-      "title": "China Narrows AI Gap with US: A Looming Challenge"
-    },
-    {
-      "id": "u_a2a33e33",
-      "sentAt": "2026-06-28T23:06:29.880Z",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity"
     }
   ]
 }
