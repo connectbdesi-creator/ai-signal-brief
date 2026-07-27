@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-27T19:38:39.260Z",
+  "updatedAt": "2026-07-27T21:14:10.635Z",
   "entries": [
+    {
+      "id": "u_af478b75",
+      "sentAt": "2026-07-27T21:14:10.635Z",
+      "title": "Kimi AI and kvcache-ai Open Sources ‘AgentENV’: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3"
+    },
+    {
+      "id": "u_234f197f",
+      "sentAt": "2026-07-27T21:14:10.635Z",
+      "title": "Yugabyte targets the missing memory and knowledge layer for enterprise AI agents"
+    },
+    {
+      "id": "u_c58f7cd0",
+      "sentAt": "2026-07-27T21:14:10.635Z",
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results"
+    },
+    {
+      "id": "u_6575cbcd",
+      "sentAt": "2026-07-27T21:14:10.635Z",
+      "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race"
+    },
+    {
+      "id": "u_664ca66a",
+      "sentAt": "2026-07-27T21:14:10.635Z",
+      "title": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic — open-weight model performs almost as well as frontier models while being 2-3x easier to run - Tom's Hardware"
+    },
     {
       "id": "u_7879045f",
       "sentAt": "2026-07-27T19:38:39.260Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b86fedd4",
       "sentAt": "2026-06-30T03:56:43.125Z",
       "title": "OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway"
-    },
-    {
-      "id": "u_b4df4d2f",
-      "sentAt": "2026-06-30T03:56:43.125Z",
-      "title": "House vote sets up Senate clash over kids' online safety"
-    },
-    {
-      "id": "u_37282d6f",
-      "sentAt": "2026-06-30T03:56:43.125Z",
-      "title": "Atlantic County, NJ, Launches Artificial Intelligence For Food & Shelter - WPG Talk Radio 95.5 FM"
-    },
-    {
-      "id": "u_87a5ffb4",
-      "sentAt": "2026-06-29T23:01:24.909Z",
-      "title": "OpenAI is teasing new hardware… for Codex"
-    },
-    {
-      "id": "u_3cf464e1",
-      "sentAt": "2026-06-29T23:01:24.909Z",
-      "title": "Amazon's AI Strategy: Distilling Anthropic Models to Cut Costs"
-    },
-    {
-      "id": "u_2f1d5c9c",
-      "sentAt": "2026-06-29T23:01:24.909Z",
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price"
     }
   ]
 }
