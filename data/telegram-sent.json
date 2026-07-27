@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-27T14:41:39.551Z",
+  "updatedAt": "2026-07-27T17:45:36.870Z",
   "entries": [
+    {
+      "id": "u_3f94cd9b",
+      "sentAt": "2026-07-27T17:45:36.870Z",
+      "title": "On theCUBE Pod: AMD nips at Nvidia’s heels, and IBM undergoes quiet transformation"
+    },
+    {
+      "id": "u_5c10fdfa",
+      "sentAt": "2026-07-27T17:45:36.870Z",
+      "title": "Ling-3.0-flash weights: SGLang says day-0, vLLM says when they land, llama.cpp closed the 2.6 request as not_planned"
+    },
+    {
+      "id": "u_9b7d3c8d",
+      "sentAt": "2026-07-27T17:45:36.870Z",
+      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents"
+    },
+    {
+      "id": "u_1d798b3b",
+      "sentAt": "2026-07-27T17:45:36.870Z",
+      "title": "Tech giants link hands to praise open AI models after OpenAI - Hugging Face attack"
+    },
+    {
+      "id": "u_da350147",
+      "sentAt": "2026-07-27T17:45:36.870Z",
+      "title": "Tech industry leaders join to form Open Secure AI Alliance to promote safety and security"
+    },
     {
       "id": "u_3f003997",
       "sentAt": "2026-07-27T14:41:39.551Z",
@@ -4975,31 +5000,6 @@
       "id": "u_94877a49",
       "sentAt": "2026-06-29T21:37:59.753Z",
       "title": "OpenAI's Codex Device: A New Era for Coders?"
-    },
-    {
-      "id": "u_183821a2",
-      "sentAt": "2026-06-29T21:37:59.753Z",
-      "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery"
-    },
-    {
-      "id": "u_3f0651a5",
-      "sentAt": "2026-06-29T21:37:59.753Z",
-      "title": "It’s time, Sam, it’s time."
-    },
-    {
-      "id": "u_a5b9ce91",
-      "sentAt": "2026-06-29T18:11:10.308Z",
-      "title": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in"
-    },
-    {
-      "id": "u_6a5b9da2",
-      "sentAt": "2026-06-29T18:11:10.308Z",
-      "title": "Pair Nova 2 Lite with Claude for cost-optimized document processing"
-    },
-    {
-      "id": "u_2bb68e58",
-      "sentAt": "2026-06-29T18:11:10.308Z",
-      "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS"
     }
   ]
 }
