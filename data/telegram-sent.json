@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-27T11:27:17.266Z",
+  "updatedAt": "2026-07-27T14:41:39.551Z",
   "entries": [
+    {
+      "id": "u_3f003997",
+      "sentAt": "2026-07-27T14:41:39.551Z",
+      "title": "Chip shortages forced China to find way to make cheaper AI models than US - EUobserver"
+    },
+    {
+      "id": "u_3bd835fd",
+      "sentAt": "2026-07-27T14:41:39.551Z",
+      "title": "Exclusive: Cogent Security debuts VR-1, a frontier model built to prove attack paths"
+    },
+    {
+      "id": "u_832b517e",
+      "sentAt": "2026-07-27T14:41:39.551Z",
+      "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans"
+    },
+    {
+      "id": "u_4235df35",
+      "sentAt": "2026-07-27T14:41:39.551Z",
+      "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans"
+    },
+    {
+      "id": "u_43a172ac",
+      "sentAt": "2026-07-27T14:41:39.551Z",
+      "title": "Scisparc Announces Decision To Target The Agentic Ai Market Forms Scientific Advisory Board For Artificial Intelligence And Cybersecurity - TradingView"
+    },
     {
       "id": "u_104cc34e",
       "sentAt": "2026-07-27T11:27:17.266Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2bb68e58",
       "sentAt": "2026-06-29T18:11:10.308Z",
       "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS"
-    },
-    {
-      "id": "u_3924acca",
-      "sentAt": "2026-06-29T18:11:10.308Z",
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business"
-    },
-    {
-      "id": "u_711a4eb2",
-      "sentAt": "2026-06-29T18:11:10.308Z",
-      "title": "The Gemini app is bringing personalized image creation to more users."
-    },
-    {
-      "id": "u_6cd82f29",
-      "sentAt": "2026-06-29T15:54:54.022Z",
-      "title": "Taylor Launches New Bachelor's Degree in AI & Machine Learning - Taylor University"
-    },
-    {
-      "id": "u_33faf74c",
-      "sentAt": "2026-06-29T15:54:54.022Z",
-      "title": "Deloitte tells its own consultants: AI is coming for the billable hour"
-    },
-    {
-      "id": "u_8ad0b1bd",
-      "sentAt": "2026-06-29T15:54:54.022Z",
-      "title": "Deloitte tells its own consultants: AI is coming for the billable hour"
     }
   ]
 }
