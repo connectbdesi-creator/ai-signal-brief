@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-27T17:45:36.870Z",
+  "updatedAt": "2026-07-27T19:38:39.260Z",
   "entries": [
+    {
+      "id": "u_7879045f",
+      "sentAt": "2026-07-27T19:38:39.260Z",
+      "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race"
+    },
+    {
+      "id": "u_829b918e",
+      "sentAt": "2026-07-27T19:38:39.260Z",
+      "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag"
+    },
+    {
+      "id": "u_1f97837d",
+      "sentAt": "2026-07-27T19:38:39.260Z",
+      "title": "Cornerstone Launches President's Artificial Intelligence Advisory Board to Lead the Future of Christian Higher Education - Cornerstone University"
+    },
+    {
+      "id": "u_129d15ea",
+      "sentAt": "2026-07-27T19:38:39.260Z",
+      "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks"
+    },
+    {
+      "id": "u_f7c67793",
+      "sentAt": "2026-07-27T19:38:39.260Z",
+      "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks"
+    },
     {
       "id": "u_3f94cd9b",
       "sentAt": "2026-07-27T17:45:36.870Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2f1d5c9c",
       "sentAt": "2026-06-29T23:01:24.909Z",
       "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price"
-    },
-    {
-      "id": "u_c61a0aa0",
-      "sentAt": "2026-06-29T23:01:24.909Z",
-      "title": "AI agents are not your “coworkers”"
-    },
-    {
-      "id": "u_457956e0",
-      "sentAt": "2026-06-29T23:01:24.909Z",
-      "title": "Debugging production agents with Amazon Bedrock AgentCore Observability"
-    },
-    {
-      "id": "u_2245ce08",
-      "sentAt": "2026-06-29T21:37:59.753Z",
-      "title": "Gemini’s personalized AI image generation is now free for US users"
-    },
-    {
-      "id": "u_35374df2",
-      "sentAt": "2026-06-29T21:37:59.753Z",
-      "title": "Tidal's AI Music Policy: A Bold Move to Protect Artists?"
-    },
-    {
-      "id": "u_94877a49",
-      "sentAt": "2026-06-29T21:37:59.753Z",
-      "title": "OpenAI's Codex Device: A New Era for Coders?"
     }
   ]
 }
