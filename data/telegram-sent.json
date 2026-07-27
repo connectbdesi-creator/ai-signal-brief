@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-27T03:27:14.573Z",
+  "updatedAt": "2026-07-27T07:35:40.337Z",
   "entries": [
+    {
+      "id": "u_38dbb196",
+      "sentAt": "2026-07-27T07:35:40.337Z",
+      "title": "The Hugging Face Breach Exposed A Gap In AI Safety Controls"
+    },
+    {
+      "id": "u_dee6b323",
+      "sentAt": "2026-07-27T07:35:40.337Z",
+      "title": "How To Get Your Business Data Ready For AI Agents"
+    },
+    {
+      "id": "u_c236721c",
+      "sentAt": "2026-07-27T07:35:40.337Z",
+      "title": "SBC Summit launches AI Academy to turn Artificial Intelligence Into practical business results - Asia Gaming Brief (AGB)"
+    },
+    {
+      "id": "u_61b28742",
+      "sentAt": "2026-07-27T07:35:40.337Z",
+      "title": "Procedural Knowledge Is Not Low-Rank: Why LoRA Fails to Internalize Multi-Step Procedures"
+    },
+    {
+      "id": "u_2ac1bbde",
+      "sentAt": "2026-07-27T07:35:40.337Z",
+      "title": "Physically Constrained Federated Additive Models for O-RAN SLA-Risk Prediction"
+    },
     {
       "id": "u_5f6ccb9e",
       "sentAt": "2026-07-27T03:27:14.573Z",
@@ -4975,31 +5000,6 @@
       "id": "u_20d09472",
       "sentAt": "2026-06-29T11:06:29.899Z",
       "title": "Microsoft-backed OpenAI Shows GPT-5.6 Artificial Intelligence Model Capabilities - Moomoo"
-    },
-    {
-      "id": "u_eba254c6",
-      "sentAt": "2026-06-29T11:06:29.899Z",
-      "title": "Nvidia's Space-1: The Next Frontier for AI in Orbit"
-    },
-    {
-      "id": "u_200dd70f",
-      "sentAt": "2026-06-29T11:06:29.899Z",
-      "title": "Microsoft-backed OpenAI Shows GPT-5.6 Artificial Intelligence Model Capabilities - marketscreener.com"
-    },
-    {
-      "id": "u_52fcd22",
-      "sentAt": "2026-06-29T04:14:48.645Z",
-      "title": "Reinforcement Learning Meets Language Models: A Winning Strategy?"
-    },
-    {
-      "id": "u_8916a9ff",
-      "sentAt": "2026-06-29T04:14:48.645Z",
-      "title": "AI Training: Balancing Between Data and Model Constraints"
-    },
-    {
-      "id": "u_9c3c2339",
-      "sentAt": "2026-06-29T04:14:48.645Z",
-      "title": "Reconstructing Agent States: The Silent Symphony of Actions"
     }
   ]
 }
