@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-28T14:13:49.068Z",
+  "updatedAt": "2026-07-28T17:37:42.571Z",
   "entries": [
+    {
+      "id": "u_640d0421",
+      "sentAt": "2026-07-28T17:37:42.571Z",
+      "title": "Market surveillance agent with LangGraph and Strands on AgentCore"
+    },
+    {
+      "id": "u_1aad6745",
+      "sentAt": "2026-07-28T17:37:42.571Z",
+      "title": "Perplexity brings its Personal Computer AI agent to Windows"
+    },
+    {
+      "id": "u_82d060f0",
+      "sentAt": "2026-07-28T17:37:42.571Z",
+      "title": "Scientific computing in the age of agentic AI"
+    },
+    {
+      "id": "u_266d28aa",
+      "sentAt": "2026-07-28T17:37:42.571Z",
+      "title": "Scientific computing in the age of agentic AI"
+    },
+    {
+      "id": "u_4c787d44",
+      "sentAt": "2026-07-28T17:37:42.571Z",
+      "title": "Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny"
+    },
     {
       "id": "u_cc23e17b",
       "sentAt": "2026-07-28T14:13:49.068Z",
@@ -4975,31 +5000,6 @@
       "id": "u_abdcb6db",
       "sentAt": "2026-06-30T23:16:33.458Z",
       "title": "Nano Banana 2 Lite"
-    },
-    {
-      "id": "u_ca3fbcef",
-      "sentAt": "2026-06-30T23:16:33.458Z",
-      "title": "Why Long-Horizon AI Agents Are the Next Frontier in Artificial Intelligence - HackerNoon"
-    },
-    {
-      "id": "u_733dd41d",
-      "sentAt": "2026-06-30T23:16:33.458Z",
-      "title": "OpenClaw is finally available on Android and iOS"
-    },
-    {
-      "id": "u_91d54fdf",
-      "sentAt": "2026-06-30T23:16:33.458Z",
-      "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared"
-    },
-    {
-      "id": "u_6ecc3252",
-      "sentAt": "2026-06-30T20:10:58.283Z",
-      "title": "Anthropic launches AI drug discovery program, joining tech giants in betting on healthcare - CNBC"
-    },
-    {
-      "id": "u_8edf23c9",
-      "sentAt": "2026-06-30T20:10:58.283Z",
-      "title": "Cracking the Code of Multimodal Embeddings with SONAR"
     }
   ]
 }
