@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-28T21:11:16.630Z",
+  "updatedAt": "2026-07-28T23:02:38.948Z",
   "entries": [
+    {
+      "id": "u_d23fb7f9",
+      "sentAt": "2026-07-28T23:02:38.948Z",
+      "title": "Discovering cryptographic weaknesses with Claude"
+    },
+    {
+      "id": "u_dbdeb9dc",
+      "sentAt": "2026-07-28T23:02:38.948Z",
+      "title": "uv 0.12.0"
+    },
+    {
+      "id": "u_6e42b8c3",
+      "sentAt": "2026-07-28T23:02:38.948Z",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face"
+    },
+    {
+      "id": "u_42c5ed94",
+      "sentAt": "2026-07-28T23:02:38.948Z",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident"
+    },
+    {
+      "id": "u_d9525fe0",
+      "sentAt": "2026-07-28T23:02:38.948Z",
+      "title": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development'"
+    },
     {
       "id": "u_b59498d9",
       "sentAt": "2026-07-28T21:11:16.630Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ff8177e4",
       "sentAt": "2026-07-01T12:37:15.736Z",
       "title": "Google's AI Surge: Economic Impact and the Road Ahead"
-    },
-    {
-      "id": "u_acd97f9b",
-      "sentAt": "2026-07-01T12:37:15.736Z",
-      "title": "Why AI Agents Are Falling Short of Their Promise"
-    },
-    {
-      "id": "u_a81b68e9",
-      "sentAt": "2026-07-01T12:37:15.736Z",
-      "title": "Anthropic's Fable 5: A Catalyst in U.S. AI Policy Debate"
-    },
-    {
-      "id": "u_36d24194",
-      "sentAt": "2026-07-01T12:37:15.736Z",
-      "title": "Meituan's LongCat-2.0: A Homegrown AI Marvel"
-    },
-    {
-      "id": "u_23e2bac6",
-      "sentAt": "2026-07-01T09:54:32.678Z",
-      "title": "Redefining Skill in AI-Native Classrooms: A New Grading Frontier"
-    },
-    {
-      "id": "u_537468c4",
-      "sentAt": "2026-07-01T09:54:32.678Z",
-      "title": "The Philosophical Oversight of Medical AI: Why Explainability Demands More"
     }
   ]
 }
