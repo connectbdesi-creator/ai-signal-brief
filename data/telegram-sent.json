@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-28T19:36:48.300Z",
+  "updatedAt": "2026-07-28T21:11:16.630Z",
   "entries": [
+    {
+      "id": "u_b59498d9",
+      "sentAt": "2026-07-28T21:11:16.630Z",
+      "title": "Biggest ever MCP update brings metadata, cybersecurity enhancements"
+    },
+    {
+      "id": "u_5ac3f4ae",
+      "sentAt": "2026-07-28T21:11:16.630Z",
+      "title": "How Gemini Flash agents are helping a Michigan dairy farmer"
+    },
+    {
+      "id": "u_ef64ea4",
+      "sentAt": "2026-07-28T21:11:16.630Z",
+      "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team"
+    },
+    {
+      "id": "u_597c8175",
+      "sentAt": "2026-07-28T21:11:16.630Z",
+      "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team"
+    },
+    {
+      "id": "u_3e82e99c",
+      "sentAt": "2026-07-28T21:11:16.630Z",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
+    },
     {
       "id": "u_6ea34024",
       "sentAt": "2026-07-28T19:36:48.300Z",
@@ -4975,31 +5000,6 @@
       "id": "u_537468c4",
       "sentAt": "2026-07-01T09:54:32.678Z",
       "title": "The Philosophical Oversight of Medical AI: Why Explainability Demands More"
-    },
-    {
-      "id": "u_f85b57f",
-      "sentAt": "2026-07-01T09:54:32.678Z",
-      "title": "Rethinking Faithfulness in Text-to-Image Models"
-    },
-    {
-      "id": "u_e4cdcabb",
-      "sentAt": "2026-07-01T09:54:32.678Z",
-      "title": "Unpacking the Adaptive Context Elasticizer: A Powerful Tool for LLMs"
-    },
-    {
-      "id": "u_24b1e036",
-      "sentAt": "2026-07-01T09:54:32.678Z",
-      "title": "GuardFall Flaw Hits 10 of 11 Popular Open-Source AI Agents - Security Affairs"
-    },
-    {
-      "id": "u_8e85178a",
-      "sentAt": "2026-07-01T04:11:47.795Z",
-      "title": "Safely Releasing Frontier Models to Customers"
-    },
-    {
-      "id": "u_fc3cff11",
-      "sentAt": "2026-07-01T04:11:47.795Z",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation"
     }
   ]
 }
