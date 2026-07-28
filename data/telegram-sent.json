@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-28T17:37:42.571Z",
+  "updatedAt": "2026-07-28T19:36:48.300Z",
   "entries": [
+    {
+      "id": "u_6ea34024",
+      "sentAt": "2026-07-28T19:36:48.300Z",
+      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet"
+    },
+    {
+      "id": "u_e637aa5d",
+      "sentAt": "2026-07-28T19:36:48.300Z",
+      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet"
+    },
+    {
+      "id": "u_b7ecc83e",
+      "sentAt": "2026-07-28T19:36:48.300Z",
+      "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec"
+    },
+    {
+      "id": "u_6d3ddbee",
+      "sentAt": "2026-07-28T19:36:48.300Z",
+      "title": "Might need math+code benchmark for frontier model(LLMs Silently Replace Math)[D]"
+    },
+    {
+      "id": "u_e4c0c93f",
+      "sentAt": "2026-07-28T19:36:48.300Z",
+      "title": "Anthropic and Nvidia come out against blanket bans on open-weight AI models"
+    },
     {
       "id": "u_640d0421",
       "sentAt": "2026-07-28T17:37:42.571Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fc3cff11",
       "sentAt": "2026-07-01T04:11:47.795Z",
       "title": "Wayve launches $85M employee tender offer at $8.5B valuation"
-    },
-    {
-      "id": "u_ff6ce905",
-      "sentAt": "2026-07-01T04:11:47.795Z",
-      "title": "Anthropic says Trump administration lifted restrictions on some of its most powerful Claude AI models - CBS News"
-    },
-    {
-      "id": "u_3b62e040",
-      "sentAt": "2026-07-01T04:11:47.795Z",
-      "title": "Anthropic Cuts AI Agent Costs With Claude Sonnet 5 Rollout - PYMNTS.com"
-    },
-    {
-      "id": "u_df1dbb3f",
-      "sentAt": "2026-07-01T04:11:47.795Z",
-      "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return"
-    },
-    {
-      "id": "u_45ace913",
-      "sentAt": "2026-06-30T23:16:33.458Z",
-      "title": "Anthropic's Claude Science: A New Frontier or Just Hype?"
-    },
-    {
-      "id": "u_abdcb6db",
-      "sentAt": "2026-06-30T23:16:33.458Z",
-      "title": "Nano Banana 2 Lite"
     }
   ]
 }
