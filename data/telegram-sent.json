@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-28T02:44:25.671Z",
+  "updatedAt": "2026-07-28T06:29:19.260Z",
   "entries": [
+    {
+      "id": "u_6344a83e",
+      "sentAt": "2026-07-28T06:29:19.260Z",
+      "title": "DP-FedSOFIM: Second-Order Federated Optimization Under Differential Privacy Without Extra Privacy Cost [R]"
+    },
+    {
+      "id": "u_f657ce96",
+      "sentAt": "2026-07-28T06:29:19.260Z",
+      "title": "How LangChain Built an Agent-First Data Stack"
+    },
+    {
+      "id": "u_9dd8b5a5",
+      "sentAt": "2026-07-28T06:29:19.260Z",
+      "title": "Mix local LLMs, Claude Code, Codex, Gemini and more in one SDLC pipeline (open source) [P]"
+    },
+    {
+      "id": "u_7a774e52",
+      "sentAt": "2026-07-28T06:29:19.260Z",
+      "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability"
+    },
+    {
+      "id": "u_b0561449",
+      "sentAt": "2026-07-28T06:29:19.260Z",
+      "title": "LU-500: A Logo Benchmark for Concept Unlearning"
+    },
     {
       "id": "u_fea627ca",
       "sentAt": "2026-07-28T02:44:25.671Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1f8783b5",
       "sentAt": "2026-06-30T14:30:28.258Z",
       "title": "RSEA: A New Direction in AI's Evolutionary Tactics"
-    },
-    {
-      "id": "u_97f8b397",
-      "sentAt": "2026-06-30T14:30:28.258Z",
-      "title": "Guardrails Get a Digital Proof: Ensuring AI Safety with Cryptographic Assurance"
-    },
-    {
-      "id": "u_d9f9733f",
-      "sentAt": "2026-06-30T14:30:28.258Z",
-      "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning"
-    },
-    {
-      "id": "u_dc48e10b",
-      "sentAt": "2026-06-30T14:30:28.258Z",
-      "title": "Context Window Management for Long-Running Agents: Strategies and Tradeoffs"
-    },
-    {
-      "id": "u_a588cb89",
-      "sentAt": "2026-06-30T11:16:58.157Z",
-      "title": "HIPPO Raises the Bar in Reinforcement Learning"
-    },
-    {
-      "id": "u_ca7ab30b",
-      "sentAt": "2026-06-30T11:16:58.157Z",
-      "title": "EntroRouter: Revolutionizing Model Routing with Efficiency"
     }
   ]
 }
