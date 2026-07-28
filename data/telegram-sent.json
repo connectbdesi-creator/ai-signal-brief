@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-27T23:05:28.474Z",
+  "updatedAt": "2026-07-28T02:44:25.671Z",
   "entries": [
+    {
+      "id": "u_fea627ca",
+      "sentAt": "2026-07-28T02:44:25.671Z",
+      "title": "Samsung Launches AI Health Assistant, Indicating A Growing Trend Among Tech Giants"
+    },
+    {
+      "id": "u_e909961",
+      "sentAt": "2026-07-28T02:44:25.671Z",
+      "title": "Why this AI travel company is bringing Sonder back from the dead"
+    },
+    {
+      "id": "u_325b4d01",
+      "sentAt": "2026-07-28T02:44:25.671Z",
+      "title": "Ilya Sutskever’s Safe Superintelligence gets access to Nvidia’s Vera Rubin platform"
+    },
+    {
+      "id": "u_aa28775",
+      "sentAt": "2026-07-28T02:44:25.671Z",
+      "title": "Microsoft touts cost-saving AI model for cybersecurity"
+    },
+    {
+      "id": "u_10fbdb2e",
+      "sentAt": "2026-07-28T02:44:25.671Z",
+      "title": "moonshotai/Kimi-K3"
+    },
     {
       "id": "u_7dc9d210",
       "sentAt": "2026-07-27T23:05:28.474Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ca7ab30b",
       "sentAt": "2026-06-30T11:16:58.157Z",
       "title": "EntroRouter: Revolutionizing Model Routing with Efficiency"
-    },
-    {
-      "id": "u_87299d82",
-      "sentAt": "2026-06-30T11:16:58.157Z",
-      "title": "Breaking: Travel AI Model Outperforms with Knowledge Graphs"
-    },
-    {
-      "id": "u_112a0e4f",
-      "sentAt": "2026-06-30T11:16:58.157Z",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other"
-    },
-    {
-      "id": "u_59f6362c",
-      "sentAt": "2026-06-30T11:16:58.157Z",
-      "title": "Deepseek's DSpark boosts AI speed by up to 85 percent, a strategic win under tightening US export controls"
-    },
-    {
-      "id": "u_4b80b5d5",
-      "sentAt": "2026-06-30T07:57:52.948Z",
-      "title": "CLQT: The New Gold Standard for AI Portfolio Managers"
-    },
-    {
-      "id": "u_4493097d",
-      "sentAt": "2026-06-30T07:57:52.948Z",
-      "title": "Revolutionizing LLM Verification: SEVA Sets a New Benchmark"
     }
   ]
 }
