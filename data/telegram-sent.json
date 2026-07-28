@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-28T10:38:53.867Z",
+  "updatedAt": "2026-07-28T14:13:49.068Z",
   "entries": [
+    {
+      "id": "u_cc23e17b",
+      "sentAt": "2026-07-28T14:13:49.068Z",
+      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises"
+    },
+    {
+      "id": "u_19a11b4c",
+      "sentAt": "2026-07-28T14:13:49.068Z",
+      "title": "Fish Audio makes a splash after raising $52M seed funding for AI voices"
+    },
+    {
+      "id": "u_cfcf94f7",
+      "sentAt": "2026-07-28T14:13:49.068Z",
+      "title": "Tines launches 3B to help enterprises govern AI-built apps and agents"
+    },
+    {
+      "id": "u_74c1a142",
+      "sentAt": "2026-07-28T14:13:49.068Z",
+      "title": "1Password launches Privileged Access to cut standing access for AI agents"
+    },
+    {
+      "id": "u_77f0f528",
+      "sentAt": "2026-07-28T14:13:49.068Z",
+      "title": "Snowflake debuts Cortex AI Gateway to govern and monitor enterprise AI agents"
+    },
     {
       "id": "u_f7ae2fb2",
       "sentAt": "2026-07-28T10:38:53.867Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8edf23c9",
       "sentAt": "2026-06-30T20:10:58.283Z",
       "title": "Cracking the Code of Multimodal Embeddings with SONAR"
-    },
-    {
-      "id": "u_a251da79",
-      "sentAt": "2026-06-30T20:10:58.283Z",
-      "title": "LLMs and Social Surveys: Fine-Tuning for Accurate Simulations"
-    },
-    {
-      "id": "u_707cb59a",
-      "sentAt": "2026-06-30T20:10:58.283Z",
-      "title": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series"
-    },
-    {
-      "id": "u_48ea5fd8",
-      "sentAt": "2026-06-30T20:10:58.283Z",
-      "title": "Introducing Claude Sonnet 5 on AWS: Anthropic’s most capable Sonnet model"
-    },
-    {
-      "id": "u_2fa7304a",
-      "sentAt": "2026-06-30T18:01:21.931Z",
-      "title": "Acti puts AI agents directly into your smartphone keyboard"
-    },
-    {
-      "id": "u_1ddee406",
-      "sentAt": "2026-06-30T18:01:21.931Z",
-      "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half"
     }
   ]
 }
