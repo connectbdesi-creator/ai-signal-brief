@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-29T14:16:43.294Z",
+  "updatedAt": "2026-07-29T17:18:05.800Z",
   "entries": [
+    {
+      "id": "u_1f5169c5",
+      "sentAt": "2026-07-29T17:18:05.800Z",
+      "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents"
+    },
+    {
+      "id": "u_d2fc15b3",
+      "sentAt": "2026-07-29T17:18:05.800Z",
+      "title": "HPE advances its self-driving networking strategy for the AI era"
+    },
+    {
+      "id": "u_1efded07",
+      "sentAt": "2026-07-29T17:18:05.800Z",
+      "title": "Qventive Healthcare Launches AI Advisory to Help Private Practices Separate Useful Artificial Intelligence From the Hype - EIN News"
+    },
+    {
+      "id": "u_b21fefc3",
+      "sentAt": "2026-07-29T17:18:05.800Z",
+      "title": "NIST Launches AI Model Evaluation Program to Benchmark Performance on Blind Test Data - PYMNTS.com"
+    },
+    {
+      "id": "u_d188848d",
+      "sentAt": "2026-07-29T17:18:05.800Z",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls"
+    },
     {
       "id": "u_dec468e5",
       "sentAt": "2026-07-29T14:16:43.294Z",
@@ -4975,31 +5000,6 @@
       "id": "u_434eca8f",
       "sentAt": "2026-07-02T03:52:25.311Z",
       "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds"
-    },
-    {
-      "id": "u_e628d7a1",
-      "sentAt": "2026-07-02T03:52:25.311Z",
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content"
-    },
-    {
-      "id": "u_927ecf6a",
-      "sentAt": "2026-07-02T03:52:25.311Z",
-      "title": "Plurality Released: fully Free and Open Source AI agents/chatbot platform for local AI"
-    },
-    {
-      "id": "u_17bdcb59",
-      "sentAt": "2026-07-02T03:52:25.311Z",
-      "title": "The gap between closed and open models might be much smaller than commonly assumed, because we don’t know what closed model providers do *in addition to* model inference"
-    },
-    {
-      "id": "u_1af1df5c",
-      "sentAt": "2026-07-01T23:18:43.927Z",
-      "title": "Anthropic's Sonnet 5: The Cost-Effective, Task-Mastering AI Model"
-    },
-    {
-      "id": "u_6c1aec4d",
-      "sentAt": "2026-07-01T23:18:43.927Z",
-      "title": "Anker’s Liberty 5 Pro: The Three-Year Gamble On Custom Earbud Silicon"
     }
   ]
 }
