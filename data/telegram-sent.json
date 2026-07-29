@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-29T19:21:05.399Z",
+  "updatedAt": "2026-07-29T20:59:26.170Z",
   "entries": [
+    {
+      "id": "u_c567f44f",
+      "sentAt": "2026-07-29T20:59:26.170Z",
+      "title": "Pangram Labs raises $9M to launch more accurate AI detection for text and images"
+    },
+    {
+      "id": "u_461c1766",
+      "sentAt": "2026-07-29T20:59:26.170Z",
+      "title": "OpenAI launches free AI access program for academic researchers"
+    },
+    {
+      "id": "u_a977463a",
+      "sentAt": "2026-07-29T20:59:26.170Z",
+      "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates"
+    },
+    {
+      "id": "u_d7ffe365",
+      "sentAt": "2026-07-29T20:59:26.170Z",
+      "title": "Ollama vs. LM Studio vs. llama.cpp: Which Local AI Runtime Should You Use in 2026?"
+    },
+    {
+      "id": "u_7550c69d",
+      "sentAt": "2026-07-29T20:59:26.170Z",
+      "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line"
+    },
     {
       "id": "u_200fc5bf",
       "sentAt": "2026-07-29T19:21:05.399Z",
@@ -4975,31 +5000,6 @@
       "id": "u_11fcfc7d",
       "sentAt": "2026-07-02T10:44:34.786Z",
       "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data"
-    },
-    {
-      "id": "u_f42ac24f",
-      "sentAt": "2026-07-02T10:44:34.786Z",
-      "title": "SenseNova-U1-8b-MoT-Infographic-V2 (released yesterday) - An open source SOTA beast for infographic design and image editing."
-    },
-    {
-      "id": "u_cd5f02c9",
-      "sentAt": "2026-07-02T10:44:34.786Z",
-      "title": "NVIDIA Unlocks AI Compute at Scale, Inviting Capital Partners to Power the AI Infrastructure Buildout"
-    },
-    {
-      "id": "u_6c172488",
-      "sentAt": "2026-07-02T10:44:34.786Z",
-      "title": "Together AI Raises $800 Million to Scale Cheaper Open-Source Models - PYMNTS.com"
-    },
-    {
-      "id": "u_a98a9222",
-      "sentAt": "2026-07-02T07:35:53.813Z",
-      "title": "Revolutionizing AI: A New Take on Instruction Hierarchy"
-    },
-    {
-      "id": "u_e0cbf0ca",
-      "sentAt": "2026-07-02T07:35:53.813Z",
-      "title": "rBridge: A big deal for Cost-Effective AI Training"
     }
   ]
 }
