@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-28T23:02:38.948Z",
+  "updatedAt": "2026-07-29T02:51:38.514Z",
   "entries": [
+    {
+      "id": "u_f817bcdd",
+      "sentAt": "2026-07-29T02:51:38.514Z",
+      "title": "Anthropic's Claude Mythos Finds Encryption Flaw Following OpenAI Agents' Containment Breach - International Business Times"
+    },
+    {
+      "id": "u_589c8ce9",
+      "sentAt": "2026-07-29T02:51:38.514Z",
+      "title": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing"
+    },
+    {
+      "id": "u_83eab6fe",
+      "sentAt": "2026-07-29T02:51:38.514Z",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents"
+    },
+    {
+      "id": "u_58ec0a75",
+      "sentAt": "2026-07-29T02:51:38.514Z",
+      "title": "AI researchers call for new tools that can slow automated model development"
+    },
+    {
+      "id": "u_5d06f0c8",
+      "sentAt": "2026-07-29T02:51:38.514Z",
+      "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack"
+    },
     {
       "id": "u_d23fb7f9",
       "sentAt": "2026-07-28T23:02:38.948Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9fdd18fd",
       "sentAt": "2026-07-01T16:31:40.556Z",
       "title": "Portugal launches first open-source AI model, joining Europe's sovereignty push - Reuters"
-    },
-    {
-      "id": "u_5dfc7079",
-      "sentAt": "2026-07-01T16:31:40.556Z",
-      "title": "How to Use RLMs in Deep Agents"
-    },
-    {
-      "id": "u_1f392397",
-      "sentAt": "2026-07-01T16:31:40.556Z",
-      "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants"
-    },
-    {
-      "id": "u_6d6030d",
-      "sentAt": "2026-07-01T16:31:40.556Z",
-      "title": "Meta Dives into Cloud. Aims to Compete with Tech Giants"
-    },
-    {
-      "id": "u_eecdae2a",
-      "sentAt": "2026-07-01T12:37:15.736Z",
-      "title": "AI's Open Door: Opportunity Meets Misalignment"
-    },
-    {
-      "id": "u_ff8177e4",
-      "sentAt": "2026-07-01T12:37:15.736Z",
-      "title": "Google's AI Surge: Economic Impact and the Road Ahead"
     }
   ]
 }
