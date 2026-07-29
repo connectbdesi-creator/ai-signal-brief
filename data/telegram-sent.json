@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-29T02:51:38.514Z",
+  "updatedAt": "2026-07-29T06:34:17.083Z",
   "entries": [
+    {
+      "id": "u_a22dc30d",
+      "sentAt": "2026-07-29T06:34:17.083Z",
+      "title": "The day an AI model launched an attack without being instructed to - Escudo Digital"
+    },
+    {
+      "id": "u_828cce41",
+      "sentAt": "2026-07-29T06:34:17.083Z",
+      "title": "Localized Adaptation Reveals Distinct Learning Signatures in Transformers"
+    },
+    {
+      "id": "u_32b2ff2e",
+      "sentAt": "2026-07-29T06:34:17.083Z",
+      "title": "SpecPrefetch: Parameter-Efficient Expert Prefetching for Sparse MoE Foundation Models"
+    },
+    {
+      "id": "u_1f72e15",
+      "sentAt": "2026-07-29T06:34:17.083Z",
+      "title": "Retrieval-Augmented Generation in LLMs for Mental Health: Quantifying the Incremental Contribution of Retrieval Within a Layered Safety Architecture"
+    },
+    {
+      "id": "u_710761be",
+      "sentAt": "2026-07-29T06:34:17.083Z",
+      "title": "Forensic Reproducibility Audit of a Radiology Vision-Language Model Benchmark: From Intended Protocol to Released Artifact"
+    },
     {
       "id": "u_f817bcdd",
       "sentAt": "2026-07-29T02:51:38.514Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cae2f37a",
       "sentAt": "2026-07-01T20:00:40.726Z",
       "title": "Google's June 2026 AI Update: The Tech Giant's Latest Moves"
-    },
-    {
-      "id": "u_e0aaa17c",
-      "sentAt": "2026-07-01T20:00:40.726Z",
-      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)"
-    },
-    {
-      "id": "u_5b6b70fd",
-      "sentAt": "2026-07-01T20:00:40.726Z",
-      "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US) - Amazon Web Services (AWS)"
-    },
-    {
-      "id": "u_332ff8b6",
-      "sentAt": "2026-07-01T20:00:40.726Z",
-      "title": "Building a serverless A2A gateway for agent discovery, routing, and access control"
-    },
-    {
-      "id": "u_ae6d6ce2",
-      "sentAt": "2026-07-01T16:31:40.556Z",
-      "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers"
-    },
-    {
-      "id": "u_9fdd18fd",
-      "sentAt": "2026-07-01T16:31:40.556Z",
-      "title": "Portugal launches first open-source AI model, joining Europe's sovereignty push - Reuters"
     }
   ]
 }
