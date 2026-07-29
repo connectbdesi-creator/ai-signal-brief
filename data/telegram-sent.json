@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-29T17:18:05.800Z",
+  "updatedAt": "2026-07-29T19:21:05.399Z",
   "entries": [
+    {
+      "id": "u_200fc5bf",
+      "sentAt": "2026-07-29T19:21:05.399Z",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine"
+    },
+    {
+      "id": "u_189b7e0a",
+      "sentAt": "2026-07-29T19:21:05.399Z",
+      "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over"
+    },
+    {
+      "id": "u_de394205",
+      "sentAt": "2026-07-29T19:21:05.399Z",
+      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models"
+    },
+    {
+      "id": "u_9263d798",
+      "sentAt": "2026-07-29T19:21:05.399Z",
+      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models"
+    },
+    {
+      "id": "u_b3e678ca",
+      "sentAt": "2026-07-29T19:21:05.399Z",
+      "title": "Sam Altman previews new AI model on Capitol Hill after cyber breach - Politico"
+    },
     {
       "id": "u_1f5169c5",
       "sentAt": "2026-07-29T17:18:05.800Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e0cbf0ca",
       "sentAt": "2026-07-02T07:35:53.813Z",
       "title": "rBridge: A big deal for Cost-Effective AI Training"
-    },
-    {
-      "id": "u_9864d9b1",
-      "sentAt": "2026-07-02T07:35:53.813Z",
-      "title": "AI Labor Markets: The Future of Gig Economy Dynamics"
-    },
-    {
-      "id": "u_c2818acb",
-      "sentAt": "2026-07-02T07:35:53.813Z",
-      "title": "ManimAgent: The AI That Remembers to Learn"
-    },
-    {
-      "id": "u_7552d10d",
-      "sentAt": "2026-07-02T07:35:53.813Z",
-      "title": "SentryCode: Real-time Auditor + Honeytokens for AI Coding Agents [P]"
-    },
-    {
-      "id": "u_875cac81",
-      "sentAt": "2026-07-02T03:52:25.311Z",
-      "title": "The Real Cost of Deploying OpenClaw: More Than Just Model Weights"
-    },
-    {
-      "id": "u_434eca8f",
-      "sentAt": "2026-07-02T03:52:25.311Z",
-      "title": "How Inscribe uses Amazon Bedrock to stop document fraud in seconds"
     }
   ]
 }
