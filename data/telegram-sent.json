@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-29T10:42:03.463Z",
+  "updatedAt": "2026-07-29T14:16:43.294Z",
   "entries": [
+    {
+      "id": "u_dec468e5",
+      "sentAt": "2026-07-29T14:16:43.294Z",
+      "title": "UK Opens Formal Probe Into Microsoft Copilot 365 Price Hikes as Three Countries Investigate in Parallel"
+    },
+    {
+      "id": "u_86f74a5a",
+      "sentAt": "2026-07-29T14:16:43.294Z",
+      "title": "OpenAI's Rogue Agent Didn't Stop at Hugging Face. It Breached a Second Company in a Week-Long Spree."
+    },
+    {
+      "id": "u_d42e3db7",
+      "sentAt": "2026-07-29T14:16:43.294Z",
+      "title": "Sweet Security debuts Agentic AI Blocking to stop rogue agents in real time"
+    },
+    {
+      "id": "u_762833b3",
+      "sentAt": "2026-07-29T14:16:43.294Z",
+      "title": "Nimble launches Web Search Agents to cut AI research token costs"
+    },
+    {
+      "id": "u_9563d6db",
+      "sentAt": "2026-07-29T14:16:43.294Z",
+      "title": "SnapLogic transforms SnapGPT into a high-powered agentic assistant for the entire integration lifecycle"
+    },
     {
       "id": "u_ff98c9ad",
       "sentAt": "2026-07-29T10:42:03.463Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6c1aec4d",
       "sentAt": "2026-07-01T23:18:43.927Z",
       "title": "Anker’s Liberty 5 Pro: The Three-Year Gamble On Custom Earbud Silicon"
-    },
-    {
-      "id": "u_3256cae1",
-      "sentAt": "2026-07-01T23:18:43.927Z",
-      "title": "Using Lift to Turn Research PDFs into Structured JSON with Controlled, Schema-Guided Field-Level Evaluation"
-    },
-    {
-      "id": "u_8d88e9a9",
-      "sentAt": "2026-07-01T23:18:43.927Z",
-      "title": "OpenWiki: Open Source Repo Documentation for Coding Agents"
-    },
-    {
-      "id": "u_8651a3d",
-      "sentAt": "2026-07-01T23:18:43.927Z",
-      "title": "The future is now: College of Computing & Artificial Intelligence officially launches - UW–Madison News"
-    },
-    {
-      "id": "u_275ba3d3",
-      "sentAt": "2026-07-01T21:44:00.987Z",
-      "title": "Anthropic's Covert Codes: A Curious Case of Steganography in AI Defense"
-    },
-    {
-      "id": "u_b315e988",
-      "sentAt": "2026-07-01T21:44:00.987Z",
-      "title": "Anthropic Redeploys Claude Fable 5 on July 1 After US Export Controls Lift, Adds New Cybersecurity Classifier"
     }
   ]
 }
