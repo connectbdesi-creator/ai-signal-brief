@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-30T17:38:17.874Z",
+  "updatedAt": "2026-07-30T19:36:49.881Z",
   "entries": [
+    {
+      "id": "u_7850f31c",
+      "sentAt": "2026-07-30T19:36:49.881Z",
+      "title": "ChatGPT maker OpenAI has revealed that an autonomous artificial intelligence agent which hacked a popular platform for computer programmers also attempted to breach four other companies during the incident. | via ANC 24/7 Link to full story in the comme - facebook.com"
+    },
+    {
+      "id": "u_27ab1a3a",
+      "sentAt": "2026-07-30T19:36:49.881Z",
+      "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model"
+    },
+    {
+      "id": "u_4a5f925b",
+      "sentAt": "2026-07-30T19:36:49.881Z",
+      "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model"
+    },
+    {
+      "id": "u_a23b840e",
+      "sentAt": "2026-07-30T19:36:49.881Z",
+      "title": "LinkedIn actually adds a ‘seems like AI slop’ button"
+    },
+    {
+      "id": "u_2ca422d3",
+      "sentAt": "2026-07-30T19:36:49.881Z",
+      "title": "Bessent sets stage for Xi visit in high-level China talk"
+    },
     {
       "id": "u_370bb59f",
       "sentAt": "2026-07-30T17:38:17.874Z",
@@ -4975,31 +5000,6 @@
       "id": "u_baef9e23",
       "sentAt": "2026-07-04T10:13:49.010Z",
       "title": "Anthropic vs Opensourced model"
-    },
-    {
-      "id": "u_5a8545fa",
-      "sentAt": "2026-07-04T10:13:49.010Z",
-      "title": "Do you agree with Palantir CEO Alex Karp that the enterprise \"tokenmaxxing\" business model has \"gone completely wrong\" with minimal ROI? Will open-weight models inevitably win?"
-    },
-    {
-      "id": "u_f57deea6",
-      "sentAt": "2026-07-04T03:26:46.978Z",
-      "title": "University of Phoenix Launches Three New Artificial Intelligence Professional Development Pathways - AOL.com"
-    },
-    {
-      "id": "u_18c98181",
-      "sentAt": "2026-07-04T03:26:46.978Z",
-      "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]"
-    },
-    {
-      "id": "u_4d1aee3f",
-      "sentAt": "2026-07-03T23:07:33.215Z",
-      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems"
-    },
-    {
-      "id": "u_6c11b95e",
-      "sentAt": "2026-07-03T23:07:33.215Z",
-      "title": "Open Source AI Gap Map"
     }
   ]
 }
