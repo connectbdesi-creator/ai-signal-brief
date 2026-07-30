@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-30T06:31:17.057Z",
+  "updatedAt": "2026-07-30T10:27:45.179Z",
   "entries": [
+    {
+      "id": "u_2060143f",
+      "sentAt": "2026-07-30T10:27:45.179Z",
+      "title": "Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models"
+    },
+    {
+      "id": "u_cfb62791",
+      "sentAt": "2026-07-30T10:27:45.179Z",
+      "title": "AI Scammers Are Better at Building Trust Than Humans"
+    },
+    {
+      "id": "u_37bf4d05",
+      "sentAt": "2026-07-30T10:27:45.179Z",
+      "title": "AI Scammers Are Better at Building Trust Than Humans"
+    },
+    {
+      "id": "u_c4481217",
+      "sentAt": "2026-07-30T10:27:45.179Z",
+      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings"
+    },
+    {
+      "id": "u_a2d18505",
+      "sentAt": "2026-07-30T10:27:45.179Z",
+      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings"
+    },
     {
       "id": "u_cf2cbf6a",
       "sentAt": "2026-07-30T06:31:17.057Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c58c0f2e",
       "sentAt": "2026-07-03T17:35:50.830Z",
       "title": "AI Agents Explained: What Is a ReAct Loop and How Does It Work?"
-    },
-    {
-      "id": "u_28e88b53",
-      "sentAt": "2026-07-03T17:35:50.830Z",
-      "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do"
-    },
-    {
-      "id": "u_104a85d3",
-      "sentAt": "2026-07-03T17:35:50.830Z",
-      "title": "June 2026 newsletter"
-    },
-    {
-      "id": "u_cc6d1a0c",
-      "sentAt": "2026-07-03T17:35:50.830Z",
-      "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public"
-    },
-    {
-      "id": "u_c3def5d9",
-      "sentAt": "2026-07-03T14:13:04.763Z",
-      "title": "Micro-World - Action-controlled Interactive world model - AMD"
-    },
-    {
-      "id": "u_abe5ef8c",
-      "sentAt": "2026-07-03T14:13:04.763Z",
-      "title": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler"
     }
   ]
 }
