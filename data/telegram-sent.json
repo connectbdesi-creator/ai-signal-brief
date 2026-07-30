@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-30T14:08:48.854Z",
+  "updatedAt": "2026-07-30T17:38:17.874Z",
   "entries": [
+    {
+      "id": "u_370bb59f",
+      "sentAt": "2026-07-30T17:38:17.874Z",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body"
+    },
+    {
+      "id": "u_bd88b727",
+      "sentAt": "2026-07-30T17:38:17.874Z",
+      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs - CNBC"
+    },
+    {
+      "id": "u_fee4c7b5",
+      "sentAt": "2026-07-30T17:38:17.874Z",
+      "title": "How Kimi K3 Engineered Its Way to the Frontier [R]"
+    },
+    {
+      "id": "u_11a4307b",
+      "sentAt": "2026-07-30T17:38:17.874Z",
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price"
+    },
+    {
+      "id": "u_6af13a49",
+      "sentAt": "2026-07-30T17:38:17.874Z",
+      "title": "Going Rogue: How an OpenAI “Agent” Escaped, Accessed the Web, and Launched a Cyberattack on a Machine Learning Company - The Debrief"
+    },
     {
       "id": "u_d079fb7b",
       "sentAt": "2026-07-30T14:08:48.854Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6c11b95e",
       "sentAt": "2026-07-03T23:07:33.215Z",
       "title": "Open Source AI Gap Map"
-    },
-    {
-      "id": "u_4765cbe9",
-      "sentAt": "2026-07-03T23:07:33.215Z",
-      "title": "Quoting Josh W. Comeau"
-    },
-    {
-      "id": "u_c92b0218",
-      "sentAt": "2026-07-03T23:07:33.215Z",
-      "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox"
-    },
-    {
-      "id": "u_9bda1f13",
-      "sentAt": "2026-07-03T23:07:33.215Z",
-      "title": "GPT-5.6 launches, but OpenAI is taking it slow - IBM"
-    },
-    {
-      "id": "u_a739f2a6",
-      "sentAt": "2026-07-03T21:10:52.966Z",
-      "title": "The list of jobs most at risk from artificial intelligence is surprising, as it doesn't start with industrial robots, but rather with translators, writers, historians, call center agents, consultants, and other professionals who make their living through language - OkDiario"
-    },
-    {
-      "id": "u_9cb48eaa",
-      "sentAt": "2026-07-03T21:10:52.966Z",
-      "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents"
     }
   ]
 }
