@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-30T19:36:49.881Z",
+  "updatedAt": "2026-07-30T21:13:22.173Z",
   "entries": [
+    {
+      "id": "u_ca050575",
+      "sentAt": "2026-07-30T21:13:22.173Z",
+      "title": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency"
+    },
+    {
+      "id": "u_2ce704ad",
+      "sentAt": "2026-07-30T21:13:22.173Z",
+      "title": "What to expect during Black Hat USA: Join theCUBE Aug. 5-6"
+    },
+    {
+      "id": "u_f89b1d82",
+      "sentAt": "2026-07-30T21:13:22.173Z",
+      "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026"
+    },
+    {
+      "id": "u_3bad311f",
+      "sentAt": "2026-07-30T21:13:22.173Z",
+      "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - reuters.com"
+    },
+    {
+      "id": "u_eaeb1d53",
+      "sentAt": "2026-07-30T21:13:22.173Z",
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’"
+    },
     {
       "id": "u_7850f31c",
       "sentAt": "2026-07-30T19:36:49.881Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d169055f",
       "sentAt": "2026-07-04T17:09:28.808Z",
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor"
-    },
-    {
-      "id": "u_9a44cfa2",
-      "sentAt": "2026-07-04T13:40:01.488Z",
-      "title": "UN Artificial Intelligence Panel Launches Report - Havana Times"
-    },
-    {
-      "id": "u_86843e51",
-      "sentAt": "2026-07-04T10:13:49.010Z",
-      "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore"
-    },
-    {
-      "id": "u_efa7e731",
-      "sentAt": "2026-07-04T10:13:49.010Z",
-      "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable"
-    },
-    {
-      "id": "u_d8b31b25",
-      "sentAt": "2026-07-04T10:13:49.010Z",
-      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code"
-    },
-    {
-      "id": "u_baef9e23",
-      "sentAt": "2026-07-04T10:13:49.010Z",
-      "title": "Anthropic vs Opensourced model"
     }
   ]
 }
