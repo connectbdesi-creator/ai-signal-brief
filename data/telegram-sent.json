@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-30T02:36:10.485Z",
+  "updatedAt": "2026-07-30T06:31:17.057Z",
   "entries": [
+    {
+      "id": "u_cf2cbf6a",
+      "sentAt": "2026-07-30T06:31:17.057Z",
+      "title": "Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training"
+    },
+    {
+      "id": "u_b8a459e2",
+      "sentAt": "2026-07-30T06:31:17.057Z",
+      "title": "Alexandr Wang says startups supercharged by AI can now pick 'Goliath versus Goliath' fights"
+    },
+    {
+      "id": "u_64afb362",
+      "sentAt": "2026-07-30T06:31:17.057Z",
+      "title": "Choosing Where and How to Moderate: End-to-End Trade-offs in Filter Placement and Response Rewriting"
+    },
+    {
+      "id": "u_3fb25e01",
+      "sentAt": "2026-07-30T06:31:17.057Z",
+      "title": "When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses"
+    },
+    {
+      "id": "u_e67a447c",
+      "sentAt": "2026-07-30T06:31:17.057Z",
+      "title": "Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification"
+    },
     {
       "id": "u_736753e6",
       "sentAt": "2026-07-30T02:36:10.485Z",
@@ -4975,31 +5000,6 @@
       "id": "u_abe5ef8c",
       "sentAt": "2026-07-03T14:13:04.763Z",
       "title": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler"
-    },
-    {
-      "id": "u_5e3787c7",
-      "sentAt": "2026-07-03T14:13:04.763Z",
-      "title": "My DeepSeek V4 Pro at home got faster again"
-    },
-    {
-      "id": "u_af67d5c7",
-      "sentAt": "2026-07-03T14:13:04.763Z",
-      "title": "GLM5.2 on 5x Pro 6000s and a 5090, an expensive journey"
-    },
-    {
-      "id": "u_63830467",
-      "sentAt": "2026-07-03T14:13:04.763Z",
-      "title": "Surface Evolver Bench: my benchmark asking LLMs to write complex physical simulations in a custom data format"
-    },
-    {
-      "id": "u_9ba6fdfa",
-      "sentAt": "2026-07-02T18:01:32.324Z",
-      "title": "AI Agents: The Real Test is in the Unexpected"
-    },
-    {
-      "id": "u_d84fa5d5",
-      "sentAt": "2026-07-02T18:01:32.324Z",
-      "title": "Understand to participate"
     }
   ]
 }
