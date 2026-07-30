@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-29T23:00:48.952Z",
+  "updatedAt": "2026-07-30T02:36:10.485Z",
   "entries": [
+    {
+      "id": "u_736753e6",
+      "sentAt": "2026-07-30T02:36:10.485Z",
+      "title": "OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists"
+    },
+    {
+      "id": "u_679759b",
+      "sentAt": "2026-07-30T02:36:10.485Z",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years"
+    },
+    {
+      "id": "u_8be6ac32",
+      "sentAt": "2026-07-30T02:36:10.485Z",
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents"
+    },
+    {
+      "id": "u_55e723f",
+      "sentAt": "2026-07-30T02:36:10.485Z",
+      "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’"
+    },
+    {
+      "id": "u_dde8834b",
+      "sentAt": "2026-07-30T02:36:10.485Z",
+      "title": "Martha Stewart-Founded Hint Launches AI-Powered Homeownership App - PYMNTS.com"
+    },
     {
       "id": "u_1319cc24",
       "sentAt": "2026-07-29T23:00:48.952Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d84fa5d5",
       "sentAt": "2026-07-02T18:01:32.324Z",
       "title": "Understand to participate"
-    },
-    {
-      "id": "u_a41746af",
-      "sentAt": "2026-07-02T18:01:32.324Z",
-      "title": "Meta Unveils Pocket: A New Era of Interactive Social Media"
-    },
-    {
-      "id": "u_e96e2288",
-      "sentAt": "2026-07-02T18:01:32.324Z",
-      "title": "Software developers appreciation post"
-    },
-    {
-      "id": "u_c574b389",
-      "sentAt": "2026-07-02T18:01:32.324Z",
-      "title": "4 Science-Led Approaches To Accelerate Enterprise AI"
-    },
-    {
-      "id": "u_d06687b9",
-      "sentAt": "2026-07-02T14:11:36.395Z",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment"
-    },
-    {
-      "id": "u_6c212674",
-      "sentAt": "2026-07-02T14:11:36.395Z",
-      "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business"
     }
   ]
 }
