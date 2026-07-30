@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-30T10:27:45.179Z",
+  "updatedAt": "2026-07-30T14:08:48.854Z",
   "entries": [
+    {
+      "id": "u_d079fb7b",
+      "sentAt": "2026-07-30T14:08:48.854Z",
+      "title": "Exclusive: Upwind adds context scanning for AI agents as AI DR hits general availability"
+    },
+    {
+      "id": "u_da7b7826",
+      "sentAt": "2026-07-30T14:08:48.854Z",
+      "title": "DataBahn raises $40M as AI agents queue up for enterprise telemetry"
+    },
+    {
+      "id": "u_80cf3378",
+      "sentAt": "2026-07-30T14:08:48.854Z",
+      "title": "Stellarus launches AI-powered health plan customer service representative copilot - Fierce Healthcare"
+    },
+    {
+      "id": "u_8a6f31ea",
+      "sentAt": "2026-07-30T14:08:48.854Z",
+      "title": "Inside a cyberattack launched by a rogue AI agent that escaped containment - washingtonpost.com"
+    },
+    {
+      "id": "u_985f86d",
+      "sentAt": "2026-07-30T14:08:48.854Z",
+      "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier"
+    },
     {
       "id": "u_2060143f",
       "sentAt": "2026-07-30T10:27:45.179Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9cb48eaa",
       "sentAt": "2026-07-03T21:10:52.966Z",
       "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents"
-    },
-    {
-      "id": "u_26b2ef56",
-      "sentAt": "2026-07-03T21:10:52.966Z",
-      "title": "Fable's judgement"
-    },
-    {
-      "id": "u_76d0b002",
-      "sentAt": "2026-07-03T21:10:52.966Z",
-      "title": "Meta's AI agent push is moving slower than Zuckerberg planned"
-    },
-    {
-      "id": "u_5bbca5ae",
-      "sentAt": "2026-07-03T21:10:52.966Z",
-      "title": "Pentagon Launches ‘War Force’ to Recruit Frontier AI Talent - The Defense Post"
-    },
-    {
-      "id": "u_7524fcc5",
-      "sentAt": "2026-07-03T17:35:50.830Z",
-      "title": "Security vulnerability reports have exploded since AI models started hunting for bugs"
-    },
-    {
-      "id": "u_c58c0f2e",
-      "sentAt": "2026-07-03T17:35:50.830Z",
-      "title": "AI Agents Explained: What Is a ReAct Loop and How Does It Work?"
     }
   ]
 }
