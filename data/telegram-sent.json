@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-30T21:13:22.173Z",
+  "updatedAt": "2026-07-30T23:10:40.562Z",
   "entries": [
+    {
+      "id": "u_781a321f",
+      "sentAt": "2026-07-30T23:10:40.562Z",
+      "title": "Okta to acquire Permiso Security in reported $200M identity security deal"
+    },
+    {
+      "id": "u_27736530",
+      "sentAt": "2026-07-30T23:10:40.562Z",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users"
+    },
+    {
+      "id": "u_6b2e7288",
+      "sentAt": "2026-07-30T23:10:40.562Z",
+      "title": "Tim Cook says Apple may charge for AI Siri"
+    },
+    {
+      "id": "u_ba5208ac",
+      "sentAt": "2026-07-30T23:10:40.562Z",
+      "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - Reuters"
+    },
+    {
+      "id": "u_78ec60d9",
+      "sentAt": "2026-07-30T23:10:40.562Z",
+      "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off - TradingView"
+    },
     {
       "id": "u_ca050575",
       "sentAt": "2026-07-30T21:13:22.173Z",
@@ -4975,31 +5000,6 @@
       "id": "u_902e4880",
       "sentAt": "2026-07-04T23:00:11.430Z",
       "title": "Better Models: Worse Tools"
-    },
-    {
-      "id": "u_4a5df11e",
-      "sentAt": "2026-07-04T23:00:11.430Z",
-      "title": "If your GPU can run inference, it should be able to fine-tune too. [P]"
-    },
-    {
-      "id": "u_56dc45f1",
-      "sentAt": "2026-07-04T19:18:37.554Z",
-      "title": "We'll benchmark an Open weights LLM on any GPU you choose — drop your model + hardware and we'll run it. [D]"
-    },
-    {
-      "id": "u_12e67fa9",
-      "sentAt": "2026-07-04T19:18:37.554Z",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage"
-    },
-    {
-      "id": "u_5da811f7",
-      "sentAt": "2026-07-04T17:09:28.808Z",
-      "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines"
-    },
-    {
-      "id": "u_d169055f",
-      "sentAt": "2026-07-04T17:09:28.808Z",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor"
     }
   ]
 }
