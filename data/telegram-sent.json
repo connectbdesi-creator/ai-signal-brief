@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-31T10:42:31.767Z",
+  "updatedAt": "2026-07-31T14:13:20.007Z",
   "entries": [
+    {
+      "id": "u_e2568e64",
+      "sentAt": "2026-07-31T14:13:20.007Z",
+      "title": "Building Voice-Controlled AI Agents"
+    },
+    {
+      "id": "u_c75f7c3d",
+      "sentAt": "2026-07-31T14:13:20.007Z",
+      "title": "From Tools To Governed Intelligence: Enterprise AI’s Platform Moment"
+    },
+    {
+      "id": "u_acc14c72",
+      "sentAt": "2026-07-31T14:13:20.007Z",
+      "title": "How to Debug AI Coding Agents When They Change the Wrong Thing"
+    },
+    {
+      "id": "u_518eceb5",
+      "sentAt": "2026-07-31T14:13:20.007Z",
+      "title": "GM to launch its own in-vehicle AI system later this year - CNBC"
+    },
+    {
+      "id": "u_84141640",
+      "sentAt": "2026-07-31T14:13:20.007Z",
+      "title": "Chinese Military Distilled GPT-3.5 and Claude to Build Defense AI — 80 Papers Show Systematic Effort"
+    },
     {
       "id": "u_267b06b7",
       "sentAt": "2026-07-31T10:42:31.767Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3f28ac2d",
       "sentAt": "2026-07-05T21:05:03.877Z",
       "title": "Open-sourced an RL model to give LLM the sales strategies"
-    },
-    {
-      "id": "u_e024e7b",
-      "sentAt": "2026-07-05T21:05:03.877Z",
-      "title": "Qualcomm launches GenieX to run LLMs on their Windows Laptops"
-    },
-    {
-      "id": "u_788405ae",
-      "sentAt": "2026-07-05T21:05:03.877Z",
-      "title": "Is the current Open Weight LLM model viable in the long term?"
-    },
-    {
-      "id": "u_eaad2d11",
-      "sentAt": "2026-07-05T21:05:03.877Z",
-      "title": "eval-harness: A solution for generating personal evaluations that I have put together to evaluate agentic-cli harnesses"
-    },
-    {
-      "id": "u_f992736c",
-      "sentAt": "2026-07-05T21:05:03.877Z",
-      "title": "[RELEASE] Supra-Router-51M - a tiny prompt routing model/orchestrator"
-    },
-    {
-      "id": "u_50165a98",
-      "sentAt": "2026-07-05T19:22:35.412Z",
-      "title": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one — Qwen3.5-4B, open weights [P]"
     }
   ]
 }
