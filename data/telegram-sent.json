@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-31T06:46:47.246Z",
+  "updatedAt": "2026-07-31T10:42:31.767Z",
   "entries": [
+    {
+      "id": "u_267b06b7",
+      "sentAt": "2026-07-31T10:42:31.767Z",
+      "title": "Advancing responsible AI across Europe"
+    },
+    {
+      "id": "u_70304963",
+      "sentAt": "2026-07-31T10:42:31.767Z",
+      "title": "Telnyx CEO Says AI Agents Are “First-Class Economic Actors,” Now Buying Its Services - thestreet.com"
+    },
+    {
+      "id": "u_b44faf73",
+      "sentAt": "2026-07-31T10:42:31.767Z",
+      "title": "Publishers are losing Google traffic as AI answers replace links"
+    },
+    {
+      "id": "u_d4c62d69",
+      "sentAt": "2026-07-31T10:42:31.767Z",
+      "title": "DeepSeek releases beta version of V4 models as AI price war heats up - Nikkei Asia"
+    },
+    {
+      "id": "u_90d5600d",
+      "sentAt": "2026-07-31T10:42:31.767Z",
+      "title": "Inside Europe's lessons on AI safety as U.S. rules loom"
+    },
     {
       "id": "u_81c57813",
       "sentAt": "2026-07-31T06:46:47.246Z",
@@ -4975,31 +5000,6 @@
       "id": "u_50165a98",
       "sentAt": "2026-07-05T19:22:35.412Z",
       "title": "Competence Gate: gating tool-use on a small model's internal confidence signal instead of its verbalised one — Qwen3.5-4B, open weights [P]"
-    },
-    {
-      "id": "u_89e24a87",
-      "sentAt": "2026-07-05T17:15:06.947Z",
-      "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting"
-    },
-    {
-      "id": "u_9b7f1ec7",
-      "sentAt": "2026-07-05T17:15:06.947Z",
-      "title": "Qwen 3.6 27B - VLLM Performance Benchmark Results (BF16, FP8, NVFP4)"
-    },
-    {
-      "id": "u_dd109be5",
-      "sentAt": "2026-07-05T17:15:06.947Z",
-      "title": "Any word on Qwen 3.7 9B? (Also looking for 9B-class alternatives to Qwen 3.5)"
-    },
-    {
-      "id": "u_77be75d1",
-      "sentAt": "2026-07-05T17:15:06.947Z",
-      "title": "[Paper] Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
-    },
-    {
-      "id": "u_993096ab",
-      "sentAt": "2026-07-05T17:15:06.947Z",
-      "title": "I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads"
     }
   ]
 }
