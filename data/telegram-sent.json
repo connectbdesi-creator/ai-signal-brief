@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-31T17:41:51.978Z",
+  "updatedAt": "2026-07-31T19:37:57.595Z",
   "entries": [
+    {
+      "id": "u_f7132a84",
+      "sentAt": "2026-07-31T19:37:57.595Z",
+      "title": "AI & Tech Brief: Anthropic’s rogue agents - The Washington Post"
+    },
+    {
+      "id": "u_495abd92",
+      "sentAt": "2026-07-31T19:37:57.595Z",
+      "title": "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!"
+    },
+    {
+      "id": "u_34f4ecf8",
+      "sentAt": "2026-07-31T19:37:57.595Z",
+      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids"
+    },
+    {
+      "id": "u_2af1ba9c",
+      "sentAt": "2026-07-31T19:37:57.595Z",
+      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids"
+    },
+    {
+      "id": "u_d4234a06",
+      "sentAt": "2026-07-31T19:37:57.595Z",
+      "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small"
+    },
     {
       "id": "u_63f4ea88",
       "sentAt": "2026-07-31T17:41:51.978Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3e8a427d",
       "sentAt": "2026-07-06T13:50:04.449Z",
       "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups"
-    },
-    {
-      "id": "u_fabd0083",
-      "sentAt": "2026-07-06T13:50:04.449Z",
-      "title": "5 Ways Small Language Models Are Powering Next-Gen Agents"
-    },
-    {
-      "id": "u_8eb81449",
-      "sentAt": "2026-07-06T13:50:04.449Z",
-      "title": "The Complete Guide to Tool Selection in AI Agents"
-    },
-    {
-      "id": "u_da436f01",
-      "sentAt": "2026-07-06T08:24:27.106Z",
-      "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes"
-    },
-    {
-      "id": "u_5eeaa888",
-      "sentAt": "2026-07-06T08:24:27.106Z",
-      "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research"
-    },
-    {
-      "id": "u_a3dc1d7",
-      "sentAt": "2026-07-06T08:24:27.106Z",
-      "title": "Does anyone have a name for that subtle \"Sameness\" creeping into model outputs lately? [R]"
     }
   ]
 }
