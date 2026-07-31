@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-31T03:17:43.312Z",
+  "updatedAt": "2026-07-31T06:46:47.246Z",
   "entries": [
+    {
+      "id": "u_81c57813",
+      "sentAt": "2026-07-31T06:46:47.246Z",
+      "title": "PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response"
+    },
+    {
+      "id": "u_d858ef98",
+      "sentAt": "2026-07-31T06:46:47.246Z",
+      "title": "Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups"
+    },
+    {
+      "id": "u_d89a9bb8",
+      "sentAt": "2026-07-31T06:46:47.246Z",
+      "title": "Same Facts, Different Diagnosis: Measuring and Mitigating Narrative Anchoring in Clinical Language Models"
+    },
+    {
+      "id": "u_ad99df3c",
+      "sentAt": "2026-07-31T06:46:47.246Z",
+      "title": "BridgeAlign: Bridging Preference Alignment for Humanities and Social Sciences"
+    },
+    {
+      "id": "u_e661732e",
+      "sentAt": "2026-07-31T06:46:47.246Z",
+      "title": "HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs"
+    },
     {
       "id": "u_34621e13",
       "sentAt": "2026-07-31T03:17:43.312Z",
@@ -4975,31 +5000,6 @@
       "id": "u_993096ab",
       "sentAt": "2026-07-05T17:15:06.947Z",
       "title": "I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads"
-    },
-    {
-      "id": "u_19f02204",
-      "sentAt": "2026-07-05T13:46:45.500Z",
-      "title": "Are we human? Why ByteDance and Alibaba are disabling AI agents in China - South China Morning Post"
-    },
-    {
-      "id": "u_3cc29c81",
-      "sentAt": "2026-07-05T13:46:45.500Z",
-      "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes"
-    },
-    {
-      "id": "u_372dd228",
-      "sentAt": "2026-07-05T10:18:19.351Z",
-      "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous"
-    },
-    {
-      "id": "u_94dfe6f2",
-      "sentAt": "2026-07-05T10:18:19.351Z",
-      "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools"
-    },
-    {
-      "id": "u_6d991009",
-      "sentAt": "2026-07-05T10:18:19.351Z",
-      "title": "As companies operating artificial intelligence (AI) agents suffer from the burden of fees under the - 매일경제"
     }
   ]
 }
