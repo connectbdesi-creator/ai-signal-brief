@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-31T14:13:20.007Z",
+  "updatedAt": "2026-07-31T17:41:51.978Z",
   "entries": [
+    {
+      "id": "u_63f4ea88",
+      "sentAt": "2026-07-31T17:41:51.978Z",
+      "title": "Disrupting a Criminal Scam Operation"
+    },
+    {
+      "id": "u_cbd76c9e",
+      "sentAt": "2026-07-31T17:41:51.978Z",
+      "title": "Evaluating code review agents with ReviewBench"
+    },
+    {
+      "id": "u_365954d5",
+      "sentAt": "2026-07-31T17:41:51.978Z",
+      "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost"
+    },
+    {
+      "id": "u_a33bba4e",
+      "sentAt": "2026-07-31T17:41:51.978Z",
+      "title": "Beyond Model Loyalty: Enterprise AI Must Be Built For Vendor Volatility"
+    },
+    {
+      "id": "u_ce9a7958",
+      "sentAt": "2026-07-31T17:41:51.978Z",
+      "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability"
+    },
     {
       "id": "u_e2568e64",
       "sentAt": "2026-07-31T14:13:20.007Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a3dc1d7",
       "sentAt": "2026-07-06T08:24:27.106Z",
       "title": "Does anyone have a name for that subtle \"Sameness\" creeping into model outputs lately? [R]"
-    },
-    {
-      "id": "u_53f33d1f",
-      "sentAt": "2026-07-06T08:24:27.106Z",
-      "title": "Training Gemma-3 for Structured Mathematical Reasoning with Tunix GRPO, LoRA Adapters, and GSM8K Rewards"
-    },
-    {
-      "id": "u_43f7da3c",
-      "sentAt": "2026-07-06T08:24:27.106Z",
-      "title": "Are we human? Why ByteDance and Alibaba are disabling AI agents in China - South China Morning Post"
-    },
-    {
-      "id": "u_68952a82",
-      "sentAt": "2026-07-05T23:04:09.428Z",
-      "title": "Best models for generating red-team attacks? Also looking for public datasets [R]"
-    },
-    {
-      "id": "u_620ccabd",
-      "sentAt": "2026-07-05T23:04:09.428Z",
-      "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention"
-    },
-    {
-      "id": "u_3f28ac2d",
-      "sentAt": "2026-07-05T21:05:03.877Z",
-      "title": "Open-sourced an RL model to give LLM the sales strategies"
     }
   ]
 }
