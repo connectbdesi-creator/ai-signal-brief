@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-30T23:10:40.562Z",
+  "updatedAt": "2026-07-31T03:17:43.312Z",
   "entries": [
+    {
+      "id": "u_34621e13",
+      "sentAt": "2026-07-31T03:17:43.312Z",
+      "title": "Anthropic says its models went rogue and hacked 3 companies during testing"
+    },
+    {
+      "id": "u_da725010",
+      "sentAt": "2026-07-31T03:17:43.312Z",
+      "title": "Icite targets knowledge graphs to give AI agents the context needed for autonomous security workflows"
+    },
+    {
+      "id": "u_6201432c",
+      "sentAt": "2026-07-31T03:17:43.312Z",
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests"
+    },
+    {
+      "id": "u_a255b574",
+      "sentAt": "2026-07-31T03:17:43.312Z",
+      "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests"
+    },
+    {
+      "id": "u_9024296d",
+      "sentAt": "2026-07-31T03:17:43.312Z",
+      "title": "Anthropic’s Claude AI models hack into 3 outside groups during testing"
+    },
     {
       "id": "u_781a321f",
       "sentAt": "2026-07-30T23:10:40.562Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6d991009",
       "sentAt": "2026-07-05T10:18:19.351Z",
       "title": "As companies operating artificial intelligence (AI) agents suffer from the burden of fees under the - 매일경제"
-    },
-    {
-      "id": "u_83d486b7",
-      "sentAt": "2026-07-05T07:30:09.841Z",
-      "title": "A study found that artificial intelligence (AI) agents who perform smartly complex tasks use up to 1.. - 매일경제"
-    },
-    {
-      "id": "u_584bdde2",
-      "sentAt": "2026-07-05T07:30:09.841Z",
-      "title": "Artificial intelligence (AI) agents have been shown to be significantly less energy efficient than c.. - 매일경제"
-    },
-    {
-      "id": "u_63bf661e",
-      "sentAt": "2026-07-05T07:30:09.841Z",
-      "title": "Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026"
-    },
-    {
-      "id": "u_ba6a8386",
-      "sentAt": "2026-07-05T07:30:09.841Z",
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)"
-    },
-    {
-      "id": "u_902e4880",
-      "sentAt": "2026-07-04T23:00:11.430Z",
-      "title": "Better Models: Worse Tools"
     }
   ]
 }
