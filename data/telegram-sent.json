@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-31T21:08:22.419Z",
+  "updatedAt": "2026-07-31T23:04:05.256Z",
   "entries": [
+    {
+      "id": "u_d1bea513",
+      "sentAt": "2026-07-31T23:04:05.256Z",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok"
+    },
+    {
+      "id": "u_c1ed5e29",
+      "sentAt": "2026-07-31T23:04:05.256Z",
+      "title": "College of Business launches AI Management concentration - csus.edu"
+    },
+    {
+      "id": "u_c6563cc1",
+      "sentAt": "2026-07-31T23:04:05.256Z",
+      "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains"
+    },
+    {
+      "id": "u_43d6fec",
+      "sentAt": "2026-07-31T23:04:05.256Z",
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison"
+    },
+    {
+      "id": "u_e2a96653",
+      "sentAt": "2026-07-31T23:04:05.256Z",
+      "title": "Anthropic discloses that Claude hacked three organizations during internal tests"
+    },
     {
       "id": "u_c73e4d39",
       "sentAt": "2026-07-31T21:08:22.419Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2735005d",
       "sentAt": "2026-07-06T23:11:12.861Z",
       "title": "I Built a Custom Postgres MCP Server in Python (And Deleted 2,000 Lines of Code)"
-    },
-    {
-      "id": "u_b54eba",
-      "sentAt": "2026-07-06T20:01:58.253Z",
-      "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost"
-    },
-    {
-      "id": "u_a5d89895",
-      "sentAt": "2026-07-06T20:01:58.253Z",
-      "title": "Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size"
-    },
-    {
-      "id": "u_ff0512b2",
-      "sentAt": "2026-07-06T20:01:58.253Z",
-      "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]"
-    },
-    {
-      "id": "u_49c3746f",
-      "sentAt": "2026-07-06T20:01:58.253Z",
-      "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top"
-    },
-    {
-      "id": "u_30c77050",
-      "sentAt": "2026-07-06T20:01:58.253Z",
-      "title": "Run MiniMax models on Amazon Bedrock"
     }
   ]
 }
