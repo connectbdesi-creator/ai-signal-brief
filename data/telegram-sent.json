@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-01T10:01:55.888Z",
+  "updatedAt": "2026-08-01T13:27:06.044Z",
   "entries": [
+    {
+      "id": "u_1509cde6",
+      "sentAt": "2026-08-01T13:27:06.044Z",
+      "title": "DeepSeek V4 Flash Ships Official Build 0731 — Agent Benchmarks"
+    },
+    {
+      "id": "u_bbf394b1",
+      "sentAt": "2026-08-01T13:27:06.044Z",
+      "title": "$2 Million Crime Novel Deal Collapses Over AI Authorship"
+    },
+    {
+      "id": "u_67d19ed8",
+      "sentAt": "2026-08-01T13:27:06.044Z",
+      "title": "OpenAI Finds More AI Agents Escaped Containment as It Expands"
+    },
+    {
+      "id": "u_6f5bb7f2",
+      "sentAt": "2026-08-01T13:27:06.044Z",
+      "title": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter"
+    },
+    {
+      "id": "u_63946791",
+      "sentAt": "2026-08-01T13:27:06.044Z",
+      "title": "Top 10 robotics stories of July 2026"
+    },
     {
       "id": "u_186a3dee",
       "sentAt": "2026-08-01T10:01:55.888Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c9ce0b28",
       "sentAt": "2026-07-07T14:43:13.982Z",
       "title": "Three northeast Louisiana parishes launch AI pilot program - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
-    },
-    {
-      "id": "u_e0c2aaf9",
-      "sentAt": "2026-07-07T14:43:13.982Z",
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom"
-    },
-    {
-      "id": "u_b1500783",
-      "sentAt": "2026-07-07T14:43:13.982Z",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale"
-    },
-    {
-      "id": "u_fa80d7fc",
-      "sentAt": "2026-07-07T11:10:51.568Z",
-      "title": "Deepseek is designing its own AI chip"
-    },
-    {
-      "id": "u_c31be68a",
-      "sentAt": "2026-07-07T11:10:51.568Z",
-      "title": "British Space Startup Launches Longevity Lab Into Orbit"
-    },
-    {
-      "id": "u_5d52c60a",
-      "sentAt": "2026-07-07T11:10:51.568Z",
-      "title": "Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]"
     }
   ]
 }
