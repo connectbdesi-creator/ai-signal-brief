@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-01T19:12:40.802Z",
+  "updatedAt": "2026-08-01T20:56:33.689Z",
   "entries": [
+    {
+      "id": "u_fdd4c4f7",
+      "sentAt": "2026-08-01T20:56:33.689Z",
+      "title": "Ten advances in mathematics and theoretical computer science"
+    },
+    {
+      "id": "u_fe62a8e2",
+      "sentAt": "2026-08-01T20:56:33.689Z",
+      "title": "What’s next for Qwen open-source releases?"
+    },
+    {
+      "id": "u_399dd5e9",
+      "sentAt": "2026-08-01T20:56:33.689Z",
+      "title": "Is there a point where models just cannot get any smaller without losing intelligence?"
+    },
+    {
+      "id": "u_3f40b7a5",
+      "sentAt": "2026-08-01T20:56:33.689Z",
+      "title": "Deepseek v4 flash 0731 still not holding up."
+    },
+    {
+      "id": "u_e1a60f56",
+      "sentAt": "2026-08-01T20:56:33.689Z",
+      "title": "DeepSeek-V4-Flash-0731-UD-Q3_K_XL 3x3090 test results"
+    },
     {
       "id": "u_97670e20",
       "sentAt": "2026-08-01T19:12:40.802Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7f5f95ae",
       "sentAt": "2026-07-08T02:56:36.704Z",
       "title": "NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone"
-    },
-    {
-      "id": "u_71fb2cd7",
-      "sentAt": "2026-07-08T02:56:36.704Z",
-      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
-    },
-    {
-      "id": "u_563138f",
-      "sentAt": "2026-07-08T02:56:36.704Z",
-      "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle"
-    },
-    {
-      "id": "u_140f1036",
-      "sentAt": "2026-07-08T02:56:36.704Z",
-      "title": "Our Work to Fight Child Exploitation on Our Apps"
-    },
-    {
-      "id": "u_acc9aa6d",
-      "sentAt": "2026-07-07T23:05:15.932Z",
-      "title": "Tools vs. Subagents: Building Effective AI Agents Without Over-Engineering"
-    },
-    {
-      "id": "u_8bf71bba",
-      "sentAt": "2026-07-07T23:05:15.932Z",
-      "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web"
     }
   ]
 }
