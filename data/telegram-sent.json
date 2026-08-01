@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-01T03:16:17.754Z",
+  "updatedAt": "2026-08-01T06:32:10.122Z",
   "entries": [
+    {
+      "id": "u_963e252e",
+      "sentAt": "2026-08-01T06:32:10.122Z",
+      "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing"
+    },
+    {
+      "id": "u_eb283f8e",
+      "sentAt": "2026-08-01T06:32:10.122Z",
+      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks"
+    },
+    {
+      "id": "u_4c1ddab",
+      "sentAt": "2026-08-01T06:32:10.122Z",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses"
+    },
+    {
+      "id": "u_a34b8930",
+      "sentAt": "2026-08-01T06:32:10.122Z",
+      "title": "Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters"
+    },
+    {
+      "id": "u_afd67a89",
+      "sentAt": "2026-08-01T06:32:10.122Z",
+      "title": "I compared 18 major LLM API prices in 2026 — the same workload can cost anywhere from $0.018 to $"
+    },
     {
       "id": "u_c57160ab",
       "sentAt": "2026-08-01T03:16:17.754Z",
@@ -4975,31 +5000,6 @@
       "id": "u_61de6f00",
       "sentAt": "2026-07-07T07:42:25.111Z",
       "title": "South Korea defense lab launches secure AI system - upi.com"
-    },
-    {
-      "id": "u_862412b9",
-      "sentAt": "2026-07-07T03:41:58.439Z",
-      "title": "Building a Scaffold-Split Random Forest QSAR Co-Scientist for EGFR Inhibitor Discovery Using ChEMBL, RDKit, SHAP, and BRICS"
-    },
-    {
-      "id": "u_13a15f79",
-      "sentAt": "2026-07-07T03:41:58.439Z",
-      "title": "South Korea defense lab launches secure AI system - upi.com"
-    },
-    {
-      "id": "u_d2a83def",
-      "sentAt": "2026-07-07T03:41:58.439Z",
-      "title": "tencent/Hy3"
-    },
-    {
-      "id": "u_1499fa41",
-      "sentAt": "2026-07-07T03:41:58.439Z",
-      "title": "UCO Launches New AI Degree Programs to Meet Growing Workforce Demand - The University of Central Oklahoma"
-    },
-    {
-      "id": "u_61cdc0ac",
-      "sentAt": "2026-07-07T03:41:58.439Z",
-      "title": "How Open Models Are Driving AI Research"
     }
   ]
 }
