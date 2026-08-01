@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-01T17:03:22.876Z",
+  "updatedAt": "2026-08-01T19:12:40.802Z",
   "entries": [
+    {
+      "id": "u_97670e20",
+      "sentAt": "2026-08-01T19:12:40.802Z",
+      "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs"
+    },
+    {
+      "id": "u_d021884a",
+      "sentAt": "2026-08-01T19:12:40.802Z",
+      "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking"
+    },
+    {
+      "id": "u_2637642d",
+      "sentAt": "2026-08-01T19:12:40.802Z",
+      "title": "Artificial intelligence agents could go rogue and hack companies, warns former Pentagon official - Fox News"
+    },
+    {
+      "id": "u_13f5eb78",
+      "sentAt": "2026-08-01T19:12:40.802Z",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT"
+    },
+    {
+      "id": "u_8c6e9f6a",
+      "sentAt": "2026-08-01T19:12:40.802Z",
+      "title": "AI & Tech Brief: Anthropic’s rogue agents - washingtonpost.com"
+    },
     {
       "id": "u_fa124a11",
       "sentAt": "2026-08-01T17:03:22.876Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8bf71bba",
       "sentAt": "2026-07-07T23:05:15.932Z",
       "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web"
-    },
-    {
-      "id": "u_47f9618e",
-      "sentAt": "2026-07-07T23:05:15.932Z",
-      "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow"
-    },
-    {
-      "id": "u_b1606054",
-      "sentAt": "2026-07-07T23:05:15.932Z",
-      "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_98a8d407",
-      "sentAt": "2026-07-07T23:05:15.932Z",
-      "title": "How AWS Finance teams reclaimed hundreds of hours with Amazon Quick"
-    },
-    {
-      "id": "u_67e7722e",
-      "sentAt": "2026-07-07T21:27:09.401Z",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet"
-    },
-    {
-      "id": "u_792b7e64",
-      "sentAt": "2026-07-07T21:27:09.401Z",
-      "title": "sqlite-utils 4.0, now with database schema migrations"
     }
   ]
 }
