@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-07-31T23:04:05.256Z",
+  "updatedAt": "2026-08-01T03:16:17.754Z",
   "entries": [
+    {
+      "id": "u_c57160ab",
+      "sentAt": "2026-08-01T03:16:17.754Z",
+      "title": "Amid Hacking Probe, OpenAI Finds Evidence Of AI Agents Escaping Containment - NDTV"
+    },
+    {
+      "id": "u_f1fef76f",
+      "sentAt": "2026-08-01T03:16:17.754Z",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
+    },
+    {
+      "id": "u_9f79ce38",
+      "sentAt": "2026-08-01T03:16:17.754Z",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)"
+    },
+    {
+      "id": "u_5faf77eb",
+      "sentAt": "2026-08-01T03:16:17.754Z",
+      "title": "llm-mcp-client 0.1a0"
+    },
+    {
+      "id": "u_7d10448c",
+      "sentAt": "2026-08-01T03:16:17.754Z",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok"
+    },
     {
       "id": "u_d1bea513",
       "sentAt": "2026-07-31T23:04:05.256Z",
@@ -4975,31 +5000,6 @@
       "id": "u_61cdc0ac",
       "sentAt": "2026-07-07T03:41:58.439Z",
       "title": "How Open Models Are Driving AI Research"
-    },
-    {
-      "id": "u_3cde1f7e",
-      "sentAt": "2026-07-06T23:11:12.861Z",
-      "title": "Illinois governor signs AI safety law requiring audits of frontier models - StateScoop"
-    },
-    {
-      "id": "u_92e20cd5",
-      "sentAt": "2026-07-06T23:11:12.861Z",
-      "title": "Salinas launches AI assistance - Monterey Herald"
-    },
-    {
-      "id": "u_aab71c0e",
-      "sentAt": "2026-07-06T23:11:12.861Z",
-      "title": "White House AI Standards: 30-Day Reviews, 3 Labs, and a Classified Pass Bar"
-    },
-    {
-      "id": "u_4cdab48c",
-      "sentAt": "2026-07-06T23:11:12.861Z",
-      "title": "Automatically redact PII in images with Amazon Nova"
-    },
-    {
-      "id": "u_2735005d",
-      "sentAt": "2026-07-06T23:11:12.861Z",
-      "title": "I Built a Custom Postgres MCP Server in Python (And Deleted 2,000 Lines of Code)"
     }
   ]
 }
