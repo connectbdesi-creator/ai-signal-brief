@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-01T06:32:10.122Z",
+  "updatedAt": "2026-08-01T10:01:55.888Z",
   "entries": [
+    {
+      "id": "u_186a3dee",
+      "sentAt": "2026-08-01T10:01:55.888Z",
+      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions"
+    },
+    {
+      "id": "u_31fef28d",
+      "sentAt": "2026-08-01T10:01:55.888Z",
+      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions"
+    },
+    {
+      "id": "u_5c42f62b",
+      "sentAt": "2026-08-01T10:01:55.888Z",
+      "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio"
+    },
+    {
+      "id": "u_c7a189ad",
+      "sentAt": "2026-08-01T10:01:55.888Z",
+      "title": "OpenAI is reportedly building Astra, a model family designed to work on problems for hours or days"
+    },
+    {
+      "id": "u_11c933e2",
+      "sentAt": "2026-08-01T10:01:55.888Z",
+      "title": "Ten advances in mathematics and theoretical computer science"
+    },
     {
       "id": "u_963e252e",
       "sentAt": "2026-08-01T06:32:10.122Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5d52c60a",
       "sentAt": "2026-07-07T11:10:51.568Z",
       "title": "Masked depth modeling with sensor-validity masking: reports best RMSE on 7 of 8 masked/sparse depth benchmarks, plus a controlled encoder-init study[R]"
-    },
-    {
-      "id": "u_8fd78ad8",
-      "sentAt": "2026-07-07T11:10:51.568Z",
-      "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]"
-    },
-    {
-      "id": "u_a9940159",
-      "sentAt": "2026-07-07T07:42:25.111Z",
-      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community"
-    },
-    {
-      "id": "u_1e9b479e",
-      "sentAt": "2026-07-07T07:42:25.111Z",
-      "title": "Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model with 21B Active Parameters and 256K Context"
-    },
-    {
-      "id": "u_c3d892ed",
-      "sentAt": "2026-07-07T07:42:25.111Z",
-      "title": "OpenAI Releases GPT-Realtime-2.1 and GPT-Realtime-2.1-mini for Low-Latency Voice Agents in the API"
-    },
-    {
-      "id": "u_61de6f00",
-      "sentAt": "2026-07-07T07:42:25.111Z",
-      "title": "South Korea defense lab launches secure AI system - upi.com"
     }
   ]
 }
