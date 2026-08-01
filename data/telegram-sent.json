@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-01T13:27:06.044Z",
+  "updatedAt": "2026-08-01T15:03:07.021Z",
   "entries": [
+    {
+      "id": "u_490b49ad",
+      "sentAt": "2026-08-01T15:03:07.021Z",
+      "title": "AI coding agents can modernize research software but can't judge if the science is right"
+    },
+    {
+      "id": "u_3464ab3f",
+      "sentAt": "2026-08-01T15:03:07.021Z",
+      "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio"
+    },
+    {
+      "id": "u_fc377cd1",
+      "sentAt": "2026-08-01T15:03:07.021Z",
+      "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio"
+    },
+    {
+      "id": "u_533e0570",
+      "sentAt": "2026-08-01T15:03:07.021Z",
+      "title": "DeepSeek's new bargain model accelerates AI's race to zero"
+    },
+    {
+      "id": "u_ec7b72aa",
+      "sentAt": "2026-08-01T15:03:07.021Z",
+      "title": "DeepSeek-V4-Flash-0731: Oneshot evals, surprisingly not token efficient??"
+    },
     {
       "id": "u_1509cde6",
       "sentAt": "2026-08-01T13:27:06.044Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a4425016",
       "sentAt": "2026-07-07T18:02:57.477Z",
       "title": "EcoOnline Launches Connected Intelligence Platform for Workplace Safety - Occupational Health & Safety"
-    },
-    {
-      "id": "u_3ebbfd42",
-      "sentAt": "2026-07-07T18:02:57.477Z",
-      "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web"
-    },
-    {
-      "id": "u_dce75c0f",
-      "sentAt": "2026-07-07T18:02:57.477Z",
-      "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness"
-    },
-    {
-      "id": "u_de02fec9",
-      "sentAt": "2026-07-07T18:02:57.477Z",
-      "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models"
-    },
-    {
-      "id": "u_867b9be8",
-      "sentAt": "2026-07-07T14:43:13.982Z",
-      "title": "Three northeast Louisiana parishes launch AI pilot program - KNOE"
-    },
-    {
-      "id": "u_c9ce0b28",
-      "sentAt": "2026-07-07T14:43:13.982Z",
-      "title": "Three northeast Louisiana parishes launch AI pilot program - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
     }
   ]
 }
