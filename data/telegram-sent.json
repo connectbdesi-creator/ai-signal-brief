@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-02T06:35:36.325Z",
+  "updatedAt": "2026-08-02T10:00:29.172Z",
   "entries": [
+    {
+      "id": "u_d183224f",
+      "sentAt": "2026-08-02T10:00:29.172Z",
+      "title": "Chinese AI Used To Launch Attacks—Here’s What Happened Next"
+    },
+    {
+      "id": "u_8bf3d7ae",
+      "sentAt": "2026-08-02T10:00:29.172Z",
+      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior"
+    },
+    {
+      "id": "u_3a04069a",
+      "sentAt": "2026-08-02T10:00:29.172Z",
+      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior"
+    },
     {
       "id": "u_146fa8fc",
       "sentAt": "2026-08-02T06:35:36.325Z",
@@ -4985,21 +5000,6 @@
       "id": "u_a37e22a8",
       "sentAt": "2026-07-08T14:25:41.932Z",
       "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year"
-    },
-    {
-      "id": "u_fde6874b",
-      "sentAt": "2026-07-08T14:25:41.932Z",
-      "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year"
-    },
-    {
-      "id": "u_faed367d",
-      "sentAt": "2026-07-08T10:21:45.244Z",
-      "title": "China’s MiniMax Plans to Launch 2.7-Trillion Parameter Model"
-    },
-    {
-      "id": "u_9ae47bb0",
-      "sentAt": "2026-07-08T10:21:45.244Z",
-      "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government"
     }
   ]
 }
