@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-02T11:24:37.870Z",
+  "updatedAt": "2026-08-02T13:27:08.673Z",
   "entries": [
+    {
+      "id": "u_8822131b",
+      "sentAt": "2026-08-02T13:27:08.673Z",
+      "title": "OpenAI Presence wants to make AI agents production-ready for businesses"
+    },
+    {
+      "id": "u_9531e311",
+      "sentAt": "2026-08-02T13:27:08.673Z",
+      "title": "OpenAI Presence wants to make AI agents production-ready for businesses"
+    },
+    {
+      "id": "u_5b28eed2",
+      "sentAt": "2026-08-02T13:27:08.673Z",
+      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track"
+    },
+    {
+      "id": "u_86d276b0",
+      "sentAt": "2026-08-02T13:27:08.673Z",
+      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track"
+    },
+    {
+      "id": "u_12bfa2bb",
+      "sentAt": "2026-08-02T13:27:08.673Z",
+      "title": "AI's manifesto war"
+    },
     {
       "id": "u_3c034eaa",
       "sentAt": "2026-08-02T11:24:37.870Z",
@@ -4975,31 +5000,6 @@
       "id": "u_636ba0ae",
       "sentAt": "2026-07-08T17:40:13.691Z",
       "title": "ChatGPT’s upgraded voice mode is better at shutting up"
-    },
-    {
-      "id": "u_1a615770",
-      "sentAt": "2026-07-08T17:40:13.691Z",
-      "title": "OpenAI releases new voice models for more natural live conversations"
-    },
-    {
-      "id": "u_36e6f462",
-      "sentAt": "2026-07-08T17:40:13.691Z",
-      "title": "QLLM, no transformer, no mamba and new noval architecture with O(1) inference is finally out as model"
-    },
-    {
-      "id": "u_25e849b6",
-      "sentAt": "2026-07-08T14:25:41.932Z",
-      "title": "Bug in top AI coding agents shows that Unix-era security headaches never really die"
-    },
-    {
-      "id": "u_f042373d",
-      "sentAt": "2026-07-08T14:25:41.932Z",
-      "title": "Playlist Launches ‘AI Concierge,’ Plans More Artificial Intelligence Products - Athletech News"
-    },
-    {
-      "id": "u_7347dcd2",
-      "sentAt": "2026-07-08T14:25:41.932Z",
-      "title": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits"
     }
   ]
 }
