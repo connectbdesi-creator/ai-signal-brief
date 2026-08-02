@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-02T10:00:29.172Z",
+  "updatedAt": "2026-08-02T11:24:37.870Z",
   "entries": [
+    {
+      "id": "u_3c034eaa",
+      "sentAt": "2026-08-02T11:24:37.870Z",
+      "title": "As artificial intelligence (AI) model \"GLM-5.2\" and Moonshot AI's \"Kimi K3\" recently released by Chi.. - 매일경제"
+    },
     {
       "id": "u_d183224f",
       "sentAt": "2026-08-02T10:00:29.172Z",
@@ -4995,11 +5000,6 @@
       "id": "u_7347dcd2",
       "sentAt": "2026-07-08T14:25:41.932Z",
       "title": "OpenAI to publicly release GPT-5.6 AI models, ending government-requested limits"
-    },
-    {
-      "id": "u_a37e22a8",
-      "sentAt": "2026-07-08T14:25:41.932Z",
-      "title": "Chinese AI startup MiniMax plans to open-source a 2.7 trillion parameter model later this year"
     }
   ]
 }
