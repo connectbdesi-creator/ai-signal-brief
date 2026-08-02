@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-01T20:56:33.689Z",
+  "updatedAt": "2026-08-02T03:16:20.811Z",
   "entries": [
+    {
+      "id": "u_f47b1795",
+      "sentAt": "2026-08-02T03:16:20.811Z",
+      "title": "AI Agents At OpenAI, Anthropic, Microsoft Broke Out, Broke In, Obeyed"
+    },
+    {
+      "id": "u_b84be943",
+      "sentAt": "2026-08-02T03:16:20.811Z",
+      "title": "AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100"
+    },
+    {
+      "id": "u_3cfc6a52",
+      "sentAt": "2026-08-02T03:16:20.811Z",
+      "title": "Five Reasons AI Regulation Is Coming To The US, How And When"
+    },
+    {
+      "id": "u_4ebe83fa",
+      "sentAt": "2026-08-02T03:16:20.811Z",
+      "title": "Ask HN: I still don't understand why AI agents need \"skills\""
+    },
+    {
+      "id": "u_c634dd7d",
+      "sentAt": "2026-08-02T03:16:20.811Z",
+      "title": "Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran"
+    },
     {
       "id": "u_fdd4c4f7",
       "sentAt": "2026-08-01T20:56:33.689Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e59c36e1",
       "sentAt": "2026-07-08T06:30:39.565Z",
       "title": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6"
-    },
-    {
-      "id": "u_d639e702",
-      "sentAt": "2026-07-08T06:30:39.565Z",
-      "title": "Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings"
-    },
-    {
-      "id": "u_9d40a1ab",
-      "sentAt": "2026-07-08T06:30:39.565Z",
-      "title": "Reduced NEXI protocol for the quantification of human gray matter microstructure on the Connectome 2.0 scanner"
-    },
-    {
-      "id": "u_a7f6f52d",
-      "sentAt": "2026-07-08T06:30:39.565Z",
-      "title": "IMR: Iterative Mode-World Weighted Regression for Multi-Agent Trajectory Prediction"
-    },
-    {
-      "id": "u_5c0029bb",
-      "sentAt": "2026-07-08T02:56:36.704Z",
-      "title": "The LLM \"know-say gap\" looks like a routing problem: you can read a model's confidence from hidden states [P]"
-    },
-    {
-      "id": "u_7f5f95ae",
-      "sentAt": "2026-07-08T02:56:36.704Z",
-      "title": "NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audio-Text LLM That Preserves the Text Intelligence of Its Backbone"
     }
   ]
 }
