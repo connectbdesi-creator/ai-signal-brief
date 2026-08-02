@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-02T03:16:20.811Z",
+  "updatedAt": "2026-08-02T06:35:36.325Z",
   "entries": [
+    {
+      "id": "u_146fa8fc",
+      "sentAt": "2026-08-02T06:35:36.325Z",
+      "title": "Open letters about AI development"
+    },
+    {
+      "id": "u_8e48d4aa",
+      "sentAt": "2026-08-02T06:35:36.325Z",
+      "title": "July 2026 newsletter"
+    },
+    {
+      "id": "u_e017d766",
+      "sentAt": "2026-08-02T06:35:36.325Z",
+      "title": "Anthropic said its artificial intelligence models hacked into three other organizations during testing, just days after ChatGPT maker OpenAI raised concerns over AI controls after it disclosed its rogue models hacked another company. https://wapo.st/4hbcfbh - facebook.com"
+    },
+    {
+      "id": "u_2864b50c",
+      "sentAt": "2026-08-02T06:35:36.325Z",
+      "title": "Artificial intelligence agents could go rogue and hack companies, warns former Pentagon official - Fox News"
+    },
+    {
+      "id": "u_fcdf9625",
+      "sentAt": "2026-08-02T06:35:36.325Z",
+      "title": "Artificial intelligence agents could go rogue and hack companies, warns former Pentagon official - Yahoo"
+    },
     {
       "id": "u_f47b1795",
       "sentAt": "2026-08-02T03:16:20.811Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9ae47bb0",
       "sentAt": "2026-07-08T10:21:45.244Z",
       "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government"
-    },
-    {
-      "id": "u_fedb1aa",
-      "sentAt": "2026-07-08T10:21:45.244Z",
-      "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government"
-    },
-    {
-      "id": "u_b55a3a18",
-      "sentAt": "2026-07-08T10:21:45.244Z",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips"
-    },
-    {
-      "id": "u_1cfca1c1",
-      "sentAt": "2026-07-08T10:21:45.244Z",
-      "title": "Frustrating Patchwork Of State-Level AI Laws Is Forcing AI Makers Into Devising Jurisdictionally Compliant Chatbot Models"
-    },
-    {
-      "id": "u_472de636",
-      "sentAt": "2026-07-08T06:30:39.565Z",
-      "title": "OpenAI to launch new model after US freeze - France 24"
-    },
-    {
-      "id": "u_e59c36e1",
-      "sentAt": "2026-07-08T06:30:39.565Z",
-      "title": "Scoop: Trump administration lifts restrictions on OpenAI's GPT 5.6"
     }
   ]
 }
