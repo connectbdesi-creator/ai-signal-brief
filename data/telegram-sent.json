@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-02T15:04:47.247Z",
+  "updatedAt": "2026-08-02T19:14:42.474Z",
   "entries": [
+    {
+      "id": "u_20fc6197",
+      "sentAt": "2026-08-02T19:14:42.474Z",
+      "title": "Governor Gavin Newsom Announces Release of Updated Strategy to Protect California Against New Online Threats, Including Artificial Intelligence (AI)-Enabled Cyberattacks - goldrushcam.com"
+    },
+    {
+      "id": "u_83112ae2",
+      "sentAt": "2026-08-02T19:14:42.474Z",
+      "title": "Claude-maker Anthropic: AI models hacked 3 organizations during testing - Cebu Daily News"
+    },
     {
       "id": "u_cbed518c",
       "sentAt": "2026-08-02T15:04:47.247Z",
@@ -4990,16 +5000,6 @@
       "id": "u_e360055d",
       "sentAt": "2026-07-08T19:36:57.361Z",
       "title": "Complete local model asset generation pipeline"
-    },
-    {
-      "id": "u_ead0a1b8",
-      "sentAt": "2026-07-08T17:40:13.691Z",
-      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
-    },
-    {
-      "id": "u_2b8b4c6f",
-      "sentAt": "2026-07-08T17:40:13.691Z",
-      "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
     }
   ]
 }
