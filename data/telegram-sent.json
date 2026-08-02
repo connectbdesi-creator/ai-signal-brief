@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-02T13:27:08.673Z",
+  "updatedAt": "2026-08-02T15:04:47.247Z",
   "entries": [
+    {
+      "id": "u_cbed518c",
+      "sentAt": "2026-08-02T15:04:47.247Z",
+      "title": "Show HN: Handoff is await human() for AI agents"
+    },
     {
       "id": "u_8822131b",
       "sentAt": "2026-08-02T13:27:08.673Z",
@@ -4995,11 +5000,6 @@
       "id": "u_2b8b4c6f",
       "sentAt": "2026-07-08T17:40:13.691Z",
       "title": "Mistral enters robotics with Robostral Navigate, an 8B model that steers robots using just one camera"
-    },
-    {
-      "id": "u_636ba0ae",
-      "sentAt": "2026-07-08T17:40:13.691Z",
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up"
     }
   ]
 }
