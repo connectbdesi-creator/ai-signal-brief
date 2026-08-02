@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-02T19:14:42.474Z",
+  "updatedAt": "2026-08-02T20:58:50.626Z",
   "entries": [
+    {
+      "id": "u_39e7c157",
+      "sentAt": "2026-08-02T20:58:50.626Z",
+      "title": "Governor Gavin Newsom Announces Release of Updated Strategy to Protect California Against New Online Threats, Including Artificial Intelligence (AI)-Enabled Cyberattacks - Sierra Sun Times"
+    },
     {
       "id": "u_20fc6197",
       "sentAt": "2026-08-02T19:14:42.474Z",
@@ -4995,11 +5000,6 @@
       "id": "u_ad00eab0",
       "sentAt": "2026-07-08T19:36:57.361Z",
       "title": "Grok 4.5 is so cheap compared to Fable 5 and GPT 5.5 that benchmark gaps may not matter much"
-    },
-    {
-      "id": "u_e360055d",
-      "sentAt": "2026-07-08T19:36:57.361Z",
-      "title": "Complete local model asset generation pipeline"
     }
   ]
 }
