@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-03T21:06:03.688Z",
+  "updatedAt": "2026-08-03T23:04:13.295Z",
   "entries": [
+    {
+      "id": "u_cf94e180",
+      "sentAt": "2026-08-03T23:04:13.295Z",
+      "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'"
+    },
+    {
+      "id": "u_b1445981",
+      "sentAt": "2026-08-03T23:04:13.295Z",
+      "title": "Ling-3.0-flash is another potential model to test before qwen3.8 27b"
+    },
+    {
+      "id": "u_3c372c79",
+      "sentAt": "2026-08-03T23:04:13.295Z",
+      "title": "igus launches energy chain with 600-degree rotation for industrial robots"
+    },
+    {
+      "id": "u_45ed322",
+      "sentAt": "2026-08-03T23:04:13.295Z",
+      "title": "DeepSeek V4-Flash (284B MoE) at 33 tok/s single / 68 tok/s aggregate on 2× RTX 3090 + a used quad-Xeon DDR4 server — full config"
+    },
+    {
+      "id": "u_a31d7cb2",
+      "sentAt": "2026-08-03T23:04:13.295Z",
+      "title": "How to Secure AI Agents, MCP Servers, and LLM Apps in Production"
+    },
     {
       "id": "u_2b35ceff",
       "sentAt": "2026-08-03T21:06:03.688Z",
@@ -4975,31 +5000,6 @@
       "id": "u_eb8c4d5d",
       "sentAt": "2026-07-09T19:58:22.750Z",
       "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns"
-    },
-    {
-      "id": "u_e7fe326d",
-      "sentAt": "2026-07-09T19:58:22.750Z",
-      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost"
-    },
-    {
-      "id": "u_d6944539",
-      "sentAt": "2026-07-09T17:58:47.745Z",
-      "title": "OpenAI launches ChatGPT Work - BNN Bloomberg"
-    },
-    {
-      "id": "u_7d59e780",
-      "sentAt": "2026-07-09T17:58:47.745Z",
-      "title": "Meta’s new AI chips will begin production in September"
-    },
-    {
-      "id": "u_7b495498",
-      "sentAt": "2026-07-09T17:58:47.745Z",
-      "title": "OpenAI launches ChatGPT Work - Reuters"
-    },
-    {
-      "id": "u_811a5bc2",
-      "sentAt": "2026-07-09T17:58:47.745Z",
-      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up"
     }
   ]
 }
