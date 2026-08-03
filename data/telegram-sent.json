@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-03T07:31:14.262Z",
+  "updatedAt": "2026-08-03T11:28:03.041Z",
   "entries": [
+    {
+      "id": "u_1d2d6d73",
+      "sentAt": "2026-08-03T11:28:03.041Z",
+      "title": "RSNA launches new knee MRI AI challenge - Radiology Business"
+    },
+    {
+      "id": "u_4c6d548b",
+      "sentAt": "2026-08-03T11:28:03.041Z",
+      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters"
+    },
+    {
+      "id": "u_c3c26506",
+      "sentAt": "2026-08-03T11:28:03.041Z",
+      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters"
+    },
+    {
+      "id": "u_23b7ecdc",
+      "sentAt": "2026-08-03T11:28:03.041Z",
+      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart"
+    },
+    {
+      "id": "u_e28e9cbc",
+      "sentAt": "2026-08-03T11:28:03.041Z",
+      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart"
+    },
     {
       "id": "u_1416d457",
       "sentAt": "2026-08-03T07:31:14.262Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2e7c12ca",
       "sentAt": "2026-07-09T03:35:25.192Z",
       "title": "Fresno State launches artificial intelligence minor open to students across disciplines - ABC30 Fresno"
-    },
-    {
-      "id": "u_50719f7d",
-      "sentAt": "2026-07-09T03:35:25.192Z",
-      "title": "Fresno State launches artificial intelligence minor open to students across disciplines - Yahoo"
-    },
-    {
-      "id": "u_582e17f2",
-      "sentAt": "2026-07-08T23:11:26.612Z",
-      "title": "Southeastern hosts Artificial Intelligence Launchpad - an17.com"
-    },
-    {
-      "id": "u_73d767f3",
-      "sentAt": "2026-07-08T23:11:26.612Z",
-      "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI - VentureBeat"
-    },
-    {
-      "id": "u_bb7a6b61",
-      "sentAt": "2026-07-08T23:11:26.612Z",
-      "title": "Grok 4.5 released - GLM-5.2 shows up in xAI's own charts, 2.6 pts behind on SWE Bench Pro"
-    },
-    {
-      "id": "u_a139faa4",
-      "sentAt": "2026-07-08T23:11:26.612Z",
-      "title": "Grok 4.5 brings SpaceXAI to the the intelligence frontier - LinkedIn"
     }
   ]
 }
