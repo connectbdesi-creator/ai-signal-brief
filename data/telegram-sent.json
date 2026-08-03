@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-03T03:18:01.501Z",
+  "updatedAt": "2026-08-03T07:31:14.262Z",
   "entries": [
+    {
+      "id": "u_1416d457",
+      "sentAt": "2026-08-03T07:31:14.262Z",
+      "title": "DeepSeek launches ultra-low-cost AI model - Gulf Business"
+    },
+    {
+      "id": "u_5f31d899",
+      "sentAt": "2026-08-03T07:31:14.262Z",
+      "title": "Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim - Nikkei Asia"
+    },
+    {
+      "id": "u_8cd25c98",
+      "sentAt": "2026-08-03T07:31:14.262Z",
+      "title": "Alibaba releases new Qwen AI model with performance rivalling Anthropic’s Fable - The Business Times"
+    },
+    {
+      "id": "u_bb16b851",
+      "sentAt": "2026-08-03T07:31:14.262Z",
+      "title": "Alibaba Releases AI Model With Performance Rivaling Anthropic - Bloomberg.com"
+    },
+    {
+      "id": "u_9a2b8cc9",
+      "sentAt": "2026-08-03T07:31:14.262Z",
+      "title": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems"
+    },
     {
       "id": "u_41b38f46",
       "sentAt": "2026-08-03T03:18:01.501Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a139faa4",
       "sentAt": "2026-07-08T23:11:26.612Z",
       "title": "Grok 4.5 brings SpaceXAI to the the intelligence frontier - LinkedIn"
-    },
-    {
-      "id": "u_91f54b5b",
-      "sentAt": "2026-07-08T23:11:26.612Z",
-      "title": "What China Said at the UN’s First Global Dialogue on AI Governance"
-    },
-    {
-      "id": "u_be3e75b3",
-      "sentAt": "2026-07-08T21:10:54.338Z",
-      "title": "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
-    },
-    {
-      "id": "u_6e66608a",
-      "sentAt": "2026-07-08T21:10:54.338Z",
-      "title": "Former GitHub CEO launches competitor designed for the age of vibe coding"
-    },
-    {
-      "id": "u_13146fe2",
-      "sentAt": "2026-07-08T21:10:54.338Z",
-      "title": "Introducing Claude apps gateway for AWS"
-    },
-    {
-      "id": "u_beb31443",
-      "sentAt": "2026-07-08T21:10:54.338Z",
-      "title": "OpenAI’s advanced GPT-5.6 models to be publicly released - Nextgov/FCW"
     }
   ]
 }
