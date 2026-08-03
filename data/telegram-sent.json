@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-03T19:41:48.426Z",
+  "updatedAt": "2026-08-03T21:06:03.688Z",
   "entries": [
+    {
+      "id": "u_2b35ceff",
+      "sentAt": "2026-08-03T21:06:03.688Z",
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models"
+    },
+    {
+      "id": "u_c76a7fda",
+      "sentAt": "2026-08-03T21:06:03.688Z",
+      "title": "Quoting David Crawshaw's prompt"
+    },
+    {
+      "id": "u_f1997421",
+      "sentAt": "2026-08-03T21:06:03.688Z",
+      "title": "Walden Robotics Partners With Toyota on Practical Humanoids"
+    },
+    {
+      "id": "u_f2f824d0",
+      "sentAt": "2026-08-03T21:06:03.688Z",
+      "title": "Does MiniMax Agent Actually Make Work Easier?"
+    },
+    {
+      "id": "u_d23776b6",
+      "sentAt": "2026-08-03T21:06:03.688Z",
+      "title": "New DeepSeek model cheapest of well-known models to run: research firm - Taipei Times"
+    },
     {
       "id": "u_528211ab",
       "sentAt": "2026-08-03T19:41:48.426Z",
@@ -4975,31 +5000,6 @@
       "id": "u_811a5bc2",
       "sentAt": "2026-07-09T17:58:47.745Z",
       "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up"
-    },
-    {
-      "id": "u_7a7d48e9",
-      "sentAt": "2026-07-09T17:58:47.745Z",
-      "title": "Introducing Muse Spark 1.1"
-    },
-    {
-      "id": "u_ca84e33f",
-      "sentAt": "2026-07-09T15:16:37.259Z",
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI"
-    },
-    {
-      "id": "u_86b85bd2",
-      "sentAt": "2026-07-09T15:16:37.259Z",
-      "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC"
-    },
-    {
-      "id": "u_c594f9e0",
-      "sentAt": "2026-07-09T15:16:37.259Z",
-      "title": "Beyond Agentic AI: The Emergence Of Cognitive AI Ecosystems"
-    },
-    {
-      "id": "u_dee136d8",
-      "sentAt": "2026-07-09T15:16:37.259Z",
-      "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC - CNBC"
     }
   ]
 }
