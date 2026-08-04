@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-04T21:14:35.198Z",
+  "updatedAt": "2026-08-04T23:05:41.139Z",
   "entries": [
+    {
+      "id": "u_33e44df3",
+      "sentAt": "2026-08-04T23:05:41.139Z",
+      "title": "GPT-OSS has turned one year old today!"
+    },
+    {
+      "id": "u_99d34348",
+      "sentAt": "2026-08-04T23:05:41.139Z",
+      "title": "Israel launches national quantum computer and Physical AI race - ynetnews.com"
+    },
+    {
+      "id": "u_329d0a63",
+      "sentAt": "2026-08-04T23:05:41.139Z",
+      "title": "A 2.6B model with tool calling and 128K context now runs at 30 tok/s on a phone"
+    },
+    {
+      "id": "u_85a1deda",
+      "sentAt": "2026-08-04T23:05:41.139Z",
+      "title": "AI Briefing: Frontier AI Models Gone Rogue, DeepMind CEO Calls for Oversight Body, and NY Pauses Data Center Permits - Faegre Drinker Biddle & Reath LLP"
+    },
+    {
+      "id": "u_261fdb38",
+      "sentAt": "2026-08-04T23:05:41.139Z",
+      "title": "Local LLM 35B MoE — Real-world coding benchmarks (Qwen vs Ornith vs KAT)"
+    },
     {
       "id": "u_a14c707",
       "sentAt": "2026-08-04T21:14:35.198Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b8ca1cc8",
       "sentAt": "2026-07-10T19:37:25.565Z",
       "title": "Meta's Muse Image Model: A New Era for AI Creativity"
-    },
-    {
-      "id": "u_d5f909f5",
-      "sentAt": "2026-07-10T19:37:25.565Z",
-      "title": "Perplexity's New AI Tool Aims to Disrupt the Coding World"
-    },
-    {
-      "id": "u_f4ebc6a9",
-      "sentAt": "2026-07-10T17:49:23.852Z",
-      "title": "Revving Up AI: How RT Transforms Text Embedding Models"
-    },
-    {
-      "id": "u_32d38dd1",
-      "sentAt": "2026-07-10T17:49:23.852Z",
-      "title": "How TimesX is Redefining Multimodal Forecasting"
-    },
-    {
-      "id": "u_8002e5ae",
-      "sentAt": "2026-07-10T17:49:23.852Z",
-      "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
-    },
-    {
-      "id": "u_e9bf135b",
-      "sentAt": "2026-07-10T17:49:23.852Z",
-      "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
     }
   ]
 }
