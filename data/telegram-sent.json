@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-04T19:40:45.130Z",
+  "updatedAt": "2026-08-04T21:14:35.198Z",
   "entries": [
+    {
+      "id": "u_a14c707",
+      "sentAt": "2026-08-04T21:14:35.198Z",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains."
+    },
+    {
+      "id": "u_70242c3c",
+      "sentAt": "2026-08-04T21:14:35.198Z",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress"
+    },
+    {
+      "id": "u_31f87848",
+      "sentAt": "2026-08-04T21:14:35.198Z",
+      "title": "Third-party cyber evaluations involving OpenAI models"
+    },
+    {
+      "id": "u_a7ea2acb",
+      "sentAt": "2026-08-04T21:14:35.198Z",
+      "title": "AI agents get better at IT ops, but only with humans in the loop - Computerworld"
+    },
+    {
+      "id": "u_c134e3f8",
+      "sentAt": "2026-08-04T21:14:35.198Z",
+      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use"
+    },
     {
       "id": "u_9d15b007",
       "sentAt": "2026-08-04T19:40:45.130Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e9bf135b",
       "sentAt": "2026-07-10T17:49:23.852Z",
       "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal"
-    },
-    {
-      "id": "u_e34b6252",
-      "sentAt": "2026-07-10T17:49:23.852Z",
-      "title": "OpenWiki Brains: Proactive Memory for AI Agents"
-    },
-    {
-      "id": "u_f4137968",
-      "sentAt": "2026-07-10T14:33:45.190Z",
-      "title": "ERC-8004's Trust Challenge: Can AI Agents Rely on It?"
-    },
-    {
-      "id": "u_2ce076fb",
-      "sentAt": "2026-07-10T14:33:45.190Z",
-      "title": "Breaking Barriers in Soft Robotics with Faster Simulations"
-    },
-    {
-      "id": "u_59c714dc",
-      "sentAt": "2026-07-10T14:33:45.190Z",
-      "title": "Compositional Visual Reasoning: The Next Frontier in AI"
-    },
-    {
-      "id": "u_647a2cec",
-      "sentAt": "2026-07-10T14:33:45.190Z",
-      "title": "K-Risk Dataset: The major shift for Autonomous Driving Safeguards"
     }
   ]
 }
