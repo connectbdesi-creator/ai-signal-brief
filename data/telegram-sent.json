@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-03T23:04:13.295Z",
+  "updatedAt": "2026-08-04T02:47:16.656Z",
   "entries": [
+    {
+      "id": "u_f65d9d5b",
+      "sentAt": "2026-08-04T02:47:16.656Z",
+      "title": "Quoting Steve Yegge"
+    },
+    {
+      "id": "u_e59149d3",
+      "sentAt": "2026-08-04T02:47:16.656Z",
+      "title": "Paris Saint-Germain Secures Multi-Year Partnership with Google, Welcoming Gemini and Pixel to Club Ecosystem - Ministry of Sport"
+    },
+    {
+      "id": "u_33a884f5",
+      "sentAt": "2026-08-04T02:47:16.656Z",
+      "title": "UK launches inaugural AI degree program this fall - The Lexington Times"
+    },
+    {
+      "id": "u_dacf1c5a",
+      "sentAt": "2026-08-04T02:47:16.656Z",
+      "title": "Evaluating Multimodal Vision Models with Moonshot PerceptionBench Using Robust Data Loading and Automated Judging"
+    },
+    {
+      "id": "u_a523c252",
+      "sentAt": "2026-08-04T02:47:16.656Z",
+      "title": "I created an autonomous boxing benchmark [D]"
+    },
     {
       "id": "u_cf94e180",
       "sentAt": "2026-08-03T23:04:13.295Z",
@@ -4975,31 +5000,6 @@
       "id": "u_441741ca",
       "sentAt": "2026-07-09T21:36:53.548Z",
       "title": "Syracuse University Launches Uniquely Comprehensive AI Academic Portfolio - Newhouse School at Syracuse University"
-    },
-    {
-      "id": "u_2b094ed3",
-      "sentAt": "2026-07-09T21:36:53.548Z",
-      "title": "Endicott College Launches NEs First Artificial Intelligence Degree Program - Patch"
-    },
-    {
-      "id": "u_d0d36606",
-      "sentAt": "2026-07-09T19:58:22.750Z",
-      "title": "The new GPT-5.6 family: Luna, Terra, Sol"
-    },
-    {
-      "id": "u_4def3d15",
-      "sentAt": "2026-07-09T19:58:22.750Z",
-      "title": "Meet Nemotron Labs 3 Puzzle 75B A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput"
-    },
-    {
-      "id": "u_a0c1392d",
-      "sentAt": "2026-07-09T19:58:22.750Z",
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial"
-    },
-    {
-      "id": "u_eb8c4d5d",
-      "sentAt": "2026-07-09T19:58:22.750Z",
-      "title": "OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns"
     }
   ]
 }
