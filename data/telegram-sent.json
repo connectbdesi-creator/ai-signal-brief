@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-04T17:51:09.453Z",
+  "updatedAt": "2026-08-04T19:40:45.130Z",
   "entries": [
+    {
+      "id": "u_9d15b007",
+      "sentAt": "2026-08-04T19:40:45.130Z",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress"
+    },
+    {
+      "id": "u_a6f01c90",
+      "sentAt": "2026-08-04T19:40:45.130Z",
+      "title": "PipeNetwork/minimax-h3-mlx"
+    },
+    {
+      "id": "u_45a65aec",
+      "sentAt": "2026-08-04T19:40:45.130Z",
+      "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding"
+    },
+    {
+      "id": "u_621438cf",
+      "sentAt": "2026-08-04T19:40:45.130Z",
+      "title": "Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks"
+    },
+    {
+      "id": "u_b0c4677c",
+      "sentAt": "2026-08-04T19:40:45.130Z",
+      "title": "How to Evaluate Voice Agents with LangSmith"
+    },
     {
       "id": "u_c23c4f2d",
       "sentAt": "2026-08-04T17:51:09.453Z",
@@ -4975,31 +5000,6 @@
       "id": "u_647a2cec",
       "sentAt": "2026-07-10T14:33:45.190Z",
       "title": "K-Risk Dataset: The major shift for Autonomous Driving Safeguards"
-    },
-    {
-      "id": "u_ecf30792",
-      "sentAt": "2026-07-10T14:33:45.190Z",
-      "title": "Emotional Intelligence in AI: A New Framework for Multimodal Models"
-    },
-    {
-      "id": "u_4f92c251",
-      "sentAt": "2026-07-10T10:57:55.157Z",
-      "title": "CarbonCLIP: Transforming Urban Emissions Modeling with AI"
-    },
-    {
-      "id": "u_4589468e",
-      "sentAt": "2026-07-10T10:57:55.157Z",
-      "title": "In-Context Search: A Leap in Language Model Reasoning"
-    },
-    {
-      "id": "u_773a6aa2",
-      "sentAt": "2026-07-10T10:57:55.157Z",
-      "title": "Turning LLM Reasoning into an Industrial Asset with ROAM"
-    },
-    {
-      "id": "u_a091ed71",
-      "sentAt": "2026-07-10T10:57:55.157Z",
-      "title": "Gimitest Puts Reinforcement Learning Through Its Paces"
     }
   ]
 }
