@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-04T02:47:16.656Z",
+  "updatedAt": "2026-08-04T06:30:12.670Z",
   "entries": [
+    {
+      "id": "u_81ef9c64",
+      "sentAt": "2026-08-04T06:30:12.670Z",
+      "title": "AIJRF Launches advanced Agentic AI Media Program - intlbm"
+    },
+    {
+      "id": "u_6650154b",
+      "sentAt": "2026-08-04T06:30:12.670Z",
+      "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web"
+    },
+    {
+      "id": "u_fc6bb84b",
+      "sentAt": "2026-08-04T06:30:12.670Z",
+      "title": "The next step in AI cost saving: treating frontier models like expensive consultants"
+    },
+    {
+      "id": "u_7a100e32",
+      "sentAt": "2026-08-04T06:30:12.670Z",
+      "title": "AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents"
+    },
+    {
+      "id": "u_9d749772",
+      "sentAt": "2026-08-04T06:30:12.670Z",
+      "title": "DLLM-TTS: Block Discrete Diffusion Language Model for Text-to-Speech Synthesis"
+    },
     {
       "id": "u_f65d9d5b",
       "sentAt": "2026-08-04T02:47:16.656Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3dd638cf",
       "sentAt": "2026-07-09T23:14:26.449Z",
       "title": "OpenAI Intros GPT-Live Models: What Does That Mean?"
-    },
-    {
-      "id": "u_321bd6e1",
-      "sentAt": "2026-07-09T23:14:26.449Z",
-      "title": "Instagram’s AI image generator alarms privacy experts"
-    },
-    {
-      "id": "u_36ae3204",
-      "sentAt": "2026-07-09T21:36:53.548Z",
-      "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API"
-    },
-    {
-      "id": "u_e51ab75e",
-      "sentAt": "2026-07-09T21:36:53.548Z",
-      "title": "The ChatGPT browser is already dead"
-    },
-    {
-      "id": "u_c3504445",
-      "sentAt": "2026-07-09T21:36:53.548Z",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts"
-    },
-    {
-      "id": "u_441741ca",
-      "sentAt": "2026-07-09T21:36:53.548Z",
-      "title": "Syracuse University Launches Uniquely Comprehensive AI Academic Portfolio - Newhouse School at Syracuse University"
     }
   ]
 }
