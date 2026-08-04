@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-04T06:30:12.670Z",
+  "updatedAt": "2026-08-04T10:42:19.567Z",
   "entries": [
+    {
+      "id": "u_2bff153b",
+      "sentAt": "2026-08-04T10:42:19.567Z",
+      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague"
+    },
+    {
+      "id": "u_5c0a4d5f",
+      "sentAt": "2026-08-04T10:42:19.567Z",
+      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague"
+    },
+    {
+      "id": "u_28f48135",
+      "sentAt": "2026-08-04T10:42:19.567Z",
+      "title": "Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive"
+    },
+    {
+      "id": "u_6b688364",
+      "sentAt": "2026-08-04T10:42:19.567Z",
+      "title": "Mistral Is in the Right Place at the Right Time"
+    },
+    {
+      "id": "u_9e0ed45c",
+      "sentAt": "2026-08-04T10:42:19.567Z",
+      "title": "Mistral Is in the Right Place at the Right Time"
+    },
     {
       "id": "u_81ef9c64",
       "sentAt": "2026-08-04T06:30:12.670Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ec7a41c",
       "sentAt": "2026-07-10T03:37:30.250Z",
       "title": "Safety and innovation are complementary for the future of agentic AI - University of South Florida"
-    },
-    {
-      "id": "u_f7932179",
-      "sentAt": "2026-07-10T03:37:30.250Z",
-      "title": "An AI agent startup just let its agent run its $100 million fundraise"
-    },
-    {
-      "id": "u_1b96acf8",
-      "sentAt": "2026-07-09T23:14:26.449Z",
-      "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API"
-    },
-    {
-      "id": "u_31bc0120",
-      "sentAt": "2026-07-09T23:14:26.449Z",
-      "title": "OpenAI launches its new family of models with GPT-5.6"
-    },
-    {
-      "id": "u_cbf15970",
-      "sentAt": "2026-07-09T23:14:26.449Z",
-      "title": "Human-Level Hands? 1X Just Gave Humanoid Robot Neo Something Close"
-    },
-    {
-      "id": "u_3dd638cf",
-      "sentAt": "2026-07-09T23:14:26.449Z",
-      "title": "OpenAI Intros GPT-Live Models: What Does That Mean?"
     }
   ]
 }
