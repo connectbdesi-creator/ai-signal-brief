@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-04T10:42:19.567Z",
+  "updatedAt": "2026-08-04T14:22:05.443Z",
   "entries": [
+    {
+      "id": "u_b7022552",
+      "sentAt": "2026-08-04T14:22:05.443Z",
+      "title": "I built a DwarfStar-inspired Vulkan/Metal inference engine for Qwen3.6-35B-A3B on 16 GB machines"
+    },
+    {
+      "id": "u_e950d6bd",
+      "sentAt": "2026-08-04T14:22:05.443Z",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out"
+    },
+    {
+      "id": "u_4dc2a136",
+      "sentAt": "2026-08-04T14:22:05.443Z",
+      "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI"
+    },
+    {
+      "id": "u_c8f397ed",
+      "sentAt": "2026-08-04T14:22:05.443Z",
+      "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI"
+    },
+    {
+      "id": "u_39435d9a",
+      "sentAt": "2026-08-04T14:22:05.443Z",
+      "title": "Using Agents as Tools"
+    },
     {
       "id": "u_2bff153b",
       "sentAt": "2026-08-04T10:42:19.567Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e0077ccd",
       "sentAt": "2026-07-10T07:39:20.520Z",
       "title": "Investment AI: Are Language Models Truly Ready for Wall Street?"
-    },
-    {
-      "id": "u_cfe11cc6",
-      "sentAt": "2026-07-10T07:39:20.520Z",
-      "title": "Meet LingBot-World-Infinity: An Open Causal World Model With An Agentic Harness"
-    },
-    {
-      "id": "u_8c8e0533",
-      "sentAt": "2026-07-10T03:37:30.250Z",
-      "title": "Quoting OpenAI"
-    },
-    {
-      "id": "u_ad319976",
-      "sentAt": "2026-07-10T03:37:30.250Z",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter"
-    },
-    {
-      "id": "u_57de7fcc",
-      "sentAt": "2026-07-10T03:37:30.250Z",
-      "title": "OpenAI's No. 2 executive steps down over health issues"
-    },
-    {
-      "id": "u_ec7a41c",
-      "sentAt": "2026-07-10T03:37:30.250Z",
-      "title": "Safety and innovation are complementary for the future of agentic AI - University of South Florida"
     }
   ]
 }
