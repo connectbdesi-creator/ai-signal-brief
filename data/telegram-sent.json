@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-05T17:42:04.922Z",
+  "updatedAt": "2026-08-05T19:39:12.284Z",
   "entries": [
+    {
+      "id": "u_42602135",
+      "sentAt": "2026-08-05T19:39:12.284Z",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup"
+    },
+    {
+      "id": "u_bcdf7af6",
+      "sentAt": "2026-08-05T19:39:12.284Z",
+      "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI"
+    },
+    {
+      "id": "u_d0e98788",
+      "sentAt": "2026-08-05T19:39:12.284Z",
+      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock"
+    },
+    {
+      "id": "u_aa0acf71",
+      "sentAt": "2026-08-05T19:39:12.284Z",
+      "title": "AI Worms and Viruses Are Coming"
+    },
+    {
+      "id": "u_d584a153",
+      "sentAt": "2026-08-05T19:39:12.284Z",
+      "title": "AI Worms and Viruses Are Coming"
+    },
     {
       "id": "u_aa247091",
       "sentAt": "2026-08-05T17:42:04.922Z",
@@ -4975,31 +5000,6 @@
       "id": "u_386d666b",
       "sentAt": "2026-07-11T11:08:07.802Z",
       "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees"
-    },
-    {
-      "id": "u_e8977bc1",
-      "sentAt": "2026-07-11T11:08:07.802Z",
-      "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development - The Globe and Mail"
-    },
-    {
-      "id": "u_66652b38",
-      "sentAt": "2026-07-11T09:40:36.714Z",
-      "title": "Vision-Language Models: The New Frontier in Medical Imaging?"
-    },
-    {
-      "id": "u_e173e8b5",
-      "sentAt": "2026-07-11T09:40:36.714Z",
-      "title": "MolSight: A New Era in Molecular Image Understanding"
-    },
-    {
-      "id": "u_2f11a07f",
-      "sentAt": "2026-07-11T09:40:36.714Z",
-      "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label"
-    },
-    {
-      "id": "u_33b26c7d",
-      "sentAt": "2026-07-11T09:40:36.714Z",
-      "title": "Japan weighing AI agents for understaffed local governments - The Japan Times"
     }
   ]
 }
