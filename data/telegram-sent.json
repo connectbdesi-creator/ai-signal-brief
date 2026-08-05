@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-05T10:38:32.690Z",
+  "updatedAt": "2026-08-05T14:15:06.099Z",
   "entries": [
+    {
+      "id": "u_ccedda66",
+      "sentAt": "2026-08-05T14:15:06.099Z",
+      "title": "Anthropic is hiring an AI chip design team"
+    },
+    {
+      "id": "u_208573d4",
+      "sentAt": "2026-08-05T14:15:06.099Z",
+      "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0"
+    },
+    {
+      "id": "u_99f188af",
+      "sentAt": "2026-08-05T14:15:06.099Z",
+      "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0"
+    },
+    {
+      "id": "u_a2ba3d0a",
+      "sentAt": "2026-08-05T14:15:06.099Z",
+      "title": "A debate is brewing over the risks and rewards of serving ads to AI agents"
+    },
+    {
+      "id": "u_ed2ad85b",
+      "sentAt": "2026-08-05T14:15:06.099Z",
+      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon"
+    },
     {
       "id": "u_1994dda5",
       "sentAt": "2026-08-05T10:38:32.690Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5cdc1409",
       "sentAt": "2026-07-11T06:17:09.809Z",
       "title": "NVIDIA's Open Models Take Center Stage at ICML 2026"
-    },
-    {
-      "id": "u_23dbc8be",
-      "sentAt": "2026-07-11T06:17:09.809Z",
-      "title": "A Luxury Fashion Retailer in Bahrain Launches Its Own AI Personal Stylist - WWD"
-    },
-    {
-      "id": "u_2712ea8",
-      "sentAt": "2026-07-11T02:52:10.594Z",
-      "title": "CompactionRL: Redefining Long-Horizon Learning for LLMs"
-    },
-    {
-      "id": "u_f40c2840",
-      "sentAt": "2026-07-11T02:52:10.594Z",
-      "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI"
-    },
-    {
-      "id": "u_4fb6680e",
-      "sentAt": "2026-07-11T02:52:10.594Z",
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue"
-    },
-    {
-      "id": "u_51258536",
-      "sentAt": "2026-07-11T02:52:10.594Z",
-      "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity"
     }
   ]
 }
