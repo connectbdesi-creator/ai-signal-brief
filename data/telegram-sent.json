@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-05T21:13:28.370Z",
+  "updatedAt": "2026-08-05T23:03:02.647Z",
   "entries": [
+    {
+      "id": "u_90cb8fc1",
+      "sentAt": "2026-08-05T23:03:02.647Z",
+      "title": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent"
+    },
+    {
+      "id": "u_f3b2106",
+      "sentAt": "2026-08-05T23:03:02.647Z",
+      "title": "Meta launches Muse Code, an AI agent for large code bases"
+    },
+    {
+      "id": "u_e97819ac",
+      "sentAt": "2026-08-05T23:03:02.647Z",
+      "title": "NSF Launches $100M Program to Expand Regional AI Research Infrastructure - ExecutiveGov"
+    },
+    {
+      "id": "u_73fe8a33",
+      "sentAt": "2026-08-05T23:03:02.647Z",
+      "title": "AI safety warnings mount as frontier models test new limits - WBFF"
+    },
+    {
+      "id": "u_57c1ec5b",
+      "sentAt": "2026-08-05T23:03:02.647Z",
+      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools"
+    },
     {
       "id": "u_58aad755",
       "sentAt": "2026-08-05T21:13:28.370Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1a1a924",
       "sentAt": "2026-07-11T14:57:21.209Z",
       "title": "That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It"
-    },
-    {
-      "id": "u_6dd80807",
-      "sentAt": "2026-07-11T14:57:21.209Z",
-      "title": "Colibrì proof-of-concept gains frontier-level 1.5-TB AI model — novel approach runs on only 25GB of RAM and shows promise for local AI setups - Tom's Hardware"
-    },
-    {
-      "id": "u_8bc1640c",
-      "sentAt": "2026-07-11T13:25:52.830Z",
-      "title": "How OpenAI's Codex Just Made Copy-Paste Smarter"
-    },
-    {
-      "id": "u_3133dc1d",
-      "sentAt": "2026-07-11T13:25:52.830Z",
-      "title": "Anthropic's Fable 5: The AI Model Battleground"
-    },
-    {
-      "id": "u_c5308c72",
-      "sentAt": "2026-07-11T13:25:52.830Z",
-      "title": "Why Vision-Language-Action Models Are Shaping the Future of Robotics"
-    },
-    {
-      "id": "u_9c9b533",
-      "sentAt": "2026-07-11T13:25:52.830Z",
-      "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth"
     }
   ]
 }
