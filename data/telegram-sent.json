@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-05T06:30:49.288Z",
+  "updatedAt": "2026-08-05T10:38:32.690Z",
   "entries": [
+    {
+      "id": "u_1994dda5",
+      "sentAt": "2026-08-05T10:38:32.690Z",
+      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon"
+    },
+    {
+      "id": "u_e3ebf5a0",
+      "sentAt": "2026-08-05T10:38:32.690Z",
+      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted"
+    },
+    {
+      "id": "u_3bf97c49",
+      "sentAt": "2026-08-05T10:38:32.690Z",
+      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted"
+    },
+    {
+      "id": "u_753ff7",
+      "sentAt": "2026-08-05T10:38:32.690Z",
+      "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs - AI News"
+    },
+    {
+      "id": "u_dc34357e",
+      "sentAt": "2026-08-05T10:38:32.690Z",
+      "title": "Trump's golden age reality check"
+    },
     {
       "id": "u_1b22f08c",
       "sentAt": "2026-08-05T06:30:49.288Z",
@@ -4975,31 +5000,6 @@
       "id": "u_51258536",
       "sentAt": "2026-07-11T02:52:10.594Z",
       "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity"
-    },
-    {
-      "id": "u_8138c069",
-      "sentAt": "2026-07-11T02:52:10.594Z",
-      "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_f71f6141",
-      "sentAt": "2026-07-10T23:01:05.069Z",
-      "title": "Securing AI Agents: A New Approach to Multi-Tool Security"
-    },
-    {
-      "id": "u_fc0acf37",
-      "sentAt": "2026-07-10T23:01:05.069Z",
-      "title": "Vision-Language Models with Text as a Constraint"
-    },
-    {
-      "id": "u_3ea11ced",
-      "sentAt": "2026-07-10T23:01:05.069Z",
-      "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\""
-    },
-    {
-      "id": "u_b9608879",
-      "sentAt": "2026-07-10T23:01:05.069Z",
-      "title": "OpenAI Launches GPT-5.6 as Agentic AI Shifts ETF Outlook - ETF Database"
     }
   ]
 }
