@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-05T14:15:06.099Z",
+  "updatedAt": "2026-08-05T17:42:04.922Z",
   "entries": [
+    {
+      "id": "u_aa247091",
+      "sentAt": "2026-08-05T17:42:04.922Z",
+      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously"
+    },
+    {
+      "id": "u_3964acf9",
+      "sentAt": "2026-08-05T17:42:04.922Z",
+      "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously"
+    },
+    {
+      "id": "u_10d9d7f9",
+      "sentAt": "2026-08-05T17:42:04.922Z",
+      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size"
+    },
+    {
+      "id": "u_b9329f52",
+      "sentAt": "2026-08-05T17:42:04.922Z",
+      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size"
+    },
+    {
+      "id": "u_d170cb46",
+      "sentAt": "2026-08-05T17:42:04.922Z",
+      "title": "How we built an autonomous SRE agent for Kubernetes"
+    },
     {
       "id": "u_ccedda66",
       "sentAt": "2026-08-05T14:15:06.099Z",
@@ -4975,31 +5000,6 @@
       "id": "u_33b26c7d",
       "sentAt": "2026-07-11T09:40:36.714Z",
       "title": "Japan weighing AI agents for understaffed local governments - The Japan Times"
-    },
-    {
-      "id": "u_27f247",
-      "sentAt": "2026-07-11T09:40:36.714Z",
-      "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs"
-    },
-    {
-      "id": "u_72b7a733",
-      "sentAt": "2026-07-11T06:17:09.809Z",
-      "title": "The Great AI Shift: Why Open-Source Models Are Taking Over"
-    },
-    {
-      "id": "u_2126c379",
-      "sentAt": "2026-07-11T06:17:09.809Z",
-      "title": "Untangling AI: Why Loop and Harness Engineering Are Critical for AI Agents"
-    },
-    {
-      "id": "u_5e048606",
-      "sentAt": "2026-07-11T06:17:09.809Z",
-      "title": "The Critic-Agent Loop: A Path to Reliable AI"
-    },
-    {
-      "id": "u_5cdc1409",
-      "sentAt": "2026-07-11T06:17:09.809Z",
-      "title": "NVIDIA's Open Models Take Center Stage at ICML 2026"
     }
   ]
 }
