@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-04T23:05:41.139Z",
+  "updatedAt": "2026-08-05T02:44:52.103Z",
   "entries": [
+    {
+      "id": "u_3e421ae8",
+      "sentAt": "2026-08-05T02:44:52.103Z",
+      "title": "AMD executives say the chip company has a key advantage over Nvidia: being more open"
+    },
+    {
+      "id": "u_f26d649b",
+      "sentAt": "2026-08-05T02:44:52.103Z",
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging"
+    },
+    {
+      "id": "u_4b14dada",
+      "sentAt": "2026-08-05T02:44:52.103Z",
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging"
+    },
+    {
+      "id": "u_5c18a747",
+      "sentAt": "2026-08-05T02:44:52.103Z",
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again"
+    },
+    {
+      "id": "u_a00e8c01",
+      "sentAt": "2026-08-05T02:44:52.103Z",
+      "title": "OK, Well, There Are Even More AI Agent Hacking Incidents"
+    },
     {
       "id": "u_33e44df3",
       "sentAt": "2026-08-04T23:05:41.139Z",
@@ -4975,31 +5000,6 @@
       "id": "u_40d16185",
       "sentAt": "2026-07-10T21:08:33.274Z",
       "title": "SpatialThinker: Revolutionizing Spatial Reasoning in AI"
-    },
-    {
-      "id": "u_4c3c93e0",
-      "sentAt": "2026-07-10T21:08:33.274Z",
-      "title": "AI Tutors: Answer-Driven or Just Well-Formatted?"
-    },
-    {
-      "id": "u_6052e4aa",
-      "sentAt": "2026-07-10T19:37:25.565Z",
-      "title": "Toshio Fukuda: The Robotics Legend You Need to Know"
-    },
-    {
-      "id": "u_1562acca",
-      "sentAt": "2026-07-10T19:37:25.565Z",
-      "title": "ABB Robotics Unveils Flexley Stack F712: The Future of Autonomous Forklifts"
-    },
-    {
-      "id": "u_55081931",
-      "sentAt": "2026-07-10T19:37:25.565Z",
-      "title": "ABB Robotics Unveils Game-Changing Autonomous Forklift with vSLAM Technology"
-    },
-    {
-      "id": "u_b8ca1cc8",
-      "sentAt": "2026-07-10T19:37:25.565Z",
-      "title": "Meta's Muse Image Model: A New Era for AI Creativity"
     }
   ]
 }
