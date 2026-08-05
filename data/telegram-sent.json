@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-05T19:39:12.284Z",
+  "updatedAt": "2026-08-05T21:13:28.370Z",
   "entries": [
+    {
+      "id": "u_58aad755",
+      "sentAt": "2026-08-05T21:13:28.370Z",
+      "title": "Meta AI Releases Muse Code: A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model"
+    },
+    {
+      "id": "u_90db82c5",
+      "sentAt": "2026-08-05T21:13:28.370Z",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders"
+    },
+    {
+      "id": "u_de4fad0a",
+      "sentAt": "2026-08-05T21:13:28.370Z",
+      "title": "One-shotting a Raccoon Heist game using Claude Fable 5"
+    },
+    {
+      "id": "u_3729fa22",
+      "sentAt": "2026-08-05T21:13:28.370Z",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup"
+    },
+    {
+      "id": "u_42fb7b91",
+      "sentAt": "2026-08-05T21:13:28.370Z",
+      "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore"
+    },
     {
       "id": "u_42602135",
       "sentAt": "2026-08-05T19:39:12.284Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9c9b533",
       "sentAt": "2026-07-11T13:25:52.830Z",
       "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth"
-    },
-    {
-      "id": "u_fba8188a",
-      "sentAt": "2026-07-11T13:25:52.830Z",
-      "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_f7b35619",
-      "sentAt": "2026-07-11T11:08:07.802Z",
-      "title": "Asymmetric Representation Learning: A New Neural Divergence Head"
-    },
-    {
-      "id": "u_d37e9dd",
-      "sentAt": "2026-07-11T11:08:07.802Z",
-      "title": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI"
-    },
-    {
-      "id": "u_1980e23a",
-      "sentAt": "2026-07-11T11:08:07.802Z",
-      "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development - The Motley Fool"
-    },
-    {
-      "id": "u_386d666b",
-      "sentAt": "2026-07-11T11:08:07.802Z",
-      "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees"
     }
   ]
 }
