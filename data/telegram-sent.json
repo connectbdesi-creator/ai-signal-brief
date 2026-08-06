@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-05T23:03:02.647Z",
+  "updatedAt": "2026-08-06T02:47:40.707Z",
   "entries": [
+    {
+      "id": "u_e32abfc9",
+      "sentAt": "2026-08-06T02:47:40.707Z",
+      "title": "Three’s company: Meta says its AI agents went rogue during testing, too"
+    },
+    {
+      "id": "u_1b261459",
+      "sentAt": "2026-08-06T02:47:40.707Z",
+      "title": "Meta says AI model accessed the internet and hacked another firm"
+    },
+    {
+      "id": "u_2704ae7f",
+      "sentAt": "2026-08-06T02:47:40.707Z",
+      "title": "How OpenAI's agents broke out of testing to hack Hugging Face"
+    },
+    {
+      "id": "u_502f9c60",
+      "sentAt": "2026-08-06T02:47:40.707Z",
+      "title": "OpenAI and Anthropic's AI Models Used Fake Profiles to Trick Developers in Safety Tests - Android Headlines"
+    },
+    {
+      "id": "u_13afedfa",
+      "sentAt": "2026-08-06T02:47:40.707Z",
+      "title": "Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses"
+    },
     {
       "id": "u_90cb8fc1",
       "sentAt": "2026-08-05T23:03:02.647Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2ea0d1f8",
       "sentAt": "2026-07-11T19:08:51.918Z",
       "title": "AI Chatbots: New Tools in the Hands of Terrorists"
-    },
-    {
-      "id": "u_6537e70f",
-      "sentAt": "2026-07-11T19:08:51.918Z",
-      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development"
-    },
-    {
-      "id": "u_91e1a7b0",
-      "sentAt": "2026-07-11T19:08:51.918Z",
-      "title": "VultronRetriever family of models released on HuggingFace![R]"
-    },
-    {
-      "id": "u_8e6d209f",
-      "sentAt": "2026-07-11T17:01:07.934Z",
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households"
-    },
-    {
-      "id": "u_ca5d4e8d",
-      "sentAt": "2026-07-11T17:01:07.934Z",
-      "title": "Micron CEO Sanjay Mehrotra Announces $250 Billion Investment for Expanded Artificial Intelligence (AI) Memory Chip Development - The Globe and Mail"
-    },
-    {
-      "id": "u_1a1a924",
-      "sentAt": "2026-07-11T14:57:21.209Z",
-      "title": "That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It"
     }
   ]
 }
