@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-06T10:48:11.424Z",
+  "updatedAt": "2026-08-07T00:04:45.509Z",
   "entries": [
+    {
+      "id": "u_88e3336e",
+      "sentAt": "2026-08-07T00:04:45.509Z",
+      "title": "Meta’s Muse Spark 1.1 hacked an external organization during cybersecurity test"
+    },
+    {
+      "id": "u_30e60a3b",
+      "sentAt": "2026-08-07T00:04:45.509Z",
+      "title": "AMD acquires Taalas to hardwire AI models into silicon"
+    },
+    {
+      "id": "u_b2d59632",
+      "sentAt": "2026-08-07T00:04:45.509Z",
+      "title": "UCO launches new artificial intelligence degree programs this Fall - News 9"
+    },
+    {
+      "id": "u_d294d87e",
+      "sentAt": "2026-08-07T00:04:45.509Z",
+      "title": "AI designs new virus not found in nature"
+    },
+    {
+      "id": "u_1034a474",
+      "sentAt": "2026-08-07T00:04:45.509Z",
+      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker"
+    },
     {
       "id": "u_7b3512c7",
       "sentAt": "2026-08-06T10:48:11.424Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2da8a766",
       "sentAt": "2026-07-12T09:53:21.854Z",
       "title": "Overplane's New AI Model: Stripping Away the Hype"
-    },
-    {
-      "id": "u_c2461a46",
-      "sentAt": "2026-07-12T09:53:21.854Z",
-      "title": "China's DeepSeek Ventures into AI Chips: A Strategic Move"
-    },
-    {
-      "id": "u_d7383f56",
-      "sentAt": "2026-07-12T09:53:21.854Z",
-      "title": "Stripe's New Offering Sparks Interest, But Questions Remain"
-    },
-    {
-      "id": "u_3a4fa712",
-      "sentAt": "2026-07-12T09:53:21.854Z",
-      "title": "AI Agents Slay the Spire with New Memory Trick"
-    },
-    {
-      "id": "u_94b378b6",
-      "sentAt": "2026-07-12T09:53:21.854Z",
-      "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory"
-    },
-    {
-      "id": "u_451a8ad",
-      "sentAt": "2026-07-12T06:36:08.488Z",
-      "title": "Artificial Intelligence is Reshaping the US Financial Market; EX DeFi Launches AI-Driven Trading Technology - The Manila Times"
     }
   ]
 }
