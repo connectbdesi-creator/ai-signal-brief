@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T00:04:45.509Z",
+  "updatedAt": "2026-08-07T04:27:47.248Z",
   "entries": [
+    {
+      "id": "u_f43f354f",
+      "sentAt": "2026-08-07T04:27:47.248Z",
+      "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights"
+    },
+    {
+      "id": "u_3b8380b3",
+      "sentAt": "2026-08-07T04:27:47.248Z",
+      "title": "Naïve bags $28.5M in funding to automate the creation and day-to-day running of almost any business"
+    },
+    {
+      "id": "u_32da6d71",
+      "sentAt": "2026-08-07T04:27:47.248Z",
+      "title": "Bowie State University to launch bachelor's degree in artificial intelligence this fall - WUSA9"
+    },
+    {
+      "id": "u_d1f05c1d",
+      "sentAt": "2026-08-07T04:27:47.248Z",
+      "title": "Optical networking startup Lumilens launches with $900M in funding"
+    },
+    {
+      "id": "u_8debac98",
+      "sentAt": "2026-08-07T04:27:47.248Z",
+      "title": "Alibaba’s latest AI model puts it back in the great game"
+    },
     {
       "id": "u_88e3336e",
       "sentAt": "2026-08-07T00:04:45.509Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bf4f3f0e",
       "sentAt": "2026-07-12T11:13:42.846Z",
       "title": "A New Player Emerges in AI Performance Testing"
-    },
-    {
-      "id": "u_ff09e535",
-      "sentAt": "2026-07-12T11:13:42.846Z",
-      "title": "Sanbox: Isolated AI Agents with MicroVM Precision"
-    },
-    {
-      "id": "u_eac45",
-      "sentAt": "2026-07-12T11:13:42.846Z",
-      "title": "AI Model Training: Why Your Data Might Be Holding You Back"
-    },
-    {
-      "id": "u_2f1c6d4a",
-      "sentAt": "2026-07-12T11:13:42.846Z",
-      "title": "AI-Driven Video Creation: The Next Frontier in Viral Content?"
-    },
-    {
-      "id": "u_2fb78b20",
-      "sentAt": "2026-07-12T11:13:42.846Z",
-      "title": "Lip Sync AI: The Future of Talking Videos"
-    },
-    {
-      "id": "u_2da8a766",
-      "sentAt": "2026-07-12T09:53:21.854Z",
-      "title": "Overplane's New AI Model: Stripping Away the Hype"
     }
   ]
 }
