@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T16:56:36.796Z",
+  "updatedAt": "2026-08-07T19:01:07.603Z",
   "entries": [
+    {
+      "id": "u_52087221",
+      "sentAt": "2026-08-07T19:01:07.603Z",
+      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon"
+    },
+    {
+      "id": "u_650c0913",
+      "sentAt": "2026-08-07T19:01:07.603Z",
+      "title": "Watch the OpenAI Hugging Face presentation that people are calling a 'holy %{*#^' moment in AI"
+    },
+    {
+      "id": "u_1b4264b6",
+      "sentAt": "2026-08-07T19:01:07.603Z",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents"
+    },
+    {
+      "id": "u_e586c323",
+      "sentAt": "2026-08-07T19:01:07.603Z",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers"
+    },
+    {
+      "id": "u_6d1315b8",
+      "sentAt": "2026-08-07T19:01:07.603Z",
+      "title": "​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]"
+    },
     {
       "id": "u_788dba74",
       "sentAt": "2026-08-07T16:56:36.796Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a0f84640",
       "sentAt": "2026-07-13T11:15:05.634Z",
       "title": "LLM Agents Turn Up the Heat on IoT Vulnerabilities"
-    },
-    {
-      "id": "u_5a570148",
-      "sentAt": "2026-07-13T11:15:05.634Z",
-      "title": "From GPUs to Human Touch: Why Antons Davis Left Nvidia for Coaching"
-    },
-    {
-      "id": "u_297dd0e6",
-      "sentAt": "2026-07-13T06:56:44.672Z",
-      "title": "Evolving AI Agents: GRACE Enhances Long-Term Reliability"
-    },
-    {
-      "id": "u_57eaba87",
-      "sentAt": "2026-07-13T06:56:44.672Z",
-      "title": "VTaMo: A New Frontier in Sign Language Translation"
-    },
-    {
-      "id": "u_a633f7b1",
-      "sentAt": "2026-07-13T06:56:44.672Z",
-      "title": "Quiz Systems: The AI Strategy to Beat All Odds"
-    },
-    {
-      "id": "u_95cdda2c",
-      "sentAt": "2026-07-13T06:56:44.672Z",
-      "title": "Unpacking Idioms: A Cross-Linguistic Perspective"
     }
   ]
 }
