@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-07T20:43:51.403Z",
+  "updatedAt": "2026-08-07T22:38:58.736Z",
   "entries": [
+    {
+      "id": "u_cdf99c11",
+      "sentAt": "2026-08-07T22:38:58.736Z",
+      "title": "Agentic AI Is Breaking Security’s Human Assumptions"
+    },
+    {
+      "id": "u_76924c34",
+      "sentAt": "2026-08-07T22:38:58.736Z",
+      "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents"
+    },
+    {
+      "id": "u_20917696",
+      "sentAt": "2026-08-07T22:38:58.736Z",
+      "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class"
+    },
     {
       "id": "u_53a14623",
       "sentAt": "2026-08-07T20:43:51.403Z",
@@ -4985,21 +5000,6 @@
       "id": "u_b8e3abfc",
       "sentAt": "2026-07-13T14:40:37.647Z",
       "title": "China works on AI safety benchmark as regulators target large model risks - South China Morning Post"
-    },
-    {
-      "id": "u_489918fd",
-      "sentAt": "2026-07-13T14:40:37.647Z",
-      "title": "Apple Sues OpenAI — and the Stakes Are Bigger Than a Phone"
-    },
-    {
-      "id": "u_28bb3ce9",
-      "sentAt": "2026-07-13T14:40:37.647Z",
-      "title": "Israel Launches First Regulatory Sandbox for Artificial Intelligence in Healthcare - EIN News"
-    },
-    {
-      "id": "u_f47f125b",
-      "sentAt": "2026-07-13T14:40:37.647Z",
-      "title": "LLMbda Revolutionizes Security for AI Agents"
     }
   ]
 }
