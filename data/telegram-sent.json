@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T13:10:06.333Z",
+  "updatedAt": "2026-08-07T14:55:09.904Z",
   "entries": [
+    {
+      "id": "u_f042cc08",
+      "sentAt": "2026-08-07T14:55:09.904Z",
+      "title": "Geoffrey Hinton Warns AI May Outsmart Humans As Agents Escape Tests"
+    },
+    {
+      "id": "u_112e3f20",
+      "sentAt": "2026-08-07T14:55:09.904Z",
+      "title": "OpenAI’s Security Breach Was More Alarming Than We Knew"
+    },
+    {
+      "id": "u_8fbb0b7e",
+      "sentAt": "2026-08-07T14:55:09.904Z",
+      "title": "Menlo Security targets real-time AI agent security with MARS platform"
+    },
+    {
+      "id": "u_501884e9",
+      "sentAt": "2026-08-07T14:55:09.904Z",
+      "title": "Anyone running DeepSeek-V4-Flash-0731 on MI325X with vLLM? Mine is behaving completely broken"
+    },
+    {
+      "id": "u_bf320d3c",
+      "sentAt": "2026-08-07T14:55:09.904Z",
+      "title": "AMD to buy Taalas, maker of model-specific AI chips for enterprise inference - Network World"
+    },
     {
       "id": "u_da1b39aa",
       "sentAt": "2026-08-07T13:10:06.333Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bba070da",
       "sentAt": "2026-07-13T03:19:36.795Z",
       "title": "Guide to Loop Engineering: How ‘autoresearch’ and ‘Bilevel Autoresearch’ Turn AI Agents Into Autonomous Machine Learning ML Research Loops"
-    },
-    {
-      "id": "u_efe103ba",
-      "sentAt": "2026-07-12T22:53:44.811Z",
-      "title": "U.S. Export Controls Target Anthropic's AI: A Landmark Move"
-    },
-    {
-      "id": "u_21b45e31",
-      "sentAt": "2026-07-12T22:53:44.811Z",
-      "title": "Why GLM 5.2 May Be the Code Whisperer Developers Didn't Know They Needed"
-    },
-    {
-      "id": "u_1d783184",
-      "sentAt": "2026-07-12T22:53:44.811Z",
-      "title": "Gusto’s CTO Redefines Agile with a 10-Week AI Sprint"
-    },
-    {
-      "id": "u_ea2a6ead",
-      "sentAt": "2026-07-12T22:53:44.811Z",
-      "title": "Anthropic's Sonnet 5: A Frontier Model Under the Microscope"
-    },
-    {
-      "id": "u_1aa6d20a",
-      "sentAt": "2026-07-12T22:53:44.811Z",
-      "title": "Fable gets another bump"
     }
   ]
 }
