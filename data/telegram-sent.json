@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T19:01:07.603Z",
+  "updatedAt": "2026-08-07T20:43:51.403Z",
   "entries": [
+    {
+      "id": "u_53a14623",
+      "sentAt": "2026-08-07T20:43:51.403Z",
+      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time"
+    },
+    {
+      "id": "u_273518e4",
+      "sentAt": "2026-08-07T20:43:51.403Z",
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)"
+    },
+    {
+      "id": "u_ffe050ef",
+      "sentAt": "2026-08-07T20:43:51.403Z",
+      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful"
+    },
+    {
+      "id": "u_42458356",
+      "sentAt": "2026-08-07T20:43:51.403Z",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory"
+    },
+    {
+      "id": "u_77a0c5ef",
+      "sentAt": "2026-08-07T20:43:51.403Z",
+      "title": "My issue with Artificial Analysis's 'intelligence index'"
+    },
     {
       "id": "u_52087221",
       "sentAt": "2026-08-07T19:01:07.603Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f47f125b",
       "sentAt": "2026-07-13T14:40:37.647Z",
       "title": "LLMbda Revolutionizes Security for AI Agents"
-    },
-    {
-      "id": "u_3356782",
-      "sentAt": "2026-07-13T14:40:37.647Z",
-      "title": "Zero Trust in the Age of AI: A Double-Edged Sword?"
-    },
-    {
-      "id": "u_9ff80dc2",
-      "sentAt": "2026-07-13T11:15:05.634Z",
-      "title": "What was Meta's Muse AI, the feature pulled days after its launch? - Business Standard"
-    },
-    {
-      "id": "u_45e18140",
-      "sentAt": "2026-07-13T11:15:05.634Z",
-      "title": "BREW: Enhancing LLM Agents with Experience-Based Knowledge"
-    },
-    {
-      "id": "u_27375651",
-      "sentAt": "2026-07-13T11:15:05.634Z",
-      "title": "CLI Agent Failures: Why Early Detection Is Key"
-    },
-    {
-      "id": "u_a0f84640",
-      "sentAt": "2026-07-13T11:15:05.634Z",
-      "title": "LLM Agents Turn Up the Heat on IoT Vulnerabilities"
     }
   ]
 }
