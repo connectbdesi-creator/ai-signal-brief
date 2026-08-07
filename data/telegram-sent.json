@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T04:27:47.248Z",
+  "updatedAt": "2026-08-07T07:20:12.708Z",
   "entries": [
+    {
+      "id": "u_632953a5",
+      "sentAt": "2026-08-07T07:20:12.708Z",
+      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot"
+    },
+    {
+      "id": "u_afc737f7",
+      "sentAt": "2026-08-07T07:20:12.708Z",
+      "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market"
+    },
+    {
+      "id": "u_2e5307f1",
+      "sentAt": "2026-08-07T07:20:12.708Z",
+      "title": "AI Agent Attempted to Social Engineer Open Source Maintainer to Merge Malware"
+    },
+    {
+      "id": "u_cc9543bc",
+      "sentAt": "2026-08-07T07:20:12.708Z",
+      "title": "One of science fiction’s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel"
+    },
+    {
+      "id": "u_48976d51",
+      "sentAt": "2026-08-07T07:20:12.708Z",
+      "title": "Relay, Don't Route: Adaptive Population Handoff for Cost-Efficient LLM-Driven Evolution"
+    },
     {
       "id": "u_f43f354f",
       "sentAt": "2026-08-07T04:27:47.248Z",
@@ -4975,31 +5000,6 @@
       "id": "u_81e6d26e",
       "sentAt": "2026-07-12T13:26:53.984Z",
       "title": "Goldman Sachs Just Picked Its Chinese AI Winners — And the Open-Source Bet Is Massive"
-    },
-    {
-      "id": "u_298256ec",
-      "sentAt": "2026-07-12T13:26:53.984Z",
-      "title": "AI Is Flooding Open Source With Broken Code — and Maintainers Are Walking Away"
-    },
-    {
-      "id": "u_ae22c1b7",
-      "sentAt": "2026-07-12T13:26:53.984Z",
-      "title": "Musk vs. Altman: The $2 Trillion Fight Over Space Data Centers That Just Went Nuclear"
-    },
-    {
-      "id": "u_8a8a08f6",
-      "sentAt": "2026-07-12T13:26:53.984Z",
-      "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]"
-    },
-    {
-      "id": "u_b3919cc8",
-      "sentAt": "2026-07-12T13:26:53.984Z",
-      "title": "Daffodil International University launches AI Research Lab - Dhaka Tribune"
-    },
-    {
-      "id": "u_bf4f3f0e",
-      "sentAt": "2026-07-12T11:13:42.846Z",
-      "title": "A New Player Emerges in AI Performance Testing"
     }
   ]
 }
