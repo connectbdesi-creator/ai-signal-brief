@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T14:55:09.904Z",
+  "updatedAt": "2026-08-07T16:56:36.796Z",
   "entries": [
+    {
+      "id": "u_788dba74",
+      "sentAt": "2026-08-07T16:56:36.796Z",
+      "title": "How TReNDS automates root-cause analysis with Amazon Bedrock"
+    },
+    {
+      "id": "u_8dbc54ff",
+      "sentAt": "2026-08-07T16:56:36.796Z",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents"
+    },
+    {
+      "id": "u_2522c2f3",
+      "sentAt": "2026-08-07T16:56:36.796Z",
+      "title": "A research firm shares its top cybersecurity stock picks with agentic AI threats on the rise"
+    },
+    {
+      "id": "u_13bace69",
+      "sentAt": "2026-08-07T16:56:36.796Z",
+      "title": "Responding to the next frontier of critical cyber capabilities"
+    },
+    {
+      "id": "u_ffa05413",
+      "sentAt": "2026-08-07T16:56:36.796Z",
+      "title": "Kenco To Deploy More of DeepFabric’s AI Agents - WWD"
+    },
     {
       "id": "u_f042cc08",
       "sentAt": "2026-08-07T14:55:09.904Z",
@@ -4975,31 +5000,6 @@
       "id": "u_95cdda2c",
       "sentAt": "2026-07-13T06:56:44.672Z",
       "title": "Unpacking Idioms: A Cross-Linguistic Perspective"
-    },
-    {
-      "id": "u_52d82cd5",
-      "sentAt": "2026-07-13T06:56:44.672Z",
-      "title": "Can Large Language Models Revolutionize Company Analysis?"
-    },
-    {
-      "id": "u_87ea7b34",
-      "sentAt": "2026-07-13T03:19:36.795Z",
-      "title": "Directly Responsible Individuals (DRI)"
-    },
-    {
-      "id": "u_af8490c7",
-      "sentAt": "2026-07-13T03:19:36.795Z",
-      "title": "shot-scraper 1.11"
-    },
-    {
-      "id": "u_cd725db0",
-      "sentAt": "2026-07-13T03:19:36.795Z",
-      "title": "sqlite-utils 4.1.1"
-    },
-    {
-      "id": "u_bba070da",
-      "sentAt": "2026-07-13T03:19:36.795Z",
-      "title": "Guide to Loop Engineering: How ‘autoresearch’ and ‘Bilevel Autoresearch’ Turn AI Agents Into Autonomous Machine Learning ML Research Loops"
     }
   ]
 }
