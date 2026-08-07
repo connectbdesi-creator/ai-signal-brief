@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T10:55:08.706Z",
+  "updatedAt": "2026-08-07T13:10:06.333Z",
   "entries": [
+    {
+      "id": "u_da1b39aa",
+      "sentAt": "2026-08-07T13:10:06.333Z",
+      "title": "Agentic AI Creates A New Cybersecurity Challenge And A Defense Model"
+    },
+    {
+      "id": "u_9cda301d",
+      "sentAt": "2026-08-07T13:10:06.333Z",
+      "title": "LabyrinthBench: a local-focused, judge-free LLM benchmark that measures context recall under interference for multi-step agentic tasks."
+    },
+    {
+      "id": "u_b49fb50b",
+      "sentAt": "2026-08-07T13:10:06.333Z",
+      "title": "Essential Safeguards For AI Agents That Access Critical Systems"
+    },
+    {
+      "id": "u_f289d709",
+      "sentAt": "2026-08-07T13:10:06.333Z",
+      "title": "5 Free Courses to Learn Modern AI and LLMs"
+    },
+    {
+      "id": "u_6a2e06b1",
+      "sentAt": "2026-08-07T13:10:06.333Z",
+      "title": "Show HN: Akintu – AI agents trained on custom knowledge bases using RAG"
+    },
     {
       "id": "u_b0db7dbb",
       "sentAt": "2026-08-07T10:55:08.706Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1aa6d20a",
       "sentAt": "2026-07-12T22:53:44.811Z",
       "title": "Fable gets another bump"
-    },
-    {
-      "id": "u_dee9a5ec",
-      "sentAt": "2026-07-12T20:54:35.299Z",
-      "title": "ChatGPT Work: OpenAI’s Leap from Chatbot to Workplace Powerhouse"
-    },
-    {
-      "id": "u_2c98504e",
-      "sentAt": "2026-07-12T20:54:35.299Z",
-      "title": "AI's Confidence Crisis: The Missing Context Puzzle"
-    },
-    {
-      "id": "u_53225f7b",
-      "sentAt": "2026-07-12T20:54:35.299Z",
-      "title": "AI Entrepreneurs to Launch Record-Breaking Ventures"
-    },
-    {
-      "id": "u_7fe404ad",
-      "sentAt": "2026-07-12T20:54:35.299Z",
-      "title": "Why Ploy.ai’s Move to GPT-5.6 Is a Big Deal"
-    },
-    {
-      "id": "u_42ca30fd",
-      "sentAt": "2026-07-12T20:54:35.299Z",
-      "title": "Anthropic found Claude reasoning in silence (J-space) — we ran the same lens on open Qwen3-8B"
     }
   ]
 }
