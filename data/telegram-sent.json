@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T07:20:12.708Z",
+  "updatedAt": "2026-08-07T09:02:48.761Z",
   "entries": [
+    {
+      "id": "u_969e126e",
+      "sentAt": "2026-08-07T09:02:48.761Z",
+      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model"
+    },
+    {
+      "id": "u_c0e2a55e",
+      "sentAt": "2026-08-07T09:02:48.761Z",
+      "title": "People Element Launches Analyst Insight, a Built-In AI Analyst for Employee Feedback - HRTech Series"
+    },
+    {
+      "id": "u_b3ed3c78",
+      "sentAt": "2026-08-07T09:02:48.761Z",
+      "title": "Show HN: Skill to stop AI agents from retry-looping during GitHub outages"
+    },
+    {
+      "id": "u_1d3cd67d",
+      "sentAt": "2026-08-07T09:02:48.761Z",
+      "title": "When autonomous AI agents go rogue, who pays for the damage? - Ynetnews"
+    },
+    {
+      "id": "u_14799304",
+      "sentAt": "2026-08-07T09:02:48.761Z",
+      "title": "Alibaba To Charge Big Users Of Its Next Open-Source AI Model: Report - NDTV"
+    },
     {
       "id": "u_632953a5",
       "sentAt": "2026-08-07T07:20:12.708Z",
@@ -4975,31 +5000,6 @@
       "id": "u_706e6b56",
       "sentAt": "2026-07-12T17:01:46.404Z",
       "title": "Why AI Agents Need Their Own Email Strategy"
-    },
-    {
-      "id": "u_7f450aaa",
-      "sentAt": "2026-07-12T17:01:46.404Z",
-      "title": "Cracking the Code: How AI Shopping Agents Decide Where You Buy"
-    },
-    {
-      "id": "u_17506843",
-      "sentAt": "2026-07-12T14:59:42.098Z",
-      "title": "Kira's New Evidence Architecture: A Step Forward or Just Hype?"
-    },
-    {
-      "id": "u_69ac1f25",
-      "sentAt": "2026-07-12T14:59:42.098Z",
-      "title": "Bringing AI Agents into the Production Line: What's Really Happening?"
-    },
-    {
-      "id": "u_b099797f",
-      "sentAt": "2026-07-12T14:59:42.098Z",
-      "title": "Where to publish a construction BIM Benchmark? [D]"
-    },
-    {
-      "id": "u_81e6d26e",
-      "sentAt": "2026-07-12T13:26:53.984Z",
-      "title": "Goldman Sachs Just Picked Its Chinese AI Winners — And the Open-Source Bet Is Massive"
     }
   ]
 }
