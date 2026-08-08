@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-08T06:57:59.676Z",
+  "updatedAt": "2026-08-08T08:45:06.125Z",
   "entries": [
+    {
+      "id": "u_674aca40",
+      "sentAt": "2026-08-08T08:45:06.125Z",
+      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks"
+    },
+    {
+      "id": "u_c39236da",
+      "sentAt": "2026-08-08T08:45:06.125Z",
+      "title": "Anyone else amped up over Qwen 3.8?"
+    },
+    {
+      "id": "u_e92c4fd",
+      "sentAt": "2026-08-08T08:45:06.125Z",
+      "title": "Is anyone else finding DeepSeek-V4-Flash unreliable for non-coding tasks?"
+    },
+    {
+      "id": "u_cc3d761d",
+      "sentAt": "2026-08-08T08:45:06.125Z",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative and, with Arcee, Unveils Genesis-Science-1 — Its First Open-Weight Model for Scientific Research"
+    },
+    {
+      "id": "u_dce3e032",
+      "sentAt": "2026-08-08T08:45:06.125Z",
+      "title": "Serving Deepseek v4 Flash 0731 on 2x DGX Spark — 5-7 GB OS headroom, what would you do to lower VRAM usage and increase OS available RAM?"
+    },
     {
       "id": "u_c69679b8",
       "sentAt": "2026-08-08T06:57:59.676Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2276470c",
       "sentAt": "2026-07-13T22:57:54.923Z",
       "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock"
-    },
-    {
-      "id": "u_f47c1e82",
-      "sentAt": "2026-07-13T22:57:54.923Z",
-      "title": "Zhipu Unveils Open-Source AI as $4 Billion Share Sale Lifts Stock - TradingView"
-    },
-    {
-      "id": "u_6699aa16",
-      "sentAt": "2026-07-13T20:59:07.048Z",
-      "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]"
-    },
-    {
-      "id": "u_4b0270f5",
-      "sentAt": "2026-07-13T20:59:07.048Z",
-      "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI"
-    },
-    {
-      "id": "u_9968580a",
-      "sentAt": "2026-07-13T20:59:07.048Z",
-      "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI - Amazon Web Services (AWS)"
-    },
-    {
-      "id": "u_5f5daec",
-      "sentAt": "2026-07-13T20:59:07.048Z",
-      "title": "Agentic RAG: Let the Agent Search"
     }
   ]
 }
