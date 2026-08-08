@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-08T04:59:35.289Z",
+  "updatedAt": "2026-08-08T06:57:59.676Z",
   "entries": [
+    {
+      "id": "u_c69679b8",
+      "sentAt": "2026-08-08T06:57:59.676Z",
+      "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size"
+    },
     {
       "id": "u_3a694427",
       "sentAt": "2026-08-08T04:59:35.289Z",
@@ -4995,11 +5000,6 @@
       "id": "u_5f5daec",
       "sentAt": "2026-07-13T20:59:07.048Z",
       "title": "Agentic RAG: Let the Agent Search"
-    },
-    {
-      "id": "u_66587781",
-      "sentAt": "2026-07-13T20:59:07.048Z",
-      "title": "Waze adds new AI-powered features and customization updates"
     }
   ]
 }
