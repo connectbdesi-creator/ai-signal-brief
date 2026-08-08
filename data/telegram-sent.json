@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-08T20:32:52.306Z",
+  "updatedAt": "2026-08-08T22:32:22.215Z",
   "entries": [
+    {
+      "id": "u_b6cd4517",
+      "sentAt": "2026-08-08T22:32:22.215Z",
+      "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run"
+    },
     {
       "id": "u_4ccaf2e5",
       "sentAt": "2026-08-08T20:32:52.306Z",
@@ -4995,11 +5000,6 @@
       "id": "u_f17b552e",
       "sentAt": "2026-07-14T10:01:29.261Z",
       "title": "Can Your Text-to-Image Models Handle a Real-World Tweak?"
-    },
-    {
-      "id": "u_b1c6be5a",
-      "sentAt": "2026-07-14T10:01:29.261Z",
-      "title": "Cracking the Code: Transformers' Two-Stage Training Dynamics"
     }
   ]
 }
