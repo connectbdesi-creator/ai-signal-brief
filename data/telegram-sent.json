@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-08T01:49:41.753Z",
+  "updatedAt": "2026-08-08T03:35:24.952Z",
   "entries": [
+    {
+      "id": "u_b6f28650",
+      "sentAt": "2026-08-08T03:35:24.952Z",
+      "title": "Resolve AI Agents Tackle Production Issues Proactively - StartupHub.ai"
+    },
     {
       "id": "u_8d1b8e8",
       "sentAt": "2026-08-08T01:49:41.753Z",
@@ -4995,11 +5000,6 @@
       "id": "u_c117e092",
       "sentAt": "2026-07-13T19:39:22.248Z",
       "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own"
-    },
-    {
-      "id": "u_faac4fb2",
-      "sentAt": "2026-07-13T17:57:03.423Z",
-      "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]"
     }
   ]
 }
