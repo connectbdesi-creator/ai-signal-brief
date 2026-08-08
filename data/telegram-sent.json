@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-08T10:36:33.881Z",
+  "updatedAt": "2026-08-08T12:53:56.724Z",
   "entries": [
+    {
+      "id": "u_1476a199",
+      "sentAt": "2026-08-08T12:53:56.724Z",
+      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours"
+    },
+    {
+      "id": "u_80450953",
+      "sentAt": "2026-08-08T12:53:56.724Z",
+      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours"
+    },
+    {
+      "id": "u_b10a6181",
+      "sentAt": "2026-08-08T12:53:56.724Z",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia"
+    },
+    {
+      "id": "u_c453da1a",
+      "sentAt": "2026-08-08T12:53:56.724Z",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia"
+    },
+    {
+      "id": "u_1a21c655",
+      "sentAt": "2026-08-08T12:53:56.724Z",
+      "title": "Suspected AI use is the entertainment industry's scarlet letter"
+    },
     {
       "id": "u_ed30bbb0",
       "sentAt": "2026-08-08T10:36:33.881Z",
@@ -4975,31 +5000,6 @@
       "id": "u_48456529",
       "sentAt": "2026-07-14T02:44:11.514Z",
       "title": "Meta's Cloud Dreams: From Llama to Leasing Out Compute"
-    },
-    {
-      "id": "u_859e030d",
-      "sentAt": "2026-07-14T02:44:11.514Z",
-      "title": "Anthropic Claude Sonnet 5 vs Sonnet 4.6 vs Opus 4.8: Agentic Coding Benchmarks, API Pricing, and Cost-Performance Tradeoffs Compared"
-    },
-    {
-      "id": "u_5e5f2d08",
-      "sentAt": "2026-07-14T02:44:11.514Z",
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B"
-    },
-    {
-      "id": "u_47045167",
-      "sentAt": "2026-07-14T02:44:11.514Z",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation"
-    },
-    {
-      "id": "u_91cc8606",
-      "sentAt": "2026-07-14T02:44:11.514Z",
-      "title": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Benchmark That Makes Continual Reinforcement Learning Necessary Under Structured Non-Stationarity"
-    },
-    {
-      "id": "u_55e80b6f",
-      "sentAt": "2026-07-13T22:57:54.923Z",
-      "title": "AISec: The New Frontier in Securing AI Systems"
     }
   ]
 }
