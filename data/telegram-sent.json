@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-08T18:40:58.001Z",
+  "updatedAt": "2026-08-08T20:32:52.306Z",
   "entries": [
+    {
+      "id": "u_4ccaf2e5",
+      "sentAt": "2026-08-08T20:32:52.306Z",
+      "title": "OpenAI acquires presentation startup NextSlide"
+    },
+    {
+      "id": "u_bcbc559b",
+      "sentAt": "2026-08-08T20:32:52.306Z",
+      "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]"
+    },
     {
       "id": "u_a407670c",
       "sentAt": "2026-08-08T18:40:58.001Z",
@@ -4990,16 +5000,6 @@
       "id": "u_b1c6be5a",
       "sentAt": "2026-07-14T10:01:29.261Z",
       "title": "Cracking the Code: Transformers' Two-Stage Training Dynamics"
-    },
-    {
-      "id": "u_9167a529",
-      "sentAt": "2026-07-14T10:01:29.261Z",
-      "title": "Why BizFinBench.v2 Is Shaking Up Financial AI Benchmarks"
-    },
-    {
-      "id": "u_d9105412",
-      "sentAt": "2026-07-14T06:13:22.926Z",
-      "title": "New Sampling Method Challenges Reinforcement Learning Costs"
     }
   ]
 }
