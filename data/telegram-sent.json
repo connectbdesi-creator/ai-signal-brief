@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-07T22:38:58.736Z",
+  "updatedAt": "2026-08-08T01:49:41.753Z",
   "entries": [
+    {
+      "id": "u_8d1b8e8",
+      "sentAt": "2026-08-08T01:49:41.753Z",
+      "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities"
+    },
+    {
+      "id": "u_d5a27e4b",
+      "sentAt": "2026-08-08T01:49:41.753Z",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
+    },
+    {
+      "id": "u_9b8a9bf6",
+      "sentAt": "2026-08-08T01:49:41.753Z",
+      "title": "Google’s Gemini, BTS launch campaign at Las Vegas Sphere - Qazinform"
+    },
+    {
+      "id": "u_df164b0a",
+      "sentAt": "2026-08-08T01:49:41.753Z",
+      "title": "Exolnet Launches Dedicated Artificial Intelligence Development Se - natlawreview.com"
+    },
+    {
+      "id": "u_4a6c1cf4",
+      "sentAt": "2026-08-08T01:49:41.753Z",
+      "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker - Tom's Hardware"
+    },
     {
       "id": "u_cdf99c11",
       "sentAt": "2026-08-07T22:38:58.736Z",
@@ -4975,31 +5000,6 @@
       "id": "u_faac4fb2",
       "sentAt": "2026-07-13T17:57:03.423Z",
       "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]"
-    },
-    {
-      "id": "u_50020f3c",
-      "sentAt": "2026-07-13T17:57:03.423Z",
-      "title": "OpenAI's new prompting guide tells users to stop overthinking and start with the result"
-    },
-    {
-      "id": "u_564b493e",
-      "sentAt": "2026-07-13T17:57:03.423Z",
-      "title": "Building an agentic AI solution at Bluesight with Amazon Bedrock"
-    },
-    {
-      "id": "u_338c9eb4",
-      "sentAt": "2026-07-13T17:57:03.423Z",
-      "title": "Implement on-behalf-of token exchange for multi-tenant agents with Amazon Bedrock AgentCore Gateway"
-    },
-    {
-      "id": "u_489f7bfb",
-      "sentAt": "2026-07-13T17:57:03.423Z",
-      "title": "Rich Sutton's Oak Lab: Redefining AI Agents with Continuous Learning"
-    },
-    {
-      "id": "u_b8e3abfc",
-      "sentAt": "2026-07-13T14:40:37.647Z",
-      "title": "China works on AI safety benchmark as regulators target large model risks - South China Morning Post"
     }
   ]
 }
