@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-08T03:35:24.952Z",
+  "updatedAt": "2026-08-08T04:59:35.289Z",
   "entries": [
+    {
+      "id": "u_3a694427",
+      "sentAt": "2026-08-08T04:59:35.289Z",
+      "title": "EuroExec: Frontier Language Models Fall Short of Expert Judgment on European Executive Decision Tasks"
+    },
+    {
+      "id": "u_d6418d76",
+      "sentAt": "2026-08-08T04:59:35.289Z",
+      "title": "Breaking the Curse of Multilinguality in Many-to-Many Speech-to-Text Translation via a Resource-Aware Mixture of Speech Encoders"
+    },
+    {
+      "id": "u_c7cf4040",
+      "sentAt": "2026-08-08T04:59:35.289Z",
+      "title": "A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination"
+    },
+    {
+      "id": "u_f7b1d3a2",
+      "sentAt": "2026-08-08T04:59:35.289Z",
+      "title": "InsightEmb: Learning Action-Intent Embeddings for Agentic Insight Retrieval"
+    },
+    {
+      "id": "u_9d83906a",
+      "sentAt": "2026-08-08T04:59:35.289Z",
+      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time"
+    },
     {
       "id": "u_b6f28650",
       "sentAt": "2026-08-08T03:35:24.952Z",
@@ -4975,31 +5000,6 @@
       "id": "u_66587781",
       "sentAt": "2026-07-13T20:59:07.048Z",
       "title": "Waze adds new AI-powered features and customization updates"
-    },
-    {
-      "id": "u_df0c2257",
-      "sentAt": "2026-07-13T19:39:22.248Z",
-      "title": "DeepSeek's AI Price Cuts: A Boon or a Bane for Enterprise Margins?"
-    },
-    {
-      "id": "u_e102da85",
-      "sentAt": "2026-07-13T19:39:22.248Z",
-      "title": "AI agents create virtual playgrounds to help robots get crucial training data"
-    },
-    {
-      "id": "u_e229f48f",
-      "sentAt": "2026-07-13T19:39:22.248Z",
-      "title": "OpenAI's Bold Step Into Hardware: Ambitious or Risky?"
-    },
-    {
-      "id": "u_db620d1a",
-      "sentAt": "2026-07-13T19:39:22.248Z",
-      "title": "Apple's Legal Face-off with OpenAI: The Trade Secrets Battle"
-    },
-    {
-      "id": "u_c117e092",
-      "sentAt": "2026-07-13T19:39:22.248Z",
-      "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own"
     }
   ]
 }
