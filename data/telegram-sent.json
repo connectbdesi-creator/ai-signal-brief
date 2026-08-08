@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-08T08:45:06.125Z",
+  "updatedAt": "2026-08-08T10:36:33.881Z",
   "entries": [
+    {
+      "id": "u_ed30bbb0",
+      "sentAt": "2026-08-08T10:36:33.881Z",
+      "title": "How to Disable Gemini in Gmail and Google Docs"
+    },
+    {
+      "id": "u_1c8384aa",
+      "sentAt": "2026-08-08T10:36:33.881Z",
+      "title": "AI agents use roughly 600 times more energy than a simple chat prompt"
+    },
+    {
+      "id": "u_e35e1e0f",
+      "sentAt": "2026-08-08T10:36:33.881Z",
+      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks"
+    },
     {
       "id": "u_674aca40",
       "sentAt": "2026-08-08T08:45:06.125Z",
@@ -4985,21 +5000,6 @@
       "id": "u_55e80b6f",
       "sentAt": "2026-07-13T22:57:54.923Z",
       "title": "AISec: The New Frontier in Securing AI Systems"
-    },
-    {
-      "id": "u_6ebd483b",
-      "sentAt": "2026-07-13T22:57:54.923Z",
-      "title": "DOOMQL"
-    },
-    {
-      "id": "u_38152780",
-      "sentAt": "2026-07-13T22:57:54.923Z",
-      "title": "datasette code-frequency chart on GitHub"
-    },
-    {
-      "id": "u_2276470c",
-      "sentAt": "2026-07-13T22:57:54.923Z",
-      "title": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock"
     }
   ]
 }
