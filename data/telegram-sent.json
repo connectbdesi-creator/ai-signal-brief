@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-09T05:08:37.461Z",
+  "updatedAt": "2026-08-09T07:00:53.507Z",
   "entries": [
+    {
+      "id": "u_6f17ad8d",
+      "sentAt": "2026-08-09T07:00:53.507Z",
+      "title": "KPMG Says Nearly Half Of Executives Pulled Back AI Agents Over Cost"
+    },
     {
       "id": "u_dd84fe80",
       "sentAt": "2026-08-09T05:08:37.461Z",
@@ -4995,11 +5000,6 @@
       "id": "u_12a69d4c",
       "sentAt": "2026-07-14T13:50:39.863Z",
       "title": "Tracing AI Model Lineage: Introducing modelDNA's Breakthrough Approach"
-    },
-    {
-      "id": "u_2b90c1e8",
-      "sentAt": "2026-07-14T13:50:39.863Z",
-      "title": "PTQ: RDQ Sets a New Benchmark"
     }
   ]
 }
