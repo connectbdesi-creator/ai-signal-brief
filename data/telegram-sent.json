@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-09T07:00:53.507Z",
+  "updatedAt": "2026-08-09T10:37:42.149Z",
   "entries": [
+    {
+      "id": "u_38a21c71",
+      "sentAt": "2026-08-09T10:37:42.149Z",
+      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model"
+    },
+    {
+      "id": "u_632e0f59",
+      "sentAt": "2026-08-09T10:37:42.149Z",
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes"
+    },
+    {
+      "id": "u_88b18a78",
+      "sentAt": "2026-08-09T10:37:42.149Z",
+      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit"
+    },
+    {
+      "id": "u_233d00aa",
+      "sentAt": "2026-08-09T10:37:42.149Z",
+      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit"
+    },
     {
       "id": "u_6f17ad8d",
       "sentAt": "2026-08-09T07:00:53.507Z",
@@ -4980,26 +5000,6 @@
       "id": "u_454e9cc4",
       "sentAt": "2026-07-14T15:24:50.390Z",
       "title": "Language Models: The Impact of DMPO on Diffusion Models"
-    },
-    {
-      "id": "u_89439d1",
-      "sentAt": "2026-07-14T15:24:50.390Z",
-      "title": "Reflection inks $1B compute deal with Nebius"
-    },
-    {
-      "id": "u_17bab9cb",
-      "sentAt": "2026-07-14T15:24:50.390Z",
-      "title": "Exolnet Launches Dedicated Artificial Intelligence Development - The Kingston Whig Standard"
-    },
-    {
-      "id": "u_87049538",
-      "sentAt": "2026-07-14T13:50:39.863Z",
-      "title": "GTAlign: Bridging Graphs and Tables Without Text"
-    },
-    {
-      "id": "u_12a69d4c",
-      "sentAt": "2026-07-14T13:50:39.863Z",
-      "title": "Tracing AI Model Lineage: Introducing modelDNA's Breakthrough Approach"
     }
   ]
 }
