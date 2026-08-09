@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-09T14:37:21.168Z",
+  "updatedAt": "2026-08-09T16:38:35.571Z",
   "entries": [
+    {
+      "id": "u_5b152552",
+      "sentAt": "2026-08-09T16:38:35.571Z",
+      "title": "The AI safety test is becoming a safety risk"
+    },
+    {
+      "id": "u_4521bd91",
+      "sentAt": "2026-08-09T16:38:35.571Z",
+      "title": "JUNIOR ASSISTANT COMPUTER THEORY CLASSES 2024| ARTIFICIAL INTELLIGENCE | VPO COMPUTER THEORY CLASSES Phishing (eA9Wv9wWqw) - Mshale"
+    },
     {
       "id": "u_e53378a9",
       "sentAt": "2026-08-09T14:37:21.168Z",
@@ -4990,16 +5000,6 @@
       "id": "u_ab1977a1",
       "sentAt": "2026-07-14T19:23:50.372Z",
       "title": "AI's Recursive Dilemma: When Machines Train On Themselves"
-    },
-    {
-      "id": "u_55c48041",
-      "sentAt": "2026-07-14T19:23:50.372Z",
-      "title": "Multi-agent social intelligence with Strands Agents and Amazon Bedrock"
-    },
-    {
-      "id": "u_f1a30a1c",
-      "sentAt": "2026-07-14T19:23:50.372Z",
-      "title": "Quoting Armin Ronacher"
     }
   ]
 }
