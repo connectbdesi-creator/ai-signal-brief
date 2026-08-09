@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-09T12:56:07.518Z",
+  "updatedAt": "2026-08-09T14:37:21.168Z",
   "entries": [
+    {
+      "id": "u_e53378a9",
+      "sentAt": "2026-08-09T14:37:21.168Z",
+      "title": "The AI safety test is becoming a safety risk"
+    },
+    {
+      "id": "u_11fed79b",
+      "sentAt": "2026-08-09T14:37:21.168Z",
+      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time"
+    },
+    {
+      "id": "u_20bc4434",
+      "sentAt": "2026-08-09T14:37:21.168Z",
+      "title": "Best Embedding + Reranking Model"
+    },
     {
       "id": "u_5c05e04a",
       "sentAt": "2026-08-09T12:56:07.518Z",
@@ -4985,21 +5000,6 @@
       "id": "u_f1a30a1c",
       "sentAt": "2026-07-14T19:23:50.372Z",
       "title": "Quoting Armin Ronacher"
-    },
-    {
-      "id": "u_8c097723",
-      "sentAt": "2026-07-14T17:17:23.725Z",
-      "title": "Policing AI: The New Frontier in Norm Enforcement"
-    },
-    {
-      "id": "u_694d8deb",
-      "sentAt": "2026-07-14T17:17:23.725Z",
-      "title": "The Hidden Costs of Norm Enforcement in AI Models"
-    },
-    {
-      "id": "u_dddadaa9",
-      "sentAt": "2026-07-14T17:17:23.725Z",
-      "title": "EvoCUA-1.5: Redefining Online Reinforcement Learning for Desktop Agents"
     }
   ]
 }
