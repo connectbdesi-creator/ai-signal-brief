@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-09T18:44:46.195Z",
+  "updatedAt": "2026-08-09T22:34:27.944Z",
   "entries": [
+    {
+      "id": "u_3570893e",
+      "sentAt": "2026-08-09T22:34:27.944Z",
+      "title": "endless-frontier/BigBang-v1 - qwen 3.5 finetunes"
+    },
+    {
+      "id": "u_9b758e93",
+      "sentAt": "2026-08-09T22:34:27.944Z",
+      "title": "The Gemma team will host a special event on August 20"
+    },
+    {
+      "id": "u_2e44bf8b",
+      "sentAt": "2026-08-09T22:34:27.944Z",
+      "title": "DeepSeek-V4-Flash-0731 Q8_K_XL sometimes stops mid-task in OpenCode - anyone else seeing this?"
+    },
     {
       "id": "u_51c57a5e",
       "sentAt": "2026-08-09T18:44:46.195Z",
@@ -4985,21 +5000,6 @@
       "id": "u_17cb3e68",
       "sentAt": "2026-07-14T21:02:46.015Z",
       "title": "StructAgent: Revolutionizing Long-Horizon Task Management"
-    },
-    {
-      "id": "u_c03e7702",
-      "sentAt": "2026-07-14T21:02:46.015Z",
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta"
-    },
-    {
-      "id": "u_62fecd4c",
-      "sentAt": "2026-07-14T19:23:50.372Z",
-      "title": "The Illusion of Risk in Distributional Reinforcement Learning"
-    },
-    {
-      "id": "u_50cce9c",
-      "sentAt": "2026-07-14T19:23:50.372Z",
-      "title": "Gemma-4-31B-AntiHal: Gemma steered to push back on false premises instead of hallucinating, without any impact to benchmark performance"
     }
   ]
 }
