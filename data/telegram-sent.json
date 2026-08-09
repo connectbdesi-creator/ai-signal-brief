@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-09T10:37:42.149Z",
+  "updatedAt": "2026-08-09T12:56:07.518Z",
   "entries": [
+    {
+      "id": "u_5c05e04a",
+      "sentAt": "2026-08-09T12:56:07.518Z",
+      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time"
+    },
+    {
+      "id": "u_3613abc",
+      "sentAt": "2026-08-09T12:56:07.518Z",
+      "title": "AMD llama.cpp: reducing MTP buffer overhead gave me 64K → 149K context for Qwen 27B"
+    },
+    {
+      "id": "u_5814b547",
+      "sentAt": "2026-08-09T12:56:07.518Z",
+      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model"
+    },
+    {
+      "id": "u_f52dda25",
+      "sentAt": "2026-08-09T12:56:07.518Z",
+      "title": "Six weeks is all you get in the age of post-processable velocity"
+    },
+    {
+      "id": "u_4c27f0e0",
+      "sentAt": "2026-08-09T12:56:07.518Z",
+      "title": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1 in an independent public-harness run (445 trials)"
+    },
     {
       "id": "u_38a21c71",
       "sentAt": "2026-08-09T10:37:42.149Z",
@@ -4975,31 +5000,6 @@
       "id": "u_dddadaa9",
       "sentAt": "2026-07-14T17:17:23.725Z",
       "title": "EvoCUA-1.5: Redefining Online Reinforcement Learning for Desktop Agents"
-    },
-    {
-      "id": "u_69f97c62",
-      "sentAt": "2026-07-14T17:17:23.725Z",
-      "title": "DeepMind's Call for an AI Standards Body: A Necessary Step or a Misstep?"
-    },
-    {
-      "id": "u_6ebfd80e",
-      "sentAt": "2026-07-14T17:17:23.725Z",
-      "title": "DeepSeek needs more cash just weeks after closing its first $7 billion round"
-    },
-    {
-      "id": "u_fbdc834f",
-      "sentAt": "2026-07-14T15:24:50.390Z",
-      "title": "CoGenCast Revolutionizes Time Series Forecasting with Hybrid Approach"
-    },
-    {
-      "id": "u_bbc3d87",
-      "sentAt": "2026-07-14T15:24:50.390Z",
-      "title": "BalDRO: Reshaping How Language Models Forget"
-    },
-    {
-      "id": "u_454e9cc4",
-      "sentAt": "2026-07-14T15:24:50.390Z",
-      "title": "Language Models: The Impact of DMPO on Diffusion Models"
     }
   ]
 }
