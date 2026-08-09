@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-09T01:56:08.315Z",
+  "updatedAt": "2026-08-09T05:08:37.461Z",
   "entries": [
+    {
+      "id": "u_dd84fe80",
+      "sentAt": "2026-08-09T05:08:37.461Z",
+      "title": "Claude Vs ChatGPT: How These AI Assistants Differ"
+    },
     {
       "id": "u_bf1b18da",
       "sentAt": "2026-08-09T01:56:08.315Z",
@@ -4995,11 +5000,6 @@
       "id": "u_2b90c1e8",
       "sentAt": "2026-07-14T13:50:39.863Z",
       "title": "PTQ: RDQ Sets a New Benchmark"
-    },
-    {
-      "id": "u_1603fbd2",
-      "sentAt": "2026-07-14T13:50:39.863Z",
-      "title": "LLM Evaluation Frameworks Compared: How to Actually Measure What Your Model Does"
     }
   ]
 }
