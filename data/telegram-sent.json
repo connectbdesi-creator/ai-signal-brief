@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-10T07:46:51.864Z",
+  "updatedAt": "2026-08-10T09:25:31.683Z",
   "entries": [
+    {
+      "id": "u_be3f2c06",
+      "sentAt": "2026-08-10T09:25:31.683Z",
+      "title": "AI for science needs reasoning, not just data"
+    },
+    {
+      "id": "u_d60b4ac3",
+      "sentAt": "2026-08-10T09:25:31.683Z",
+      "title": "Broward schools launch AI hub as district expands use of technology in classrooms - caribbeannationalweekly.com"
+    },
+    {
+      "id": "u_b779ad39",
+      "sentAt": "2026-08-10T09:25:31.683Z",
+      "title": "KIST unveils neuromorphic AI training method for an era of low-power intelligence - Bioengineer.org"
+    },
+    {
+      "id": "u_d05b32d4",
+      "sentAt": "2026-08-10T09:25:31.683Z",
+      "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits"
+    },
     {
       "id": "u_48990342",
       "sentAt": "2026-08-10T07:46:51.864Z",
@@ -4980,26 +5000,6 @@
       "id": "u_b264bff5",
       "sentAt": "2026-07-15T10:05:54.590Z",
       "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive"
-    },
-    {
-      "id": "u_a008092f",
-      "sentAt": "2026-07-15T06:18:14.874Z",
-      "title": "CurioSFT: Rethinking AI Training for Smarter Exploration"
-    },
-    {
-      "id": "u_b594c493",
-      "sentAt": "2026-07-15T06:18:14.874Z",
-      "title": "Branching Neural Networks: A New Era of Multitasking AI"
-    },
-    {
-      "id": "u_4f4b5144",
-      "sentAt": "2026-07-15T06:18:14.874Z",
-      "title": "Simulating Human Mobility with MobCache: Efficiency Meets Fidelity"
-    },
-    {
-      "id": "u_bcc38ab4",
-      "sentAt": "2026-07-15T06:18:14.874Z",
-      "title": "AI’s Potential in Specialized Domains: The CANDI-QA Benchmark"
     }
   ]
 }
