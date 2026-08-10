@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T16:57:01.960Z",
+  "updatedAt": "2026-08-10T19:01:12.190Z",
   "entries": [
+    {
+      "id": "u_b1894c6a",
+      "sentAt": "2026-08-10T19:01:12.190Z",
+      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale"
+    },
+    {
+      "id": "u_82f144e9",
+      "sentAt": "2026-08-10T19:01:12.190Z",
+      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do"
+    },
+    {
+      "id": "u_b375020e",
+      "sentAt": "2026-08-10T19:01:12.190Z",
+      "title": "Humanoid Robotics Are Blurring The Line Between Humans And Machines"
+    },
+    {
+      "id": "u_84b42c1a",
+      "sentAt": "2026-08-10T19:01:12.190Z",
+      "title": "Graph neural networks are turning hidden fraud into visible networks"
+    },
+    {
+      "id": "u_10d35388",
+      "sentAt": "2026-08-10T19:01:12.190Z",
+      "title": "House Democrats press OpenAI, Anthropic over AI agents - Latest news from Azerbaijan"
+    },
     {
       "id": "u_110b0bb9",
       "sentAt": "2026-08-10T16:57:01.960Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f527f804",
       "sentAt": "2026-07-15T21:03:08.712Z",
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
-    },
-    {
-      "id": "u_2e0ed794",
-      "sentAt": "2026-07-15T19:16:03.605Z",
-      "title": "Murati’s Thinking Machines releases first AI model for broad use - Fortune"
-    },
-    {
-      "id": "u_f6e81070",
-      "sentAt": "2026-07-15T19:16:03.605Z",
-      "title": "I built a new attention mechanism (wave field) — runs 128K context where standard attention OOMs, 80+ tok/s on laptop CPU"
-    },
-    {
-      "id": "u_1adfd35",
-      "sentAt": "2026-07-15T19:16:03.605Z",
-      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance"
-    },
-    {
-      "id": "u_9780b6a8",
-      "sentAt": "2026-07-15T19:16:03.605Z",
-      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance | Amazon Web Services - Amazon Web Services (AWS)"
-    },
-    {
-      "id": "u_68a42bdc",
-      "sentAt": "2026-07-15T19:16:03.605Z",
-      "title": "Thinking Machines releases first open-weight model “Inkling”"
     }
   ]
 }
