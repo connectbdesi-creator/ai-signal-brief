@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T20:45:00.915Z",
+  "updatedAt": "2026-08-10T22:40:18.669Z",
   "entries": [
+    {
+      "id": "u_45a2e2b9",
+      "sentAt": "2026-08-10T22:40:18.669Z",
+      "title": "Meta releases open-source Muse Glimmer model with 30B parameters"
+    },
+    {
+      "id": "u_4892f8cd",
+      "sentAt": "2026-08-10T22:40:18.669Z",
+      "title": "What smart people are saying about Meta's open-weight model Muse Glimmer and Mark Zuckerberg's AI manifesto"
+    },
+    {
+      "id": "u_639a48fa",
+      "sentAt": "2026-08-10T22:40:18.669Z",
+      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale"
+    },
+    {
+      "id": "u_b4471db2",
+      "sentAt": "2026-08-10T22:40:18.669Z",
+      "title": "EY Launching Unit to Keep a Lid on Artificial Intelligence Costs - bloomberg.com"
+    },
+    {
+      "id": "u_ee1dcd10",
+      "sentAt": "2026-08-10T22:40:18.669Z",
+      "title": "Meta unveils new AI model as Zuckerberg touts open source vision | Daily Sabah - Daily Sabah"
+    },
     {
       "id": "u_ad0f6a7b",
       "sentAt": "2026-08-10T20:45:00.915Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8c662642",
       "sentAt": "2026-07-16T02:49:05.828Z",
       "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI"
-    },
-    {
-      "id": "u_cbee6873",
-      "sentAt": "2026-07-15T23:00:01.154Z",
-      "title": "Cadence's AuraStack: AI Super Agent or Overhyped Promise?"
-    },
-    {
-      "id": "u_648d16c3",
-      "sentAt": "2026-07-15T23:00:01.154Z",
-      "title": "Why Enterprise AI Orchestration Isn't Living Up to Its Promise"
-    },
-    {
-      "id": "u_c6f03163",
-      "sentAt": "2026-07-15T23:00:01.154Z",
-      "title": "Illinois Enacts Frontier AI Safety Law - Davis Wright Tremaine"
-    },
-    {
-      "id": "u_4957df9",
-      "sentAt": "2026-07-15T23:00:01.154Z",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents"
-    },
-    {
-      "id": "u_c7f7bd27",
-      "sentAt": "2026-07-15T23:00:01.154Z",
-      "title": "OpenAI Just Launched Its First Hardware Product—and It’s a Tiny Keyboard for Bossing Around AI Agents - Gizmodo"
     }
   ]
 }
