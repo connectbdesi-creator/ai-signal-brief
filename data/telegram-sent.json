@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T11:11:12.365Z",
+  "updatedAt": "2026-08-10T13:14:41.716Z",
   "entries": [
+    {
+      "id": "u_414ba39f",
+      "sentAt": "2026-08-10T13:14:41.716Z",
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Business Standard"
+    },
+    {
+      "id": "u_d73abe3d",
+      "sentAt": "2026-08-10T13:14:41.716Z",
+      "title": "Why Enterprise AI Agents Need A Secure API Gateway Before They Need A Bigger Model"
+    },
+    {
+      "id": "u_2cdfe231",
+      "sentAt": "2026-08-10T13:14:41.716Z",
+      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic"
+    },
+    {
+      "id": "u_f80506d8",
+      "sentAt": "2026-08-10T13:14:41.716Z",
+      "title": "Deirdre Bosa to Leave CNBC and Launch Artificial Intelligence Show - citybiz"
+    },
+    {
+      "id": "u_2e1c02d",
+      "sentAt": "2026-08-10T13:14:41.716Z",
+      "title": "AI-native market research automation startup Echovane raises $1M"
+    },
     {
       "id": "u_89f14bed",
       "sentAt": "2026-08-10T11:11:12.365Z",
@@ -4975,31 +5000,6 @@
       "id": "u_64043744",
       "sentAt": "2026-07-15T15:27:31.091Z",
       "title": "Trust in AI Agents: The Balance of Autonomy and Oversight"
-    },
-    {
-      "id": "u_58f9df16",
-      "sentAt": "2026-07-15T13:49:06.777Z",
-      "title": "Anthropic vs OpenAI: The AI Regulation Face-Off"
-    },
-    {
-      "id": "u_99f70033",
-      "sentAt": "2026-07-15T13:49:06.777Z",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models"
-    },
-    {
-      "id": "u_cc91fea4",
-      "sentAt": "2026-07-15T13:49:06.777Z",
-      "title": "GPT-5.6 Wiped a Production Database and rm -rf'd a Developer's Machine — With Permission"
-    },
-    {
-      "id": "u_52652298",
-      "sentAt": "2026-07-15T13:49:06.777Z",
-      "title": "7 Python Frameworks for Orchestrating Local AI Agents"
-    },
-    {
-      "id": "u_2a82940c",
-      "sentAt": "2026-07-15T13:49:06.777Z",
-      "title": "Scikit-Ollama for Scikit-LLM/Ollama Integration"
     }
   ]
 }
