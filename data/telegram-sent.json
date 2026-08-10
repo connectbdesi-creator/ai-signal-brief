@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T02:01:00.299Z",
+  "updatedAt": "2026-08-10T05:35:32.880Z",
   "entries": [
+    {
+      "id": "u_9a202235",
+      "sentAt": "2026-08-10T05:35:32.880Z",
+      "title": "Breaking: SA launches royal commission into artificial intelligence - ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+      "id": "u_82a7eeef",
+      "sentAt": "2026-08-10T05:35:32.880Z",
+      "title": "TEXAS WESLEYAN UNIVERSITY LAUNCHES NEW BACHELOR'S DEGREE IN HUMANITIES AND ARTIFICIAL INTELLIGENCE - The Business Press"
+    },
+    {
+      "id": "u_baa10fc4",
+      "sentAt": "2026-08-10T05:35:32.880Z",
+      "title": "Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning"
+    },
+    {
+      "id": "u_7e934ef7",
+      "sentAt": "2026-08-10T05:35:32.880Z",
+      "title": "Online Monitoring and Corrective Steering of Programming Agents"
+    },
+    {
+      "id": "u_da6a925c",
+      "sentAt": "2026-08-10T05:35:32.880Z",
+      "title": "Beyond Attention: Signed Integrated Gradients Attribution in a BiomeGPT-Style Microbiome Transformer"
+    },
     {
       "id": "u_692c44ec",
       "sentAt": "2026-08-10T02:01:00.299Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ee3ae827",
       "sentAt": "2026-07-15T02:42:23.879Z",
       "title": "Startup Sonata launches preventive healthcare membership, linking clinical decisions with AI - Fierce Healthcare"
-    },
-    {
-      "id": "u_bd8d3ec2",
-      "sentAt": "2026-07-15T02:42:23.879Z",
-      "title": "As Artificial Intelligence Drives Health Innovations, UN Agencies Launch Joint Strategic Guidelines - Health Policy Watch"
-    },
-    {
-      "id": "u_da278610",
-      "sentAt": "2026-07-14T22:59:08.550Z",
-      "title": "simonw/pedalican"
-    },
-    {
-      "id": "u_3b7d15f5",
-      "sentAt": "2026-07-14T22:59:08.550Z",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning"
-    },
-    {
-      "id": "u_a9df8f3a",
-      "sentAt": "2026-07-14T22:59:08.550Z",
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI"
-    },
-    {
-      "id": "u_23694648",
-      "sentAt": "2026-07-14T22:59:08.550Z",
-      "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data"
     }
   ]
 }
