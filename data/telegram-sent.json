@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T09:25:31.683Z",
+  "updatedAt": "2026-08-10T11:11:12.365Z",
   "entries": [
+    {
+      "id": "u_89f14bed",
+      "sentAt": "2026-08-10T11:11:12.365Z",
+      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs - AI News"
+    },
+    {
+      "id": "u_80f8e693",
+      "sentAt": "2026-08-10T11:11:12.365Z",
+      "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies"
+    },
+    {
+      "id": "u_d409fd09",
+      "sentAt": "2026-08-10T11:11:12.365Z",
+      "title": "The Silent Budget Killer: Why Your New AI Agents Are Costing More Than Planned"
+    },
+    {
+      "id": "u_2c968e2d",
+      "sentAt": "2026-08-10T11:11:12.365Z",
+      "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT"
+    },
+    {
+      "id": "u_b72e3fcc",
+      "sentAt": "2026-08-10T11:11:12.365Z",
+      "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT"
+    },
     {
       "id": "u_be3f2c06",
       "sentAt": "2026-08-10T09:25:31.683Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2a82940c",
       "sentAt": "2026-07-15T13:49:06.777Z",
       "title": "Scikit-Ollama for Scikit-LLM/Ollama Integration"
-    },
-    {
-      "id": "u_9cf668b3",
-      "sentAt": "2026-07-15T10:05:54.590Z",
-      "title": "PrismML's Bold Move: Compressing AI for Apple's Ambitions"
-    },
-    {
-      "id": "u_7a6e737c",
-      "sentAt": "2026-07-15T10:05:54.590Z",
-      "title": "Agentic AI: The Next Frontier in Service Computing"
-    },
-    {
-      "id": "u_71eb72ee",
-      "sentAt": "2026-07-15T10:05:54.590Z",
-      "title": "SheetMind: Automation for the Spreadsheet Age"
-    },
-    {
-      "id": "u_922d854",
-      "sentAt": "2026-07-15T10:05:54.590Z",
-      "title": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation"
-    },
-    {
-      "id": "u_b264bff5",
-      "sentAt": "2026-07-15T10:05:54.590Z",
-      "title": "OpenAI's first hardware product is a screenless AI speaker designed to feel alive"
     }
   ]
 }
