@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T13:14:41.716Z",
+  "updatedAt": "2026-08-10T15:01:30.785Z",
   "entries": [
+    {
+      "id": "u_f19cd58a",
+      "sentAt": "2026-08-10T15:01:30.785Z",
+      "title": "Evolve your marketing with new AI tools"
+    },
+    {
+      "id": "u_d26fbc85",
+      "sentAt": "2026-08-10T15:01:30.785Z",
+      "title": "Meta releases new AI model as Zuckerberg lays out vision - France 24"
+    },
+    {
+      "id": "u_90676679",
+      "sentAt": "2026-08-10T15:01:30.785Z",
+      "title": "Meta launches new Muse Glimmer AI model to democratize artificial intelligence - foxbusiness.com"
+    },
+    {
+      "id": "u_165f67a",
+      "sentAt": "2026-08-10T15:01:30.785Z",
+      "title": "Bose CEO Lila Snyder on the fight for high-quality audio"
+    },
+    {
+      "id": "u_a3c80030",
+      "sentAt": "2026-08-10T15:01:30.785Z",
+      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction"
+    },
     {
       "id": "u_414ba39f",
       "sentAt": "2026-08-10T13:14:41.716Z",
@@ -4975,31 +5000,6 @@
       "id": "u_39aa2f3b",
       "sentAt": "2026-07-15T17:20:38.416Z",
       "title": "Agents need their own computer. Here's how to give them one safely."
-    },
-    {
-      "id": "u_4eb8c43",
-      "sentAt": "2026-07-15T15:27:31.091Z",
-      "title": "How I tricked Claude into leaking your deepest, darkest secrets"
-    },
-    {
-      "id": "u_39cf2add",
-      "sentAt": "2026-07-15T15:27:31.091Z",
-      "title": "Cloud-Native AI: Revolutionizing How Machines Work"
-    },
-    {
-      "id": "u_8f8f7fde",
-      "sentAt": "2026-07-15T15:27:31.091Z",
-      "title": "The Apple FaceID Co-Inventor Building a Frontier AI Model for the Human Brain"
-    },
-    {
-      "id": "u_c162f4e2",
-      "sentAt": "2026-07-15T15:27:31.091Z",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet"
-    },
-    {
-      "id": "u_64043744",
-      "sentAt": "2026-07-15T15:27:31.091Z",
-      "title": "Trust in AI Agents: The Balance of Autonomy and Oversight"
     }
   ]
 }
