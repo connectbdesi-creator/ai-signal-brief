@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-09T22:34:27.944Z",
+  "updatedAt": "2026-08-10T02:01:00.299Z",
   "entries": [
+    {
+      "id": "u_692c44ec",
+      "sentAt": "2026-08-10T02:01:00.299Z",
+      "title": "Broward schools launch AI hub as district expands use of technology in classrooms - Caribbean National Weekly"
+    },
+    {
+      "id": "u_fa79853a",
+      "sentAt": "2026-08-10T02:01:00.299Z",
+      "title": "Report explores risks and controls for artificial intelligence (AI) agents - Department of Industry Science and Resources"
+    },
+    {
+      "id": "u_7a2f3fd5",
+      "sentAt": "2026-08-10T02:01:00.299Z",
+      "title": "Veeam pushes cyber resilience as AI raises data risks"
+    },
+    {
+      "id": "u_11e47a0f",
+      "sentAt": "2026-08-10T02:01:00.299Z",
+      "title": "Quoting Claude Opus 5 system prompt"
+    },
+    {
+      "id": "u_5c697f38",
+      "sentAt": "2026-08-10T02:01:00.299Z",
+      "title": "GitHub Models is now retired"
+    },
     {
       "id": "u_3570893e",
       "sentAt": "2026-08-09T22:34:27.944Z",
@@ -4975,31 +5000,6 @@
       "id": "u_23694648",
       "sentAt": "2026-07-14T22:59:08.550Z",
       "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data"
-    },
-    {
-      "id": "u_8c0e4f67",
-      "sentAt": "2026-07-14T22:59:08.550Z",
-      "title": "AI Drives Fintech Innovation as MoneySimpler Launches AI Automated Quantitative Trading Technology - Yahoo Finance Singapore"
-    },
-    {
-      "id": "u_498c6a97",
-      "sentAt": "2026-07-14T21:02:46.015Z",
-      "title": "Generative AI: The New Frontier in Modeling Human Decision-Making"
-    },
-    {
-      "id": "u_537417c9",
-      "sentAt": "2026-07-14T21:02:46.015Z",
-      "title": "Cracking the Code: How SPARK Enhances AI Reasoning"
-    },
-    {
-      "id": "u_3b9d5137",
-      "sentAt": "2026-07-14T21:02:46.015Z",
-      "title": "The Gaps in Clinical Reasoning of AI: A Closer Look at Limitations"
-    },
-    {
-      "id": "u_17cb3e68",
-      "sentAt": "2026-07-14T21:02:46.015Z",
-      "title": "StructAgent: Revolutionizing Long-Horizon Task Management"
     }
   ]
 }
