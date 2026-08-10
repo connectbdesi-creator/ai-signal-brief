@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T19:01:12.190Z",
+  "updatedAt": "2026-08-10T20:45:00.915Z",
   "entries": [
+    {
+      "id": "u_ad0f6a7b",
+      "sentAt": "2026-08-10T20:45:00.915Z",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym"
+    },
+    {
+      "id": "u_92cd3902",
+      "sentAt": "2026-08-10T20:45:00.915Z",
+      "title": "Meta releases open-source AI model as Zuckerberg warns on concentrated control - firstcoastnews.com"
+    },
+    {
+      "id": "u_e6a2f5f5",
+      "sentAt": "2026-08-10T20:45:00.915Z",
+      "title": "AI agents, IRL socializing, and vibe coding: Where top consumer investors are placing bets"
+    },
+    {
+      "id": "u_9745db7e",
+      "sentAt": "2026-08-10T20:45:00.915Z",
+      "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve"
+    },
+    {
+      "id": "u_fc904acc",
+      "sentAt": "2026-08-10T20:45:00.915Z",
+      "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]"
+    },
     {
       "id": "u_b1894c6a",
       "sentAt": "2026-08-10T19:01:12.190Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c7f7bd27",
       "sentAt": "2026-07-15T23:00:01.154Z",
       "title": "OpenAI Just Launched Its First Hardware Product—and It’s a Tiny Keyboard for Bossing Around AI Agents - Gizmodo"
-    },
-    {
-      "id": "u_8c5fd7c5",
-      "sentAt": "2026-07-15T21:03:08.712Z",
-      "title": "Inkling's Big Leap: A New Player in the AI Arena"
-    },
-    {
-      "id": "u_3f811a57",
-      "sentAt": "2026-07-15T21:03:08.712Z",
-      "title": "OpenAI's GPT-Red: The AI That's Outperforming Humans at Defending AI"
-    },
-    {
-      "id": "u_ad003c8c",
-      "sentAt": "2026-07-15T21:03:08.712Z",
-      "title": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did"
-    },
-    {
-      "id": "u_14420fff",
-      "sentAt": "2026-07-15T21:03:08.712Z",
-      "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?"
-    },
-    {
-      "id": "u_f527f804",
-      "sentAt": "2026-07-15T21:03:08.712Z",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
     }
   ]
 }
