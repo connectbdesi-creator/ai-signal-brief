@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T05:35:32.880Z",
+  "updatedAt": "2026-08-10T07:46:51.864Z",
   "entries": [
+    {
+      "id": "u_48990342",
+      "sentAt": "2026-08-10T07:46:51.864Z",
+      "title": "SA launches royal commission into artificial intelligence - ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+      "id": "u_f7f570c1",
+      "sentAt": "2026-08-10T07:46:51.864Z",
+      "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal"
+    },
+    {
+      "id": "u_fbba09bf",
+      "sentAt": "2026-08-10T07:46:51.864Z",
+      "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model"
+    },
+    {
+      "id": "u_af7eeeca",
+      "sentAt": "2026-08-10T07:46:51.864Z",
+      "title": "The Sparsity Whisperer"
+    },
+    {
+      "id": "u_3e2ee306",
+      "sentAt": "2026-08-10T07:46:51.864Z",
+      "title": "ArchEGraph: A Large-Scale Graph Dataset for Geometry-Topology-Physics Aligned Building Energy Modeling"
+    },
     {
       "id": "u_9a202235",
       "sentAt": "2026-08-10T05:35:32.880Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bcc38ab4",
       "sentAt": "2026-07-15T06:18:14.874Z",
       "title": "AI’s Potential in Specialized Domains: The CANDI-QA Benchmark"
-    },
-    {
-      "id": "u_cd1f00ab",
-      "sentAt": "2026-07-15T06:18:14.874Z",
-      "title": "Anthropic launches free Claude for Teachers - The Hill"
-    },
-    {
-      "id": "u_e7109fb1",
-      "sentAt": "2026-07-15T02:42:23.879Z",
-      "title": "OpenAI's GPT-5.6 Faces Infrastructure Hiccups Amidst Rapid Expansion"
-    },
-    {
-      "id": "u_b1ba23df",
-      "sentAt": "2026-07-15T02:42:23.879Z",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B"
-    },
-    {
-      "id": "u_1c376978",
-      "sentAt": "2026-07-15T02:42:23.879Z",
-      "title": "PrismML Releases Bonsai 27B: 1-bit and Ternary Builds of Qwen3.6-27B That Run on Laptops and Phones"
-    },
-    {
-      "id": "u_ee3ae827",
-      "sentAt": "2026-07-15T02:42:23.879Z",
-      "title": "Startup Sonata launches preventive healthcare membership, linking clinical decisions with AI - Fierce Healthcare"
     }
   ]
 }
