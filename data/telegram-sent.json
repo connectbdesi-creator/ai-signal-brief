@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-11T03:49:08.079Z",
+  "updatedAt": "2026-08-11T05:11:52.900Z",
   "entries": [
+    {
+      "id": "u_37240dfe",
+      "sentAt": "2026-08-11T05:11:52.900Z",
+      "title": "CHRIST University and IBM Launch IBM Innovation Center for Artificial Intelligence to Accelerate Research, Innovation and Talent Development - IBM"
+    },
+    {
+      "id": "u_f3bf5526",
+      "sentAt": "2026-08-11T05:11:52.900Z",
+      "title": "When associative memory fails, are the synapses degraded? I measured them directly — they aren't. [R]"
+    },
+    {
+      "id": "u_af010a33",
+      "sentAt": "2026-08-11T05:11:52.900Z",
+      "title": "Anthropic just rolled out a tool that'll decimate some people's dreams of writing AI novels undetected"
+    },
+    {
+      "id": "u_95914b8b",
+      "sentAt": "2026-08-11T05:11:52.900Z",
+      "title": "From Benchmark Performance to Tool Deployment: Human-in-the-Loop Anomaly Detection"
+    },
+    {
+      "id": "u_496a0530",
+      "sentAt": "2026-08-11T05:11:52.900Z",
+      "title": "Quality-Diversity Stress Tests for Process Reward Models:What Archive Coverage Can and Cannot Certify"
+    },
     {
       "id": "u_94c430cc",
       "sentAt": "2026-08-11T03:49:08.079Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6235bfed",
       "sentAt": "2026-07-16T14:00:06.298Z",
       "title": "The Death of the Monolithic AI Model: A Paradigm Shift"
-    },
-    {
-      "id": "u_e64a41e0",
-      "sentAt": "2026-07-16T10:11:39.520Z",
-      "title": "Concho AI: Revolutionizing Codebases into Semantic Powerhouses"
-    },
-    {
-      "id": "u_a46929f0",
-      "sentAt": "2026-07-16T10:11:39.520Z",
-      "title": "Ex-OpenAI CTO Murati's Thinking Machines drops Inkling, a 975B parameter model that leads US labs but trails China"
-    },
-    {
-      "id": "u_e06d4fac",
-      "sentAt": "2026-07-16T10:11:39.520Z",
-      "title": "Our approach to bioresilience"
-    },
-    {
-      "id": "u_6cbc6ee2",
-      "sentAt": "2026-07-16T10:11:39.520Z",
-      "title": "xAI open-sources \"Grok-Build\" on GitHub after massive data breach"
-    },
-    {
-      "id": "u_f7d8e70",
-      "sentAt": "2026-07-16T10:11:39.520Z",
-      "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI"
     }
   ]
 }
