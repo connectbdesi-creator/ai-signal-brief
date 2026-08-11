@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-11T05:11:52.900Z",
+  "updatedAt": "2026-08-11T07:12:11.335Z",
   "entries": [
+    {
+      "id": "u_fc6a1187",
+      "sentAt": "2026-08-11T07:12:11.335Z",
+      "title": "I ran Muse Glimmer @ 1M context - All tests passed."
+    },
+    {
+      "id": "u_aa478f73",
+      "sentAt": "2026-08-11T07:12:11.335Z",
+      "title": "Muse Glimmer 30B + DFlash speculative decoding on vLLM: 6 patches needed, 25 → 57 tok/s. Dockerfile and numbers inside."
+    },
+    {
+      "id": "u_86372f6e",
+      "sentAt": "2026-08-11T07:12:11.335Z",
+      "title": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs"
+    },
+    {
+      "id": "u_ca6c15c9",
+      "sentAt": "2026-08-11T07:12:11.335Z",
+      "title": "Path-dependent Discrete Amortized Inference"
+    },
+    {
+      "id": "u_8295e1b2",
+      "sentAt": "2026-08-11T07:12:11.335Z",
+      "title": "Knowing You Is Everything: LLM Agents Achieve Near-Perfect Profile-Consistent Reaction Prediction in Social Media Simulation"
+    },
     {
       "id": "u_37240dfe",
       "sentAt": "2026-08-11T05:11:52.900Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7eaf0f9f",
       "sentAt": "2026-07-16T15:43:54.004Z",
       "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product"
-    },
-    {
-      "id": "u_62e998ee",
-      "sentAt": "2026-07-16T14:00:06.298Z",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu"
-    },
-    {
-      "id": "u_ffa1d007",
-      "sentAt": "2026-07-16T14:00:06.298Z",
-      "title": "Why Frontier AI Models Might Not Play Nice"
-    },
-    {
-      "id": "u_368c35e0",
-      "sentAt": "2026-07-16T14:00:06.298Z",
-      "title": "AI Deployment: Shifting from Training to Action"
-    },
-    {
-      "id": "u_ee957a79",
-      "sentAt": "2026-07-16T14:00:06.298Z",
-      "title": "AI: A Server That Gives Claude a Memory"
-    },
-    {
-      "id": "u_6235bfed",
-      "sentAt": "2026-07-16T14:00:06.298Z",
-      "title": "The Death of the Monolithic AI Model: A Paradigm Shift"
     }
   ]
 }
