@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-11T15:00:41.845Z",
+  "updatedAt": "2026-08-11T16:59:22.551Z",
   "entries": [
+    {
+      "id": "u_12f16a1",
+      "sentAt": "2026-08-11T16:59:22.551Z",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems"
+    },
+    {
+      "id": "u_999ca4a4",
+      "sentAt": "2026-08-11T16:59:22.551Z",
+      "title": "How Pixieset achieved 35% AI feature adoption by solving the right problem with Amazon Bedrock"
+    },
+    {
+      "id": "u_ec2ccb19",
+      "sentAt": "2026-08-11T16:59:22.551Z",
+      "title": "OpenWALDO launches to build collaborative community for open-source AI"
+    },
+    {
+      "id": "u_910d48bc",
+      "sentAt": "2026-08-11T16:59:22.551Z",
+      "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence"
+    },
+    {
+      "id": "u_2924fe71",
+      "sentAt": "2026-08-11T16:59:22.551Z",
+      "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence"
+    },
     {
       "id": "u_57c85134",
       "sentAt": "2026-08-11T15:00:41.845Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3f0fc5cd",
       "sentAt": "2026-07-16T21:03:32.246Z",
       "title": "Kimi's K3: The AI Giant That Might End Bargain AI"
-    },
-    {
-      "id": "u_7ac70101",
-      "sentAt": "2026-07-16T19:16:15.576Z",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials"
-    },
-    {
-      "id": "u_67740a95",
-      "sentAt": "2026-07-16T19:16:15.576Z",
-      "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection"
-    },
-    {
-      "id": "u_b88e5731",
-      "sentAt": "2026-07-16T19:16:15.576Z",
-      "title": "Google Vids now lets you star in your own AI videos"
-    },
-    {
-      "id": "u_7bfa26c2",
-      "sentAt": "2026-07-16T19:16:15.576Z",
-      "title": "Meet Memo: The Robot Aiming to Make Laundry Hassle-Free"
-    },
-    {
-      "id": "u_dca4a86d",
-      "sentAt": "2026-07-16T19:16:15.576Z",
-      "title": "Roblox launches an AI-powered game creation feature in its mobile app"
     }
   ]
 }
