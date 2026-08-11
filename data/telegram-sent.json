@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-11T01:56:19.680Z",
+  "updatedAt": "2026-08-11T03:49:08.079Z",
   "entries": [
+    {
+      "id": "u_94c430cc",
+      "sentAt": "2026-08-11T03:49:08.079Z",
+      "title": "Meta’s new local model forces enterprises to recalculate AI costs and ROI - Computerworld"
+    },
+    {
+      "id": "u_e083e3f7",
+      "sentAt": "2026-08-11T03:49:08.079Z",
+      "title": "Meta Unveils AI Model 'Muse Glimmer' That Can Run On Personal Computers - NDTV"
+    },
+    {
+      "id": "u_dcbe8aa8",
+      "sentAt": "2026-08-11T03:49:08.079Z",
+      "title": "Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model - The Guardian"
+    },
+    {
+      "id": "u_76a96e3c",
+      "sentAt": "2026-08-11T03:49:08.079Z",
+      "title": "Intel to launch $15B stock sale amid AI boom, advanced packaging demand"
+    },
+    {
+      "id": "u_7446290a",
+      "sentAt": "2026-08-11T03:49:08.079Z",
+      "title": "North Carolina Central University made history as the first HBCU in the nation to launch a dedicated AI research center - ABC11 News"
+    },
     {
       "id": "u_6189ed42",
       "sentAt": "2026-08-11T01:56:19.680Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f7d8e70",
       "sentAt": "2026-07-16T10:11:39.520Z",
       "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI"
-    },
-    {
-      "id": "u_908ad736",
-      "sentAt": "2026-07-16T06:22:09.900Z",
-      "title": "Guardrails for AI: Navigating Operational Threats with nsfaguard"
-    },
-    {
-      "id": "u_3c43731f",
-      "sentAt": "2026-07-16T06:22:09.900Z",
-      "title": "Breaking the Boundaries: Multimodal AI Gets a Self-Correcting Upgrade"
-    },
-    {
-      "id": "u_ed95672c",
-      "sentAt": "2026-07-16T06:22:09.900Z",
-      "title": "The New Frontier: AHR Revolutionizes Limited Data Learning"
-    },
-    {
-      "id": "u_8750a98d",
-      "sentAt": "2026-07-16T06:22:09.900Z",
-      "title": "Personality: The Multi-Agent Approach to Text Analysis"
-    },
-    {
-      "id": "u_c7f5f0b2",
-      "sentAt": "2026-07-16T06:22:09.900Z",
-      "title": "A better way to turn 2D designs into 3D models for rapid prototyping"
     }
   ]
 }
