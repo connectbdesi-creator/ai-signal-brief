@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-11T19:05:13.630Z",
+  "updatedAt": "2026-08-11T20:49:22.371Z",
   "entries": [
+    {
+      "id": "u_f99bb0a7",
+      "sentAt": "2026-08-11T20:49:22.371Z",
+      "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model"
+    },
+    {
+      "id": "u_c9c60ab4",
+      "sentAt": "2026-08-11T20:49:22.371Z",
+      "title": "Real-time tax compliance puts agentic AI accuracy to the test"
+    },
+    {
+      "id": "u_1ce2ed7f",
+      "sentAt": "2026-08-11T20:49:22.371Z",
+      "title": "OpenAI launches ChatGPT desktop app for Linux"
+    },
+    {
+      "id": "u_4289c201",
+      "sentAt": "2026-08-11T20:49:22.371Z",
+      "title": "Google’s Gemini app surges to one billion users"
+    },
+    {
+      "id": "u_3e40b4ec",
+      "sentAt": "2026-08-11T20:49:22.371Z",
+      "title": "OpenAI COO Brad Lightcap to Depart, Launch New Venture - citybiz"
+    },
     {
       "id": "u_1464bb0",
       "sentAt": "2026-08-11T19:05:13.630Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c30f861d",
       "sentAt": "2026-07-17T02:51:36.213Z",
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs"
-    },
-    {
-      "id": "u_5f8cfc5b",
-      "sentAt": "2026-07-16T22:59:30.429Z",
-      "title": "Will we have a 27B model with Fable capabilities in 5 months? History says yes"
-    },
-    {
-      "id": "u_812b4522",
-      "sentAt": "2026-07-16T22:59:30.429Z",
-      "title": "I tested all llama.cpp's speculative decoding methods on Qwen 3.6 27B: MTP ~2.7x, DFlash ~3.7x, n-gram stack ~6x on real coding. Local AI win. My findings on RTX 6000 PRO."
-    },
-    {
-      "id": "u_c570ad74",
-      "sentAt": "2026-07-16T22:59:30.429Z",
-      "title": "KIMI K3 Beats Claude Fable and GPT 5.6 sol in arena.ai!!!"
-    },
-    {
-      "id": "u_a06dcdc2",
-      "sentAt": "2026-07-16T22:59:30.429Z",
-      "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI"
-    },
-    {
-      "id": "u_454410b3",
-      "sentAt": "2026-07-16T22:59:30.429Z",
-      "title": "Introducing Grok on Amazon Bedrock"
     }
   ]
 }
