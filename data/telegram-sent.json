@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-11T07:12:11.335Z",
+  "updatedAt": "2026-08-11T13:11:30.185Z",
   "entries": [
+    {
+      "id": "u_1a5bd24a",
+      "sentAt": "2026-08-11T13:11:30.185Z",
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations"
+    },
+    {
+      "id": "u_f24f49c5",
+      "sentAt": "2026-08-11T13:11:30.185Z",
+      "title": "Enterprise Brain Replaces AI Agents As Microsoft And UnifyApps Race"
+    },
+    {
+      "id": "u_9feab290",
+      "sentAt": "2026-08-11T13:11:30.185Z",
+      "title": "Claude will apply invisible watermarks to AI text and images"
+    },
+    {
+      "id": "u_390c4de1",
+      "sentAt": "2026-08-11T13:11:30.185Z",
+      "title": "Can a Local LLM Run My AI Assistant?"
+    },
+    {
+      "id": "u_ba243428",
+      "sentAt": "2026-08-11T13:11:30.185Z",
+      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens"
+    },
     {
       "id": "u_fc6a1187",
       "sentAt": "2026-08-11T07:12:11.335Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cdeb35b0",
       "sentAt": "2026-07-16T17:20:46.674Z",
       "title": "ChatGPT's Teen Safety Upgrades: A Necessary Step or Overkill?"
-    },
-    {
-      "id": "u_ee534e2f",
-      "sentAt": "2026-07-16T15:43:54.004Z",
-      "title": "Yes, you can now order DoorDash from the command line"
-    },
-    {
-      "id": "u_18fa36ad",
-      "sentAt": "2026-07-16T15:43:54.004Z",
-      "title": "UA Hope-Texarkana Launches Certificate Of Proficiency In Artificial Intelligence - Texarkana Today"
-    },
-    {
-      "id": "u_ade29acf",
-      "sentAt": "2026-07-16T15:43:54.004Z",
-      "title": "Inkling: Our open-weights model"
-    },
-    {
-      "id": "u_d5b3e5",
-      "sentAt": "2026-07-16T15:43:54.004Z",
-      "title": "Why is OpenAI selling a ChatGPT basketball?"
-    },
-    {
-      "id": "u_7eaf0f9f",
-      "sentAt": "2026-07-16T15:43:54.004Z",
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product"
     }
   ]
 }
