@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-10T22:40:18.669Z",
+  "updatedAt": "2026-08-11T01:56:19.680Z",
   "entries": [
+    {
+      "id": "u_6189ed42",
+      "sentAt": "2026-08-11T01:56:19.680Z",
+      "title": "Meta Unveils Downloadable AI Model 'Muse Glimmer' To Run On Personal Computers - ndtv.com"
+    },
+    {
+      "id": "u_1fadd31c",
+      "sentAt": "2026-08-11T01:56:19.680Z",
+      "title": "OpenAI expands Daybreak cybersecurity research program"
+    },
+    {
+      "id": "u_9843b117",
+      "sentAt": "2026-08-11T01:56:19.680Z",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model"
+    },
+    {
+      "id": "u_b934e2da",
+      "sentAt": "2026-08-11T01:56:19.680Z",
+      "title": "Introducing Muse Glimmer"
+    },
+    {
+      "id": "u_4688aa87",
+      "sentAt": "2026-08-11T01:56:19.680Z",
+      "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots"
+    },
     {
       "id": "u_45a2e2b9",
       "sentAt": "2026-08-10T22:40:18.669Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c7f5f0b2",
       "sentAt": "2026-07-16T06:22:09.900Z",
       "title": "A better way to turn 2D designs into 3D models for rapid prototyping"
-    },
-    {
-      "id": "u_3e9bab4c",
-      "sentAt": "2026-07-16T02:49:05.828Z",
-      "title": "Murati Knows OpenAI’s Secrets. Her New AI Signals She Prefers China’s."
-    },
-    {
-      "id": "u_ffefe6b0",
-      "sentAt": "2026-07-16T02:49:05.828Z",
-      "title": "Mermaid to Unicode box art (grok-mermaid)"
-    },
-    {
-      "id": "u_646f8b14",
-      "sentAt": "2026-07-16T02:49:05.828Z",
-      "title": "xai-org/grok-build, now open source"
-    },
-    {
-      "id": "u_28f44542",
-      "sentAt": "2026-07-16T02:49:05.828Z",
-      "title": "Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort"
-    },
-    {
-      "id": "u_8c662642",
-      "sentAt": "2026-07-16T02:49:05.828Z",
-      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI"
     }
   ]
 }
