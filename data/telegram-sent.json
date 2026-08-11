@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-11T13:11:30.185Z",
+  "updatedAt": "2026-08-11T15:00:41.845Z",
   "entries": [
+    {
+      "id": "u_57c85134",
+      "sentAt": "2026-08-11T15:00:41.845Z",
+      "title": "How many of your agent's calls actually need a frontier model?"
+    },
+    {
+      "id": "u_b3b12805",
+      "sentAt": "2026-08-11T15:00:41.845Z",
+      "title": "FriskAI launches with $3.6M to show enterprises what their AI agents are doing"
+    },
+    {
+      "id": "u_7c8e7abd",
+      "sentAt": "2026-08-11T15:00:41.845Z",
+      "title": "Why Early AI Adopters Are Getting Breached More Often"
+    },
+    {
+      "id": "u_256a6dac",
+      "sentAt": "2026-08-11T15:00:41.845Z",
+      "title": "Abbott and Google launch first-of-its-kind partnership to transform everyday health through glucose insights and AI - Abbott MediaRoom"
+    },
+    {
+      "id": "u_db5a5cd7",
+      "sentAt": "2026-08-11T15:00:41.845Z",
+      "title": "Wix launches Symphony, a new standalone multi-agent system built for business operations"
+    },
     {
       "id": "u_1a5bd24a",
       "sentAt": "2026-08-11T13:11:30.185Z",
@@ -4975,31 +5000,6 @@
       "id": "u_dca4a86d",
       "sentAt": "2026-07-16T19:16:15.576Z",
       "title": "Roblox launches an AI-powered game creation feature in its mobile app"
-    },
-    {
-      "id": "u_6a23104b",
-      "sentAt": "2026-07-16T17:20:46.674Z",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix"
-    },
-    {
-      "id": "u_b6c9df01",
-      "sentAt": "2026-07-16T17:20:46.674Z",
-      "title": "Enterprises Trust AI Evaluations Less, But Grant More Autonomy"
-    },
-    {
-      "id": "u_76ce5baf",
-      "sentAt": "2026-07-16T17:20:46.674Z",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway"
-    },
-    {
-      "id": "u_89a3a044",
-      "sentAt": "2026-07-16T17:20:46.674Z",
-      "title": "Prepare These 5 Assets Before Your AI Agents Take On More Work"
-    },
-    {
-      "id": "u_cdeb35b0",
-      "sentAt": "2026-07-16T17:20:46.674Z",
-      "title": "ChatGPT's Teen Safety Upgrades: A Necessary Step or Overkill?"
     }
   ]
 }
