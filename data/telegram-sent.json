@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-11T20:49:22.371Z",
+  "updatedAt": "2026-08-11T22:46:08.347Z",
   "entries": [
+    {
+      "id": "u_b0e7d78e",
+      "sentAt": "2026-08-11T22:46:08.347Z",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
+    },
+    {
+      "id": "u_e649fd19",
+      "sentAt": "2026-08-11T22:46:08.347Z",
+      "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock"
+    },
+    {
+      "id": "u_df21f021",
+      "sentAt": "2026-08-11T22:46:08.347Z",
+      "title": "We quantized DeepSeek V4 0731 and benchmarked it against popular quants on 8× RTX 5090"
+    },
+    {
+      "id": "u_672685b",
+      "sentAt": "2026-08-11T22:46:08.347Z",
+      "title": "Anthropic to start watermarking Claude-generated text, images"
+    },
+    {
+      "id": "u_b162900c",
+      "sentAt": "2026-08-11T22:46:08.347Z",
+      "title": "[llama.cpp PR #26608] Ling-3.0 support (unmerged)"
+    },
     {
       "id": "u_f99bb0a7",
       "sentAt": "2026-08-11T20:49:22.371Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2472ace1",
       "sentAt": "2026-07-17T06:19:39.713Z",
       "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems"
-    },
-    {
-      "id": "u_27ce10c5",
-      "sentAt": "2026-07-17T02:51:36.213Z",
-      "title": "Moonshot AI Releases Kimi K3: A 2.8 Trillion Parameter Open MoE Model With Kimi Delta Attention and 1M Context"
-    },
-    {
-      "id": "u_f820331",
-      "sentAt": "2026-07-17T02:51:36.213Z",
-      "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]"
-    },
-    {
-      "id": "u_4d0d766",
-      "sentAt": "2026-07-17T02:51:36.213Z",
-      "title": "Alphabet shares fall on report its most powerful AI model Gemini 3.5 Pro is delayed - CNBC"
-    },
-    {
-      "id": "u_18b7f28d",
-      "sentAt": "2026-07-17T02:51:36.213Z",
-      "title": "Quoting Thibault Sottiaux"
-    },
-    {
-      "id": "u_c30f861d",
-      "sentAt": "2026-07-17T02:51:36.213Z",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs"
     }
   ]
 }
