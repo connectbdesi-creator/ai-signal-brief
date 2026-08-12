@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-12T07:36:53.007Z",
+  "updatedAt": "2026-08-12T09:14:31.781Z",
   "entries": [
+    {
+      "id": "u_80332291",
+      "sentAt": "2026-08-12T09:14:31.781Z",
+      "title": "Skillfully Adding AI To The HHS Pledge On Advancing Best Practices For National Mental Health Care"
+    },
+    {
+      "id": "u_6ab39a9d",
+      "sentAt": "2026-08-12T09:14:31.781Z",
+      "title": "PM Netanyahu launches national AI program, vows Israel will become a 'global superpower' - The Jerusalem Post"
+    },
+    {
+      "id": "u_e61ee49d",
+      "sentAt": "2026-08-12T09:14:31.781Z",
+      "title": "SpaceXAI Unveils Grok Bot to Work Like a Team of AI Agents - Bloomberg.com"
+    },
+    {
+      "id": "u_501242ed",
+      "sentAt": "2026-08-12T09:14:31.781Z",
+      "title": "Daybreak models are now available on AWS"
+    },
     {
       "id": "u_8cd18f0b",
       "sentAt": "2026-08-12T07:36:53.007Z",
@@ -4980,26 +5000,6 @@
       "id": "u_c1933a91",
       "sentAt": "2026-07-17T15:16:57.824Z",
       "title": "Using Classical ML to Empower AI Agents"
-    },
-    {
-      "id": "u_a6042c42",
-      "sentAt": "2026-07-17T15:16:57.824Z",
-      "title": "China-Thailand Joint Laboratory for Intelligent Prediction and Early Warning of Meteorological Disasters launched - World Meteorological Organization WMO"
-    },
-    {
-      "id": "u_f8e14069",
-      "sentAt": "2026-07-17T15:16:57.824Z",
-      "title": "China’s Xi Jinping launches new AI alliance: What is it? - Al Jazeera"
-    },
-    {
-      "id": "u_7c5b6a95",
-      "sentAt": "2026-07-17T15:16:57.824Z",
-      "title": "Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop"
-    },
-    {
-      "id": "u_6cb5c888",
-      "sentAt": "2026-07-17T15:16:57.824Z",
-      "title": "3 reasons China's Kimi K3 is turning heads in Silicon Valley"
     }
   ]
 }
