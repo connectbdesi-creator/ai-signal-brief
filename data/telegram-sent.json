@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-12T02:09:18.324Z",
+  "updatedAt": "2026-08-12T05:39:25.863Z",
   "entries": [
+    {
+      "id": "u_31a4628d",
+      "sentAt": "2026-08-12T05:39:25.863Z",
+      "title": "Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark"
+    },
+    {
+      "id": "u_653bd713",
+      "sentAt": "2026-08-12T05:39:25.863Z",
+      "title": "China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack"
+    },
+    {
+      "id": "u_df92c427",
+      "sentAt": "2026-08-12T05:39:25.863Z",
+      "title": "DOCSCHISEL: Adaptive Tool Documentation Optimization Framework for LLM Agents"
+    },
+    {
+      "id": "u_1777a06",
+      "sentAt": "2026-08-12T05:39:25.863Z",
+      "title": "REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting"
+    },
+    {
+      "id": "u_60038c6",
+      "sentAt": "2026-08-12T05:39:25.863Z",
+      "title": "Physics-Informed Machine Learning in Prognostics and Health Management: A Systematic Literature Review"
+    },
     {
       "id": "u_46df933f",
       "sentAt": "2026-08-12T02:09:18.324Z",
@@ -4975,31 +5000,6 @@
       "id": "u_176a86cb",
       "sentAt": "2026-07-17T13:44:53.032Z",
       "title": "OpenAI GPT-5.6 Goes Public — Three Models, One Strategy, and a New Kind of AI Release"
-    },
-    {
-      "id": "u_2ad65100",
-      "sentAt": "2026-07-17T10:00:53.316Z",
-      "title": "China just erased America's AI lead"
-    },
-    {
-      "id": "u_51723079",
-      "sentAt": "2026-07-17T10:00:53.316Z",
-      "title": "Pro-AI super PAC keeps $31M ready for the midterms"
-    },
-    {
-      "id": "u_866e37c",
-      "sentAt": "2026-07-17T10:00:53.316Z",
-      "title": "I'm a working mom who uses AI agents to manage childcare, our family calendar, and my mental load. Here's my setup."
-    },
-    {
-      "id": "u_aab2e2eb",
-      "sentAt": "2026-07-17T10:00:53.316Z",
-      "title": "Tired Of Building AI Agents? There's A Simpler Way To Work Smarter"
-    },
-    {
-      "id": "u_3779e5e5",
-      "sentAt": "2026-07-17T10:00:53.316Z",
-      "title": "How an influx of salt may affect microbial ecosystems"
     }
   ]
 }
