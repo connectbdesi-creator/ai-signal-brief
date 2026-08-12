@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-12T13:15:25.074Z",
+  "updatedAt": "2026-08-12T14:59:48.815Z",
   "entries": [
+    {
+      "id": "u_c4f00718",
+      "sentAt": "2026-08-12T14:59:48.815Z",
+      "title": "How AI Agents Are Changing ERP And What CIOs Need To Know"
+    },
+    {
+      "id": "u_ef84a9a8",
+      "sentAt": "2026-08-12T14:59:48.815Z",
+      "title": "Putting sign language AI into users’ hands"
+    },
+    {
+      "id": "u_8b8dd15e",
+      "sentAt": "2026-08-12T14:59:48.815Z",
+      "title": "Putting sign language AI into users’ hands"
+    },
+    {
+      "id": "u_b4194702",
+      "sentAt": "2026-08-12T14:59:48.815Z",
+      "title": "Google debuts SL2T, an AI model that’s designed to understand sign language"
+    },
+    {
+      "id": "u_48c80232",
+      "sentAt": "2026-08-12T14:59:48.815Z",
+      "title": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple"
+    },
     {
       "id": "u_60ecbd53",
       "sentAt": "2026-08-12T13:15:25.074Z",
@@ -4975,31 +5000,6 @@
       "id": "u_21918474",
       "sentAt": "2026-07-17T20:59:33.379Z",
       "title": "One MacBook vs 2× DGX Spark: DeepSeek-V4-Flash scored 54% vs 52% on Terminal-Bench 2.1"
-    },
-    {
-      "id": "u_35586d1",
-      "sentAt": "2026-07-17T20:59:33.379Z",
-      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did"
-    },
-    {
-      "id": "u_dbc52039",
-      "sentAt": "2026-07-17T20:59:33.379Z",
-      "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did"
-    },
-    {
-      "id": "u_e6b53961",
-      "sentAt": "2026-07-17T20:59:33.379Z",
-      "title": "Chinese AI model Kimi K3 sends shockwaves through Silicon Valley, challenging ChatGPT, Claude - TRT World"
-    },
-    {
-      "id": "u_89aea24e",
-      "sentAt": "2026-07-17T20:59:33.379Z",
-      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage"
-    },
-    {
-      "id": "u_34b0952c",
-      "sentAt": "2026-07-17T19:15:10.703Z",
-      "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT - The Washington Post"
     }
   ]
 }
