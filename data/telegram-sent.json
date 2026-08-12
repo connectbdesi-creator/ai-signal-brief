@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-12T05:39:25.863Z",
+  "updatedAt": "2026-08-12T07:36:53.007Z",
   "entries": [
+    {
+      "id": "u_8cd18f0b",
+      "sentAt": "2026-08-12T07:36:53.007Z",
+      "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router"
+    },
+    {
+      "id": "u_a711b8ec",
+      "sentAt": "2026-08-12T07:36:53.007Z",
+      "title": "Tesco’s AI Agents Could Soon Do Your Shopping For You"
+    },
+    {
+      "id": "u_f6d8feb0",
+      "sentAt": "2026-08-12T07:36:53.007Z",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems"
+    },
+    {
+      "id": "u_af062274",
+      "sentAt": "2026-08-12T07:36:53.007Z",
+      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens"
+    },
+    {
+      "id": "u_527e4f50",
+      "sentAt": "2026-08-12T07:36:53.007Z",
+      "title": "Testing ads in ChatGPT"
+    },
     {
       "id": "u_31a4628d",
       "sentAt": "2026-08-12T05:39:25.863Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6cb5c888",
       "sentAt": "2026-07-17T15:16:57.824Z",
       "title": "3 reasons China's Kimi K3 is turning heads in Silicon Valley"
-    },
-    {
-      "id": "u_d3d6f7db",
-      "sentAt": "2026-07-17T13:44:53.032Z",
-      "title": "Claude Sonnet 5 Just Became the Default AI for Everyone — and the Price Drop Is the Real Story"
-    },
-    {
-      "id": "u_805b3c15",
-      "sentAt": "2026-07-17T13:44:53.032Z",
-      "title": "The UN Just Held Its First Global AI Governance Summit — and the Warning Was Blunt"
-    },
-    {
-      "id": "u_7f76c4db",
-      "sentAt": "2026-07-17T13:44:53.032Z",
-      "title": "Meta Just Launched Its First Paid AI Model — and It Changes the Open-Source Game"
-    },
-    {
-      "id": "u_6069d0f",
-      "sentAt": "2026-07-17T13:44:53.032Z",
-      "title": "SpaceXAI Just Launched Grok 4.5 — and It Was Trained on Real Developer Behavior"
-    },
-    {
-      "id": "u_176a86cb",
-      "sentAt": "2026-07-17T13:44:53.032Z",
-      "title": "OpenAI GPT-5.6 Goes Public — Three Models, One Strategy, and a New Kind of AI Release"
     }
   ]
 }
