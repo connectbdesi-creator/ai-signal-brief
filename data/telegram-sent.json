@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-12T19:04:57.650Z",
+  "updatedAt": "2026-08-12T20:49:38.328Z",
   "entries": [
+    {
+      "id": "u_d44dcec1",
+      "sentAt": "2026-08-12T20:49:38.328Z",
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please"
+    },
+    {
+      "id": "u_ed691656",
+      "sentAt": "2026-08-12T20:49:38.328Z",
+      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please"
+    },
+    {
+      "id": "u_3b849cbd",
+      "sentAt": "2026-08-12T20:49:38.328Z",
+      "title": "Federal Intelligence Chief Says AI Agents Need Birth Certificates - PYMNTS.com"
+    },
+    {
+      "id": "u_fb4b6c55",
+      "sentAt": "2026-08-12T20:49:38.328Z",
+      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price"
+    },
+    {
+      "id": "u_ad3740ca",
+      "sentAt": "2026-08-12T20:49:38.328Z",
+      "title": "Intelligence vs. Expertise in AI Agents - StartupHub.ai"
+    },
     {
       "id": "u_1067e838",
       "sentAt": "2026-08-12T19:04:57.650Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b58896ec",
       "sentAt": "2026-07-18T06:07:23.663Z",
       "title": "Claude make Fable 5 permanent"
-    },
-    {
-      "id": "u_3faa3585",
-      "sentAt": "2026-07-18T06:07:23.663Z",
-      "title": "Neural Architectures for Amortized Bayesian Inference: Statistical Foundations and Empirical Assessments"
-    },
-    {
-      "id": "u_eb5b36e0",
-      "sentAt": "2026-07-18T06:07:23.663Z",
-      "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems"
-    },
-    {
-      "id": "u_41b66efb",
-      "sentAt": "2026-07-18T06:07:23.663Z",
-      "title": "The White House is dictating access to frontier AI models, shifting power from tech giants, sources say"
-    },
-    {
-      "id": "u_bbb818d5",
-      "sentAt": "2026-07-18T06:07:23.663Z",
-      "title": "A year ago you told me my open-source screen-watching app was flaky. You were right, so I spent the year fixing it with your feedback. Thank you r/LocalLLaMA c: !!"
-    },
-    {
-      "id": "u_b59045f",
-      "sentAt": "2026-07-18T02:43:53.835Z",
-      "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]"
     }
   ]
 }
