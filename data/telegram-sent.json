@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-12T09:14:31.781Z",
+  "updatedAt": "2026-08-12T11:02:24.519Z",
   "entries": [
+    {
+      "id": "u_15780db2",
+      "sentAt": "2026-08-12T11:02:24.519Z",
+      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance"
+    },
+    {
+      "id": "u_41ddd70e",
+      "sentAt": "2026-08-12T11:02:24.519Z",
+      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance"
+    },
+    {
+      "id": "u_4467c3f6",
+      "sentAt": "2026-08-12T11:02:24.519Z",
+      "title": "According to AMD, Arm, and Microsoft, agentic AI could push CPU-to-GPU ratios from 1:4 to even1:1"
+    },
+    {
+      "id": "u_d7a16738",
+      "sentAt": "2026-08-12T11:02:24.519Z",
+      "title": "AI brings savings to clinical trials: study"
+    },
+    {
+      "id": "u_23b7bc16",
+      "sentAt": "2026-08-12T11:02:24.519Z",
+      "title": "Anthropic's text watermarks signal new front in AI detection"
+    },
     {
       "id": "u_80332291",
       "sentAt": "2026-08-12T09:14:31.781Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e1f6b075",
       "sentAt": "2026-07-17T17:15:30.885Z",
       "title": "Introducing Mobile Layout for Amazon Quick dashboards"
-    },
-    {
-      "id": "u_170fb8fd",
-      "sentAt": "2026-07-17T17:15:30.885Z",
-      "title": "How to Work Effectively with GPT-5.6"
-    },
-    {
-      "id": "u_bd1fa281",
-      "sentAt": "2026-07-17T17:15:30.885Z",
-      "title": "China’s Moonshot unveils new AI model - Taipei Times"
-    },
-    {
-      "id": "u_855fb7f7",
-      "sentAt": "2026-07-17T17:15:30.885Z",
-      "title": "The next DeepSeek? A surprise AI breakthrough in China is rattling US market heavyweights."
-    },
-    {
-      "id": "u_c58603d1",
-      "sentAt": "2026-07-17T17:15:30.885Z",
-      "title": "What smart people are saying about China's hot new Kimi K3 AI model"
-    },
-    {
-      "id": "u_c1933a91",
-      "sentAt": "2026-07-17T15:16:57.824Z",
-      "title": "Using Classical ML to Empower AI Agents"
     }
   ]
 }
