@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-12T14:59:48.815Z",
+  "updatedAt": "2026-08-12T16:58:58.638Z",
   "entries": [
+    {
+      "id": "u_e809fd6d",
+      "sentAt": "2026-08-12T16:58:58.638Z",
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video"
+    },
+    {
+      "id": "u_cbd14406",
+      "sentAt": "2026-08-12T16:58:58.638Z",
+      "title": "Galaxy Z Fold8 And Beyond: Samsung CEO TM Roh On Why AI Must Understand The User"
+    },
+    {
+      "id": "u_1b2ae90c",
+      "sentAt": "2026-08-12T16:58:58.638Z",
+      "title": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?"
+    },
+    {
+      "id": "u_a0b3b9f1",
+      "sentAt": "2026-08-12T16:58:58.638Z",
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features"
+    },
+    {
+      "id": "u_dfcc71cc",
+      "sentAt": "2026-08-12T16:58:58.638Z",
+      "title": "Texas Wesleyan Launches New Humanities and Artificial Intelligence Degree - Fort Worth Inc."
+    },
     {
       "id": "u_c4f00718",
       "sentAt": "2026-08-12T14:59:48.815Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2d5dcbb0",
       "sentAt": "2026-07-17T22:52:40.614Z",
       "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds"
-    },
-    {
-      "id": "u_f96a766f",
-      "sentAt": "2026-07-17T22:52:40.614Z",
-      "title": "AI Agents Finally Get Access Without the Password - PYMNTS.com"
-    },
-    {
-      "id": "u_716fcfae",
-      "sentAt": "2026-07-17T22:52:40.614Z",
-      "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage"
-    },
-    {
-      "id": "u_3c5a503d",
-      "sentAt": "2026-07-17T22:52:40.614Z",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them"
-    },
-    {
-      "id": "u_37653cf4",
-      "sentAt": "2026-07-17T22:52:40.614Z",
-      "title": "A scorecard for the AI age"
-    },
-    {
-      "id": "u_21918474",
-      "sentAt": "2026-07-17T20:59:33.379Z",
-      "title": "One MacBook vs 2× DGX Spark: DeepSeek-V4-Flash scored 54% vs 52% on Terminal-Bench 2.1"
     }
   ]
 }
