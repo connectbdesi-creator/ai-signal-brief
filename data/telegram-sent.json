@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-12T11:02:24.519Z",
+  "updatedAt": "2026-08-12T13:15:25.074Z",
   "entries": [
+    {
+      "id": "u_60ecbd53",
+      "sentAt": "2026-08-12T13:15:25.074Z",
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup"
+    },
+    {
+      "id": "u_831bffaa",
+      "sentAt": "2026-08-12T13:15:25.074Z",
+      "title": "Grok is now an AI ‘teammate’ you can assign work"
+    },
+    {
+      "id": "u_53789d65",
+      "sentAt": "2026-08-12T13:15:25.074Z",
+      "title": "OpenAI launches ChatGPT desktop app for Linux"
+    },
+    {
+      "id": "u_70e71b1a",
+      "sentAt": "2026-08-12T13:15:25.074Z",
+      "title": "OpenAI launches ChatGPT desktop app for Linux"
+    },
+    {
+      "id": "u_56eae67d",
+      "sentAt": "2026-08-12T13:15:25.074Z",
+      "title": "Elon Musk tells staff Grok will be trained on all of SpaceX's data: 'It will inherit your thoughts and ideas'"
+    },
     {
       "id": "u_15780db2",
       "sentAt": "2026-08-12T11:02:24.519Z",
@@ -4975,31 +5000,6 @@
       "id": "u_34b0952c",
       "sentAt": "2026-07-17T19:15:10.703Z",
       "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT - The Washington Post"
-    },
-    {
-      "id": "u_3adf3196",
-      "sentAt": "2026-07-17T19:15:10.703Z",
-      "title": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs"
-    },
-    {
-      "id": "u_6904cc2c",
-      "sentAt": "2026-07-17T19:15:10.703Z",
-      "title": "EY re-envisions RAG around multimodal knowledge graphs to improve accuracy"
-    },
-    {
-      "id": "u_fe1729c6",
-      "sentAt": "2026-07-17T19:15:10.703Z",
-      "title": "Weave Robotics launches Isaac, its first mobile humanoid robot"
-    },
-    {
-      "id": "u_e4a22e7a",
-      "sentAt": "2026-07-17T19:15:10.703Z",
-      "title": "Morgan State University Launches Artificial Intelligence Degree to Prepare Students for the Next Era of Innovation - Morgan State University"
-    },
-    {
-      "id": "u_e1f6b075",
-      "sentAt": "2026-07-17T17:15:30.885Z",
-      "title": "Introducing Mobile Layout for Amazon Quick dashboards"
     }
   ]
 }
