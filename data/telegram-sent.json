@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T05:42:07.887Z",
+  "updatedAt": "2026-08-13T07:38:45.022Z",
   "entries": [
+    {
+      "id": "u_efc42d3",
+      "sentAt": "2026-08-13T07:38:45.022Z",
+      "title": "My AI agents shipped 128 releases of a product no one ever used"
+    },
+    {
+      "id": "u_e2aedf57",
+      "sentAt": "2026-08-13T07:38:45.022Z",
+      "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work"
+    },
+    {
+      "id": "u_e6835e8",
+      "sentAt": "2026-08-13T07:38:45.022Z",
+      "title": "AIPass – AI agents with persistent identity, memory, and email"
+    },
+    {
+      "id": "u_2049d365",
+      "sentAt": "2026-08-13T07:38:45.022Z",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes"
+    },
+    {
+      "id": "u_a321943e",
+      "sentAt": "2026-08-13T07:38:45.022Z",
+      "title": "Intelligence Community CIOs Warn Autonomous AI Agents Are Reshaping Cyber Threat Landscape - ExecutiveGov"
+    },
     {
       "id": "u_193518d3",
       "sentAt": "2026-08-13T05:42:07.887Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e4a255a",
       "sentAt": "2026-07-18T19:09:23.709Z",
       "title": "\"Basalt Labs\" pulling a generationally dumb scam. Incredibly stupid lmao. Claiming 99.44% on HLE with tools. Model they released is based on Qwen2.5-7B-Instruct and the model they're serving on their website is DeepSeek."
-    },
-    {
-      "id": "u_c15af394",
-      "sentAt": "2026-07-18T19:09:23.709Z",
-      "title": "If you're building a harness, here is a simple tool to catch cache invalidation in your calls to LLMs"
-    },
-    {
-      "id": "u_31f17ee4",
-      "sentAt": "2026-07-18T17:00:33.373Z",
-      "title": "I tried to give an LLM room to think. This is where it led. [P]"
-    },
-    {
-      "id": "u_e1373eb2",
-      "sentAt": "2026-07-18T17:00:33.373Z",
-      "title": "Chinese AI model takes U.S. tech industry by surprise with abilities rivaling Claude and ChatGPT - NBC Bay Area"
-    },
-    {
-      "id": "u_c40fee55",
-      "sentAt": "2026-07-18T14:56:48.630Z",
-      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing"
-    },
-    {
-      "id": "u_95208022",
-      "sentAt": "2026-07-18T13:22:03.253Z",
-      "title": "China Just Created the World's First AI Agent Regulations — and They're Now Enforceable"
     }
   ]
 }
