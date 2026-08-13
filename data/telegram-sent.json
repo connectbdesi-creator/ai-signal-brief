@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T11:02:26.736Z",
+  "updatedAt": "2026-08-13T13:17:41.333Z",
   "entries": [
+    {
+      "id": "u_68a9b056",
+      "sentAt": "2026-08-13T13:17:41.333Z",
+      "title": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters"
+    },
+    {
+      "id": "u_36a7a698",
+      "sentAt": "2026-08-13T13:17:41.333Z",
+      "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
+    },
+    {
+      "id": "u_a2f99d78",
+      "sentAt": "2026-08-13T13:17:41.333Z",
+      "title": "SpaceX Stock Jumps as Grok Release Ramps Up AI War With Anthropic and OpenAI - Barron's"
+    },
+    {
+      "id": "u_69c4d562",
+      "sentAt": "2026-08-13T13:17:41.333Z",
+      "title": "Youth advocates gather in New York to launch new AI standards - UN News"
+    },
+    {
+      "id": "u_805e451a",
+      "sentAt": "2026-08-13T13:17:41.333Z",
+      "title": "alchemy-utils 0.1a0"
+    },
     {
       "id": "u_3a52dca8",
       "sentAt": "2026-08-13T11:02:26.736Z",
@@ -4975,31 +5000,6 @@
       "id": "u_343ad225",
       "sentAt": "2026-07-19T09:54:10.414Z",
       "title": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree"
-    },
-    {
-      "id": "u_5c83eb64",
-      "sentAt": "2026-07-19T09:54:10.414Z",
-      "title": "AI text detectors struggle when language models mimic an author's style"
-    },
-    {
-      "id": "u_d718e18b",
-      "sentAt": "2026-07-19T09:54:10.414Z",
-      "title": "AI text detectors struggle when language models mimic an author's style"
-    },
-    {
-      "id": "u_37299c7",
-      "sentAt": "2026-07-19T06:32:43.313Z",
-      "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents"
-    },
-    {
-      "id": "u_b7419020",
-      "sentAt": "2026-07-19T06:32:43.313Z",
-      "title": "China Launches World's Largest Open AI Model To Rival US Tech Giants - NDTV"
-    },
-    {
-      "id": "u_457e1796",
-      "sentAt": "2026-07-19T06:32:43.313Z",
-      "title": "Claude Code uses Bun written in Rust now"
     }
   ]
 }
