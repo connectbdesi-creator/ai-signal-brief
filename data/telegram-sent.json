@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T02:10:55.541Z",
+  "updatedAt": "2026-08-13T05:42:07.887Z",
   "entries": [
+    {
+      "id": "u_193518d3",
+      "sentAt": "2026-08-13T05:42:07.887Z",
+      "title": "Morgan State University Launches Artificial Intelligence Degree With Quantum Machine Learning Courses - NCHStats"
+    },
+    {
+      "id": "u_b6ae256d",
+      "sentAt": "2026-08-13T05:42:07.887Z",
+      "title": "Long-Horizon Forecasting of Complete Financial Statements with Forma"
+    },
+    {
+      "id": "u_c71cf406",
+      "sentAt": "2026-08-13T05:42:07.887Z",
+      "title": "Dual-Primal Graph VAEs for Noisy Label Aggregation"
+    },
+    {
+      "id": "u_6301f969",
+      "sentAt": "2026-08-13T05:42:07.887Z",
+      "title": "PAIR: Pairwise-Aware Inclusion Reweighting for Adaptive Rollout Allocation in RLVR"
+    },
+    {
+      "id": "u_8d5e39f6",
+      "sentAt": "2026-08-13T05:42:07.887Z",
+      "title": "Rubric Dropout: A Simple Way to Mitigate Reward Hacking in Rubric-as-Reward RL"
+    },
     {
       "id": "u_7e9d4d3a",
       "sentAt": "2026-08-13T02:10:55.541Z",
@@ -4975,31 +5000,6 @@
       "id": "u_95208022",
       "sentAt": "2026-07-18T13:22:03.253Z",
       "title": "China Just Created the World's First AI Agent Regulations — and They're Now Enforceable"
-    },
-    {
-      "id": "u_19c0a020",
-      "sentAt": "2026-07-18T13:22:03.253Z",
-      "title": "Global Startup Funding Just Hit $510 Billion in Six Months — and AI Took 70% of It"
-    },
-    {
-      "id": "u_b4ca7eb4",
-      "sentAt": "2026-07-18T13:22:03.253Z",
-      "title": "xAI's Grok Build CLI Was Secretly Uploading Full Repositories — and the Opt-Out Didn't Stop It"
-    },
-    {
-      "id": "u_63a400e5",
-      "sentAt": "2026-07-18T13:22:03.253Z",
-      "title": "Moonshot AI Just Dropped Kimi K3 — a 2.8 Trillion Parameter Open-Weight Model That Challenges US Dominance"
-    },
-    {
-      "id": "u_d1e35765",
-      "sentAt": "2026-07-18T13:22:03.253Z",
-      "title": "AI race splits in two as China wages open-weight insurgency"
-    },
-    {
-      "id": "u_8fa95aa2",
-      "sentAt": "2026-07-18T11:06:30.223Z",
-      "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order"
     }
   ]
 }
