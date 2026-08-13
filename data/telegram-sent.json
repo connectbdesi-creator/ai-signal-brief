@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T15:00:04.205Z",
+  "updatedAt": "2026-08-13T16:58:13.276Z",
   "entries": [
+    {
+      "id": "u_2f7fff71",
+      "sentAt": "2026-08-13T16:58:13.276Z",
+      "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices"
+    },
+    {
+      "id": "u_c2e290b3",
+      "sentAt": "2026-08-13T16:58:13.276Z",
+      "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability"
+    },
+    {
+      "id": "u_246b7c4c",
+      "sentAt": "2026-08-13T16:58:13.276Z",
+      "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool"
+    },
+    {
+      "id": "u_42c41b2",
+      "sentAt": "2026-08-13T16:58:13.276Z",
+      "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device"
+    },
+    {
+      "id": "u_9cc1c01",
+      "sentAt": "2026-08-13T16:58:13.276Z",
+      "title": "What to expect during CrowdStrike’s Fal.Con: Join theCUBE Aug. 31-Sept. 2"
+    },
     {
       "id": "u_401c78f5",
       "sentAt": "2026-08-13T15:00:04.205Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ca01ef9d",
       "sentAt": "2026-07-19T13:23:23.421Z",
       "title": "I built llms.txt files to make local businesses discoverable by AI agents"
-    },
-    {
-      "id": "u_ced5e5c8",
-      "sentAt": "2026-07-19T13:23:23.421Z",
-      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\""
-    },
-    {
-      "id": "u_139025a7",
-      "sentAt": "2026-07-19T13:23:23.421Z",
-      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\""
-    },
-    {
-      "id": "u_eebf5232",
-      "sentAt": "2026-07-19T11:10:41.964Z",
-      "title": "Agent Arena: Benchmarking AI Agent Devtool Onboarding"
-    },
-    {
-      "id": "u_9437322f",
-      "sentAt": "2026-07-19T11:10:41.964Z",
-      "title": "Another powerful new artificial intelligence model from China took the US tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their “open-source” AI technology are making the California titans of AI sweat. Read more: https: - LinkedIn"
-    },
-    {
-      "id": "u_85ee57b7",
-      "sentAt": "2026-07-19T11:10:41.964Z",
-      "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing"
     }
   ]
 }
