@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-12T22:44:09.460Z",
+  "updatedAt": "2026-08-13T02:10:55.541Z",
   "entries": [
+    {
+      "id": "u_7e9d4d3a",
+      "sentAt": "2026-08-13T02:10:55.541Z",
+      "title": "SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities"
+    },
+    {
+      "id": "u_2916735e",
+      "sentAt": "2026-08-13T02:10:55.541Z",
+      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)"
+    },
+    {
+      "id": "u_a516ddf5",
+      "sentAt": "2026-08-13T02:10:55.541Z",
+      "title": "Palo Alto Networks to run OpenAI cyber models inside customer networks"
+    },
+    {
+      "id": "u_f5c9e361",
+      "sentAt": "2026-08-13T02:10:55.541Z",
+      "title": "DSU launches new programs in artificial intelligence - Madison Daily Leader"
+    },
+    {
+      "id": "u_c7d9aaf6",
+      "sentAt": "2026-08-13T02:10:55.541Z",
+      "title": "Skan AI raises $63M to give AI agents a map of enterprise work"
+    },
     {
       "id": "u_ce3f7bf4",
       "sentAt": "2026-08-12T22:44:09.460Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8fa95aa2",
       "sentAt": "2026-07-18T11:06:30.223Z",
       "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order"
-    },
-    {
-      "id": "u_f3abaa19",
-      "sentAt": "2026-07-18T11:06:30.223Z",
-      "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order"
-    },
-    {
-      "id": "u_9619d518",
-      "sentAt": "2026-07-18T11:06:30.223Z",
-      "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost"
-    },
-    {
-      "id": "u_5793bb8d",
-      "sentAt": "2026-07-18T11:06:30.223Z",
-      "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost"
-    },
-    {
-      "id": "u_c0056b39",
-      "sentAt": "2026-07-18T11:06:30.223Z",
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage"
-    },
-    {
-      "id": "u_61dc84f8",
-      "sentAt": "2026-07-18T09:37:43.545Z",
-      "title": "Is it safe to say kimi k3 can beat the opus 4.7 and gpt 5.4 ? (In agentic task and frontend and backend coding.) (All at max mode)"
     }
   ]
 }
