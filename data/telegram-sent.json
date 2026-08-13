@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T07:38:45.022Z",
+  "updatedAt": "2026-08-13T09:15:16.705Z",
   "entries": [
+    {
+      "id": "u_6ed66fab",
+      "sentAt": "2026-08-13T09:15:16.705Z",
+      "title": "AI Agents Enable Adaptive Computer Worms"
+    },
+    {
+      "id": "u_280ffc3e",
+      "sentAt": "2026-08-13T09:15:16.705Z",
+      "title": "DeepSeek’s flagship AI model update underwhelms – except in cybersecurity - South China Morning Post"
+    },
+    {
+      "id": "u_65804270",
+      "sentAt": "2026-08-13T09:15:16.705Z",
+      "title": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video"
+    },
+    {
+      "id": "u_b0acbdb",
+      "sentAt": "2026-08-13T09:15:16.705Z",
+      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware"
+    },
+    {
+      "id": "u_99329513",
+      "sentAt": "2026-08-13T09:15:16.705Z",
+      "title": "Scaling AI agents with trustworthy data"
+    },
     {
       "id": "u_efc42d3",
       "sentAt": "2026-08-13T07:38:45.022Z",
@@ -4975,31 +5000,6 @@
       "id": "u_99bc4fcf",
       "sentAt": "2026-07-18T20:53:39.346Z",
       "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking"
-    },
-    {
-      "id": "u_aa638d43",
-      "sentAt": "2026-07-18T20:53:39.346Z",
-      "title": "Kimi: Threat or menace?"
-    },
-    {
-      "id": "u_3a76e364",
-      "sentAt": "2026-07-18T19:09:23.709Z",
-      "title": "Kimi: Threat or menace?"
-    },
-    {
-      "id": "u_ab1ad2e5",
-      "sentAt": "2026-07-18T19:09:23.709Z",
-      "title": "Chinese AI Model Takes U.S. by Surprise with Abilities Rivaling Claude and ChatGPT - Broadband Breakfast"
-    },
-    {
-      "id": "u_7279ef54",
-      "sentAt": "2026-07-18T19:09:23.709Z",
-      "title": "Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform."
-    },
-    {
-      "id": "u_5e4a255a",
-      "sentAt": "2026-07-18T19:09:23.709Z",
-      "title": "\"Basalt Labs\" pulling a generationally dumb scam. Incredibly stupid lmao. Claiming 99.44% on HLE with tools. Model they released is based on Qwen2.5-7B-Instruct and the model they're serving on their website is DeepSeek."
     }
   ]
 }
