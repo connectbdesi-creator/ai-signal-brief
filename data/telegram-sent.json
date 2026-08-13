@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T20:47:16.466Z",
+  "updatedAt": "2026-08-13T22:45:06.896Z",
   "entries": [
+    {
+      "id": "u_3326eb18",
+      "sentAt": "2026-08-13T22:45:06.896Z",
+      "title": "DIA’s artificial intelligence chief envisions ‘agent-to-agents’ interactions that support military operations - DefenseScoop"
+    },
+    {
+      "id": "u_f53f8505",
+      "sentAt": "2026-08-13T22:45:06.896Z",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot"
+    },
+    {
+      "id": "u_4cfeed86",
+      "sentAt": "2026-08-13T22:45:06.896Z",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs"
+    },
+    {
+      "id": "u_b88b9c40",
+      "sentAt": "2026-08-13T22:45:06.896Z",
+      "title": "OpenAI's ChatGPT Gains Context with Computer History Feature - startuphub.ai"
+    },
+    {
+      "id": "u_41bef37d",
+      "sentAt": "2026-08-13T22:45:06.896Z",
+      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens - MarkTechPost"
+    },
     {
       "id": "u_b4e33781",
       "sentAt": "2026-08-13T20:47:16.466Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bf219963",
       "sentAt": "2026-07-19T20:54:17.781Z",
       "title": "Google delays Gemini 3.5 Pro to boost its AI model - Inspenet"
-    },
-    {
-      "id": "u_ae3c411e",
-      "sentAt": "2026-07-19T20:54:17.781Z",
-      "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)"
-    },
-    {
-      "id": "u_80cf7e93",
-      "sentAt": "2026-07-19T20:54:17.781Z",
-      "title": "New Launch Ferrari Luce 2026 Car Artificial Intelligence (gGdLEqjLsI) - Mshale"
-    },
-    {
-      "id": "u_10ae67f4",
-      "sentAt": "2026-07-19T19:10:41.643Z",
-      "title": "The bottleneck for AI agents isn't the model anymore. It's the context layer"
-    },
-    {
-      "id": "u_28b1993e",
-      "sentAt": "2026-07-19T19:10:41.643Z",
-      "title": "I Made 11 AI Agents Do My Job. Here's What Happened"
-    },
-    {
-      "id": "u_a4fbe2da",
-      "sentAt": "2026-07-19T17:01:06.082Z",
-      "title": "Connecting AI agents to outside services explodes the risk radius"
     }
   ]
 }
