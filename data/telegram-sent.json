@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T16:58:13.276Z",
+  "updatedAt": "2026-08-13T19:05:41.594Z",
   "entries": [
+    {
+      "id": "u_e48717d3",
+      "sentAt": "2026-08-13T19:05:41.594Z",
+      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%"
+    },
+    {
+      "id": "u_d9228ebb",
+      "sentAt": "2026-08-13T19:05:41.594Z",
+      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%"
+    },
+    {
+      "id": "u_ad495f69",
+      "sentAt": "2026-08-13T19:05:41.594Z",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war."
+    },
+    {
+      "id": "u_d80357ce",
+      "sentAt": "2026-08-13T19:05:41.594Z",
+      "title": "Israel Launches National AI Action Plan, Setting Goal of Becoming a Global Artificial Intelligence Power - Morningstar"
+    },
+    {
+      "id": "u_72702519",
+      "sentAt": "2026-08-13T19:05:41.594Z",
+      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens"
+    },
     {
       "id": "u_2f7fff71",
       "sentAt": "2026-08-13T16:58:13.276Z",
@@ -4975,31 +5000,6 @@
       "id": "u_17580169",
       "sentAt": "2026-07-19T14:59:06.961Z",
       "title": "AUK Launches Kurdistan Region's First Master's Program in Artificial Intelligence - Kurdistan24"
-    },
-    {
-      "id": "u_5643657c",
-      "sentAt": "2026-07-19T14:59:06.961Z",
-      "title": "AI work agents: China’s Ant, Tencent, Alibaba, Baidu flex for enterprise clients - South China Morning Post"
-    },
-    {
-      "id": "u_5a598523",
-      "sentAt": "2026-07-19T14:59:06.961Z",
-      "title": "Hong Kong can serve as a ‘launch pad’ for AI firms, finance chief Paul Chan says - South China Morning Post"
-    },
-    {
-      "id": "u_b40ffc0f",
-      "sentAt": "2026-07-19T13:23:23.421Z",
-      "title": "Alibaba Just Launched an Entire Cloud Architecture Built Around AI Agents — Not Apps"
-    },
-    {
-      "id": "u_4ac6344d",
-      "sentAt": "2026-07-19T13:23:23.421Z",
-      "title": "OpenAI and Anthropic Just Filed for Trillion-Dollar IPOs — and 42 State Attorneys General Are Investigating"
-    },
-    {
-      "id": "u_ca01ef9d",
-      "sentAt": "2026-07-19T13:23:23.421Z",
-      "title": "I built llms.txt files to make local businesses discoverable by AI agents"
     }
   ]
 }
