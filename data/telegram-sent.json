@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T19:05:41.594Z",
+  "updatedAt": "2026-08-13T20:47:16.466Z",
   "entries": [
+    {
+      "id": "u_b4e33781",
+      "sentAt": "2026-08-13T20:47:16.466Z",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed"
+    },
+    {
+      "id": "u_f4908516",
+      "sentAt": "2026-08-13T20:47:16.466Z",
+      "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only - Decrypt"
+    },
+    {
+      "id": "u_a5b8a82a",
+      "sentAt": "2026-08-13T20:47:16.466Z",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war."
+    },
+    {
+      "id": "u_5c106fab",
+      "sentAt": "2026-08-13T20:47:16.466Z",
+      "title": "Israel Launches National AI Action Plan, Setting Goal of Becoming a Global Artificial Intelligence Power - PR Newswire"
+    },
+    {
+      "id": "u_e2c86466",
+      "sentAt": "2026-08-13T20:47:16.466Z",
+      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens - marktechpost.com"
+    },
     {
       "id": "u_e48717d3",
       "sentAt": "2026-08-13T19:05:41.594Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a4fbe2da",
       "sentAt": "2026-07-19T17:01:06.082Z",
       "title": "Connecting AI agents to outside services explodes the risk radius"
-    },
-    {
-      "id": "u_88c507d0",
-      "sentAt": "2026-07-19T17:01:06.082Z",
-      "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong"
-    },
-    {
-      "id": "u_2391152f",
-      "sentAt": "2026-07-19T17:01:06.082Z",
-      "title": "10 Open-Source No-Code AI Platforms for Building LLM Apps, RAG Systems, and AI Agents - MarkTechPost"
-    },
-    {
-      "id": "u_81387928",
-      "sentAt": "2026-07-19T14:59:06.961Z",
-      "title": "Frontier AI Labs Are Renting Compute From Their Competitors"
-    },
-    {
-      "id": "u_41cf31c4",
-      "sentAt": "2026-07-19T14:59:06.961Z",
-      "title": "iPhone 18 Pro Pricing Can Dominate Market And Start A New Super Cycle"
-    },
-    {
-      "id": "u_17580169",
-      "sentAt": "2026-07-19T14:59:06.961Z",
-      "title": "AUK Launches Kurdistan Region's First Master's Program in Artificial Intelligence - Kurdistan24"
     }
   ]
 }
