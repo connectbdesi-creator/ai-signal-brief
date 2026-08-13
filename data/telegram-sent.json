@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T13:17:41.333Z",
+  "updatedAt": "2026-08-13T15:00:04.205Z",
   "entries": [
+    {
+      "id": "u_401c78f5",
+      "sentAt": "2026-08-13T15:00:04.205Z",
+      "title": "Regal ties its voice AI agents into Five9’s contact center platform"
+    },
+    {
+      "id": "u_fa119a0",
+      "sentAt": "2026-08-13T15:00:04.205Z",
+      "title": "Building a Streaming Local AI Agent"
+    },
+    {
+      "id": "u_350ad75d",
+      "sentAt": "2026-08-13T15:00:04.205Z",
+      "title": "LangChain CEO on Building Better AI Agents - StartupHub.ai"
+    },
+    {
+      "id": "u_f29a6b35",
+      "sentAt": "2026-08-13T15:00:04.205Z",
+      "title": "Writer launches major agentic AI improvements with Palmyra X6 flagship model"
+    },
+    {
+      "id": "u_6f0c2558",
+      "sentAt": "2026-08-13T15:00:04.205Z",
+      "title": "Scaling AI agents with trustworthy data"
+    },
     {
       "id": "u_68a9b056",
       "sentAt": "2026-08-13T13:17:41.333Z",
@@ -4975,31 +5000,6 @@
       "id": "u_85ee57b7",
       "sentAt": "2026-07-19T11:10:41.964Z",
       "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing"
-    },
-    {
-      "id": "u_5a01ab48",
-      "sentAt": "2026-07-19T11:10:41.964Z",
-      "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing"
-    },
-    {
-      "id": "u_cf3ab537",
-      "sentAt": "2026-07-19T11:10:41.964Z",
-      "title": "AI coding agents should optimize for less owned code"
-    },
-    {
-      "id": "u_5ada527a",
-      "sentAt": "2026-07-19T09:54:10.414Z",
-      "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math"
-    },
-    {
-      "id": "u_1321e0c0",
-      "sentAt": "2026-07-19T09:54:10.414Z",
-      "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math"
-    },
-    {
-      "id": "u_343ad225",
-      "sentAt": "2026-07-19T09:54:10.414Z",
-      "title": "Show HN: Shikigami, run AI coding agents in parallel, each in a Git worktree"
     }
   ]
 }
