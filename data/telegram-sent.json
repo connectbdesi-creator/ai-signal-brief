@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T09:15:16.705Z",
+  "updatedAt": "2026-08-13T11:02:26.736Z",
   "entries": [
+    {
+      "id": "u_3a52dca8",
+      "sentAt": "2026-08-13T11:02:26.736Z",
+      "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
+    },
+    {
+      "id": "u_4ebbaf52",
+      "sentAt": "2026-08-13T11:02:26.736Z",
+      "title": "Musk and Zuckerberg claw back into AI race with new model momentum"
+    },
+    {
+      "id": "u_b6b3ece5",
+      "sentAt": "2026-08-13T11:02:26.736Z",
+      "title": "Youth poll: Thumbs down on everything"
+    },
+    {
+      "id": "u_cda36ef6",
+      "sentAt": "2026-08-13T11:02:26.736Z",
+      "title": "DeepSeek’s flagship AI model update underwhelms – except in cybersecurity - scmp.com"
+    },
+    {
+      "id": "u_9aa58bbc",
+      "sentAt": "2026-08-13T11:02:26.736Z",
+      "title": "AI agents are turning data silos into an existential infrastructure problem - cio.com"
+    },
     {
       "id": "u_6ed66fab",
       "sentAt": "2026-08-13T09:15:16.705Z",
@@ -4975,31 +5000,6 @@
       "id": "u_457e1796",
       "sentAt": "2026-07-19T06:32:43.313Z",
       "title": "Claude Code uses Bun written in Rust now"
-    },
-    {
-      "id": "u_ead08d04",
-      "sentAt": "2026-07-19T06:32:43.313Z",
-      "title": "Show HN: Flightwake – a flight recorder for AI coding agents, not a navigator"
-    },
-    {
-      "id": "u_1e07fc8",
-      "sentAt": "2026-07-19T06:32:43.313Z",
-      "title": "SafeAI – Open-Source Static AI Risk Analyzer for AI Agents"
-    },
-    {
-      "id": "u_dc496923",
-      "sentAt": "2026-07-19T02:58:12.401Z",
-      "title": "Open Weight Models Are Turning Inference Into A Control Point"
-    },
-    {
-      "id": "u_c5d58b32",
-      "sentAt": "2026-07-19T02:58:12.401Z",
-      "title": "Fine-Tuning Qwen3 with LoRA Using NVIDIA NeMo AutoModel: A Complete Single-GPU Google Colab Workflow Tutorial"
-    },
-    {
-      "id": "u_99bc4fcf",
-      "sentAt": "2026-07-18T20:53:39.346Z",
-      "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking"
     }
   ]
 }
