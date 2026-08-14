@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-14T02:09:29.666Z",
+  "updatedAt": "2026-08-14T05:39:43.927Z",
   "entries": [
+    {
+      "id": "u_a8c8b648",
+      "sentAt": "2026-08-14T05:39:43.927Z",
+      "title": "Google has unveiled its artificial intelligence (AI) model \"Gemini 3.7 Flash,\" which improves coding.. - 매일경제"
+    },
+    {
+      "id": "u_5e0be7c6",
+      "sentAt": "2026-08-14T05:39:43.927Z",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
+    },
+    {
+      "id": "u_5b1a22be",
+      "sentAt": "2026-08-14T05:39:43.927Z",
+      "title": "When Can You Trust Offline Evaluation of Equal-Cost Top-k Allocation? A Controlled, Reproducible Benchmark and Practitioner's Guide"
+    },
+    {
+      "id": "u_6f4d9fa6",
+      "sentAt": "2026-08-14T05:39:43.927Z",
+      "title": "Dual Spatial-Temporal Attribution: Architecture-Aligned Post-Hoc Explainability for Recurrent Graph Anomaly Detection"
+    },
+    {
+      "id": "u_2aaa47dd",
+      "sentAt": "2026-08-14T05:39:43.927Z",
+      "title": "CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution"
+    },
     {
       "id": "u_355ac0f9",
       "sentAt": "2026-08-14T02:09:29.666Z",
@@ -4975,31 +5000,6 @@
       "id": "u_aab235be",
       "sentAt": "2026-07-20T03:27:30.246Z",
       "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared"
-    },
-    {
-      "id": "u_b7c50209",
-      "sentAt": "2026-07-20T03:27:30.246Z",
-      "title": "Fractale-350M-base: memory as trained behaviour instead of long context, a fully open research release"
-    },
-    {
-      "id": "u_a1f654b",
-      "sentAt": "2026-07-20T03:27:30.246Z",
-      "title": "My thoughts on qwen 3.8 so far with agentic coding."
-    },
-    {
-      "id": "u_e7d98bca",
-      "sentAt": "2026-07-19T22:55:51.408Z",
-      "title": "Show HN: Rate A Human – AI agents review the humans they work for"
-    },
-    {
-      "id": "u_aa5027b7",
-      "sentAt": "2026-07-19T22:55:51.408Z",
-      "title": "Alibaba previews Qwen3.8, claims it’s second only to Claude Fable 5"
-    },
-    {
-      "id": "u_1da85f2e",
-      "sentAt": "2026-07-19T22:55:51.408Z",
-      "title": "Top Pentagon official blasts OpenAI's Dean Ball"
     }
   ]
 }
