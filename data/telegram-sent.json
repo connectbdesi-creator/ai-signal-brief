@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-14T20:33:45.238Z",
+  "updatedAt": "2026-08-14T22:26:11.455Z",
   "entries": [
+    {
+      "id": "u_f0017355",
+      "sentAt": "2026-08-14T22:26:11.455Z",
+      "title": "China's Z.ai launches model it says rivals Anthropic's Mythos - Nikkei Asia"
+    },
+    {
+      "id": "u_2deb5a45",
+      "sentAt": "2026-08-14T22:26:11.455Z",
+      "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts"
+    },
+    {
+      "id": "u_a75a61be",
+      "sentAt": "2026-08-14T22:26:11.455Z",
+      "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts"
+    },
+    {
+      "id": "u_f74863bd",
+      "sentAt": "2026-08-14T22:26:11.455Z",
+      "title": "Z.ai debuts GLM-5.3 with long-horizon coding, cybersecurity upgrades"
+    },
+    {
+      "id": "u_eb9bf98",
+      "sentAt": "2026-08-14T22:26:11.455Z",
+      "title": "Android Circuit: Pixel 11 Pro And Made By Google, Galaxy Z Fold8 Success, Honor Robot Arrives"
+    },
     {
       "id": "u_2a08cc77",
       "sentAt": "2026-08-14T20:33:45.238Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ef2e29fe",
       "sentAt": "2026-07-21T10:27:41.274Z",
       "title": "Inside a group's push for whites-only communities \"heritage communities\""
-    },
-    {
-      "id": "u_8747a017",
-      "sentAt": "2026-07-21T10:27:41.274Z",
-      "title": "Meta Will Now Tell Parents If Their Teen’s AI Chat Turns Dark. Should It?"
-    },
-    {
-      "id": "u_37338bb4",
-      "sentAt": "2026-07-21T10:27:41.274Z",
-      "title": "AI Agents ‘Get Honest’ About Their Own Work"
-    },
-    {
-      "id": "u_afaf7dcc",
-      "sentAt": "2026-07-21T06:31:21.579Z",
-      "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters"
-    },
-    {
-      "id": "u_b812c650",
-      "sentAt": "2026-07-21T06:31:21.579Z",
-      "title": "China weighs tighter export controls on AI models and chips"
-    },
-    {
-      "id": "u_4aec43cf",
-      "sentAt": "2026-07-21T06:31:21.579Z",
-      "title": "China weighs tighter export controls on AI models and chips - Financial Times"
     }
   ]
 }
