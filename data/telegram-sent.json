@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-14T18:58:11.574Z",
+  "updatedAt": "2026-08-14T20:33:45.238Z",
   "entries": [
+    {
+      "id": "u_2a08cc77",
+      "sentAt": "2026-08-14T20:33:45.238Z",
+      "title": "Goodwin Procter unveils AI-enhanced tool for venture capital funding - ABA Journal"
+    },
+    {
+      "id": "u_72a870d1",
+      "sentAt": "2026-08-14T20:33:45.238Z",
+      "title": "Paul Klein: AI Agents Need Better Web 'Harnesses' - StartupHub.ai"
+    },
+    {
+      "id": "u_4673d6",
+      "sentAt": "2026-08-14T20:33:45.238Z",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?"
+    },
+    {
+      "id": "u_4b2c0439",
+      "sentAt": "2026-08-14T20:33:45.238Z",
+      "title": "Nebius Auction-Goers Howl For Blackwell, Throwing Cash"
+    },
+    {
+      "id": "u_15b08626",
+      "sentAt": "2026-08-14T20:33:45.238Z",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong"
+    },
     {
       "id": "u_dc52c045",
       "sentAt": "2026-08-14T18:58:11.574Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4aec43cf",
       "sentAt": "2026-07-21T06:31:21.579Z",
       "title": "China weighs tighter export controls on AI models and chips - Financial Times"
-    },
-    {
-      "id": "u_222976bc",
-      "sentAt": "2026-07-21T06:31:21.579Z",
-      "title": "Schema-Constrained Document-Level Event Argument Extraction with Lightweight LLM Fine-Tuning"
-    },
-    {
-      "id": "u_899427d0",
-      "sentAt": "2026-07-21T06:31:21.579Z",
-      "title": "RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation"
-    },
-    {
-      "id": "u_572c3fd5",
-      "sentAt": "2026-07-21T02:54:29.664Z",
-      "title": "OpenAI launches a $70 ChatGPT basketball under its \"Pause. Play. Prompt.\" campaign | Artificial Intelligence - Capmad"
-    },
-    {
-      "id": "u_9113fa3d",
-      "sentAt": "2026-07-21T02:54:29.664Z",
-      "title": "Show HN: Agent Search Engine – an independent index of 247 AI agents"
-    },
-    {
-      "id": "u_1623f550",
-      "sentAt": "2026-07-21T02:54:29.664Z",
-      "title": "Google reportedly developing ‘Frozen v2’ AI chip optimized for Gemini models"
     }
   ]
 }
