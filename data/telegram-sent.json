@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-14T16:57:24.127Z",
+  "updatedAt": "2026-08-14T18:58:11.574Z",
   "entries": [
+    {
+      "id": "u_dc52c045",
+      "sentAt": "2026-08-14T18:58:11.574Z",
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent"
+    },
+    {
+      "id": "u_70928815",
+      "sentAt": "2026-08-14T18:58:11.574Z",
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent"
+    },
+    {
+      "id": "u_751594c2",
+      "sentAt": "2026-08-14T18:58:11.574Z",
+      "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]"
+    },
+    {
+      "id": "u_4683456d",
+      "sentAt": "2026-08-14T18:58:11.574Z",
+      "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
+    },
+    {
+      "id": "u_4554b3a7",
+      "sentAt": "2026-08-14T18:58:11.574Z",
+      "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
+    },
     {
       "id": "u_7dd73c46",
       "sentAt": "2026-08-14T16:57:24.127Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1623f550",
       "sentAt": "2026-07-21T02:54:29.664Z",
       "title": "Google reportedly developing ‘Frozen v2’ AI chip optimized for Gemini models"
-    },
-    {
-      "id": "u_5f8227e0",
-      "sentAt": "2026-07-21T02:54:29.664Z",
-      "title": "UAHT launches new artificial intelligence certificate - KTALnews.com"
-    },
-    {
-      "id": "u_4eacdf26",
-      "sentAt": "2026-07-21T02:54:29.664Z",
-      "title": "Chinese AI Models Close in on OpenAI as Google Delays Gemini 3.5 Pro - thelec.net"
-    },
-    {
-      "id": "u_8fd275bf",
-      "sentAt": "2026-07-20T23:02:53.116Z",
-      "title": "Kimi-K3 isn’t quite better than Fable yet, but it’s definitely getting closer."
-    },
-    {
-      "id": "u_77da5001",
-      "sentAt": "2026-07-20T23:02:53.116Z",
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient"
-    },
-    {
-      "id": "u_5c925441",
-      "sentAt": "2026-07-20T23:02:53.116Z",
-      "title": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages"
     }
   ]
 }
