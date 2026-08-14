@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-13T22:45:06.896Z",
+  "updatedAt": "2026-08-14T02:09:29.666Z",
   "entries": [
+    {
+      "id": "u_355ac0f9",
+      "sentAt": "2026-08-14T02:09:29.666Z",
+      "title": "sqlite-utils 4.2.1"
+    },
+    {
+      "id": "u_60958245",
+      "sentAt": "2026-08-14T02:09:29.666Z",
+      "title": "Nozomi partners with Sophos to put operational technology data in IT consoles"
+    },
+    {
+      "id": "u_a140a53a",
+      "sentAt": "2026-08-14T02:09:29.666Z",
+      "title": "Google unveils Gemini 3.7 Flash AI model for coding and agent workflows, but top AI model still delayed - The Business Times"
+    },
+    {
+      "id": "u_7c29aec5",
+      "sentAt": "2026-08-14T02:09:29.666Z",
+      "title": "Google launches Gemini 3.7 Flash for coding, AI agent projects"
+    },
+    {
+      "id": "u_c2468ddb",
+      "sentAt": "2026-08-14T02:09:29.666Z",
+      "title": "The Safety Reckoning Inside OpenAI"
+    },
     {
       "id": "u_3326eb18",
       "sentAt": "2026-08-13T22:45:06.896Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1da85f2e",
       "sentAt": "2026-07-19T22:55:51.408Z",
       "title": "Top Pentagon official blasts OpenAI's Dean Ball"
-    },
-    {
-      "id": "u_644c05a0",
-      "sentAt": "2026-07-19T22:55:51.408Z",
-      "title": "Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch"
-    },
-    {
-      "id": "u_a244e977",
-      "sentAt": "2026-07-19T22:55:51.408Z",
-      "title": "AUK Launches Kurdistan Region's First Master's Program in Artificial Intelligence - Kurdistan24"
-    },
-    {
-      "id": "u_f54f1711",
-      "sentAt": "2026-07-19T20:54:17.781Z",
-      "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions"
-    },
-    {
-      "id": "u_9f97cde0",
-      "sentAt": "2026-07-19T20:54:17.781Z",
-      "title": "I argued with the father of open source for 2 years Now the AI fight is the same"
-    },
-    {
-      "id": "u_bf219963",
-      "sentAt": "2026-07-19T20:54:17.781Z",
-      "title": "Google delays Gemini 3.5 Pro to boost its AI model - Inspenet"
     }
   ]
 }
