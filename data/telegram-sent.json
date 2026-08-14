@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-14T10:59:30.794Z",
+  "updatedAt": "2026-08-14T13:12:14.660Z",
   "entries": [
+    {
+      "id": "u_80f469a9",
+      "sentAt": "2026-08-14T13:12:14.660Z",
+      "title": "UniPod Malawi launches AI workshop to build practical artificial intelligence skills - Tech Review Africa"
+    },
+    {
+      "id": "u_41ba16ad",
+      "sentAt": "2026-08-14T13:12:14.660Z",
+      "title": "What KV cache tricks do you guys do with your agents?"
+    },
+    {
+      "id": "u_f30eb81",
+      "sentAt": "2026-08-14T13:12:14.660Z",
+      "title": "5 Fun Agentic AI Papers to Read"
+    },
+    {
+      "id": "u_b731e725",
+      "sentAt": "2026-08-14T13:12:14.660Z",
+      "title": "Samsung Innovation Campus Launched in Libya to Train Youth in AI - Libya Herald"
+    },
+    {
+      "id": "u_b5e2199a",
+      "sentAt": "2026-08-14T13:12:14.660Z",
+      "title": "Back in the Harness: DeepSeek continues its pivot towards agentic AI - South China Morning Post"
+    },
     {
       "id": "u_424ee857",
       "sentAt": "2026-08-14T10:59:30.794Z",
@@ -4975,31 +5000,6 @@
       "id": "u_33003362",
       "sentAt": "2026-07-20T18:06:52.749Z",
       "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation"
-    },
-    {
-      "id": "u_68a6ee53",
-      "sentAt": "2026-07-20T18:06:52.749Z",
-      "title": "Custom OS installation now available on AWS DeepRacer devices"
-    },
-    {
-      "id": "u_e4caf302",
-      "sentAt": "2026-07-20T18:06:52.749Z",
-      "title": "Ethiopian Artificial Intelligence Institute launches fifth Summer Camp for 500 teenagers - Tech Review Africa"
-    },
-    {
-      "id": "u_134b3098",
-      "sentAt": "2026-07-20T14:11:58.258Z",
-      "title": "A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming"
-    },
-    {
-      "id": "u_7b7444af",
-      "sentAt": "2026-07-20T14:11:58.258Z",
-      "title": "EU's AI labeling rules take effect next month"
-    },
-    {
-      "id": "u_bf1bb767",
-      "sentAt": "2026-07-20T14:11:58.258Z",
-      "title": "Israel's $45M AI Influence Campaign Is Targeting US Voters — and Your Chatbot"
     }
   ]
 }
