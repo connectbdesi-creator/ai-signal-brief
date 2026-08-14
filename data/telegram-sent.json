@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-14T05:39:43.927Z",
+  "updatedAt": "2026-08-14T07:28:06.530Z",
   "entries": [
+    {
+      "id": "u_faf2e293",
+      "sentAt": "2026-08-14T07:28:06.530Z",
+      "title": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said"
+    },
+    {
+      "id": "u_dd516391",
+      "sentAt": "2026-08-14T07:28:06.530Z",
+      "title": "Can an AI model’s ‘reasoning’ be extracted? New research fuels US-China distillation row - The Indian Express"
+    },
+    {
+      "id": "u_66bc20",
+      "sentAt": "2026-08-14T07:28:06.530Z",
+      "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM"
+    },
+    {
+      "id": "u_39743013",
+      "sentAt": "2026-08-14T07:28:06.530Z",
+      "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus"
+    },
+    {
+      "id": "u_57502b87",
+      "sentAt": "2026-08-14T07:28:06.530Z",
+      "title": "llm-gemini 0.33"
+    },
     {
       "id": "u_a8c8b648",
       "sentAt": "2026-08-14T05:39:43.927Z",
@@ -4975,31 +5000,6 @@
       "id": "u_580fcc81",
       "sentAt": "2026-07-20T06:50:04.127Z",
       "title": "Process Reward Informed Tree Rollout for Effective Multi-Turn RL"
-    },
-    {
-      "id": "u_c3213ff8",
-      "sentAt": "2026-07-20T06:50:04.127Z",
-      "title": "AEGIS: Assay-Aware Protocol Validation and Runtime Monitoring for Open-Source Liquid Handling Robots"
-    },
-    {
-      "id": "u_7777dc26",
-      "sentAt": "2026-07-20T06:50:04.127Z",
-      "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning"
-    },
-    {
-      "id": "u_a9360bfe",
-      "sentAt": "2026-07-20T03:27:30.246Z",
-      "title": "Dart Framework – Systems Thinking Skill for AI Agents"
-    },
-    {
-      "id": "u_13d7213b",
-      "sentAt": "2026-07-20T03:27:30.246Z",
-      "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model"
-    },
-    {
-      "id": "u_aab235be",
-      "sentAt": "2026-07-20T03:27:30.246Z",
-      "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared"
     }
   ]
 }
