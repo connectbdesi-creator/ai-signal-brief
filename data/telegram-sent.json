@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-14T07:28:06.530Z",
+  "updatedAt": "2026-08-14T09:10:07.850Z",
   "entries": [
+    {
+      "id": "u_9aeb29ef",
+      "sentAt": "2026-08-14T09:10:07.850Z",
+      "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks"
+    },
+    {
+      "id": "u_29e4c6b8",
+      "sentAt": "2026-08-14T09:10:07.850Z",
+      "title": "Claude Artificial Intelligence Model Signals It Is on Path to Self-Awareness - nysun.com"
+    },
+    {
+      "id": "u_c1eb0aa7",
+      "sentAt": "2026-08-14T09:10:07.850Z",
+      "title": "Google has released Gemini 3.7 Flash - LinkedIn"
+    },
+    {
+      "id": "u_f55e403e",
+      "sentAt": "2026-08-14T09:10:07.850Z",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets"
+    },
+    {
+      "id": "u_ed9c9b7",
+      "sentAt": "2026-08-14T09:10:07.850Z",
+      "title": "Introducing Gemini 3.7 Flash"
+    },
     {
       "id": "u_faf2e293",
       "sentAt": "2026-08-14T07:28:06.530Z",
@@ -4975,31 +5000,6 @@
       "id": "u_43fb44dd",
       "sentAt": "2026-07-20T10:55:07.529Z",
       "title": "AUK Launches New Master's Program in Artificial Intelligence - Kurdistan24"
-    },
-    {
-      "id": "u_b0fbb9fe",
-      "sentAt": "2026-07-20T10:55:07.529Z",
-      "title": "How AI is supercharging drug development"
-    },
-    {
-      "id": "u_de1dc53c",
-      "sentAt": "2026-07-20T10:55:07.529Z",
-      "title": "The secret Trump administration battle to fight Chinese AI"
-    },
-    {
-      "id": "u_5de210f8",
-      "sentAt": "2026-07-20T06:50:04.127Z",
-      "title": "More Than 60 Nations Unite as IIHM Launches GAIHEC, the Worlds First Global AI Hospitality Education Council - TheWire.in"
-    },
-    {
-      "id": "u_e6f38e7",
-      "sentAt": "2026-07-20T06:50:04.127Z",
-      "title": "Silicon Valley is freaking out over China's open-source AI strategy"
-    },
-    {
-      "id": "u_580fcc81",
-      "sentAt": "2026-07-20T06:50:04.127Z",
-      "title": "Process Reward Informed Tree Rollout for Effective Multi-Turn RL"
     }
   ]
 }
