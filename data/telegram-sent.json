@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-15T08:32:00.640Z",
+  "updatedAt": "2026-08-15T10:25:16.498Z",
   "entries": [
+    {
+      "id": "u_23e6a633",
+      "sentAt": "2026-08-15T10:25:16.498Z",
+      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push"
+    },
     {
       "id": "u_11cfab34",
       "sentAt": "2026-08-15T08:32:00.640Z",
@@ -4995,11 +5000,6 @@
       "id": "u_8e82573b",
       "sentAt": "2026-07-21T17:24:01.805Z",
       "title": "Introducing the ChatGPT for small business program"
-    },
-    {
-      "id": "u_d943a98a",
-      "sentAt": "2026-07-21T17:24:01.805Z",
-      "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training"
     }
   ]
 }
