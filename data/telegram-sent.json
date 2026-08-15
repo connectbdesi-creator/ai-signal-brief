@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-15T12:41:50.640Z",
+  "updatedAt": "2026-08-15T14:25:34.350Z",
   "entries": [
+    {
+      "id": "u_5c04a051",
+      "sentAt": "2026-08-15T14:25:34.350Z",
+      "title": "India will launch a national program to offer artificial intelligence courses for 10 million young people in the next 12 months - Informat.ro"
+    },
     {
       "id": "u_a83e475f",
       "sentAt": "2026-08-15T12:41:50.640Z",
@@ -4995,11 +5000,6 @@
       "id": "u_be226ecc",
       "sentAt": "2026-07-21T19:27:56.190Z",
       "title": "China's 'open' AI is a terrible business, and nothing like open-source software"
-    },
-    {
-      "id": "u_c18385c7",
-      "sentAt": "2026-07-21T19:27:56.190Z",
-      "title": "Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro"
     }
   ]
 }
