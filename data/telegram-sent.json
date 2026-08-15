@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-15T20:25:13.558Z",
+  "updatedAt": "2026-08-15T22:24:51.731Z",
   "entries": [
+    {
+      "id": "u_3d9fc229",
+      "sentAt": "2026-08-15T22:24:51.731Z",
+      "title": "The perfect way for Google to screw over OAI and Anthropic is by releasing a 120B dense multimodal Gemma model"
+    },
+    {
+      "id": "u_cbd26d6f",
+      "sentAt": "2026-08-15T22:24:51.731Z",
+      "title": "club-5060ti refresh: tested RTX 5060 Ti presets, a proper high-context harness, and Qwen3.8 27B"
+    },
+    {
+      "id": "u_1543ba33",
+      "sentAt": "2026-08-15T22:24:51.731Z",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery"
+    },
+    {
+      "id": "u_8a68e45e",
+      "sentAt": "2026-08-15T22:24:51.731Z",
+      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks"
+    },
     {
       "id": "u_126d9118",
       "sentAt": "2026-08-15T20:25:13.558Z",
@@ -4980,26 +5000,6 @@
       "id": "u_60505f86",
       "sentAt": "2026-07-21T23:00:15.610Z",
       "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system"
-    },
-    {
-      "id": "u_27e443d9",
-      "sentAt": "2026-07-21T23:00:15.610Z",
-      "title": "AMD capitalizes on AI momentum with systems strategy for open-source and hybrid technologies"
-    },
-    {
-      "id": "u_d2c5c497",
-      "sentAt": "2026-07-21T23:00:15.610Z",
-      "title": "Temporal takes on the chaos behind enterprise AI agents"
-    },
-    {
-      "id": "u_2e0fc203",
-      "sentAt": "2026-07-21T21:13:29.271Z",
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models"
-    },
-    {
-      "id": "u_b207c409",
-      "sentAt": "2026-07-21T21:13:29.271Z",
-      "title": "EU Parliament Launches AI Hub While Lawmakers Owe No AI-Drafting Disclosure - Tech Times"
     }
   ]
 }
