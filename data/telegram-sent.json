@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-15T06:42:19.762Z",
+  "updatedAt": "2026-08-15T08:32:00.640Z",
   "entries": [
+    {
+      "id": "u_11cfab34",
+      "sentAt": "2026-08-15T08:32:00.640Z",
+      "title": "Anthropic's Claude Agents Engage in Simulated Turf War - startuphub.ai"
+    },
+    {
+      "id": "u_1cc92d4e",
+      "sentAt": "2026-08-15T08:32:00.640Z",
+      "title": "Anthropic AI Agents Engage in Simulated Turf War - startuphub.ai"
+    },
+    {
+      "id": "u_8779a693",
+      "sentAt": "2026-08-15T08:32:00.640Z",
+      "title": "Qwen 3.8 - 27B is a game changer"
+    },
+    {
+      "id": "u_1484a9b5",
+      "sentAt": "2026-08-15T08:32:00.640Z",
+      "title": "How Anthropic plans to watermark Claude's AI-generated text - bleepingcomputer.com"
+    },
+    {
+      "id": "u_4fece81d",
+      "sentAt": "2026-08-15T08:32:00.640Z",
+      "title": "Qwen3.8-27B is now up to ~3× faster on Apple Silicon with mlx-dspark"
+    },
     {
       "id": "u_53a27c0d",
       "sentAt": "2026-08-15T06:42:19.762Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d943a98a",
       "sentAt": "2026-07-21T17:24:01.805Z",
       "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training"
-    },
-    {
-      "id": "u_6ab12c9c",
-      "sentAt": "2026-07-21T17:24:01.805Z",
-      "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis"
-    },
-    {
-      "id": "u_dced2f26",
-      "sentAt": "2026-07-21T17:24:01.805Z",
-      "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs - AI News"
-    },
-    {
-      "id": "u_e2a8babc",
-      "sentAt": "2026-07-21T15:48:39.831Z",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
-    },
-    {
-      "id": "u_be4a407f",
-      "sentAt": "2026-07-21T15:48:39.831Z",
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber"
-    },
-    {
-      "id": "u_a111ccda",
-      "sentAt": "2026-07-21T15:48:39.831Z",
-      "title": "Hugging Face CEO Warns Attackers Are Already Using AI Agents"
     }
   ]
 }
