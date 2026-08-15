@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-15T01:22:31.487Z",
+  "updatedAt": "2026-08-15T04:34:13.688Z",
   "entries": [
+    {
+      "id": "u_a88a9d18",
+      "sentAt": "2026-08-15T04:34:13.688Z",
+      "title": "MBA: Multimodal Benchmark and Agents for Real-World Business Ideation"
+    },
+    {
+      "id": "u_9adbbfb4",
+      "sentAt": "2026-08-15T04:34:13.688Z",
+      "title": "Anthropic's Claude Agents Engage in Simulated Turf War - StartupHub.ai"
+    },
+    {
+      "id": "u_5322818e",
+      "sentAt": "2026-08-15T04:34:13.688Z",
+      "title": "Anthropic AI Agents Engage in Simulated Turf War - StartupHub.ai"
+    },
     {
       "id": "u_a6cda1c1",
       "sentAt": "2026-08-15T01:22:31.487Z",
@@ -4985,21 +5000,6 @@
       "id": "u_4f740c40",
       "sentAt": "2026-07-21T13:58:54.744Z",
       "title": "Kimi K3 Got So Popular Moonshot Had to Stop Selling It — That's a Warning, Not a Flex"
-    },
-    {
-      "id": "u_657aa153",
-      "sentAt": "2026-07-21T13:58:54.744Z",
-      "title": "China's AI Export Controls Just Expanded Beyond Chips — Now They're Targeting People and Code"
-    },
-    {
-      "id": "u_b2a9ac2f",
-      "sentAt": "2026-07-21T13:58:54.744Z",
-      "title": "200+ Economists Just Released an AI Manifesto — And It's a Warning Shot"
-    },
-    {
-      "id": "u_996b032",
-      "sentAt": "2026-07-21T13:58:54.744Z",
-      "title": "OpenAI Just Released Its First Physical Product — A Keyboard for Controlling AI Agents"
     }
   ]
 }
