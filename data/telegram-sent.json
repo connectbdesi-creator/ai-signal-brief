@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-14T22:26:11.455Z",
+  "updatedAt": "2026-08-15T01:22:31.487Z",
   "entries": [
+    {
+      "id": "u_a6cda1c1",
+      "sentAt": "2026-08-15T01:22:31.487Z",
+      "title": "Anthropic details unreleased Model 2, new alignment concerns in latest AI risk report"
+    },
+    {
+      "id": "u_c6e5e180",
+      "sentAt": "2026-08-15T01:22:31.487Z",
+      "title": "How Anthropic plans to watermark Claude's AI-generated text - BleepingComputer"
+    },
+    {
+      "id": "u_d179cc6d",
+      "sentAt": "2026-08-15T01:22:31.487Z",
+      "title": "Hippocratic AI rolls out platform to coordinate teams of conversational voice AI agents - Fierce Healthcare"
+    },
     {
       "id": "u_f0017355",
       "sentAt": "2026-08-14T22:26:11.455Z",
@@ -4985,21 +5000,6 @@
       "id": "u_996b032",
       "sentAt": "2026-07-21T13:58:54.744Z",
       "title": "OpenAI Just Released Its First Physical Product — A Keyboard for Controlling AI Agents"
-    },
-    {
-      "id": "u_73665f54",
-      "sentAt": "2026-07-21T10:27:41.274Z",
-      "title": "LWiAI Podcast #247 - Opus 4.8, MAI, Anthropic IPO, Minimax-M3"
-    },
-    {
-      "id": "u_5de600da",
-      "sentAt": "2026-07-21T10:27:41.274Z",
-      "title": "The Open Source AI China Problem Just got Worse"
-    },
-    {
-      "id": "u_ef2e29fe",
-      "sentAt": "2026-07-21T10:27:41.274Z",
-      "title": "Inside a group's push for whites-only communities \"heritage communities\""
     }
   ]
 }
