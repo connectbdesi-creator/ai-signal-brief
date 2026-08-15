@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-15T16:27:52.146Z",
+  "updatedAt": "2026-08-15T18:33:34.760Z",
   "entries": [
+    {
+      "id": "u_650f1f62",
+      "sentAt": "2026-08-15T18:33:34.760Z",
+      "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]"
+    },
+    {
+      "id": "u_3fd91b9d",
+      "sentAt": "2026-08-15T18:33:34.760Z",
+      "title": "Impetus builds an operational framework to bridge AI’s ‘context gap’"
+    },
     {
       "id": "u_2542a225",
       "sentAt": "2026-08-15T16:27:52.146Z",
@@ -4990,16 +5000,6 @@
       "id": "u_1558edbd",
       "sentAt": "2026-07-21T21:13:29.271Z",
       "title": "Substack adds an AI detector to help spot blogs written by no one"
-    },
-    {
-      "id": "u_adf5da5c",
-      "sentAt": "2026-07-21T19:27:56.190Z",
-      "title": "How Apollo Uses Deep Agents and LangSmith for GTM AI"
-    },
-    {
-      "id": "u_1e104147",
-      "sentAt": "2026-07-21T19:27:56.190Z",
-      "title": "Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built for Agentic Workloads"
     }
   ]
 }
