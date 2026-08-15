@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-15T18:33:34.760Z",
+  "updatedAt": "2026-08-15T20:25:13.558Z",
   "entries": [
+    {
+      "id": "u_126d9118",
+      "sentAt": "2026-08-15T20:25:13.558Z",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work"
+    },
+    {
+      "id": "u_c4ca3933",
+      "sentAt": "2026-08-15T20:25:13.558Z",
+      "title": "The voluntary-to-mandatory pipeline for AI safety frameworks — with sources"
+    },
+    {
+      "id": "u_ac8511d6",
+      "sentAt": "2026-08-15T20:25:13.558Z",
+      "title": "Anthropic ships frontier AI models but no simple toggle to switch billing modes?"
+    },
     {
       "id": "u_650f1f62",
       "sentAt": "2026-08-15T18:33:34.760Z",
@@ -4985,21 +5000,6 @@
       "id": "u_b207c409",
       "sentAt": "2026-07-21T21:13:29.271Z",
       "title": "EU Parliament Launches AI Hub While Lawmakers Owe No AI-Drafting Disclosure - Tech Times"
-    },
-    {
-      "id": "u_65af484a",
-      "sentAt": "2026-07-21T21:13:29.271Z",
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents"
-    },
-    {
-      "id": "u_30d62b8f",
-      "sentAt": "2026-07-21T21:13:29.271Z",
-      "title": "‘Beyond the GPU’ video series: What to expect from theCUBE’s July 23 coverage"
-    },
-    {
-      "id": "u_1558edbd",
-      "sentAt": "2026-07-21T21:13:29.271Z",
-      "title": "Substack adds an AI detector to help spot blogs written by no one"
     }
   ]
 }
