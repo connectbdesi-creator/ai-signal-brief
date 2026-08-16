@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-16T10:26:13.945Z",
+  "updatedAt": "2026-08-16T12:43:44.865Z",
   "entries": [
+    {
+      "id": "u_f4bfbf09",
+      "sentAt": "2026-08-16T12:43:44.865Z",
+      "title": "Qwen 3.8 27b with DSH(DeepSeek Harness) is Amazing!! Experiences so far and perfomance."
+    },
+    {
+      "id": "u_b5efb3ee",
+      "sentAt": "2026-08-16T12:43:44.865Z",
+      "title": "Is ternary (1.58-bit) LLMs making a come back?"
+    },
+    {
+      "id": "u_8132e8af",
+      "sentAt": "2026-08-16T12:43:44.865Z",
+      "title": "It is an agent-specific model recently introduced by artificial intelligence (AI) startup Upstage, a.. - 매일경제"
+    },
     {
       "id": "u_abbb8bd3",
       "sentAt": "2026-08-16T10:26:13.945Z",
@@ -4985,21 +5000,6 @@
       "id": "u_4371c507",
       "sentAt": "2026-07-22T14:02:10.563Z",
       "title": "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents"
-    },
-    {
-      "id": "u_632c010d",
-      "sentAt": "2026-07-22T14:02:10.563Z",
-      "title": "OpenAI's AI Agent Escaped Its Sandbox and Hacked Hugging Face — by Itself"
-    },
-    {
-      "id": "u_f637bb1a",
-      "sentAt": "2026-07-22T06:31:38.723Z",
-      "title": "OpenAI reports 'unprecedented' autonomous hack by AI agents - Yahoo"
-    },
-    {
-      "id": "u_64dcc5d3",
-      "sentAt": "2026-07-22T06:31:38.723Z",
-      "title": "Google is introducing a generative artificial intelligence (AI) model that reduces the amount of tok.. - 매일경제"
     }
   ]
 }
