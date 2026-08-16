@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-16T14:26:07.350Z",
+  "updatedAt": "2026-08-16T16:28:40.754Z",
   "entries": [
+    {
+      "id": "u_cc0aa63d",
+      "sentAt": "2026-08-16T16:28:40.754Z",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes"
+    },
+    {
+      "id": "u_274c7fc3",
+      "sentAt": "2026-08-16T16:28:40.754Z",
+      "title": "b10453"
+    },
+    {
+      "id": "u_67c2c68b",
+      "sentAt": "2026-08-16T16:28:40.754Z",
+      "title": "b10452"
+    },
+    {
+      "id": "u_ca9568a7",
+      "sentAt": "2026-08-16T16:28:40.754Z",
+      "title": "b10451"
+    },
+    {
+      "id": "u_7c5b1f54",
+      "sentAt": "2026-08-16T16:28:40.754Z",
+      "title": "v1.98.0-rc.1"
+    },
     {
       "id": "u_fd5ad0cc",
       "sentAt": "2026-08-16T14:26:07.350Z",
@@ -4975,31 +5000,6 @@
       "id": "u_760d5927",
       "sentAt": "2026-07-22T17:23:25.059Z",
       "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations"
-    },
-    {
-      "id": "u_1a368cfe",
-      "sentAt": "2026-07-22T17:23:25.059Z",
-      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost"
-    },
-    {
-      "id": "u_67981909",
-      "sentAt": "2026-07-22T17:23:25.059Z",
-      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost"
-    },
-    {
-      "id": "u_59038408",
-      "sentAt": "2026-07-22T14:02:10.563Z",
-      "title": "OpenAI launches a new platform for deploying artificial intelligence agents - المتداول العربي"
-    },
-    {
-      "id": "u_ab5cfb6a",
-      "sentAt": "2026-07-22T14:02:10.563Z",
-      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
-    },
-    {
-      "id": "u_5556dd18",
-      "sentAt": "2026-07-22T14:02:10.563Z",
-      "title": "TIL Why my dual 5060 Ti setup refuses to go past 50% usage and no, it's not broken."
     }
   ]
 }
