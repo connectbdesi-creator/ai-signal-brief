@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-16T06:43:36.606Z",
+  "updatedAt": "2026-08-16T08:32:26.372Z",
   "entries": [
+    {
+      "id": "u_e572c9a0",
+      "sentAt": "2026-08-16T08:32:26.372Z",
+      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
+    },
+    {
+      "id": "u_6469cfa3",
+      "sentAt": "2026-08-16T08:32:26.372Z",
+      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
+    },
+    {
+      "id": "u_772e5d65",
+      "sentAt": "2026-08-16T08:32:26.372Z",
+      "title": "Qwen3.8-27B abliterated FP8: refusal 64–99% → 0–6%, and MMLU/GSM8K move less than 1.3 points"
+    },
+    {
+      "id": "u_c458dcba",
+      "sentAt": "2026-08-16T08:32:26.372Z",
+      "title": "New AI platform launches as Ja prepares public debate on AI rules - Jamaica Gleaner"
+    },
+    {
+      "id": "u_2cd2ad02",
+      "sentAt": "2026-08-16T08:32:26.372Z",
+      "title": "Best Setup for a 16 GB VRAM + 128 GB RAM System?"
+    },
     {
       "id": "u_a52be020",
       "sentAt": "2026-08-16T06:43:36.606Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9fb4749e",
       "sentAt": "2026-07-22T06:31:38.723Z",
       "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI - UNESCO"
-    },
-    {
-      "id": "u_654aae3b",
-      "sentAt": "2026-07-22T06:31:38.723Z",
-      "title": "OpenAI Doubles Agentic User Base as Cheaper Chinese Models Threaten US Dominance - The Daily Upside"
-    },
-    {
-      "id": "u_13384e72",
-      "sentAt": "2026-07-22T06:31:38.723Z",
-      "title": "Here's what smart people are saying about OpenAI models hacking Hugging Face on their own"
-    },
-    {
-      "id": "u_f686be0f",
-      "sentAt": "2026-07-22T02:52:13.120Z",
-      "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook"
-    },
-    {
-      "id": "u_acd5d6f3",
-      "sentAt": "2026-07-22T02:52:13.120Z",
-      "title": "Mistral AI strikes multibillion deal with Microsoft to build out Azure infrastructure in Europe"
-    },
-    {
-      "id": "u_29fd0692",
-      "sentAt": "2026-07-22T02:52:13.120Z",
-      "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face"
     }
   ]
 }
