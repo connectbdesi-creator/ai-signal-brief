@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-16T08:32:26.372Z",
+  "updatedAt": "2026-08-16T10:26:13.945Z",
   "entries": [
+    {
+      "id": "u_abbb8bd3",
+      "sentAt": "2026-08-16T10:26:13.945Z",
+      "title": "How AI could bring Mayo-quality health care to everyone"
+    },
     {
       "id": "u_e572c9a0",
       "sentAt": "2026-08-16T08:32:26.372Z",
@@ -4995,11 +5000,6 @@
       "id": "u_64dcc5d3",
       "sentAt": "2026-07-22T06:31:38.723Z",
       "title": "Google is introducing a generative artificial intelligence (AI) model that reduces the amount of tok.. - 매일경제"
-    },
-    {
-      "id": "u_9fb4749e",
-      "sentAt": "2026-07-22T06:31:38.723Z",
-      "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI - UNESCO"
     }
   ]
 }
