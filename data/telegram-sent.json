@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-16T12:43:44.865Z",
+  "updatedAt": "2026-08-16T14:26:07.350Z",
   "entries": [
+    {
+      "id": "u_fd5ad0cc",
+      "sentAt": "2026-08-16T14:26:07.350Z",
+      "title": "Rogue AI aren’t science fiction anymore"
+    },
     {
       "id": "u_f4bfbf09",
       "sentAt": "2026-08-16T12:43:44.865Z",
@@ -4995,11 +5000,6 @@
       "id": "u_5556dd18",
       "sentAt": "2026-07-22T14:02:10.563Z",
       "title": "TIL Why my dual 5060 Ti setup refuses to go past 50% usage and no, it's not broken."
-    },
-    {
-      "id": "u_4371c507",
-      "sentAt": "2026-07-22T14:02:10.563Z",
-      "title": "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents"
     }
   ]
 }
