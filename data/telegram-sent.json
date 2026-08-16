@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-16T18:33:02.578Z",
+  "updatedAt": "2026-08-16T22:23:38.357Z",
   "entries": [
+    {
+      "id": "u_8cb5abe0",
+      "sentAt": "2026-08-16T22:23:38.357Z",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
+    },
+    {
+      "id": "u_441e0432",
+      "sentAt": "2026-08-16T22:23:38.357Z",
+      "title": "Artificial Intelligence Crypto: MemeToro’s Dry-Run Pipeline Signals a Cautious Approach to AI Launches - StreetInsider"
+    },
+    {
+      "id": "u_fc26ad10",
+      "sentAt": "2026-08-16T22:23:38.357Z",
+      "title": "Qwen3.8 27B Q2 vs Q3 vs Qwen3.6 35B-A3B MoE on 12GB VRAM"
+    },
+    {
+      "id": "u_ff0c3635",
+      "sentAt": "2026-08-16T22:23:38.357Z",
+      "title": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027 (rationalisation below)"
+    },
+    {
+      "id": "u_b68a725f",
+      "sentAt": "2026-08-16T22:23:38.357Z",
+      "title": "Making small local models actually useful for coding"
+    },
     {
       "id": "u_30c087ca",
       "sentAt": "2026-08-16T18:33:02.578Z",
@@ -4975,31 +5000,6 @@
       "id": "u_80dd400d",
       "sentAt": "2026-07-22T19:25:27.610Z",
       "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook"
-    },
-    {
-      "id": "u_4896db57",
-      "sentAt": "2026-07-22T19:25:27.610Z",
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook"
-    },
-    {
-      "id": "u_22aa145a",
-      "sentAt": "2026-07-22T19:25:27.610Z",
-      "title": "'Gemini who?': Rivals dunk on Google's delayed frontier AI"
-    },
-    {
-      "id": "u_dc09cdaa",
-      "sentAt": "2026-07-22T19:25:27.610Z",
-      "title": "Amazon cuts some jobs in its artificial general intelligence unit"
-    },
-    {
-      "id": "u_3ef2c420",
-      "sentAt": "2026-07-22T19:25:27.610Z",
-      "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion"
-    },
-    {
-      "id": "u_6ab09aeb",
-      "sentAt": "2026-07-22T17:23:25.059Z",
-      "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion"
     }
   ]
 }
