@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-15T22:24:51.731Z",
+  "updatedAt": "2026-08-16T06:43:36.606Z",
   "entries": [
+    {
+      "id": "u_a52be020",
+      "sentAt": "2026-08-16T06:43:36.606Z",
+      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
+    },
+    {
+      "id": "u_a24abd61",
+      "sentAt": "2026-08-16T06:43:36.606Z",
+      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
+    },
+    {
+      "id": "u_8007ea26",
+      "sentAt": "2026-08-16T06:43:36.606Z",
+      "title": "Anyone managed to get Qwen 3.8 27B running smoothly on vLLM? Can't get rid of endless thinking"
+    },
+    {
+      "id": "u_4ce437fb",
+      "sentAt": "2026-08-16T06:43:36.606Z",
+      "title": "Google launches Gemini 3.7 Flash: What’s new in its latest AI model? - The Indian Express"
+    },
+    {
+      "id": "u_72262f1b",
+      "sentAt": "2026-08-16T06:43:36.606Z",
+      "title": "SOTA Apple Silicon Inference (August 15, 2026)"
+    },
     {
       "id": "u_3d9fc229",
       "sentAt": "2026-08-15T22:24:51.731Z",
@@ -4975,31 +5000,6 @@
       "id": "u_29fd0692",
       "sentAt": "2026-07-22T02:52:13.120Z",
       "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face"
-    },
-    {
-      "id": "u_e183104b",
-      "sentAt": "2026-07-22T02:52:13.120Z",
-      "title": "SkyPilot nabs $20M to ease AI infrastructure management"
-    },
-    {
-      "id": "u_8abd7dc9",
-      "sentAt": "2026-07-22T02:52:13.120Z",
-      "title": "U.S. Treasury Secretary Bessent threatens sanctions against Chinese AI model makers"
-    },
-    {
-      "id": "u_212ecd10",
-      "sentAt": "2026-07-21T23:00:15.610Z",
-      "title": "OpenAI says its own AI models broke out of testing and hacked Hugging Face"
-    },
-    {
-      "id": "u_c88ac32e",
-      "sentAt": "2026-07-21T23:00:15.610Z",
-      "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it"
-    },
-    {
-      "id": "u_60505f86",
-      "sentAt": "2026-07-21T23:00:15.610Z",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system"
     }
   ]
 }
