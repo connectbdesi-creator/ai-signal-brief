@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-17T20:30:07.599Z",
+  "updatedAt": "2026-08-17T22:27:36.629Z",
   "entries": [
+    {
+      "id": "u_6be3e806",
+      "sentAt": "2026-08-17T22:27:36.629Z",
+      "title": "langchain-core==1.5.6"
+    },
+    {
+      "id": "u_e43c1f0e",
+      "sentAt": "2026-08-17T22:27:36.629Z",
+      "title": "Middle East demands are testing America's Pacific presence"
+    },
+    {
+      "id": "u_f9336ef9",
+      "sentAt": "2026-08-17T22:27:36.629Z",
+      "title": "CI&T Launches Business Builders and Debuts its New Agentic Enterprise Reinvention Offering - Business Wire"
+    },
+    {
+      "id": "u_2a783f97",
+      "sentAt": "2026-08-17T22:27:36.629Z",
+      "title": "New policy ideas for the Intelligence Age"
+    },
     {
       "id": "u_6e975d3b",
       "sentAt": "2026-08-17T20:30:07.599Z",
@@ -4980,26 +5000,6 @@
       "id": "u_d1ca42ec",
       "sentAt": "2026-07-23T22:59:13.557Z",
       "title": "OpenAI's new release turns a bad week ugly for software stocks"
-    },
-    {
-      "id": "u_1a033feb",
-      "sentAt": "2026-07-23T22:59:13.557Z",
-      "title": "AI Kill Switch Act: Official Bill Text by Reps. Lieu and Moran (2026)"
-    },
-    {
-      "id": "u_bf47fb9b",
-      "sentAt": "2026-07-23T21:07:26.673Z",
-      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress"
-    },
-    {
-      "id": "u_282ad07b",
-      "sentAt": "2026-07-23T21:07:26.673Z",
-      "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat"
-    },
-    {
-      "id": "u_c7a941b8",
-      "sentAt": "2026-07-23T21:07:26.673Z",
-      "title": "ChatGPT will give you worse health advice if you don't pay"
     }
   ]
 }
