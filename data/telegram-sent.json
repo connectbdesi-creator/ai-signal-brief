@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-17T10:35:44.699Z",
+  "updatedAt": "2026-08-17T12:50:55.207Z",
   "entries": [
+    {
+      "id": "u_7114aec0",
+      "sentAt": "2026-08-17T12:50:55.207Z",
+      "title": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence - The Globe and Mail"
+    },
+    {
+      "id": "u_491d24e5",
+      "sentAt": "2026-08-17T12:50:55.207Z",
+      "title": "$1 billion NYC-startup Dash0 acquires Berlin tech company to build software that fixes itself"
+    },
+    {
+      "id": "u_bda428c9",
+      "sentAt": "2026-08-17T12:50:55.207Z",
+      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model"
+    },
+    {
+      "id": "u_984e2357",
+      "sentAt": "2026-08-17T12:50:55.207Z",
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work"
+    },
+    {
+      "id": "u_1ed979e1",
+      "sentAt": "2026-08-17T12:50:55.207Z",
+      "title": "The 800-Millisecond Question Your Marketing Stack Can't Answer"
+    },
     {
       "id": "u_7ecdc5a1",
       "sentAt": "2026-08-17T10:35:44.699Z",
@@ -4975,31 +5000,6 @@
       "id": "u_abf15f7d",
       "sentAt": "2026-07-23T14:08:00.690Z",
       "title": "Google's Gemini 3.6 Flash Is Here, and It's Not What Anyone Expected"
-    },
-    {
-      "id": "u_5abe2004",
-      "sentAt": "2026-07-23T14:08:00.690Z",
-      "title": "The White House Just Put a 30-Day Leash on Frontier AI, and Meta Got Left Out"
-    },
-    {
-      "id": "u_19a89a23",
-      "sentAt": "2026-07-23T14:08:00.690Z",
-      "title": "Kimi K3 Just Vaporized $314 Billion From OpenAI and Anthropic's IPO Dreams"
-    },
-    {
-      "id": "u_f2400598",
-      "sentAt": "2026-07-23T10:25:47.780Z",
-      "title": "DeepSeek Founder’s 4-hour investor meeting: DeepSeek is prioritizing AGI over user growth and commercialisation"
-    },
-    {
-      "id": "u_f841478c",
-      "sentAt": "2026-07-23T10:25:47.780Z",
-      "title": "ANTARES project launch: Artificial Intelligence aims to speed up the search for new antibacterials - EIN Presswire"
-    },
-    {
-      "id": "u_631afe1e",
-      "sentAt": "2026-07-23T10:25:47.780Z",
-      "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge"
     }
   ]
 }
