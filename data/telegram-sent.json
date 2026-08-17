@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-17T12:50:55.207Z",
+  "updatedAt": "2026-08-17T16:32:03.349Z",
   "entries": [
+    {
+      "id": "u_c67c6136",
+      "sentAt": "2026-08-17T16:32:03.349Z",
+      "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments"
+    },
+    {
+      "id": "u_ac067a5a",
+      "sentAt": "2026-08-17T16:32:03.349Z",
+      "title": "Qwen 3.8 27B Overthinking, It has to be done, it has to be overthinking to punch Opus 4.6"
+    },
+    {
+      "id": "u_c115608",
+      "sentAt": "2026-08-17T16:32:03.349Z",
+      "title": "AgentCore Payments middleware for LangChain agents"
+    },
+    {
+      "id": "u_4e586c41",
+      "sentAt": "2026-08-17T16:32:03.349Z",
+      "title": "v4.12.0"
+    },
+    {
+      "id": "u_364c437b",
+      "sentAt": "2026-08-17T16:32:03.349Z",
+      "title": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence - AiThority"
+    },
     {
       "id": "u_7114aec0",
       "sentAt": "2026-08-17T12:50:55.207Z",
@@ -4975,31 +5000,6 @@
       "id": "u_17d0e470",
       "sentAt": "2026-07-23T17:25:17.126Z",
       "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes"
-    },
-    {
-      "id": "u_d5fe727e",
-      "sentAt": "2026-07-23T17:25:17.126Z",
-      "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore"
-    },
-    {
-      "id": "u_6ba2f718",
-      "sentAt": "2026-07-23T17:25:17.126Z",
-      "title": "OpenAI makes ChatGPT Health available to all U.S. users"
-    },
-    {
-      "id": "u_d27702ce",
-      "sentAt": "2026-07-23T14:08:00.690Z",
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era"
-    },
-    {
-      "id": "u_8fe18f80",
-      "sentAt": "2026-07-23T14:08:00.690Z",
-      "title": "Your First AI Agent Is An Experiment, Not A Product"
-    },
-    {
-      "id": "u_abf15f7d",
-      "sentAt": "2026-07-23T14:08:00.690Z",
-      "title": "Google's Gemini 3.6 Flash Is Here, and It's Not What Anyone Expected"
     }
   ]
 }
