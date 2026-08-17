@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-16T22:23:38.357Z",
+  "updatedAt": "2026-08-17T03:02:29.682Z",
   "entries": [
+    {
+      "id": "u_b41fac98",
+      "sentAt": "2026-08-17T03:02:29.682Z",
+      "title": "Changzhou launches mass digital literacy push - China Daily Global Edition"
+    },
+    {
+      "id": "u_32cb10e6",
+      "sentAt": "2026-08-17T03:02:29.682Z",
+      "title": "The next China shock will come from open-source AI"
+    },
+    {
+      "id": "u_a1764e5",
+      "sentAt": "2026-08-17T03:02:29.682Z",
+      "title": "Llama.cpp ROCm 7.2->7.14 upgrade, Radeon 780m iGPU benchmarks: ROCm vs Vulkan"
+    },
     {
       "id": "u_8cb5abe0",
       "sentAt": "2026-08-16T22:23:38.357Z",
@@ -4985,21 +5000,6 @@
       "id": "u_3cb82503",
       "sentAt": "2026-07-22T21:17:04.035Z",
       "title": "OpenAI’s rogue AI agents are a wake-up call for its risks | Shakeel Hashim"
-    },
-    {
-      "id": "u_afd6b1d7",
-      "sentAt": "2026-07-22T21:17:04.035Z",
-      "title": "Anthropic to buy up to two gigawatts of GPU capacity from AMD"
-    },
-    {
-      "id": "u_4d087835",
-      "sentAt": "2026-07-22T21:17:04.035Z",
-      "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations"
-    },
-    {
-      "id": "u_80dd400d",
-      "sentAt": "2026-07-22T19:25:27.610Z",
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook"
     }
   ]
 }
