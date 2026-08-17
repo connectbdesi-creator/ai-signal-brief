@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-17T04:45:06.070Z",
+  "updatedAt": "2026-08-17T07:00:44.196Z",
   "entries": [
+    {
+      "id": "u_5da970bf",
+      "sentAt": "2026-08-17T07:00:44.196Z",
+      "title": "b10455"
+    },
+    {
+      "id": "u_9b402d70",
+      "sentAt": "2026-08-17T07:00:44.196Z",
+      "title": "Anthropic unveils invisible text watermarking system for Claude models - Adgully.com"
+    },
+    {
+      "id": "u_1a6d52fc",
+      "sentAt": "2026-08-17T07:00:44.196Z",
+      "title": "Are Microsoft’s AI plans being held back by a shortage of chips?"
+    },
+    {
+      "id": "u_e46d612",
+      "sentAt": "2026-08-17T07:00:44.196Z",
+      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents"
+    },
+    {
+      "id": "u_e3699f07",
+      "sentAt": "2026-08-17T07:00:44.196Z",
+      "title": "The Integer Alibi: Localizing Cross-Kernel Divergence in INT8-Quantized LLM Inference"
+    },
     {
       "id": "u_ba25bf2f",
       "sentAt": "2026-08-17T04:45:06.070Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2aca0ab9",
       "sentAt": "2026-07-23T03:13:28.247Z",
       "title": "AI home-selling platform launches in Arizona - AZ Family"
-    },
-    {
-      "id": "u_dbe39d18",
-      "sentAt": "2026-07-23T03:13:28.247Z",
-      "title": "Show HN: Grimoire – Best Practices for Everyone Installed for Your AI Agents"
-    },
-    {
-      "id": "u_f7b22a10",
-      "sentAt": "2026-07-23T03:13:28.247Z",
-      "title": "Show HN: LitigationBench. A Litigation Task-Based AI Benchmark"
-    },
-    {
-      "id": "u_fa538193",
-      "sentAt": "2026-07-22T23:07:54.631Z",
-      "title": "Are AI labs pelicanmaxxing?"
-    },
-    {
-      "id": "u_6cb3af92",
-      "sentAt": "2026-07-22T23:07:54.631Z",
-      "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents"
-    },
-    {
-      "id": "u_1214afa9",
-      "sentAt": "2026-07-22T23:07:54.631Z",
-      "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]"
     }
   ]
 }
