@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-17T08:46:48.947Z",
+  "updatedAt": "2026-08-17T10:35:44.699Z",
   "entries": [
+    {
+      "id": "u_7ecdc5a1",
+      "sentAt": "2026-08-17T10:35:44.699Z",
+      "title": "SuperApp launches a shared space with AI models for teams to collaborate on work"
+    },
+    {
+      "id": "u_c8ef3946",
+      "sentAt": "2026-08-17T10:35:44.699Z",
+      "title": "AI Hospitality Alliance Launches Free 8-Part Practical AI Workshop Series for Hospitality Professionals - Hospitality Net"
+    },
+    {
+      "id": "u_e701bde9",
+      "sentAt": "2026-08-17T10:35:44.699Z",
+      "title": "The hottest AI models aren’t the ones developers actually use"
+    },
+    {
+      "id": "u_e8f3e503",
+      "sentAt": "2026-08-17T10:35:44.699Z",
+      "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin"
+    },
+    {
+      "id": "u_36368bd9",
+      "sentAt": "2026-08-17T10:35:44.699Z",
+      "title": "What happens to what you share with AI"
+    },
     {
       "id": "u_86eae106",
       "sentAt": "2026-08-17T08:46:48.947Z",
@@ -4975,31 +5000,6 @@
       "id": "u_631afe1e",
       "sentAt": "2026-07-23T10:25:47.780Z",
       "title": "OpenAI's Hugging Face breach exposes AI's next safety challenge"
-    },
-    {
-      "id": "u_9ff5065a",
-      "sentAt": "2026-07-23T10:25:47.780Z",
-      "title": "[Paper] SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD"
-    },
-    {
-      "id": "u_7ea247ad",
-      "sentAt": "2026-07-23T10:25:47.780Z",
-      "title": "Model \"distillation\" accusations are getting way overblown at this point"
-    },
-    {
-      "id": "u_71d1e783",
-      "sentAt": "2026-07-23T06:32:17.225Z",
-      "title": "Real task cost across GPT, Claude, Gemini and Kimi, 10.6x spread on models with only 2x price difference [R]"
-    },
-    {
-      "id": "u_7b51a9b0",
-      "sentAt": "2026-07-23T06:32:17.225Z",
-      "title": "Reference-Free Evaluation of Reasoning in Open-Ended Question Answering"
-    },
-    {
-      "id": "u_cfb982e5",
-      "sentAt": "2026-07-23T06:32:17.225Z",
-      "title": "TriAgent: Divergence-Aware Multi-Agent Committees for Cost-Efficient Financial Sentiment Analysis"
     }
   ]
 }
