@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-17T18:42:38.649Z",
+  "updatedAt": "2026-08-17T20:30:07.599Z",
   "entries": [
+    {
+      "id": "u_6e975d3b",
+      "sentAt": "2026-08-17T20:30:07.599Z",
+      "title": "I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it's helpful for certain things."
+    },
+    {
+      "id": "u_7ec7cde",
+      "sentAt": "2026-08-17T20:30:07.599Z",
+      "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption"
+    },
+    {
+      "id": "u_93f71bc",
+      "sentAt": "2026-08-17T20:30:07.599Z",
+      "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch - TradingView"
+    },
+    {
+      "id": "u_7d9fbd14",
+      "sentAt": "2026-08-17T20:30:07.599Z",
+      "title": "TRM Launches Enterprise AI Practice to Help Asset-Intensive Organizations Operationalize Artificial Intelligence - PR Newswire"
+    },
+    {
+      "id": "u_a8a831ce",
+      "sentAt": "2026-08-17T20:30:07.599Z",
+      "title": "The Defender’s Window"
+    },
     {
       "id": "u_819246d5",
       "sentAt": "2026-08-17T18:42:38.649Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c7a941b8",
       "sentAt": "2026-07-23T21:07:26.673Z",
       "title": "ChatGPT will give you worse health advice if you don't pay"
-    },
-    {
-      "id": "u_75d99c33",
-      "sentAt": "2026-07-23T21:07:26.673Z",
-      "title": "ChatGPT will give you worse health advice if you don't pay"
-    },
-    {
-      "id": "u_c4fa0473",
-      "sentAt": "2026-07-23T21:07:26.673Z",
-      "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]"
-    },
-    {
-      "id": "u_9baba939",
-      "sentAt": "2026-07-23T19:22:22.422Z",
-      "title": "Anthropic updates Claude voice mode with more capable models"
-    },
-    {
-      "id": "u_ab93d638",
-      "sentAt": "2026-07-23T19:22:22.422Z",
-      "title": "July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More"
-    },
-    {
-      "id": "u_c7e48a46",
-      "sentAt": "2026-07-23T19:22:22.422Z",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing"
     }
   ]
 }
