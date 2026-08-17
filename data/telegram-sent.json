@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-17T07:00:44.196Z",
+  "updatedAt": "2026-08-17T08:46:48.947Z",
   "entries": [
+    {
+      "id": "u_86eae106",
+      "sentAt": "2026-08-17T08:46:48.947Z",
+      "title": "Get closer to the game with Gemini and Pixel"
+    },
+    {
+      "id": "u_fea5362b",
+      "sentAt": "2026-08-17T08:46:48.947Z",
+      "title": "b10456"
+    },
+    {
+      "id": "u_65bb87e9",
+      "sentAt": "2026-08-17T08:46:48.947Z",
+      "title": "Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction"
+    },
+    {
+      "id": "u_5b98b82f",
+      "sentAt": "2026-08-17T08:46:48.947Z",
+      "title": "Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions"
+    },
+    {
+      "id": "u_270af81a",
+      "sentAt": "2026-08-17T08:46:48.947Z",
+      "title": "Learning to Run Power Networks: Effective AlphaZero-inspired Topological Control"
+    },
     {
       "id": "u_5da970bf",
       "sentAt": "2026-08-17T07:00:44.196Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cfb982e5",
       "sentAt": "2026-07-23T06:32:17.225Z",
       "title": "TriAgent: Divergence-Aware Multi-Agent Committees for Cost-Efficient Financial Sentiment Analysis"
-    },
-    {
-      "id": "u_e08711ef",
-      "sentAt": "2026-07-23T06:32:17.225Z",
-      "title": "When Does Knowledge Distillation Hurt? Reliability-Aware Distillation for Low-Resource Language Summarization"
-    },
-    {
-      "id": "u_4667b7b4",
-      "sentAt": "2026-07-23T06:32:17.225Z",
-      "title": "Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results"
-    },
-    {
-      "id": "u_c51381e",
-      "sentAt": "2026-07-23T03:13:28.247Z",
-      "title": "AI infrastructure demand is outrunning even the boldest supply chain playbooks"
-    },
-    {
-      "id": "u_c6d3b70",
-      "sentAt": "2026-07-23T03:13:28.247Z",
-      "title": "AI home-selling platform launches in Arizona, offering flat-fee alternative - AZ Family"
-    },
-    {
-      "id": "u_2aca0ab9",
-      "sentAt": "2026-07-23T03:13:28.247Z",
-      "title": "AI home-selling platform launches in Arizona - AZ Family"
     }
   ]
 }
