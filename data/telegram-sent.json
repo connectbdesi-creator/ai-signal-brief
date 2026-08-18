@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-18T12:52:28.314Z",
+  "updatedAt": "2026-08-18T14:43:36.494Z",
   "entries": [
+    {
+      "id": "u_e4cb14e3",
+      "sentAt": "2026-08-18T14:43:36.494Z",
+      "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow - The New York Times"
+    },
+    {
+      "id": "u_e3f1c535",
+      "sentAt": "2026-08-18T14:43:36.494Z",
+      "title": "Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands"
+    },
+    {
+      "id": "u_a0b3f2a",
+      "sentAt": "2026-08-18T14:43:36.494Z",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it"
+    },
+    {
+      "id": "u_d8e1f9e9",
+      "sentAt": "2026-08-18T14:43:36.494Z",
+      "title": "v4.13.0"
+    },
+    {
+      "id": "u_8cb42fce",
+      "sentAt": "2026-08-18T14:43:36.494Z",
+      "title": "Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used"
+    },
     {
       "id": "u_edf5561f",
       "sentAt": "2026-08-18T12:52:28.314Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f299843",
       "sentAt": "2026-07-24T19:28:12.370Z",
       "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters"
-    },
-    {
-      "id": "u_a9b3ae7e",
-      "sentAt": "2026-07-24T19:28:12.370Z",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage"
-    },
-    {
-      "id": "u_ee490db0",
-      "sentAt": "2026-07-24T19:28:12.370Z",
-      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model"
-    },
-    {
-      "id": "u_37d9371",
-      "sentAt": "2026-07-24T17:40:12.239Z",
-      "title": "Anthropic's new AI model rivals Fable 5 and is cheaper as businesses fret about costs"
-    },
-    {
-      "id": "u_6ce6f829",
-      "sentAt": "2026-07-24T17:40:12.239Z",
-      "title": "Anthropic launches Opus 5"
-    },
-    {
-      "id": "u_bf6704e",
-      "sentAt": "2026-07-24T17:40:12.239Z",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities"
     }
   ]
 }
