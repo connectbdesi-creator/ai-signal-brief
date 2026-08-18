@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-17T22:27:36.629Z",
+  "updatedAt": "2026-08-18T01:21:29.417Z",
   "entries": [
+    {
+      "id": "u_d600ea0",
+      "sentAt": "2026-08-18T01:21:29.417Z",
+      "title": "ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation"
+    },
+    {
+      "id": "u_af1c7afb",
+      "sentAt": "2026-08-18T01:21:29.417Z",
+      "title": "Cursor launches Origin code hosting service to compete with GitHub"
+    },
+    {
+      "id": "u_2e87a743",
+      "sentAt": "2026-08-18T01:21:29.417Z",
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index"
+    },
+    {
+      "id": "u_a76b4588",
+      "sentAt": "2026-08-18T01:21:29.417Z",
+      "title": "AI cloud operator Groq raises $350M more in funding"
+    },
+    {
+      "id": "u_fa52f4b0",
+      "sentAt": "2026-08-18T01:21:29.417Z",
+      "title": "[AINews] Stripe buys OpenRouter for $7B"
+    },
     {
       "id": "u_6be3e806",
       "sentAt": "2026-08-17T22:27:36.629Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ea003e15",
       "sentAt": "2026-07-24T02:52:43.957Z",
       "title": "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be"
-    },
-    {
-      "id": "u_8259ef9f",
-      "sentAt": "2026-07-24T02:52:43.957Z",
-      "title": "OpenAI launches Health in ChatGPT a day after lawsuit seeks to block it"
-    },
-    {
-      "id": "u_c44c7b96",
-      "sentAt": "2026-07-23T22:59:13.557Z",
-      "title": "The first known runaway AI agent - or a very bad marketing stunt?"
-    },
-    {
-      "id": "u_8cdbfbe8",
-      "sentAt": "2026-07-23T22:59:13.557Z",
-      "title": "AegisAI banks $36M as AI spear phishing surges fivefold in a year"
-    },
-    {
-      "id": "u_afb9abce",
-      "sentAt": "2026-07-23T22:59:13.557Z",
-      "title": "Warner unveils sweeping AI legislative framework focused on safety, data centers, workforce protections - 13newsnow.com"
-    },
-    {
-      "id": "u_d1ca42ec",
-      "sentAt": "2026-07-23T22:59:13.557Z",
-      "title": "OpenAI's new release turns a bad week ugly for software stocks"
     }
   ]
 }
