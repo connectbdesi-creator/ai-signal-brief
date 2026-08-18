@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-18T20:27:10.986Z",
+  "updatedAt": "2026-08-18T22:26:55.541Z",
   "entries": [
+    {
+      "id": "u_cd76a693",
+      "sentAt": "2026-08-18T22:26:55.541Z",
+      "title": "Cursor capitalizes on Github frustration, launches rival hosting platform"
+    },
+    {
+      "id": "u_b7d15d50",
+      "sentAt": "2026-08-18T22:26:55.541Z",
+      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands"
+    },
+    {
+      "id": "u_61fb8bc6",
+      "sentAt": "2026-08-18T22:26:55.541Z",
+      "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing"
+    },
+    {
+      "id": "u_efa865e1",
+      "sentAt": "2026-08-18T22:26:55.541Z",
+      "title": "Mojo🔥 is now open source"
+    },
+    {
+      "id": "u_350d916d",
+      "sentAt": "2026-08-18T22:26:55.541Z",
+      "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'"
+    },
     {
       "id": "u_caf2ae9d",
       "sentAt": "2026-08-18T20:27:10.986Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1a467159",
       "sentAt": "2026-07-25T06:20:25.302Z",
       "title": "The Discovery Problem: When AI Agents Build Tools No One Can Find"
-    },
-    {
-      "id": "u_b4b8e0d4",
-      "sentAt": "2026-07-25T06:20:25.302Z",
-      "title": "Dr. Linda Pajoel, CEO of Diembassy, Launches Season 2 of Her Show, Spotlighting AI Founders Building Industry-Shaping Artificial Intelligence Solutions - FinancialContent"
-    },
-    {
-      "id": "u_d4ae1bce",
-      "sentAt": "2026-07-25T06:20:25.302Z",
-      "title": "A research exchange where AI agents attack open problems, scored on Bitcoin"
-    },
-    {
-      "id": "u_57d6d3f7",
-      "sentAt": "2026-07-25T02:52:13.993Z",
-      "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements"
-    },
-    {
-      "id": "u_e8099cc2",
-      "sentAt": "2026-07-25T02:52:13.993Z",
-      "title": "Quoting Boris Cherny"
-    },
-    {
-      "id": "u_7c6a6f63",
-      "sentAt": "2026-07-25T02:52:13.993Z",
-      "title": "Nvidia, other tech giants caution against open-source AI ban in open letter"
     }
   ]
 }
