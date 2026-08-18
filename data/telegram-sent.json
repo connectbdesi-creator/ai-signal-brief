@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-18T01:21:29.417Z",
+  "updatedAt": "2026-08-18T02:58:13.320Z",
   "entries": [
+    {
+      "id": "u_f81ee928",
+      "sentAt": "2026-08-18T02:58:13.320Z",
+      "title": "langchain-openai==1.5.2a1"
+    },
+    {
+      "id": "u_3fbb8590",
+      "sentAt": "2026-08-18T02:58:13.320Z",
+      "title": "AI inference is getting cheaper, but your agents are getting more expensive - Computerworld"
+    },
+    {
+      "id": "u_e2c667a1",
+      "sentAt": "2026-08-18T02:58:13.320Z",
+      "title": "Credit card issuer Synchrony announces partnership with OpenAI - CNBC"
+    },
     {
       "id": "u_d600ea0",
       "sentAt": "2026-08-18T01:21:29.417Z",
@@ -4985,21 +5000,6 @@
       "id": "u_d8d79a8d",
       "sentAt": "2026-07-24T02:52:43.957Z",
       "title": "Nutanix and AMD build enterprise AI stack to take agents from pilot to production"
-    },
-    {
-      "id": "u_2638db7b",
-      "sentAt": "2026-07-24T02:52:43.957Z",
-      "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents"
-    },
-    {
-      "id": "u_da1b4ba9",
-      "sentAt": "2026-07-24T02:52:43.957Z",
-      "title": "AgentForger proves AI agents can become persistent insider threats - csoonline.com"
-    },
-    {
-      "id": "u_ea003e15",
-      "sentAt": "2026-07-24T02:52:43.957Z",
-      "title": "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be"
     }
   ]
 }
