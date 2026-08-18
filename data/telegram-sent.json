@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-18T16:34:27.203Z",
+  "updatedAt": "2026-08-18T18:41:10.350Z",
   "entries": [
+    {
+      "id": "u_34c2e12e",
+      "sentAt": "2026-08-18T18:41:10.350Z",
+      "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed"
+    },
+    {
+      "id": "u_6bb7f06",
+      "sentAt": "2026-08-18T18:41:10.350Z",
+      "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit"
+    },
+    {
+      "id": "u_6273aabb",
+      "sentAt": "2026-08-18T18:41:10.350Z",
+      "title": "VCs Fund AI Agents' Second-Order Fallout Before It Hits"
+    },
+    {
+      "id": "u_f3cf8cdc",
+      "sentAt": "2026-08-18T18:41:10.350Z",
+      "title": "langchain-openai==1.5.2"
+    },
+    {
+      "id": "u_6186be8f",
+      "sentAt": "2026-08-18T18:41:10.350Z",
+      "title": "Implement vector-prompt document classification using Amazon Bedrock"
+    },
     {
       "id": "u_7149f35c",
       "sentAt": "2026-08-18T16:34:27.203Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7a68f4b3",
       "sentAt": "2026-07-24T23:03:38.311Z",
       "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock"
-    },
-    {
-      "id": "u_103969c9",
-      "sentAt": "2026-07-24T23:03:38.311Z",
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street"
-    },
-    {
-      "id": "u_5b471375",
-      "sentAt": "2026-07-24T23:03:38.311Z",
-      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German"
-    },
-    {
-      "id": "u_a3180470",
-      "sentAt": "2026-07-24T21:07:00.635Z",
-      "title": "NVIDIA, Microsoft Lead Push for Open AI Models After Kimi K3 Launch - TradingView"
-    },
-    {
-      "id": "u_bd782833",
-      "sentAt": "2026-07-24T21:07:00.635Z",
-      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price"
-    },
-    {
-      "id": "u_c445384e",
-      "sentAt": "2026-07-24T21:07:00.635Z",
-      "title": "Morgan State University Launches Undergraduate Degree in Artificial Intelligence - The Journal of Blacks in Higher Education"
     }
   ]
 }
