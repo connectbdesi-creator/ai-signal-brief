@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-18T04:38:17.041Z",
+  "updatedAt": "2026-08-18T06:48:00.093Z",
   "entries": [
+    {
+      "id": "u_710fbf1",
+      "sentAt": "2026-08-18T06:48:00.093Z",
+      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration"
+    },
+    {
+      "id": "u_6686318c",
+      "sentAt": "2026-08-18T06:48:00.093Z",
+      "title": "Frontier AI Forecasting Has a Measurement Problem: An Audit of Progress Evidence"
+    },
+    {
+      "id": "u_36aaab37",
+      "sentAt": "2026-08-18T06:48:00.093Z",
+      "title": "LLMs Can Predict Failure Risk, But Struggle to Predict Which Collaboration Protocol Pays Off: Cost-Aware Protocol Routing Across Reasoning Tasks"
+    },
+    {
+      "id": "u_57337e7c",
+      "sentAt": "2026-08-18T06:48:00.093Z",
+      "title": "Position: Medical AI Neglects Real Treatment Outcomes"
+    },
+    {
+      "id": "u_451414af",
+      "sentAt": "2026-08-18T06:48:00.093Z",
+      "title": "Large Language Models and their Awareness of Mechanics and Spatial Geometry"
+    },
     {
       "id": "u_162af7f1",
       "sentAt": "2026-08-18T04:38:17.041Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8196afec",
       "sentAt": "2026-07-24T10:21:59.640Z",
       "title": "Behind the Curtain: The AI titans' biggest private fear"
-    },
-    {
-      "id": "u_abfae7b2",
-      "sentAt": "2026-07-24T10:21:59.640Z",
-      "title": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why"
-    },
-    {
-      "id": "u_104375cb",
-      "sentAt": "2026-07-24T10:21:59.640Z",
-      "title": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why"
-    },
-    {
-      "id": "u_5ea99b44",
-      "sentAt": "2026-07-24T10:21:59.640Z",
-      "title": "AWS Kills The AI Services It Launched Just Two Years Ago"
-    },
-    {
-      "id": "u_5dc23b1a",
-      "sentAt": "2026-07-24T10:21:59.640Z",
-      "title": "It's one choke point after another in the global economy"
-    },
-    {
-      "id": "u_1f2d565b",
-      "sentAt": "2026-07-24T06:28:17.871Z",
-      "title": "Show HN: Generous free tier for SERP and AI web scraping"
     }
   ]
 }
