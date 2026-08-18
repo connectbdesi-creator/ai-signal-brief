@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-18T14:43:36.494Z",
+  "updatedAt": "2026-08-18T16:34:27.203Z",
   "entries": [
+    {
+      "id": "u_7149f35c",
+      "sentAt": "2026-08-18T16:34:27.203Z",
+      "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore"
+    },
+    {
+      "id": "u_dfd701e7",
+      "sentAt": "2026-08-18T16:34:27.203Z",
+      "title": "The Machine Acquires an Office: A Briefing on AI Agents, Machine Learning and Cryptography - www.lvivherald.com"
+    },
+    {
+      "id": "u_700023e9",
+      "sentAt": "2026-08-18T16:34:27.203Z",
+      "title": "OpenAI launches ChatGPT for Teens with stronger safeguards"
+    },
+    {
+      "id": "u_c7b7cadc",
+      "sentAt": "2026-08-18T16:34:27.203Z",
+      "title": "OpenAI unveils ChatGPT for teens with robust safeguards - Deccan Herald"
+    },
+    {
+      "id": "u_2287463a",
+      "sentAt": "2026-08-18T16:34:27.203Z",
+      "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents"
+    },
     {
       "id": "u_e4cb14e3",
       "sentAt": "2026-08-18T14:43:36.494Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c445384e",
       "sentAt": "2026-07-24T21:07:00.635Z",
       "title": "Morgan State University Launches Undergraduate Degree in Artificial Intelligence - The Journal of Blacks in Higher Education"
-    },
-    {
-      "id": "u_fd070bae",
-      "sentAt": "2026-07-24T21:07:00.635Z",
-      "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts"
-    },
-    {
-      "id": "u_8c9ad262",
-      "sentAt": "2026-07-24T21:07:00.635Z",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions"
-    },
-    {
-      "id": "u_b517afc7",
-      "sentAt": "2026-07-24T19:28:12.370Z",
-      "title": "Katy ISD launches artificial intelligence framework for 2026-27 school year | Katy - Fulshear - Community Impact"
-    },
-    {
-      "id": "u_15fa864f",
-      "sentAt": "2026-07-24T19:28:12.370Z",
-      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price"
-    },
-    {
-      "id": "u_f299843",
-      "sentAt": "2026-07-24T19:28:12.370Z",
-      "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters"
     }
   ]
 }
