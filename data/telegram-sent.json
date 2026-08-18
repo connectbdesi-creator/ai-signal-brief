@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-18T06:48:00.093Z",
+  "updatedAt": "2026-08-18T08:39:55.008Z",
   "entries": [
+    {
+      "id": "u_180c40cf",
+      "sentAt": "2026-08-18T08:39:55.008Z",
+      "title": "Ciklum partners with ClickHouse to speed enterprise migrations to real-time analytics"
+    },
+    {
+      "id": "u_27e3bcda",
+      "sentAt": "2026-08-18T08:39:55.008Z",
+      "title": "CEDAR-GRPO: Process-Aware Reinforcement Learning for General Abductive Reasoning in LLMs"
+    },
+    {
+      "id": "u_1c081f64",
+      "sentAt": "2026-08-18T08:39:55.008Z",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation"
+    },
     {
       "id": "u_710fbf1",
       "sentAt": "2026-08-18T06:48:00.093Z",
@@ -4985,21 +5000,6 @@
       "id": "u_65e4757",
       "sentAt": "2026-07-24T13:50:33.522Z",
       "title": "FLI AI Safety Index 2026: No Lab Passes, Everyone Is Retreating From Safety"
-    },
-    {
-      "id": "u_43b408e3",
-      "sentAt": "2026-07-24T13:50:33.522Z",
-      "title": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun"
-    },
-    {
-      "id": "u_e50815a4",
-      "sentAt": "2026-07-24T13:50:33.522Z",
-      "title": "AI Agents Are Pulling The Post-Quantum Deadline Forward"
-    },
-    {
-      "id": "u_8196afec",
-      "sentAt": "2026-07-24T10:21:59.640Z",
-      "title": "Behind the Curtain: The AI titans' biggest private fear"
     }
   ]
 }
