@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-18T18:41:10.350Z",
+  "updatedAt": "2026-08-18T20:27:10.986Z",
   "entries": [
+    {
+      "id": "u_caf2ae9d",
+      "sentAt": "2026-08-18T20:27:10.986Z",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face"
+    },
+    {
+      "id": "u_b0270522",
+      "sentAt": "2026-08-18T20:27:10.986Z",
+      "title": "Strengthening Democratic Oversight in National Security"
+    },
+    {
+      "id": "u_e1125507",
+      "sentAt": "2026-08-18T20:27:10.986Z",
+      "title": "Strengthening Democratic Oversight in National Security"
+    },
+    {
+      "id": "u_83c8d41d",
+      "sentAt": "2026-08-18T20:27:10.986Z",
+      "title": "Neoclouds reshape traditional architectures to meet AI demands"
+    },
+    {
+      "id": "u_a6e5d073",
+      "sentAt": "2026-08-18T20:27:10.986Z",
+      "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale"
+    },
     {
       "id": "u_34c2e12e",
       "sentAt": "2026-08-18T18:41:10.350Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7c6a6f63",
       "sentAt": "2026-07-25T02:52:13.993Z",
       "title": "Nvidia, other tech giants caution against open-source AI ban in open letter"
-    },
-    {
-      "id": "u_559c3200",
-      "sentAt": "2026-07-25T02:52:13.993Z",
-      "title": "Canada launches public consultation on artificial intelligence transparency - Mugglehead Investment Magazine"
-    },
-    {
-      "id": "u_261bfb16",
-      "sentAt": "2026-07-25T02:52:13.993Z",
-      "title": "Introducing Claude Opus 5"
-    },
-    {
-      "id": "u_bb4b06e6",
-      "sentAt": "2026-07-24T23:03:38.311Z",
-      "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing"
-    },
-    {
-      "id": "u_25f65582",
-      "sentAt": "2026-07-24T23:03:38.311Z",
-      "title": "Anthropic Releases New Claude Model, Positions It as a Cost-Efficient Version of Fable 5 - Gizmodo"
-    },
-    {
-      "id": "u_7a68f4b3",
-      "sentAt": "2026-07-24T23:03:38.311Z",
-      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock"
     }
   ]
 }
