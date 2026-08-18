@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-18T02:58:13.320Z",
+  "updatedAt": "2026-08-18T04:38:17.041Z",
   "entries": [
+    {
+      "id": "u_162af7f1",
+      "sentAt": "2026-08-18T04:38:17.041Z",
+      "title": "UK examines economic hit from loss of access to frontier AI models"
+    },
+    {
+      "id": "u_8de4a635",
+      "sentAt": "2026-08-18T04:38:17.041Z",
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning"
+    },
+    {
+      "id": "u_54d27ec9",
+      "sentAt": "2026-08-18T04:38:17.041Z",
+      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning"
+    },
+    {
+      "id": "u_413f4519",
+      "sentAt": "2026-08-18T04:38:17.041Z",
+      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared"
+    },
+    {
+      "id": "u_727f97bb",
+      "sentAt": "2026-08-18T04:38:17.041Z",
+      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture"
+    },
     {
       "id": "u_f81ee928",
       "sentAt": "2026-08-18T02:58:13.320Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1f2d565b",
       "sentAt": "2026-07-24T06:28:17.871Z",
       "title": "Show HN: Generous free tier for SERP and AI web scraping"
-    },
-    {
-      "id": "u_84e27c10",
-      "sentAt": "2026-07-24T06:28:17.871Z",
-      "title": "Flux 3: From AI image generation to visual intelligence"
-    },
-    {
-      "id": "u_1fdfc88f",
-      "sentAt": "2026-07-24T06:28:17.871Z",
-      "title": "ReliableTableQA:How Much Supervision Does Reliability Annotation Need?"
-    },
-    {
-      "id": "u_29130ee2",
-      "sentAt": "2026-07-24T06:28:17.871Z",
-      "title": "When RLVR Shrinks the Reasoning Boundary: Diagnosing Pass@k Inversion"
-    },
-    {
-      "id": "u_700a1d78",
-      "sentAt": "2026-07-24T06:28:17.871Z",
-      "title": "SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales"
-    },
-    {
-      "id": "u_d8d79a8d",
-      "sentAt": "2026-07-24T02:52:43.957Z",
-      "title": "Nutanix and AMD build enterprise AI stack to take agents from pilot to production"
     }
   ]
 }
