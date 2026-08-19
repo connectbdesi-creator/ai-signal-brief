@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T12:52:19.105Z",
+  "updatedAt": "2026-08-19T14:36:32.946Z",
   "entries": [
+    {
+      "id": "u_8a5fc12d",
+      "sentAt": "2026-08-19T14:36:32.946Z",
+      "title": "Same effective batch does not mean same training time with gradient accumulation, tested on LoRA on T4 and L4 [D]"
+    },
+    {
+      "id": "u_32efd687",
+      "sentAt": "2026-08-19T14:36:32.946Z",
+      "title": "EMQQ Global Announces Launch of EMXETF, a New ETF Brand Focused on Artificial Intelligence Opportunities in Emerging Markets - The Manila Times"
+    },
+    {
+      "id": "u_d099eb72",
+      "sentAt": "2026-08-19T14:36:32.946Z",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push"
+    },
+    {
+      "id": "u_166ce4c5",
+      "sentAt": "2026-08-19T14:36:32.946Z",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push"
+    },
+    {
+      "id": "u_ecc078d4",
+      "sentAt": "2026-08-19T14:36:32.946Z",
+      "title": "How to Answer AI System Design Interview Questions"
+    },
     {
       "id": "u_50fe865e",
       "sentAt": "2026-08-19T12:52:19.105Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cd8497b2",
       "sentAt": "2026-07-26T10:02:56.811Z",
       "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides"
-    },
-    {
-      "id": "u_457c7c6b",
-      "sentAt": "2026-07-26T10:02:56.811Z",
-      "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides"
-    },
-    {
-      "id": "u_64c1961c",
-      "sentAt": "2026-07-26T10:02:56.811Z",
-      "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns"
-    },
-    {
-      "id": "u_80f4d9a0",
-      "sentAt": "2026-07-26T06:39:01.085Z",
-      "title": "Show HN: Axtary – Content Authorization for AI Agents"
-    },
-    {
-      "id": "u_8820f4ac",
-      "sentAt": "2026-07-26T06:39:01.085Z",
-      "title": "SEC acquiring AI agents to monitor phone locations, social media, credit headers"
-    },
-    {
-      "id": "u_ba843bc3",
-      "sentAt": "2026-07-26T06:39:01.085Z",
-      "title": "The state of AI agents, in numbers"
     }
   ]
 }
