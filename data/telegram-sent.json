@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T01:23:11.160Z",
+  "updatedAt": "2026-08-19T02:59:39.558Z",
   "entries": [
+    {
+      "id": "u_98ac162e",
+      "sentAt": "2026-08-19T02:59:39.558Z",
+      "title": "OpenAI’s junior version of ChatGPT with guardrails has launched"
+    },
+    {
+      "id": "u_be50e98c",
+      "sentAt": "2026-08-19T02:59:39.558Z",
+      "title": "OpenAI launches chatbot tailored for teens - wng.org"
+    },
+    {
+      "id": "u_d3e08422",
+      "sentAt": "2026-08-19T02:59:39.558Z",
+      "title": "Strengthening democratic oversight in national security"
+    },
+    {
+      "id": "u_aae4a178",
+      "sentAt": "2026-08-19T02:59:39.558Z",
+      "title": "1-bit / 2-bit / Ternary / Bitnet Models - Updates & Tracking"
+    },
+    {
+      "id": "u_87f4dfe",
+      "sentAt": "2026-08-19T02:59:39.558Z",
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue"
+    },
     {
       "id": "u_bd02473e",
       "sentAt": "2026-08-19T01:23:11.160Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e408b2be",
       "sentAt": "2026-07-25T13:40:52.311Z",
       "title": "Claude Opus 5 Lands in Microsoft 365 Copilot — The Two-Model Enterprise AI Era Begins"
-    },
-    {
-      "id": "u_a0079ea6",
-      "sentAt": "2026-07-25T13:40:52.311Z",
-      "title": "Kimi K3 Open Weights Drop Sunday — 2.8T Params, Self-Hosting Guide, and the License Question"
-    },
-    {
-      "id": "u_a002a0dc",
-      "sentAt": "2026-07-25T13:40:52.311Z",
-      "title": "Anthropic Pays SpaceXAI $1.25B/Month for Colossus 1 Compute — Musk Can Pull It If Claude \"Harms Humanity\""
-    },
-    {
-      "id": "u_f3f02b1d",
-      "sentAt": "2026-07-25T11:13:20.555Z",
-      "title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents"
-    },
-    {
-      "id": "u_31524da0",
-      "sentAt": "2026-07-25T11:13:20.555Z",
-      "title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents"
-    },
-    {
-      "id": "u_113f67d2",
-      "sentAt": "2026-07-25T11:13:20.555Z",
-      "title": "Sandbox-bwrap-Nix: A lightweight sandbox for AI agents and experiments"
     }
   ]
 }
