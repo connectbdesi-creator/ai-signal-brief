@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T02:59:39.558Z",
+  "updatedAt": "2026-08-19T04:39:21.902Z",
   "entries": [
+    {
+      "id": "u_1eee9f62",
+      "sentAt": "2026-08-19T04:39:21.902Z",
+      "title": "v1.99.0-dev.1"
+    },
+    {
+      "id": "u_8e7d065e",
+      "sentAt": "2026-08-19T04:39:21.902Z",
+      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents"
+    },
+    {
+      "id": "u_36b36983",
+      "sentAt": "2026-08-19T04:39:21.902Z",
+      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution"
+    },
+    {
+      "id": "u_ac799819",
+      "sentAt": "2026-08-19T04:39:21.902Z",
+      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract"
+    },
+    {
+      "id": "u_18b601ed",
+      "sentAt": "2026-08-19T04:39:21.902Z",
+      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery"
+    },
     {
       "id": "u_98ac162e",
       "sentAt": "2026-08-19T02:59:39.558Z",
@@ -4975,31 +5000,6 @@
       "id": "u_84c38534",
       "sentAt": "2026-07-25T15:05:39.769Z",
       "title": "OpenAI confirms ChatGPT is down worldwide - BleepingComputer"
-    },
-    {
-      "id": "u_6f920367",
-      "sentAt": "2026-07-25T15:05:39.769Z",
-      "title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks"
-    },
-    {
-      "id": "u_7883bb57",
-      "sentAt": "2026-07-25T15:05:39.769Z",
-      "title": "Universities ask for $24.5 million to launch and maintain artificial intelligence system - Black Hills Pioneer"
-    },
-    {
-      "id": "u_ec9aab64",
-      "sentAt": "2026-07-25T13:40:52.311Z",
-      "title": "CachyLLama: llama.cpp fork with persistent SSD-backed KV caching for local agent workflows"
-    },
-    {
-      "id": "u_14cf0e15",
-      "sentAt": "2026-07-25T13:40:52.311Z",
-      "title": "White House 30-Day AI Review Framework Finalizes — Meta Excluded, Benchmarks Classified"
-    },
-    {
-      "id": "u_e408b2be",
-      "sentAt": "2026-07-25T13:40:52.311Z",
-      "title": "Claude Opus 5 Lands in Microsoft 365 Copilot — The Two-Model Enterprise AI Era Begins"
     }
   ]
 }
