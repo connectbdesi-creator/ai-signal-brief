@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T04:39:21.902Z",
+  "updatedAt": "2026-08-19T06:48:53.384Z",
   "entries": [
+    {
+      "id": "u_50909fa7",
+      "sentAt": "2026-08-19T06:48:53.384Z",
+      "title": "Unitree IPO’s Massive 629% Pop Makes Agility Robotics Look Super Cheap"
+    },
+    {
+      "id": "u_1c2a3361",
+      "sentAt": "2026-08-19T06:48:53.384Z",
+      "title": "Graphwise aims to become the semantic layer for AI agents after securing major investment from Oakley Capital"
+    },
+    {
+      "id": "u_3807176d",
+      "sentAt": "2026-08-19T06:48:53.384Z",
+      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools"
+    },
+    {
+      "id": "u_6d20cfeb",
+      "sentAt": "2026-08-19T06:48:53.384Z",
+      "title": "Memory Is Communication: The Frontier Between Remembering and Signaling"
+    },
+    {
+      "id": "u_8df40ec9",
+      "sentAt": "2026-08-19T06:48:53.384Z",
+      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization"
+    },
     {
       "id": "u_1eee9f62",
       "sentAt": "2026-08-19T04:39:21.902Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f43d5a68",
       "sentAt": "2026-07-25T17:02:06.930Z",
       "title": "iPhone 18 Release Date: Spring Delay Boosts Autumn iPhone 18 Pro Sales"
-    },
-    {
-      "id": "u_a2ca2bd7",
-      "sentAt": "2026-07-25T17:02:06.930Z",
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry"
-    },
-    {
-      "id": "u_4204fe43",
-      "sentAt": "2026-07-25T17:02:06.930Z",
-      "title": "AWS EC2 compute evolves to meet agentic AI and physical AI demand"
-    },
-    {
-      "id": "u_3c273c29",
-      "sentAt": "2026-07-25T15:05:39.769Z",
-      "title": "How AI drove Shopify back to clean code"
-    },
-    {
-      "id": "u_3f4bf104",
-      "sentAt": "2026-07-25T15:05:39.769Z",
-      "title": "KDnuggets Weekly Roundup: Week of July 20, 2026"
-    },
-    {
-      "id": "u_84c38534",
-      "sentAt": "2026-07-25T15:05:39.769Z",
-      "title": "OpenAI confirms ChatGPT is down worldwide - BleepingComputer"
     }
   ]
 }
