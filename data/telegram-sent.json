@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T08:40:33.317Z",
+  "updatedAt": "2026-08-19T10:31:26.286Z",
   "entries": [
+    {
+      "id": "u_560f4371",
+      "sentAt": "2026-08-19T10:31:26.286Z",
+      "title": "Three Ways Agentic AI Can Turn B2B Customer Service Into A Revenue Engine"
+    },
+    {
+      "id": "u_72a9371",
+      "sentAt": "2026-08-19T10:31:26.286Z",
+      "title": "Google and UK government launch North Atlantic contrail avoidance trial - Aerospace Testing International"
+    },
+    {
+      "id": "u_b351d71c",
+      "sentAt": "2026-08-19T10:31:26.286Z",
+      "title": "OpenAI blinks first in AI safety standoff"
+    },
+    {
+      "id": "u_72436d20",
+      "sentAt": "2026-08-19T10:31:26.286Z",
+      "title": "Behind the Curtain: The new existential threat to AI"
+    },
+    {
+      "id": "u_3741f27f",
+      "sentAt": "2026-08-19T10:31:26.286Z",
+      "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns - ET CIO"
+    },
     {
       "id": "u_89d67447",
       "sentAt": "2026-08-19T08:40:33.317Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3e3bc3d0",
       "sentAt": "2026-07-25T22:57:42.933Z",
       "title": "Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'"
-    },
-    {
-      "id": "u_99820c5f",
-      "sentAt": "2026-07-25T20:56:06.020Z",
-      "title": "Artificial Intelligence model goes rogue, escaping man-made protections - Newstalk"
-    },
-    {
-      "id": "u_b34f9ae8",
-      "sentAt": "2026-07-25T20:56:06.020Z",
-      "title": "Anthropic launches Claude Opus 5 AI model, priced at half of Fable 5 - ETEnterpriseai.com"
-    },
-    {
-      "id": "u_6f8f7244",
-      "sentAt": "2026-07-25T19:11:25.662Z",
-      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published"
-    },
-    {
-      "id": "u_e7d45ea5",
-      "sentAt": "2026-07-25T19:11:25.662Z",
-      "title": "OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure"
-    },
-    {
-      "id": "u_36c9f5bb",
-      "sentAt": "2026-07-25T19:11:25.662Z",
-      "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)"
     }
   ]
 }
