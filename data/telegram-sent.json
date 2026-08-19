@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T06:48:53.384Z",
+  "updatedAt": "2026-08-19T08:40:33.317Z",
   "entries": [
+    {
+      "id": "u_89d67447",
+      "sentAt": "2026-08-19T08:40:33.317Z",
+      "title": "When will there be a frontier level llm with updateable engrams or fixed engrams?"
+    },
+    {
+      "id": "u_8a7a9606",
+      "sentAt": "2026-08-19T08:40:33.317Z",
+      "title": "Thoughts About Scaling Law - Z.ai"
+    },
+    {
+      "id": "u_d1e8abbb",
+      "sentAt": "2026-08-19T08:40:33.317Z",
+      "title": "SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis"
+    },
+    {
+      "id": "u_44a8311e",
+      "sentAt": "2026-08-19T08:40:33.317Z",
+      "title": "When Writing Style Drifts: Benchmarking Authorship Verification under Distribution Shifts in Genre, Time and the AI-Era"
+    },
+    {
+      "id": "u_75e59769",
+      "sentAt": "2026-08-19T08:40:33.317Z",
+      "title": "Code as Representation: A Compilable Parsing Paradigm for Academic Documents"
+    },
     {
       "id": "u_50909fa7",
       "sentAt": "2026-08-19T06:48:53.384Z",
@@ -4975,31 +5000,6 @@
       "id": "u_36c9f5bb",
       "sentAt": "2026-07-25T19:11:25.662Z",
       "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)"
-    },
-    {
-      "id": "u_5638cef8",
-      "sentAt": "2026-07-25T19:11:25.662Z",
-      "title": "Ask HN: What do you do when your AI agents are working?"
-    },
-    {
-      "id": "u_8d777f76",
-      "sentAt": "2026-07-25T19:11:25.662Z",
-      "title": "HPE targets HPC and AI infrastructure convergence as supercomputing scale meets enterprise AI"
-    },
-    {
-      "id": "u_2aed9a2",
-      "sentAt": "2026-07-25T17:02:06.930Z",
-      "title": "How much are you actually using your local models these days? Which ones do you reach for the most?"
-    },
-    {
-      "id": "u_5dc509a1",
-      "sentAt": "2026-07-25T17:02:06.930Z",
-      "title": "OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure - Tom's Hardware"
-    },
-    {
-      "id": "u_f43d5a68",
-      "sentAt": "2026-07-25T17:02:06.930Z",
-      "title": "iPhone 18 Release Date: Spring Delay Boosts Autumn iPhone 18 Pro Sales"
     }
   ]
 }
