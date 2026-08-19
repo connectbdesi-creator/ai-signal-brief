@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T16:34:26.632Z",
+  "updatedAt": "2026-08-19T18:38:53.081Z",
   "entries": [
+    {
+      "id": "u_cd5f0d2",
+      "sentAt": "2026-08-19T18:38:53.081Z",
+      "title": "Offering Zero Data Retention for frontier models"
+    },
+    {
+      "id": "u_c799444",
+      "sentAt": "2026-08-19T18:38:53.081Z",
+      "title": "Offering Zero Data Retention for frontier models"
+    },
+    {
+      "id": "u_1107b7d0",
+      "sentAt": "2026-08-19T18:38:53.081Z",
+      "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE"
+    },
+    {
+      "id": "u_a7f369ab",
+      "sentAt": "2026-08-19T18:38:53.081Z",
+      "title": "Pandas API for DuckDB, PostgreSQL & ClickHouse — keeping computation inside the database[P]"
+    },
+    {
+      "id": "u_c979dbcf",
+      "sentAt": "2026-08-19T18:38:53.081Z",
+      "title": "Waymo is bringing Gemini into its custom Ojai vehicles."
+    },
     {
       "id": "u_59fc5f48",
       "sentAt": "2026-08-19T16:34:26.632Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a89e7d05",
       "sentAt": "2026-07-26T15:08:05.982Z",
       "title": "MoneySimpler Launches AI-Powered Quantitative Trading Platform as AI Reshapes Financial Technology - USA Today"
-    },
-    {
-      "id": "u_ddf11d5d",
-      "sentAt": "2026-07-26T15:08:05.982Z",
-      "title": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run"
-    },
-    {
-      "id": "u_8040038f",
-      "sentAt": "2026-07-26T15:08:05.982Z",
-      "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns"
-    },
-    {
-      "id": "u_188ed58d",
-      "sentAt": "2026-07-26T13:35:28.505Z",
-      "title": "A Developer Ran an LLM on an $8 ESP32 Chip — And Quietly Broke the Cloud AI Model for IoT"
-    },
-    {
-      "id": "u_a4d1d46d",
-      "sentAt": "2026-07-26T13:35:28.505Z",
-      "title": "Claude Code Gutted Its System Prompt by 80% — And Nothing Broke. Here's What It Means"
-    },
-    {
-      "id": "u_1584bd0f",
-      "sentAt": "2026-07-26T13:35:28.505Z",
-      "title": "Optical Tech Would Update a Robot’s AI on the Fly"
     }
   ]
 }
