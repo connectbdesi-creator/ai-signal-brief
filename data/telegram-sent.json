@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T10:31:26.286Z",
+  "updatedAt": "2026-08-19T12:52:19.105Z",
   "entries": [
+    {
+      "id": "u_50fe865e",
+      "sentAt": "2026-08-19T12:52:19.105Z",
+      "title": "Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents"
+    },
+    {
+      "id": "u_7c6f975e",
+      "sentAt": "2026-08-19T12:52:19.105Z",
+      "title": "5 Tools for Building and Deploying AI Agents in Production"
+    },
+    {
+      "id": "u_3b5aa6b0",
+      "sentAt": "2026-08-19T12:52:19.105Z",
+      "title": "The Myth Of Model Safety: The Role Of An AI Trust Layer"
+    },
+    {
+      "id": "u_316f44e1",
+      "sentAt": "2026-08-19T12:52:19.105Z",
+      "title": "Why Healthcare’s AI Breakthrough Must Be Built On Trust"
+    },
+    {
+      "id": "u_d1c3c8",
+      "sentAt": "2026-08-19T12:52:19.105Z",
+      "title": "I transformed Pokelike.xyz into a LLM and RL benchmark!"
+    },
     {
       "id": "u_560f4371",
       "sentAt": "2026-08-19T10:31:26.286Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ba843bc3",
       "sentAt": "2026-07-26T06:39:01.085Z",
       "title": "The state of AI agents, in numbers"
-    },
-    {
-      "id": "u_cd567eba",
-      "sentAt": "2026-07-26T06:39:01.085Z",
-      "title": "ExploitGym – Can AI Agents Turn Security Vulnerabilities into Real Attacks?"
-    },
-    {
-      "id": "u_d730a923",
-      "sentAt": "2026-07-26T03:17:29.920Z",
-      "title": "Show HN: Rules that stop AI coding agents from breaking working code"
-    },
-    {
-      "id": "u_aa7de5c4",
-      "sentAt": "2026-07-26T03:17:29.920Z",
-      "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM"
-    },
-    {
-      "id": "u_3a2a7179",
-      "sentAt": "2026-07-25T22:57:42.933Z",
-      "title": "Ruff v0.16.0"
-    },
-    {
-      "id": "u_3e3bc3d0",
-      "sentAt": "2026-07-25T22:57:42.933Z",
-      "title": "Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'"
     }
   ]
 }
