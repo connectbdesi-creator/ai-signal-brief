@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T10:33:45.315Z",
+  "updatedAt": "2026-08-20T12:54:23.970Z",
   "entries": [
+    {
+      "id": "u_78503d05",
+      "sentAt": "2026-08-20T12:54:23.970Z",
+      "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world"
+    },
+    {
+      "id": "u_b0c34920",
+      "sentAt": "2026-08-20T12:54:23.970Z",
+      "title": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026"
+    },
+    {
+      "id": "u_18187c88",
+      "sentAt": "2026-08-20T12:54:23.970Z",
+      "title": "Slack is launching collaborative vibe-coding channels"
+    },
+    {
+      "id": "u_93281c7e",
+      "sentAt": "2026-08-20T12:54:23.970Z",
+      "title": "Entering The Ontology Era: The Blueprint For Enterprise AI Agents"
+    },
+    {
+      "id": "u_f2aa028f",
+      "sentAt": "2026-08-20T12:54:23.970Z",
+      "title": "b10514"
+    },
     {
       "id": "u_4dfde424",
       "sentAt": "2026-08-20T10:33:45.315Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6575cbcd",
       "sentAt": "2026-07-27T21:14:10.635Z",
       "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race"
-    },
-    {
-      "id": "u_664ca66a",
-      "sentAt": "2026-07-27T21:14:10.635Z",
-      "title": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic — open-weight model performs almost as well as frontier models while being 2-3x easier to run - Tom's Hardware"
-    },
-    {
-      "id": "u_7879045f",
-      "sentAt": "2026-07-27T19:38:39.260Z",
-      "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race"
-    },
-    {
-      "id": "u_829b918e",
-      "sentAt": "2026-07-27T19:38:39.260Z",
-      "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag"
-    },
-    {
-      "id": "u_1f97837d",
-      "sentAt": "2026-07-27T19:38:39.260Z",
-      "title": "Cornerstone Launches President's Artificial Intelligence Advisory Board to Lead the Future of Christian Higher Education - Cornerstone University"
-    },
-    {
-      "id": "u_129d15ea",
-      "sentAt": "2026-07-27T19:38:39.260Z",
-      "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks"
     }
   ]
 }
