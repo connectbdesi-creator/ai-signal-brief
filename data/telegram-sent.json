@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T18:42:33.578Z",
+  "updatedAt": "2026-08-20T20:31:22.743Z",
   "entries": [
+    {
+      "id": "u_e319b4ec",
+      "sentAt": "2026-08-20T20:31:22.743Z",
+      "title": "Howard University Launches Its First AI Certificate Program for Undergraduate Students - The Dig at Howard University"
+    },
+    {
+      "id": "u_40456ee0",
+      "sentAt": "2026-08-20T20:31:22.743Z",
+      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era"
+    },
+    {
+      "id": "u_9c757894",
+      "sentAt": "2026-08-20T20:31:22.743Z",
+      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs"
+    },
+    {
+      "id": "u_e2d4704b",
+      "sentAt": "2026-08-20T20:31:22.743Z",
+      "title": "Nvidia looks well placed to benefit from the next stage of the AI boom"
+    },
+    {
+      "id": "u_74058ba5",
+      "sentAt": "2026-08-20T20:31:22.743Z",
+      "title": "Choosing an Inference Provider for AI Agents: Latency, Tool Calling, and Cost per Task"
+    },
     {
       "id": "u_34a3f00c",
       "sentAt": "2026-08-20T18:42:33.578Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1391a474",
       "sentAt": "2026-07-28T10:38:53.867Z",
       "title": "Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenAI-Compatible Local Inference Workflows"
-    },
-    {
-      "id": "u_7c5085a5",
-      "sentAt": "2026-07-28T10:38:53.867Z",
-      "title": "Agentic Cloud Decoys: A Deception-Driven Framework for Autonomous Intrusion Investigation"
-    },
-    {
-      "id": "u_6344a83e",
-      "sentAt": "2026-07-28T06:29:19.260Z",
-      "title": "DP-FedSOFIM: Second-Order Federated Optimization Under Differential Privacy Without Extra Privacy Cost [R]"
-    },
-    {
-      "id": "u_f657ce96",
-      "sentAt": "2026-07-28T06:29:19.260Z",
-      "title": "How LangChain Built an Agent-First Data Stack"
-    },
-    {
-      "id": "u_9dd8b5a5",
-      "sentAt": "2026-07-28T06:29:19.260Z",
-      "title": "Mix local LLMs, Claude Code, Codex, Gemini and more in one SDLC pipeline (open source) [P]"
-    },
-    {
-      "id": "u_7a774e52",
-      "sentAt": "2026-07-28T06:29:19.260Z",
-      "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability"
     }
   ]
 }
