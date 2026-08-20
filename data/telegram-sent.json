@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T01:22:25.822Z",
+  "updatedAt": "2026-08-20T02:59:12.547Z",
   "entries": [
+    {
+      "id": "u_d6ca95f8",
+      "sentAt": "2026-08-20T02:59:12.547Z",
+      "title": "Ornith-1.5-35B-A3B Q4 running 60tk/s on 4070Ti."
+    },
+    {
+      "id": "u_ed2ac24d",
+      "sentAt": "2026-08-20T02:59:12.547Z",
+      "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents"
+    },
+    {
+      "id": "u_88bc637f",
+      "sentAt": "2026-08-20T02:59:12.547Z",
+      "title": "Expert urges caution as OpenAI launches ChatGPT for teenagers - kjzz.com"
+    },
+    {
+      "id": "u_7af9263a",
+      "sentAt": "2026-08-20T02:59:12.547Z",
+      "title": "The AI inference race moves beyond GPUs to reshape data center infrastructure"
+    },
+    {
+      "id": "u_e6823c6e",
+      "sentAt": "2026-08-20T02:59:12.547Z",
+      "title": "I pushed Qwen3.8-27B limits again... Dflash2 - 134 tps on a RTX 3090"
+    },
     {
       "id": "u_a19e0cf5",
       "sentAt": "2026-08-20T01:22:25.822Z",
@@ -4975,31 +5000,6 @@
       "id": "u_61b28742",
       "sentAt": "2026-07-27T07:35:40.337Z",
       "title": "Procedural Knowledge Is Not Low-Rank: Why LoRA Fails to Internalize Multi-Step Procedures"
-    },
-    {
-      "id": "u_2ac1bbde",
-      "sentAt": "2026-07-27T07:35:40.337Z",
-      "title": "Physically Constrained Federated Additive Models for O-RAN SLA-Risk Prediction"
-    },
-    {
-      "id": "u_5f6ccb9e",
-      "sentAt": "2026-07-27T03:27:14.573Z",
-      "title": "My Ollama box picks the music now: an agentic DJ running on a 9B model"
-    },
-    {
-      "id": "u_ea172c6d",
-      "sentAt": "2026-07-27T03:27:14.573Z",
-      "title": "Anthropic releases ‘more efficient’ Claude Opus 5 AI model - InfoWorld"
-    },
-    {
-      "id": "u_1a40a930",
-      "sentAt": "2026-07-27T03:27:14.573Z",
-      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs"
-    },
-    {
-      "id": "u_96a774e4",
-      "sentAt": "2026-07-27T03:27:14.573Z",
-      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs"
     }
   ]
 }
