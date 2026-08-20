@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T06:51:01.144Z",
+  "updatedAt": "2026-08-20T08:41:52.507Z",
   "entries": [
+    {
+      "id": "u_559e1bfe",
+      "sentAt": "2026-08-20T08:41:52.507Z",
+      "title": "OpenAI builds safety system that catches misuse without storing customer data"
+    },
+    {
+      "id": "u_31f6839c",
+      "sentAt": "2026-08-20T08:41:52.507Z",
+      "title": "AI agent suggested installing a malware package. Engineer almost took its advice"
+    },
+    {
+      "id": "u_d3e4cafb",
+      "sentAt": "2026-08-20T08:41:52.507Z",
+      "title": "b10509"
+    },
+    {
+      "id": "u_a352397b",
+      "sentAt": "2026-08-20T08:41:52.507Z",
+      "title": "Readable, Faithful, Used: Three Dissociable Properties of Demographic Identity in a Language Model"
+    },
+    {
+      "id": "u_9f0cb85",
+      "sentAt": "2026-08-20T08:41:52.507Z",
+      "title": "Decomposing Wrong-Consensus Agreement in LLM Self-Consistency: A GPT-4.1 Case Study"
+    },
     {
       "id": "u_f8a2f3b1",
       "sentAt": "2026-08-20T06:51:01.144Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1d798b3b",
       "sentAt": "2026-07-27T17:45:36.870Z",
       "title": "Tech giants link hands to praise open AI models after OpenAI - Hugging Face attack"
-    },
-    {
-      "id": "u_da350147",
-      "sentAt": "2026-07-27T17:45:36.870Z",
-      "title": "Tech industry leaders join to form Open Secure AI Alliance to promote safety and security"
-    },
-    {
-      "id": "u_3f003997",
-      "sentAt": "2026-07-27T14:41:39.551Z",
-      "title": "Chip shortages forced China to find way to make cheaper AI models than US - EUobserver"
-    },
-    {
-      "id": "u_3bd835fd",
-      "sentAt": "2026-07-27T14:41:39.551Z",
-      "title": "Exclusive: Cogent Security debuts VR-1, a frontier model built to prove attack paths"
-    },
-    {
-      "id": "u_832b517e",
-      "sentAt": "2026-07-27T14:41:39.551Z",
-      "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans"
-    },
-    {
-      "id": "u_4235df35",
-      "sentAt": "2026-07-27T14:41:39.551Z",
-      "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans"
     }
   ]
 }
