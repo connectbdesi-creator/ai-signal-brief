@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T16:38:26.018Z",
+  "updatedAt": "2026-08-20T18:42:33.578Z",
   "entries": [
+    {
+      "id": "u_34a3f00c",
+      "sentAt": "2026-08-20T18:42:33.578Z",
+      "title": "langchain-fireworks==1.6.0"
+    },
+    {
+      "id": "u_5d6577d",
+      "sentAt": "2026-08-20T18:42:33.578Z",
+      "title": "Salesforce Headless 360 Shows Where Enterprise Software Is Going Next"
+    },
+    {
+      "id": "u_ff3be2e3",
+      "sentAt": "2026-08-20T18:42:33.578Z",
+      "title": "LLMs could write like humans but post-training guardrails make their text detectable"
+    },
+    {
+      "id": "u_16af9ac",
+      "sentAt": "2026-08-20T18:42:33.578Z",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds"
+    },
+    {
+      "id": "u_2b6b2de7",
+      "sentAt": "2026-08-20T18:42:33.578Z",
+      "title": "Ramp launches its own AI model router, called Router"
+    },
     {
       "id": "u_b439acc2",
       "sentAt": "2026-08-20T16:38:26.018Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7a774e52",
       "sentAt": "2026-07-28T06:29:19.260Z",
       "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability"
-    },
-    {
-      "id": "u_b0561449",
-      "sentAt": "2026-07-28T06:29:19.260Z",
-      "title": "LU-500: A Logo Benchmark for Concept Unlearning"
-    },
-    {
-      "id": "u_fea627ca",
-      "sentAt": "2026-07-28T02:44:25.671Z",
-      "title": "Samsung Launches AI Health Assistant, Indicating A Growing Trend Among Tech Giants"
-    },
-    {
-      "id": "u_e909961",
-      "sentAt": "2026-07-28T02:44:25.671Z",
-      "title": "Why this AI travel company is bringing Sonder back from the dead"
-    },
-    {
-      "id": "u_325b4d01",
-      "sentAt": "2026-07-28T02:44:25.671Z",
-      "title": "Ilya Sutskever’s Safe Superintelligence gets access to Nvidia’s Vera Rubin platform"
-    },
-    {
-      "id": "u_aa28775",
-      "sentAt": "2026-07-28T02:44:25.671Z",
-      "title": "Microsoft touts cost-saving AI model for cybersecurity"
     }
   ]
 }
