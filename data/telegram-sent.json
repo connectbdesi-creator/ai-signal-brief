@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T02:59:12.547Z",
+  "updatedAt": "2026-08-20T04:39:37.910Z",
   "entries": [
+    {
+      "id": "u_ccae4b26",
+      "sentAt": "2026-08-20T04:39:37.910Z",
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions"
+    },
+    {
+      "id": "u_c89bcfec",
+      "sentAt": "2026-08-20T04:39:37.910Z",
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges"
+    },
+    {
+      "id": "u_1b82631f",
+      "sentAt": "2026-08-20T04:39:37.910Z",
+      "title": "Position: Behavioral Systems Require Behavioral Tests"
+    },
+    {
+      "id": "u_5725ef94",
+      "sentAt": "2026-08-20T04:39:37.910Z",
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models"
+    },
+    {
+      "id": "u_666a331c",
+      "sentAt": "2026-08-20T04:39:37.910Z",
+      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control"
+    },
     {
       "id": "u_d6ca95f8",
       "sentAt": "2026-08-20T02:59:12.547Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cbd4f881",
       "sentAt": "2026-07-27T11:27:17.266Z",
       "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security"
-    },
-    {
-      "id": "u_158f5740",
-      "sentAt": "2026-07-27T11:27:17.266Z",
-      "title": "An era has begun in which \"agent payment,\" in which artificial intelligence (AI) agents trade goods - 매일경제"
-    },
-    {
-      "id": "u_38dbb196",
-      "sentAt": "2026-07-27T07:35:40.337Z",
-      "title": "The Hugging Face Breach Exposed A Gap In AI Safety Controls"
-    },
-    {
-      "id": "u_dee6b323",
-      "sentAt": "2026-07-27T07:35:40.337Z",
-      "title": "How To Get Your Business Data Ready For AI Agents"
-    },
-    {
-      "id": "u_c236721c",
-      "sentAt": "2026-07-27T07:35:40.337Z",
-      "title": "SBC Summit launches AI Academy to turn Artificial Intelligence Into practical business results - Asia Gaming Brief (AGB)"
-    },
-    {
-      "id": "u_61b28742",
-      "sentAt": "2026-07-27T07:35:40.337Z",
-      "title": "Procedural Knowledge Is Not Low-Rank: Why LoRA Fails to Internalize Multi-Step Procedures"
     }
   ]
 }
