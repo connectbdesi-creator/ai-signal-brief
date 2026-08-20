@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T04:39:37.910Z",
+  "updatedAt": "2026-08-20T06:51:01.144Z",
   "entries": [
+    {
+      "id": "u_f8a2f3b1",
+      "sentAt": "2026-08-20T06:51:01.144Z",
+      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management"
+    },
+    {
+      "id": "u_11bf4471",
+      "sentAt": "2026-08-20T06:51:01.144Z",
+      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective"
+    },
+    {
+      "id": "u_80141820",
+      "sentAt": "2026-08-20T06:51:01.144Z",
+      "title": "When Do LLMs Actually Help? Evaluating LLMs as Data Quality Annotators"
+    },
+    {
+      "id": "u_ac4839f8",
+      "sentAt": "2026-08-20T06:51:01.144Z",
+      "title": "Are LLMs Safe Beyond Text: Do Emojis Expose Gaps in Safety Evaluation"
+    },
+    {
+      "id": "u_d1bf9038",
+      "sentAt": "2026-08-20T06:51:01.144Z",
+      "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents"
+    },
     {
       "id": "u_ccae4b26",
       "sentAt": "2026-08-20T04:39:37.910Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4235df35",
       "sentAt": "2026-07-27T14:41:39.551Z",
       "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans"
-    },
-    {
-      "id": "u_43a172ac",
-      "sentAt": "2026-07-27T14:41:39.551Z",
-      "title": "Scisparc Announces Decision To Target The Agentic Ai Market Forms Scientific Advisory Board For Artificial Intelligence And Cybersecurity - TradingView"
-    },
-    {
-      "id": "u_104cc34e",
-      "sentAt": "2026-07-27T11:27:17.266Z",
-      "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyber attack fallout continues"
-    },
-    {
-      "id": "u_9a597c66",
-      "sentAt": "2026-07-27T11:27:17.266Z",
-      "title": "Off-grid data centers aren't the panacea that some AI firms hoped"
-    },
-    {
-      "id": "u_4e4c3433",
-      "sentAt": "2026-07-27T11:27:17.266Z",
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security"
-    },
-    {
-      "id": "u_cbd4f881",
-      "sentAt": "2026-07-27T11:27:17.266Z",
-      "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security"
     }
   ]
 }
