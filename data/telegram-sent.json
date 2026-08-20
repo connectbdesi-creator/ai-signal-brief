@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T12:54:23.970Z",
+  "updatedAt": "2026-08-20T14:39:49.026Z",
   "entries": [
+    {
+      "id": "u_74fffa29",
+      "sentAt": "2026-08-20T14:39:49.026Z",
+      "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?"
+    },
+    {
+      "id": "u_10819f00",
+      "sentAt": "2026-08-20T14:39:49.026Z",
+      "title": "langchain-anthropic==1.6.1"
+    },
+    {
+      "id": "u_5f1d2c7c",
+      "sentAt": "2026-08-20T14:39:49.026Z",
+      "title": "Welcome to the AI crisis in math"
+    },
+    {
+      "id": "u_cbfb7067",
+      "sentAt": "2026-08-20T14:39:49.026Z",
+      "title": "Mapping intrinsic rank and informational gravity in complex tabular data: I developed a non-parametric, model-agnostic, information-theoretic diagnostic to bypass the limits of linear, rank, and Euclidean baselines. [R]"
+    },
+    {
+      "id": "u_296630ac",
+      "sentAt": "2026-08-20T14:39:49.026Z",
+      "title": "Microsoft's GitHub Under Siege As SpaceX's Cursor Takes The AI Stack"
+    },
     {
       "id": "u_78503d05",
       "sentAt": "2026-08-20T12:54:23.970Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b0e91838",
       "sentAt": "2026-07-27T23:05:28.474Z",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms"
-    },
-    {
-      "id": "u_ea42c86a",
-      "sentAt": "2026-07-27T23:05:28.474Z",
-      "title": "An opinionated guide to which AI to use to do stuff"
-    },
-    {
-      "id": "u_af478b75",
-      "sentAt": "2026-07-27T21:14:10.635Z",
-      "title": "Kimi AI and kvcache-ai Open Sources ‘AgentENV’: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3"
-    },
-    {
-      "id": "u_234f197f",
-      "sentAt": "2026-07-27T21:14:10.635Z",
-      "title": "Yugabyte targets the missing memory and knowledge layer for enterprise AI agents"
-    },
-    {
-      "id": "u_c58f7cd0",
-      "sentAt": "2026-07-27T21:14:10.635Z",
-      "title": "Private Claude Chats Exposed in Google and Bing Search Results"
-    },
-    {
-      "id": "u_6575cbcd",
-      "sentAt": "2026-07-27T21:14:10.635Z",
-      "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race"
     }
   ]
 }
