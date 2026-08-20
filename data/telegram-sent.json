@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T08:41:52.507Z",
+  "updatedAt": "2026-08-20T10:33:45.315Z",
   "entries": [
+    {
+      "id": "u_4dfde424",
+      "sentAt": "2026-08-20T10:33:45.315Z",
+      "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only"
+    },
+    {
+      "id": "u_58016f83",
+      "sentAt": "2026-08-20T10:33:45.315Z",
+      "title": "AI Agents Are Turning CTOs Into City Planners"
+    },
+    {
+      "id": "u_c061b062",
+      "sentAt": "2026-08-20T10:33:45.315Z",
+      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users"
+    },
+    {
+      "id": "u_886ab126",
+      "sentAt": "2026-08-20T10:33:45.315Z",
+      "title": "A Venture Capitalist Spent $100 Creating A Fake Sorority Girl. TikTok Didn’t Notice."
+    },
+    {
+      "id": "u_23af894e",
+      "sentAt": "2026-08-20T10:33:45.315Z",
+      "title": "World Models: The Next Frontier Beyond LLMs - StartupHub.ai"
+    },
     {
       "id": "u_559e1bfe",
       "sentAt": "2026-08-20T08:41:52.507Z",
@@ -4975,31 +5000,6 @@
       "id": "u_129d15ea",
       "sentAt": "2026-07-27T19:38:39.260Z",
       "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks"
-    },
-    {
-      "id": "u_f7c67793",
-      "sentAt": "2026-07-27T19:38:39.260Z",
-      "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks"
-    },
-    {
-      "id": "u_3f94cd9b",
-      "sentAt": "2026-07-27T17:45:36.870Z",
-      "title": "On theCUBE Pod: AMD nips at Nvidia’s heels, and IBM undergoes quiet transformation"
-    },
-    {
-      "id": "u_5c10fdfa",
-      "sentAt": "2026-07-27T17:45:36.870Z",
-      "title": "Ling-3.0-flash weights: SGLang says day-0, vLLM says when they land, llama.cpp closed the 2.6 request as not_planned"
-    },
-    {
-      "id": "u_9b7d3c8d",
-      "sentAt": "2026-07-27T17:45:36.870Z",
-      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents"
-    },
-    {
-      "id": "u_1d798b3b",
-      "sentAt": "2026-07-27T17:45:36.870Z",
-      "title": "Tech giants link hands to praise open AI models after OpenAI - Hugging Face attack"
     }
   ]
 }
