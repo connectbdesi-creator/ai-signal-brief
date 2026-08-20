@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T14:39:49.026Z",
+  "updatedAt": "2026-08-20T16:38:26.018Z",
   "entries": [
+    {
+      "id": "u_b439acc2",
+      "sentAt": "2026-08-20T16:38:26.018Z",
+      "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_fc7e9800",
+      "sentAt": "2026-08-20T16:38:26.018Z",
+      "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in"
+    },
+    {
+      "id": "u_10b42f2c",
+      "sentAt": "2026-08-20T16:38:26.018Z",
+      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_91d4ac7f",
+      "sentAt": "2026-08-20T16:38:26.018Z",
+      "title": "Cloud cost startup North adds Microsoft Azure to complete hyperscaler support"
+    },
+    {
+      "id": "u_544dc43a",
+      "sentAt": "2026-08-20T16:38:26.018Z",
+      "title": "It’s Greg Brockman’s OpenAI now"
+    },
     {
       "id": "u_74fffa29",
       "sentAt": "2026-08-20T14:39:49.026Z",
@@ -4975,31 +5000,6 @@
       "id": "u_aa28775",
       "sentAt": "2026-07-28T02:44:25.671Z",
       "title": "Microsoft touts cost-saving AI model for cybersecurity"
-    },
-    {
-      "id": "u_10fbdb2e",
-      "sentAt": "2026-07-28T02:44:25.671Z",
-      "title": "moonshotai/Kimi-K3"
-    },
-    {
-      "id": "u_7dc9d210",
-      "sentAt": "2026-07-27T23:05:28.474Z",
-      "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]"
-    },
-    {
-      "id": "u_421c88e3",
-      "sentAt": "2026-07-27T23:05:28.474Z",
-      "title": "Creator of Anthropic's Claude Code wants you to stop micromanaging your AI"
-    },
-    {
-      "id": "u_ceea8d02",
-      "sentAt": "2026-07-27T23:05:28.474Z",
-      "title": "Leading AI models (even Grok) are all a bunch of leftist punks"
-    },
-    {
-      "id": "u_b0e91838",
-      "sentAt": "2026-07-27T23:05:28.474Z",
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms"
     }
   ]
 }
