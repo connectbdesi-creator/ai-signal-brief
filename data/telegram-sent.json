@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-19T22:27:28.973Z",
+  "updatedAt": "2026-08-20T01:22:25.822Z",
   "entries": [
+    {
+      "id": "u_a19e0cf5",
+      "sentAt": "2026-08-20T01:22:25.822Z",
+      "title": "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding"
+    },
+    {
+      "id": "u_c1d6e109",
+      "sentAt": "2026-08-20T01:22:25.822Z",
+      "title": "OpenAI ‘temporarily slows’ scaling efforts, also promises zero data retention for select frontier model customers - Computerworld"
+    },
+    {
+      "id": "u_6a6c05c5",
+      "sentAt": "2026-08-20T01:22:25.822Z",
+      "title": "Qwen3.8-23B-Mini-Me: A Depth-Pruned Qwen3.8-27B (to ~22.7BB)"
+    },
+    {
+      "id": "u_b9c53238",
+      "sentAt": "2026-08-20T01:22:25.822Z",
+      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript"
+    },
+    {
+      "id": "u_64c6e39a",
+      "sentAt": "2026-08-20T01:22:25.822Z",
+      "title": "Conceptual integrity and counting lines of code"
+    },
     {
       "id": "u_b758ac0",
       "sentAt": "2026-08-19T22:27:28.973Z",
@@ -4975,31 +5000,6 @@
       "id": "u_96a774e4",
       "sentAt": "2026-07-27T03:27:14.573Z",
       "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs"
-    },
-    {
-      "id": "u_dd2ce38e",
-      "sentAt": "2026-07-27T03:27:14.573Z",
-      "title": "Unexpected use of local llm"
-    },
-    {
-      "id": "u_796581b6",
-      "sentAt": "2026-07-26T23:02:31.938Z",
-      "title": "ChatGPT’s Health Launch Is Foreshadowing The Future Of Healthcare"
-    },
-    {
-      "id": "u_722ffd98",
-      "sentAt": "2026-07-26T21:01:57.431Z",
-      "title": "Has anyone compared pre-training, SFT/LoRA and reinforcement post-training on Qwen3.6-27B?"
-    },
-    {
-      "id": "u_7f55f0d0",
-      "sentAt": "2026-07-26T21:01:57.431Z",
-      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud"
-    },
-    {
-      "id": "u_cfae8530",
-      "sentAt": "2026-07-26T19:16:12.828Z",
-      "title": "Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction"
     }
   ]
 }
