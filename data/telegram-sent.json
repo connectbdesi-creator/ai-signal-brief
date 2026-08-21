@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T12:53:16.330Z",
+  "updatedAt": "2026-08-21T14:38:13.083Z",
   "entries": [
+    {
+      "id": "u_8567e794",
+      "sentAt": "2026-08-21T14:38:13.083Z",
+      "title": "langchain-perplexity==1.4.1"
+    },
+    {
+      "id": "u_8b58e4d1",
+      "sentAt": "2026-08-21T14:38:13.083Z",
+      "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi"
+    },
+    {
+      "id": "u_a7954a29",
+      "sentAt": "2026-08-21T14:38:13.083Z",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up"
+    },
+    {
+      "id": "u_d464e964",
+      "sentAt": "2026-08-21T14:38:13.083Z",
+      "title": "4 AI-powered hotel search tools that have launched so far in 2026 - Hotel Dive"
+    },
+    {
+      "id": "u_17f37ff1",
+      "sentAt": "2026-08-21T14:38:13.083Z",
+      "title": "Google Open-Sourced a Compiler That Runs AI on Data the Server"
+    },
     {
       "id": "u_2869284f",
       "sentAt": "2026-08-21T12:53:16.330Z",
@@ -4975,31 +5000,6 @@
       "id": "u_762833b3",
       "sentAt": "2026-07-29T14:16:43.294Z",
       "title": "Nimble launches Web Search Agents to cut AI research token costs"
-    },
-    {
-      "id": "u_9563d6db",
-      "sentAt": "2026-07-29T14:16:43.294Z",
-      "title": "SnapLogic transforms SnapGPT into a high-powered agentic assistant for the entire integration lifecycle"
-    },
-    {
-      "id": "u_ff98c9ad",
-      "sentAt": "2026-07-29T10:42:03.463Z",
-      "title": "Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU"
-    },
-    {
-      "id": "u_b7c47a0a",
-      "sentAt": "2026-07-29T10:42:03.463Z",
-      "title": "Stellora.AI Launches AI.ForHumanity.Global, a New Consortium Uniting Innovators Behind a “Humanity First” Vision for Artificial Intelligence - The AI Journal"
-    },
-    {
-      "id": "u_485c777a",
-      "sentAt": "2026-07-29T10:42:03.463Z",
-      "title": "Lenovo Capital takes aim at robotics, coding agents in ‘sniper’ AI strategy - South China Morning Post"
-    },
-    {
-      "id": "u_a2db13fe",
-      "sentAt": "2026-07-29T10:42:03.463Z",
-      "title": "Is Laguna s2.1 fixed?"
     }
   ]
 }
