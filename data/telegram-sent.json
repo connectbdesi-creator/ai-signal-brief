@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T20:28:32.457Z",
+  "updatedAt": "2026-08-21T22:27:43.846Z",
   "entries": [
+    {
+      "id": "u_8660c2eb",
+      "sentAt": "2026-08-21T22:27:43.846Z",
+      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
+    },
+    {
+      "id": "u_1abe00e4",
+      "sentAt": "2026-08-21T22:27:43.846Z",
+      "title": "Hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers [P]"
+    },
+    {
+      "id": "u_84acaf4b",
+      "sentAt": "2026-08-21T22:27:43.846Z",
+      "title": "b10566"
+    },
+    {
+      "id": "u_50585b62",
+      "sentAt": "2026-08-21T22:27:43.846Z",
+      "title": "Rogue AI Agents Compel Companies to Deal With Rising Liability - Bloomberg Law News"
+    },
+    {
+      "id": "u_b875212f",
+      "sentAt": "2026-08-21T22:27:43.846Z",
+      "title": "llm 0.32.1"
+    },
     {
       "id": "u_59342c39",
       "sentAt": "2026-08-21T20:28:32.457Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a185f58e",
       "sentAt": "2026-07-29T23:00:48.952Z",
       "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents - reuters.com"
-    },
-    {
-      "id": "u_87272f28",
-      "sentAt": "2026-07-29T23:00:48.952Z",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
-    },
-    {
-      "id": "u_c567f44f",
-      "sentAt": "2026-07-29T20:59:26.170Z",
-      "title": "Pangram Labs raises $9M to launch more accurate AI detection for text and images"
-    },
-    {
-      "id": "u_461c1766",
-      "sentAt": "2026-07-29T20:59:26.170Z",
-      "title": "OpenAI launches free AI access program for academic researchers"
-    },
-    {
-      "id": "u_a977463a",
-      "sentAt": "2026-07-29T20:59:26.170Z",
-      "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates"
-    },
-    {
-      "id": "u_d7ffe365",
-      "sentAt": "2026-07-29T20:59:26.170Z",
-      "title": "Ollama vs. LM Studio vs. llama.cpp: Which Local AI Runtime Should You Use in 2026?"
     }
   ]
 }
