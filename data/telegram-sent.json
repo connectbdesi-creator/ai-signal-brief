@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T10:32:54.719Z",
+  "updatedAt": "2026-08-21T12:53:16.330Z",
   "entries": [
+    {
+      "id": "u_2869284f",
+      "sentAt": "2026-08-21T12:53:16.330Z",
+      "title": "5 Real-World Use Cases for AI Agents Transforming Industries"
+    },
+    {
+      "id": "u_a3403bfc",
+      "sentAt": "2026-08-21T12:53:16.330Z",
+      "title": "A roadmap for safeguarding against AI bioweapons"
+    },
+    {
+      "id": "u_1973079d",
+      "sentAt": "2026-08-21T12:53:16.330Z",
+      "title": "Three Common Misconceptions About AI Agents That Are Holding Organizations Back"
+    },
+    {
+      "id": "u_41238c30",
+      "sentAt": "2026-08-21T12:53:16.330Z",
+      "title": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown | Miles Brundage"
+    },
+    {
+      "id": "u_80404711",
+      "sentAt": "2026-08-21T12:53:16.330Z",
+      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds"
+    },
     {
       "id": "u_548205b6",
       "sentAt": "2026-08-21T10:32:54.719Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a2db13fe",
       "sentAt": "2026-07-29T10:42:03.463Z",
       "title": "Is Laguna s2.1 fixed?"
-    },
-    {
-      "id": "u_4bcd1511",
-      "sentAt": "2026-07-29T10:42:03.463Z",
-      "title": "Built and released BetterGPT-150M – A compact 150M parameter completion model (+ live HF Space demo)"
-    },
-    {
-      "id": "u_a22dc30d",
-      "sentAt": "2026-07-29T06:34:17.083Z",
-      "title": "The day an AI model launched an attack without being instructed to - Escudo Digital"
-    },
-    {
-      "id": "u_828cce41",
-      "sentAt": "2026-07-29T06:34:17.083Z",
-      "title": "Localized Adaptation Reveals Distinct Learning Signatures in Transformers"
-    },
-    {
-      "id": "u_32b2ff2e",
-      "sentAt": "2026-07-29T06:34:17.083Z",
-      "title": "SpecPrefetch: Parameter-Efficient Expert Prefetching for Sparse MoE Foundation Models"
-    },
-    {
-      "id": "u_1f72e15",
-      "sentAt": "2026-07-29T06:34:17.083Z",
-      "title": "Retrieval-Augmented Generation in LLMs for Mental Health: Quantifying the Incremental Contribution of Retrieval Within a Layered Safety Architecture"
     }
   ]
 }
