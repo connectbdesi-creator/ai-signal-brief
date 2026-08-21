@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T04:40:35.525Z",
+  "updatedAt": "2026-08-21T06:52:02.294Z",
   "entries": [
+    {
+      "id": "u_3e264f8f",
+      "sentAt": "2026-08-21T06:52:02.294Z",
+      "title": "v2.33.0 (2026-08-20)"
+    },
+    {
+      "id": "u_b2324225",
+      "sentAt": "2026-08-21T06:52:02.294Z",
+      "title": "Empirical Characterization of Learning Geometry in Hybrid Quantum Forecasting Models"
+    },
+    {
+      "id": "u_6020d441",
+      "sentAt": "2026-08-21T06:52:02.294Z",
+      "title": "In Two Minds about Lifelong Learning: Exploring Hemispheric Redundancy and Specialisation in Neural Models"
+    },
+    {
+      "id": "u_3766706d",
+      "sentAt": "2026-08-21T06:52:02.294Z",
+      "title": "RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations"
+    },
+    {
+      "id": "u_f06fa05a",
+      "sentAt": "2026-08-21T06:52:02.294Z",
+      "title": "Evidence Before Expansion: Reuse, Spawn, or Defer in Lifelong Expert Pools"
+    },
     {
       "id": "u_96dd42cc",
       "sentAt": "2026-08-21T04:40:35.525Z",
@@ -4975,31 +5000,6 @@
       "id": "u_42c5ed94",
       "sentAt": "2026-07-28T23:02:38.948Z",
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident"
-    },
-    {
-      "id": "u_d9525fe0",
-      "sentAt": "2026-07-28T23:02:38.948Z",
-      "title": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development'"
-    },
-    {
-      "id": "u_b59498d9",
-      "sentAt": "2026-07-28T21:11:16.630Z",
-      "title": "Biggest ever MCP update brings metadata, cybersecurity enhancements"
-    },
-    {
-      "id": "u_5ac3f4ae",
-      "sentAt": "2026-07-28T21:11:16.630Z",
-      "title": "How Gemini Flash agents are helping a Michigan dairy farmer"
-    },
-    {
-      "id": "u_ef64ea4",
-      "sentAt": "2026-07-28T21:11:16.630Z",
-      "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team"
-    },
-    {
-      "id": "u_597c8175",
-      "sentAt": "2026-07-28T21:11:16.630Z",
-      "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team"
     }
   ]
 }
