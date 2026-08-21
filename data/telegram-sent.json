@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T16:37:30.523Z",
+  "updatedAt": "2026-08-21T18:39:53.881Z",
   "entries": [
+    {
+      "id": "u_32f8e6df",
+      "sentAt": "2026-08-21T18:39:53.881Z",
+      "title": "ChatGPT has entered the group chat. Texters have…feelings about it."
+    },
+    {
+      "id": "u_d680b93e",
+      "sentAt": "2026-08-21T18:39:53.881Z",
+      "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours"
+    },
+    {
+      "id": "u_e7a4526a",
+      "sentAt": "2026-08-21T18:39:53.881Z",
+      "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway"
+    },
+    {
+      "id": "u_fd7c9e2b",
+      "sentAt": "2026-08-21T18:39:53.881Z",
+      "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]"
+    },
+    {
+      "id": "u_bf4e2ca4",
+      "sentAt": "2026-08-21T18:39:53.881Z",
+      "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures"
+    },
     {
       "id": "u_fa752c59",
       "sentAt": "2026-08-21T16:37:30.523Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9263d798",
       "sentAt": "2026-07-29T19:21:05.399Z",
       "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models"
-    },
-    {
-      "id": "u_b3e678ca",
-      "sentAt": "2026-07-29T19:21:05.399Z",
-      "title": "Sam Altman previews new AI model on Capitol Hill after cyber breach - Politico"
-    },
-    {
-      "id": "u_1f5169c5",
-      "sentAt": "2026-07-29T17:18:05.800Z",
-      "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents"
-    },
-    {
-      "id": "u_d2fc15b3",
-      "sentAt": "2026-07-29T17:18:05.800Z",
-      "title": "HPE advances its self-driving networking strategy for the AI era"
-    },
-    {
-      "id": "u_1efded07",
-      "sentAt": "2026-07-29T17:18:05.800Z",
-      "title": "Qventive Healthcare Launches AI Advisory to Help Private Practices Separate Useful Artificial Intelligence From the Hype - EIN News"
-    },
-    {
-      "id": "u_b21fefc3",
-      "sentAt": "2026-07-29T17:18:05.800Z",
-      "title": "NIST Launches AI Model Evaluation Program to Benchmark Performance on Blind Test Data - PYMNTS.com"
     }
   ]
 }
