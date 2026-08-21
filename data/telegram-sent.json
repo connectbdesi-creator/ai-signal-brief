@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T01:26:26.760Z",
+  "updatedAt": "2026-08-21T03:05:28.044Z",
   "entries": [
+    {
+      "id": "u_b6b2ea6f",
+      "sentAt": "2026-08-21T03:05:28.044Z",
+      "title": "b10536"
+    },
+    {
+      "id": "u_e979f007",
+      "sentAt": "2026-08-21T03:05:28.044Z",
+      "title": "Astromech raises $20M to build a biological operating system that can forecast evolutionary change"
+    },
+    {
+      "id": "u_84adb30c",
+      "sentAt": "2026-08-21T03:05:28.044Z",
+      "title": "Twin1 AI raises $20M to put an AI twin behind every knowledge worker"
+    },
+    {
+      "id": "u_bbc5f887",
+      "sentAt": "2026-08-21T03:05:28.044Z",
+      "title": "Slack Brings AI Agents To Workspaces. But Can It Take On Teams?"
+    },
+    {
+      "id": "u_74111bfe",
+      "sentAt": "2026-08-21T03:05:28.044Z",
+      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock - Amazon Web Services (AWS)"
+    },
     {
       "id": "u_399e91d3",
       "sentAt": "2026-08-21T01:26:26.760Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6d3ddbee",
       "sentAt": "2026-07-28T19:36:48.300Z",
       "title": "Might need math+code benchmark for frontier model(LLMs Silently Replace Math)[D]"
-    },
-    {
-      "id": "u_e4c0c93f",
-      "sentAt": "2026-07-28T19:36:48.300Z",
-      "title": "Anthropic and Nvidia come out against blanket bans on open-weight AI models"
-    },
-    {
-      "id": "u_640d0421",
-      "sentAt": "2026-07-28T17:37:42.571Z",
-      "title": "Market surveillance agent with LangGraph and Strands on AgentCore"
-    },
-    {
-      "id": "u_1aad6745",
-      "sentAt": "2026-07-28T17:37:42.571Z",
-      "title": "Perplexity brings its Personal Computer AI agent to Windows"
-    },
-    {
-      "id": "u_82d060f0",
-      "sentAt": "2026-07-28T17:37:42.571Z",
-      "title": "Scientific computing in the age of agentic AI"
-    },
-    {
-      "id": "u_266d28aa",
-      "sentAt": "2026-07-28T17:37:42.571Z",
-      "title": "Scientific computing in the age of agentic AI"
     }
   ]
 }
