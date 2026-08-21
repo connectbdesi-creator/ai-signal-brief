@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T18:39:53.881Z",
+  "updatedAt": "2026-08-21T20:28:32.457Z",
   "entries": [
+    {
+      "id": "u_59342c39",
+      "sentAt": "2026-08-21T20:28:32.457Z",
+      "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8"
+    },
+    {
+      "id": "u_f29bbb8c",
+      "sentAt": "2026-08-21T20:28:32.457Z",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero"
+    },
+    {
+      "id": "u_e59e1725",
+      "sentAt": "2026-08-21T20:28:32.457Z",
+      "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks"
+    },
+    {
+      "id": "u_4e102b43",
+      "sentAt": "2026-08-21T20:28:32.457Z",
+      "title": "b10567"
+    },
+    {
+      "id": "u_3b11abcf",
+      "sentAt": "2026-08-21T20:28:32.457Z",
+      "title": "v0.2.0"
+    },
     {
       "id": "u_32f8e6df",
       "sentAt": "2026-08-21T18:39:53.881Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d7ffe365",
       "sentAt": "2026-07-29T20:59:26.170Z",
       "title": "Ollama vs. LM Studio vs. llama.cpp: Which Local AI Runtime Should You Use in 2026?"
-    },
-    {
-      "id": "u_7550c69d",
-      "sentAt": "2026-07-29T20:59:26.170Z",
-      "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line"
-    },
-    {
-      "id": "u_200fc5bf",
-      "sentAt": "2026-07-29T19:21:05.399Z",
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine"
-    },
-    {
-      "id": "u_189b7e0a",
-      "sentAt": "2026-07-29T19:21:05.399Z",
-      "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over"
-    },
-    {
-      "id": "u_de394205",
-      "sentAt": "2026-07-29T19:21:05.399Z",
-      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models"
-    },
-    {
-      "id": "u_9263d798",
-      "sentAt": "2026-07-29T19:21:05.399Z",
-      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models"
     }
   ]
 }
