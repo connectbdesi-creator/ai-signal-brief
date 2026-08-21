@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T08:43:26.784Z",
+  "updatedAt": "2026-08-21T10:32:54.719Z",
   "entries": [
+    {
+      "id": "u_548205b6",
+      "sentAt": "2026-08-21T10:32:54.719Z",
+      "title": "Ondaro Launches Outcome-Based, AI-Enabled Managed Services Offering for the ServiceNow Platform - HRTech Series"
+    },
+    {
+      "id": "u_64d46c13",
+      "sentAt": "2026-08-21T10:32:54.719Z",
+      "title": "b10549"
+    },
+    {
+      "id": "u_c1cf4fa6",
+      "sentAt": "2026-08-21T10:32:54.719Z",
+      "title": "America's capital crunch: Soaring debt collides with AI spending spree"
+    },
+    {
+      "id": "u_47e716de",
+      "sentAt": "2026-08-21T10:32:54.719Z",
+      "title": "ChatGPT search now uses the site:operator at scale"
+    },
+    {
+      "id": "u_fdccec60",
+      "sentAt": "2026-08-21T10:32:54.719Z",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates"
+    },
     {
       "id": "u_e49c9857",
       "sentAt": "2026-08-21T08:43:26.784Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1f72e15",
       "sentAt": "2026-07-29T06:34:17.083Z",
       "title": "Retrieval-Augmented Generation in LLMs for Mental Health: Quantifying the Incremental Contribution of Retrieval Within a Layered Safety Architecture"
-    },
-    {
-      "id": "u_710761be",
-      "sentAt": "2026-07-29T06:34:17.083Z",
-      "title": "Forensic Reproducibility Audit of a Radiology Vision-Language Model Benchmark: From Intended Protocol to Released Artifact"
-    },
-    {
-      "id": "u_f817bcdd",
-      "sentAt": "2026-07-29T02:51:38.514Z",
-      "title": "Anthropic's Claude Mythos Finds Encryption Flaw Following OpenAI Agents' Containment Breach - International Business Times"
-    },
-    {
-      "id": "u_589c8ce9",
-      "sentAt": "2026-07-29T02:51:38.514Z",
-      "title": "Scoop: Second account accessed by OpenAI's agent tied to cyber safety testing"
-    },
-    {
-      "id": "u_83eab6fe",
-      "sentAt": "2026-07-29T02:51:38.514Z",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents"
-    },
-    {
-      "id": "u_58ec0a75",
-      "sentAt": "2026-07-29T02:51:38.514Z",
-      "title": "AI researchers call for new tools that can slow automated model development"
     }
   ]
 }
