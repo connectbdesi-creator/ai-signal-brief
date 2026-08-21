@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-20T22:30:25.744Z",
+  "updatedAt": "2026-08-21T01:26:26.760Z",
   "entries": [
+    {
+      "id": "u_399e91d3",
+      "sentAt": "2026-08-21T01:26:26.760Z",
+      "title": "b10533"
+    },
+    {
+      "id": "u_6c1132bf",
+      "sentAt": "2026-08-21T01:26:26.760Z",
+      "title": "b10531"
+    },
+    {
+      "id": "u_48a47a6f",
+      "sentAt": "2026-08-21T01:26:26.760Z",
+      "title": "ChatGPT search now uses the site:operator at scale"
+    },
+    {
+      "id": "u_29425235",
+      "sentAt": "2026-08-21T01:26:26.760Z",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates"
+    },
+    {
+      "id": "u_296cd157",
+      "sentAt": "2026-08-21T01:26:26.760Z",
+      "title": "Been tweaking my Qwen 3.8 setup, up to 45+ steady T/ps at 8bit quant. Realised I'm now top T/ps for this model+ctx across all benchmarked M-series chips. Full args linked below, happy to discuss as this was a pain of trial and error."
+    },
     {
       "id": "u_163f6a75",
       "sentAt": "2026-08-20T22:30:25.744Z",
@@ -4975,31 +5000,6 @@
       "id": "u_266d28aa",
       "sentAt": "2026-07-28T17:37:42.571Z",
       "title": "Scientific computing in the age of agentic AI"
-    },
-    {
-      "id": "u_4c787d44",
-      "sentAt": "2026-07-28T17:37:42.571Z",
-      "title": "Scoop: Nvidia's Jensen Huang meets Lutnick amid China scrutiny"
-    },
-    {
-      "id": "u_cc23e17b",
-      "sentAt": "2026-07-28T14:13:49.068Z",
-      "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises"
-    },
-    {
-      "id": "u_19a11b4c",
-      "sentAt": "2026-07-28T14:13:49.068Z",
-      "title": "Fish Audio makes a splash after raising $52M seed funding for AI voices"
-    },
-    {
-      "id": "u_cfcf94f7",
-      "sentAt": "2026-07-28T14:13:49.068Z",
-      "title": "Tines launches 3B to help enterprises govern AI-built apps and agents"
-    },
-    {
-      "id": "u_74c1a142",
-      "sentAt": "2026-07-28T14:13:49.068Z",
-      "title": "1Password launches Privileged Access to cut standing access for AI agents"
     }
   ]
 }
