@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T14:38:13.083Z",
+  "updatedAt": "2026-08-21T16:37:30.523Z",
   "entries": [
+    {
+      "id": "u_fa752c59",
+      "sentAt": "2026-08-21T16:37:30.523Z",
+      "title": "Stop Making TUIs"
+    },
+    {
+      "id": "u_92e9b177",
+      "sentAt": "2026-08-21T16:37:30.523Z",
+      "title": "Quoting Matt Webb"
+    },
+    {
+      "id": "u_a71bcfed",
+      "sentAt": "2026-08-21T16:37:30.523Z",
+      "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini - SecurityWeek"
+    },
+    {
+      "id": "u_16fd8c1f",
+      "sentAt": "2026-08-21T16:37:30.523Z",
+      "title": "Stripe's 'Minions' Now Generate 1,300 Pull Requests a Week -"
+    },
+    {
+      "id": "u_b60a03de",
+      "sentAt": "2026-08-21T16:37:30.523Z",
+      "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents"
+    },
     {
       "id": "u_8567e794",
       "sentAt": "2026-08-21T14:38:13.083Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b21fefc3",
       "sentAt": "2026-07-29T17:18:05.800Z",
       "title": "NIST Launches AI Model Evaluation Program to Benchmark Performance on Blind Test Data - PYMNTS.com"
-    },
-    {
-      "id": "u_d188848d",
-      "sentAt": "2026-07-29T17:18:05.800Z",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls"
-    },
-    {
-      "id": "u_dec468e5",
-      "sentAt": "2026-07-29T14:16:43.294Z",
-      "title": "UK Opens Formal Probe Into Microsoft Copilot 365 Price Hikes as Three Countries Investigate in Parallel"
-    },
-    {
-      "id": "u_86f74a5a",
-      "sentAt": "2026-07-29T14:16:43.294Z",
-      "title": "OpenAI's Rogue Agent Didn't Stop at Hugging Face. It Breached a Second Company in a Week-Long Spree."
-    },
-    {
-      "id": "u_d42e3db7",
-      "sentAt": "2026-07-29T14:16:43.294Z",
-      "title": "Sweet Security debuts Agentic AI Blocking to stop rogue agents in real time"
-    },
-    {
-      "id": "u_762833b3",
-      "sentAt": "2026-07-29T14:16:43.294Z",
-      "title": "Nimble launches Web Search Agents to cut AI research token costs"
     }
   ]
 }
