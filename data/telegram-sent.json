@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T03:05:28.044Z",
+  "updatedAt": "2026-08-21T04:40:35.525Z",
   "entries": [
+    {
+      "id": "u_96dd42cc",
+      "sentAt": "2026-08-21T04:40:35.525Z",
+      "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis"
+    },
+    {
+      "id": "u_a1a5d8af",
+      "sentAt": "2026-08-21T04:40:35.525Z",
+      "title": "Hallucination as a Feature, not a Defect: Evaluating a multi-agent architecture to transform speculative language-model outputs into testable scientific hypotheses"
+    },
+    {
+      "id": "u_4c711d03",
+      "sentAt": "2026-08-21T04:40:35.525Z",
+      "title": "Compliance, Capability, and Conflict: Benchmarking Multimodal LLMs under System Messages"
+    },
+    {
+      "id": "u_7e75405d",
+      "sentAt": "2026-08-21T04:40:35.525Z",
+      "title": "When Irrelevant Text Matters: Affine Margin Shifts in Multimodal Large Language Models"
+    },
+    {
+      "id": "u_5b246bf4",
+      "sentAt": "2026-08-21T04:40:35.525Z",
+      "title": "Towards On-Board Implementation of ML-Based Helicopter Weight Estimator"
+    },
     {
       "id": "u_b6b2ea6f",
       "sentAt": "2026-08-21T03:05:28.044Z",
@@ -4975,31 +5000,6 @@
       "id": "u_597c8175",
       "sentAt": "2026-07-28T21:11:16.630Z",
       "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team"
-    },
-    {
-      "id": "u_3e82e99c",
-      "sentAt": "2026-07-28T21:11:16.630Z",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
-    },
-    {
-      "id": "u_6ea34024",
-      "sentAt": "2026-07-28T19:36:48.300Z",
-      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet"
-    },
-    {
-      "id": "u_e637aa5d",
-      "sentAt": "2026-07-28T19:36:48.300Z",
-      "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet"
-    },
-    {
-      "id": "u_b7ecc83e",
-      "sentAt": "2026-07-28T19:36:48.300Z",
-      "title": "How AgentCore Gateway supports the MCP 2026-07-28 spec"
-    },
-    {
-      "id": "u_6d3ddbee",
-      "sentAt": "2026-07-28T19:36:48.300Z",
-      "title": "Might need math+code benchmark for frontier model(LLMs Silently Replace Math)[D]"
     }
   ]
 }
