@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-22T16:27:24.974Z",
+  "updatedAt": "2026-08-22T18:34:22.950Z",
   "entries": [
+    {
+      "id": "u_2407dac",
+      "sentAt": "2026-08-22T18:34:22.950Z",
+      "title": "I built an open-source roguelike specifically for training game-playing agents [P]"
+    },
+    {
+      "id": "u_1305d1d2",
+      "sentAt": "2026-08-22T18:34:22.950Z",
+      "title": "llm 0.33"
+    },
+    {
+      "id": "u_5d3b1d67",
+      "sentAt": "2026-08-22T18:34:22.950Z",
+      "title": "If you're not using AI to attack your own systems, your adversaries will"
+    },
     {
       "id": "u_836e121f",
       "sentAt": "2026-08-22T16:27:24.974Z",
@@ -4985,21 +5000,6 @@
       "id": "u_3bad311f",
       "sentAt": "2026-07-30T21:13:22.173Z",
       "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - reuters.com"
-    },
-    {
-      "id": "u_eaeb1d53",
-      "sentAt": "2026-07-30T21:13:22.173Z",
-      "title": "LinkedIn adds a button to report AI-generated ‘slop’"
-    },
-    {
-      "id": "u_7850f31c",
-      "sentAt": "2026-07-30T19:36:49.881Z",
-      "title": "ChatGPT maker OpenAI has revealed that an autonomous artificial intelligence agent which hacked a popular platform for computer programmers also attempted to breach four other companies during the incident. | via ANC 24/7 Link to full story in the comme - facebook.com"
-    },
-    {
-      "id": "u_27ab1a3a",
-      "sentAt": "2026-07-30T19:36:49.881Z",
-      "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model"
     }
   ]
 }
