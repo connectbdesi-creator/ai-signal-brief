@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-21T22:27:43.846Z",
+  "updatedAt": "2026-08-22T01:21:24.268Z",
   "entries": [
+    {
+      "id": "u_5368ca9b",
+      "sentAt": "2026-08-22T01:21:24.268Z",
+      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI"
+    },
+    {
+      "id": "u_97387b84",
+      "sentAt": "2026-08-22T01:21:24.268Z",
+      "title": "3.3.1"
+    },
+    {
+      "id": "u_aed3c8cb",
+      "sentAt": "2026-08-22T01:21:24.268Z",
+      "title": "b10568"
+    },
+    {
+      "id": "u_740a821c",
+      "sentAt": "2026-08-22T01:21:24.268Z",
+      "title": "'Stop gaslighting me!': Florida Democrats' Senate nominee and party chair have heated call over socialism"
+    },
+    {
+      "id": "u_f96db6bd",
+      "sentAt": "2026-08-22T01:21:24.268Z",
+      "title": "Ling-3.0 opens six base checkpoints across three training stages"
+    },
     {
       "id": "u_8660c2eb",
       "sentAt": "2026-08-21T22:27:43.846Z",
@@ -4975,31 +5000,6 @@
       "id": "u_55e723f",
       "sentAt": "2026-07-30T02:36:10.485Z",
       "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’"
-    },
-    {
-      "id": "u_dde8834b",
-      "sentAt": "2026-07-30T02:36:10.485Z",
-      "title": "Martha Stewart-Founded Hint Launches AI-Powered Homeownership App - PYMNTS.com"
-    },
-    {
-      "id": "u_1319cc24",
-      "sentAt": "2026-07-29T23:00:48.952Z",
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years"
-    },
-    {
-      "id": "u_5c36e64f",
-      "sentAt": "2026-07-29T23:00:48.952Z",
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents"
-    },
-    {
-      "id": "u_6076f1eb",
-      "sentAt": "2026-07-29T23:00:48.952Z",
-      "title": "NIST Launches New Testbed Program to Evaluate AI Model Performance - ExecutiveGov"
-    },
-    {
-      "id": "u_a185f58e",
-      "sentAt": "2026-07-29T23:00:48.952Z",
-      "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents - reuters.com"
     }
   ]
 }
