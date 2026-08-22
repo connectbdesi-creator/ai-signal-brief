@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-22T14:24:30.143Z",
+  "updatedAt": "2026-08-22T16:27:24.974Z",
   "entries": [
+    {
+      "id": "u_836e121f",
+      "sentAt": "2026-08-22T16:27:24.974Z",
+      "title": "b10586"
+    },
+    {
+      "id": "u_9d1d667a",
+      "sentAt": "2026-08-22T16:27:24.974Z",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model"
+    },
+    {
+      "id": "u_f1f582a8",
+      "sentAt": "2026-08-22T16:27:24.974Z",
+      "title": "More than just code review"
+    },
+    {
+      "id": "u_53c8333e",
+      "sentAt": "2026-08-22T16:27:24.974Z",
+      "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock"
+    },
+    {
+      "id": "u_a33374f3",
+      "sentAt": "2026-08-22T16:27:24.974Z",
+      "title": "b10585"
+    },
     {
       "id": "u_40542108",
       "sentAt": "2026-08-22T14:24:30.143Z",
@@ -4975,31 +5000,6 @@
       "id": "u_27ab1a3a",
       "sentAt": "2026-07-30T19:36:49.881Z",
       "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model"
-    },
-    {
-      "id": "u_4a5f925b",
-      "sentAt": "2026-07-30T19:36:49.881Z",
-      "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model"
-    },
-    {
-      "id": "u_a23b840e",
-      "sentAt": "2026-07-30T19:36:49.881Z",
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button"
-    },
-    {
-      "id": "u_2ca422d3",
-      "sentAt": "2026-07-30T19:36:49.881Z",
-      "title": "Bessent sets stage for Xi visit in high-level China talk"
-    },
-    {
-      "id": "u_370bb59f",
-      "sentAt": "2026-07-30T17:38:17.874Z",
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body"
-    },
-    {
-      "id": "u_bd88b727",
-      "sentAt": "2026-07-30T17:38:17.874Z",
-      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs - CNBC"
     }
   ]
 }
