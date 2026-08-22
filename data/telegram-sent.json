@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-22T08:33:08.911Z",
+  "updatedAt": "2026-08-22T10:26:25.342Z",
   "entries": [
+    {
+      "id": "u_f610d62b",
+      "sentAt": "2026-08-22T10:26:25.342Z",
+      "title": "b10581"
+    },
+    {
+      "id": "u_47703eef",
+      "sentAt": "2026-08-22T10:26:25.342Z",
+      "title": "b10580"
+    },
+    {
+      "id": "u_c266427e",
+      "sentAt": "2026-08-22T10:26:25.342Z",
+      "title": "Psychological methods reveal major weaknesses in AI security testing"
+    },
+    {
+      "id": "u_e84acd97",
+      "sentAt": "2026-08-22T10:26:25.342Z",
+      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates"
+    },
+    {
+      "id": "u_b768d65a",
+      "sentAt": "2026-08-22T10:26:25.342Z",
+      "title": "Void Tools API – Blockchain Tools for AI Agents (Pay in Void Tokens)"
+    },
     {
       "id": "u_c111bfcb",
       "sentAt": "2026-08-22T08:33:08.911Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d079fb7b",
       "sentAt": "2026-07-30T14:08:48.854Z",
       "title": "Exclusive: Upwind adds context scanning for AI agents as AI DR hits general availability"
-    },
-    {
-      "id": "u_da7b7826",
-      "sentAt": "2026-07-30T14:08:48.854Z",
-      "title": "DataBahn raises $40M as AI agents queue up for enterprise telemetry"
-    },
-    {
-      "id": "u_80cf3378",
-      "sentAt": "2026-07-30T14:08:48.854Z",
-      "title": "Stellarus launches AI-powered health plan customer service representative copilot - Fierce Healthcare"
-    },
-    {
-      "id": "u_8a6f31ea",
-      "sentAt": "2026-07-30T14:08:48.854Z",
-      "title": "Inside a cyberattack launched by a rogue AI agent that escaped containment - washingtonpost.com"
-    },
-    {
-      "id": "u_985f86d",
-      "sentAt": "2026-07-30T14:08:48.854Z",
-      "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier"
-    },
-    {
-      "id": "u_2060143f",
-      "sentAt": "2026-07-30T10:27:45.179Z",
-      "title": "Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models"
     }
   ]
 }
