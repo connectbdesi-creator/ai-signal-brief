@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-22T06:43:34.942Z",
+  "updatedAt": "2026-08-22T08:33:08.911Z",
   "entries": [
+    {
+      "id": "u_c111bfcb",
+      "sentAt": "2026-08-22T08:33:08.911Z",
+      "title": "b10577"
+    },
+    {
+      "id": "u_30646b35",
+      "sentAt": "2026-08-22T08:33:08.911Z",
+      "title": "RayNeo's new AI glasses skip the camera, focus on text overlays"
+    },
+    {
+      "id": "u_646488a1",
+      "sentAt": "2026-08-22T08:33:08.911Z",
+      "title": "RayNeo's new AI glasses skip the camera, focus on text overlays"
+    },
+    {
+      "id": "u_42e3285f",
+      "sentAt": "2026-08-22T08:33:08.911Z",
+      "title": "b10576"
+    },
+    {
+      "id": "u_99c4adab",
+      "sentAt": "2026-08-22T08:33:08.911Z",
+      "title": "Psychological methods reveal major weaknesses in AI security testing"
+    },
     {
       "id": "u_e349b589",
       "sentAt": "2026-08-22T06:43:34.942Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2060143f",
       "sentAt": "2026-07-30T10:27:45.179Z",
       "title": "Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models"
-    },
-    {
-      "id": "u_cfb62791",
-      "sentAt": "2026-07-30T10:27:45.179Z",
-      "title": "AI Scammers Are Better at Building Trust Than Humans"
-    },
-    {
-      "id": "u_37bf4d05",
-      "sentAt": "2026-07-30T10:27:45.179Z",
-      "title": "AI Scammers Are Better at Building Trust Than Humans"
-    },
-    {
-      "id": "u_c4481217",
-      "sentAt": "2026-07-30T10:27:45.179Z",
-      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings"
-    },
-    {
-      "id": "u_a2d18505",
-      "sentAt": "2026-07-30T10:27:45.179Z",
-      "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings"
-    },
-    {
-      "id": "u_cf2cbf6a",
-      "sentAt": "2026-07-30T06:31:17.057Z",
-      "title": "Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training"
     }
   ]
 }
