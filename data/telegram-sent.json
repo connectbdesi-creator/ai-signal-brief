@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-22T01:21:24.268Z",
+  "updatedAt": "2026-08-22T02:56:29.363Z",
   "entries": [
+    {
+      "id": "u_abf8dbbb",
+      "sentAt": "2026-08-22T02:56:29.363Z",
+      "title": "b10569"
+    },
+    {
+      "id": "u_8ec791e3",
+      "sentAt": "2026-08-22T02:56:29.363Z",
+      "title": "OpenCode + llama.cpp + unsloth/Qwen3.8-27B-GGUF:Q6_K_XL = only failure so far"
+    },
+    {
+      "id": "u_3f5e2658",
+      "sentAt": "2026-08-22T02:56:29.363Z",
+      "title": "Qwen 3.8 27b - PI AGENT vs OPENCODE - another smaple"
+    },
+    {
+      "id": "u_c5010fbd",
+      "sentAt": "2026-08-22T02:56:29.363Z",
+      "title": "I feel like I finally graduated."
+    },
+    {
+      "id": "u_780c3d27",
+      "sentAt": "2026-08-22T02:56:29.363Z",
+      "title": "Llama.cpp DSpark PC Tree Fork (up to 3%-29.5% faster!)"
+    },
     {
       "id": "u_5368ca9b",
       "sentAt": "2026-08-22T01:21:24.268Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3fb25e01",
       "sentAt": "2026-07-30T06:31:17.057Z",
       "title": "When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses"
-    },
-    {
-      "id": "u_e67a447c",
-      "sentAt": "2026-07-30T06:31:17.057Z",
-      "title": "Knowledge before Reasoning: EC-Reason-Bench, a Training-Free Diagnostic Benchmark for LLM Enzyme Classification"
-    },
-    {
-      "id": "u_736753e6",
-      "sentAt": "2026-07-30T02:36:10.485Z",
-      "title": "OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists"
-    },
-    {
-      "id": "u_679759b",
-      "sentAt": "2026-07-30T02:36:10.485Z",
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years"
-    },
-    {
-      "id": "u_8be6ac32",
-      "sentAt": "2026-07-30T02:36:10.485Z",
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents"
-    },
-    {
-      "id": "u_55e723f",
-      "sentAt": "2026-07-30T02:36:10.485Z",
-      "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’"
     }
   ]
 }
