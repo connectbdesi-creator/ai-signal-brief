@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-22T04:35:26.758Z",
+  "updatedAt": "2026-08-22T06:43:34.942Z",
   "entries": [
+    {
+      "id": "u_e349b589",
+      "sentAt": "2026-08-22T06:43:34.942Z",
+      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery - Genetic Engineering and Biotechnology News"
+    },
     {
       "id": "u_e8a42aba",
       "sentAt": "2026-08-22T04:35:26.758Z",
@@ -4995,11 +5000,6 @@
       "id": "u_cf2cbf6a",
       "sentAt": "2026-07-30T06:31:17.057Z",
       "title": "Moonshot AI Open-Sources MoonEP: A Perfectly Balanced Expert Parallelism Library for MoE Training"
-    },
-    {
-      "id": "u_b8a459e2",
-      "sentAt": "2026-07-30T06:31:17.057Z",
-      "title": "Alexandr Wang says startups supercharged by AI can now pick 'Goliath versus Goliath' fights"
     }
   ]
 }
