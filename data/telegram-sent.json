@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-22T18:34:22.950Z",
+  "updatedAt": "2026-08-22T20:26:00.194Z",
   "entries": [
+    {
+      "id": "u_215e22af",
+      "sentAt": "2026-08-22T20:26:00.194Z",
+      "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K"
+    },
+    {
+      "id": "u_2c031cc6",
+      "sentAt": "2026-08-22T20:26:00.194Z",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
+    },
+    {
+      "id": "u_6067c666",
+      "sentAt": "2026-08-22T20:26:00.194Z",
+      "title": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp"
+    },
+    {
+      "id": "u_d4f833e3",
+      "sentAt": "2026-08-22T20:26:00.194Z",
+      "title": "Does anyone actually respect benchmarks?"
+    },
     {
       "id": "u_2407dac",
       "sentAt": "2026-08-22T18:34:22.950Z",
@@ -4980,26 +5000,6 @@
       "id": "u_78ec60d9",
       "sentAt": "2026-07-30T23:10:40.562Z",
       "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off - TradingView"
-    },
-    {
-      "id": "u_ca050575",
-      "sentAt": "2026-07-30T21:13:22.173Z",
-      "title": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency"
-    },
-    {
-      "id": "u_2ce704ad",
-      "sentAt": "2026-07-30T21:13:22.173Z",
-      "title": "What to expect during Black Hat USA: Join theCUBE Aug. 5-6"
-    },
-    {
-      "id": "u_f89b1d82",
-      "sentAt": "2026-07-30T21:13:22.173Z",
-      "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026"
-    },
-    {
-      "id": "u_3bad311f",
-      "sentAt": "2026-07-30T21:13:22.173Z",
-      "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - reuters.com"
     }
   ]
 }
