@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-22T12:43:23.003Z",
+  "updatedAt": "2026-08-22T14:24:30.143Z",
   "entries": [
+    {
+      "id": "u_40542108",
+      "sentAt": "2026-08-22T14:24:30.143Z",
+      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
+    },
     {
       "id": "u_9806e6e",
       "sentAt": "2026-08-22T12:43:23.003Z",
@@ -4995,11 +5000,6 @@
       "id": "u_bd88b727",
       "sentAt": "2026-07-30T17:38:17.874Z",
       "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs - CNBC"
-    },
-    {
-      "id": "u_fee4c7b5",
-      "sentAt": "2026-07-30T17:38:17.874Z",
-      "title": "How Kimi K3 Engineered Its Way to the Frontier [R]"
     }
   ]
 }
