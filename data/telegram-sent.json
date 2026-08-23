@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T16:29:03.666Z",
+  "updatedAt": "2026-08-23T18:33:17.086Z",
   "entries": [
+    {
+      "id": "u_784ff93c",
+      "sentAt": "2026-08-23T18:33:17.086Z",
+      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work"
+    },
+    {
+      "id": "u_9fbd734f",
+      "sentAt": "2026-08-23T18:33:17.086Z",
+      "title": "b10599"
+    },
+    {
+      "id": "u_31c091df",
+      "sentAt": "2026-08-23T18:33:17.086Z",
+      "title": "b10598"
+    },
+    {
+      "id": "u_7fb1ba2f",
+      "sentAt": "2026-08-23T18:33:17.086Z",
+      "title": "Crowd-funding new open-weight models?"
+    },
+    {
+      "id": "u_8224b552",
+      "sentAt": "2026-08-23T18:33:17.086Z",
+      "title": "Benchmark results: what is the best and fastest engine to run Qwen3.8-27B on macOS"
+    },
     {
       "id": "u_699e2bfe",
       "sentAt": "2026-08-23T16:29:03.666Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c73e4d39",
       "sentAt": "2026-07-31T21:08:22.419Z",
       "title": "Renfe launches an app with artificial intelligence to dodge Rodalies' chronic failures in Catalonia - APD Noticies"
-    },
-    {
-      "id": "u_acb644b",
-      "sentAt": "2026-07-31T21:08:22.419Z",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation"
-    },
-    {
-      "id": "u_d4c1a64a",
-      "sentAt": "2026-07-31T21:08:22.419Z",
-      "title": "AI Startup Flapping Airplanes Is In Talks To Raise Funding At A $5 Billion Valuation"
-    },
-    {
-      "id": "u_ede7227e",
-      "sentAt": "2026-07-31T21:08:22.419Z",
-      "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small"
-    },
-    {
-      "id": "u_9f3d9a6b",
-      "sentAt": "2026-07-31T21:08:22.419Z",
-      "title": "Uncensored Multi-Model Releases, LongCat-Flash-Lite with MTPs, Jamba2-Mini, Qwen3.5-9B-Nikusui-v1 with MTPs and Qwen3.5-27B-Nikusui-v1 with MTPs, Available in Safetensors and GGUF Formats!"
-    },
-    {
-      "id": "u_f7132a84",
-      "sentAt": "2026-07-31T19:37:57.595Z",
-      "title": "AI & Tech Brief: Anthropic’s rogue agents - The Washington Post"
     }
   ]
 }
