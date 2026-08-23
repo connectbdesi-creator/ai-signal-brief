@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-08-23T06:45:02.702Z",
+  "updatedAt": "2026-08-23T08:33:31.542Z",
   "entries": [
+    {
+      "id": "u_a8bfb1fb",
+      "sentAt": "2026-08-23T08:33:31.542Z",
+      "title": "b10589"
+    },
+    {
+      "id": "u_277aad91",
+      "sentAt": "2026-08-23T08:33:31.542Z",
+      "title": "How China's gray market sells Claude tokens at a fraction of the price"
+    },
+    {
+      "id": "u_8cb31c",
+      "sentAt": "2026-08-23T08:33:31.542Z",
+      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks"
+    },
     {
       "id": "u_a091584a",
       "sentAt": "2026-08-23T06:45:02.702Z",
@@ -4985,21 +5000,6 @@
       "id": "u_81c57813",
       "sentAt": "2026-07-31T06:46:47.246Z",
       "title": "PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response"
-    },
-    {
-      "id": "u_d858ef98",
-      "sentAt": "2026-07-31T06:46:47.246Z",
-      "title": "Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups"
-    },
-    {
-      "id": "u_d89a9bb8",
-      "sentAt": "2026-07-31T06:46:47.246Z",
-      "title": "Same Facts, Different Diagnosis: Measuring and Mitigating Narrative Anchoring in Clinical Language Models"
-    },
-    {
-      "id": "u_ad99df3c",
-      "sentAt": "2026-07-31T06:46:47.246Z",
-      "title": "BridgeAlign: Bridging Preference Alignment for Humanities and Social Sciences"
     }
   ]
 }
