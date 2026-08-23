@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T01:35:04.693Z",
+  "updatedAt": "2026-08-23T03:05:12.146Z",
   "entries": [
+    {
+      "id": "u_a7d1395f",
+      "sentAt": "2026-08-23T03:05:12.146Z",
+      "title": "Warp's Safia Abdalla on Building Cloud AI Agents - StartupHub.ai"
+    },
+    {
+      "id": "u_4aaad177",
+      "sentAt": "2026-08-23T03:05:12.146Z",
+      "title": "Patrick Debois on Scaling Teams and AI Agents - StartupHub.ai"
+    },
+    {
+      "id": "u_82562fb",
+      "sentAt": "2026-08-23T03:05:12.146Z",
+      "title": "DigitalOcean: Model Routing Beats Benchmarks - StartupHub.ai"
+    },
+    {
+      "id": "u_430d30d0",
+      "sentAt": "2026-08-23T03:05:12.146Z",
+      "title": "Microsoft Unveils TokenOps for AI Agent Cost Control - StartupHub.ai"
+    },
+    {
+      "id": "u_da30404",
+      "sentAt": "2026-08-23T03:05:12.146Z",
+      "title": "AI Agents Need Budgets, Not Just Tokens - StartupHub.ai"
+    },
     {
       "id": "u_88ff8c2c",
       "sentAt": "2026-08-23T01:35:04.693Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e661732e",
       "sentAt": "2026-07-31T06:46:47.246Z",
       "title": "HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs"
-    },
-    {
-      "id": "u_34621e13",
-      "sentAt": "2026-07-31T03:17:43.312Z",
-      "title": "Anthropic says its models went rogue and hacked 3 companies during testing"
-    },
-    {
-      "id": "u_da725010",
-      "sentAt": "2026-07-31T03:17:43.312Z",
-      "title": "Icite targets knowledge graphs to give AI agents the context needed for autonomous security workflows"
-    },
-    {
-      "id": "u_6201432c",
-      "sentAt": "2026-07-31T03:17:43.312Z",
-      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests"
-    },
-    {
-      "id": "u_a255b574",
-      "sentAt": "2026-07-31T03:17:43.312Z",
-      "title": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests"
-    },
-    {
-      "id": "u_9024296d",
-      "sentAt": "2026-07-31T03:17:43.312Z",
-      "title": "Anthropic’s Claude AI models hack into 3 outside groups during testing"
     }
   ]
 }
