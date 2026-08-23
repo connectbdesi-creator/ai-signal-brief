@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T08:33:31.542Z",
+  "updatedAt": "2026-08-23T10:26:41.070Z",
   "entries": [
+    {
+      "id": "u_cdd79dd6",
+      "sentAt": "2026-08-23T10:26:41.070Z",
+      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter"
+    },
+    {
+      "id": "u_9b3407df",
+      "sentAt": "2026-08-23T10:26:41.070Z",
+      "title": "b10590"
+    },
+    {
+      "id": "u_41ac70ee",
+      "sentAt": "2026-08-23T10:26:41.070Z",
+      "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks"
+    },
+    {
+      "id": "u_8bf49568",
+      "sentAt": "2026-08-23T10:26:41.070Z",
+      "title": "How China's gray market sells Claude tokens at a fraction of the price"
+    },
+    {
+      "id": "u_59e4de3e",
+      "sentAt": "2026-08-23T10:26:41.070Z",
+      "title": "Agent Quest now tells you when Claude Code or Codex needs you visually and with sound"
+    },
     {
       "id": "u_a8bfb1fb",
       "sentAt": "2026-08-23T08:33:31.542Z",
@@ -4975,31 +5000,6 @@
       "id": "u_267b06b7",
       "sentAt": "2026-07-31T10:42:31.767Z",
       "title": "Advancing responsible AI across Europe"
-    },
-    {
-      "id": "u_70304963",
-      "sentAt": "2026-07-31T10:42:31.767Z",
-      "title": "Telnyx CEO Says AI Agents Are “First-Class Economic Actors,” Now Buying Its Services - thestreet.com"
-    },
-    {
-      "id": "u_b44faf73",
-      "sentAt": "2026-07-31T10:42:31.767Z",
-      "title": "Publishers are losing Google traffic as AI answers replace links"
-    },
-    {
-      "id": "u_d4c62d69",
-      "sentAt": "2026-07-31T10:42:31.767Z",
-      "title": "DeepSeek releases beta version of V4 models as AI price war heats up - Nikkei Asia"
-    },
-    {
-      "id": "u_90d5600d",
-      "sentAt": "2026-07-31T10:42:31.767Z",
-      "title": "Inside Europe's lessons on AI safety as U.S. rules loom"
-    },
-    {
-      "id": "u_81c57813",
-      "sentAt": "2026-07-31T06:46:47.246Z",
-      "title": "PolyAI Releases Dialog-RSN-1: An Audio-Native Dialog Model That Fuses Turn-Taking, Speech Recognition, Function Calling, And Response"
     }
   ]
 }
