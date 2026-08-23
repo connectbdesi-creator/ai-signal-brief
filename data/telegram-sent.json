@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T12:44:39.252Z",
+  "updatedAt": "2026-08-23T14:26:12.384Z",
   "entries": [
+    {
+      "id": "u_6e1df8ff",
+      "sentAt": "2026-08-23T14:26:12.384Z",
+      "title": "b10595"
+    },
+    {
+      "id": "u_2947b4ff",
+      "sentAt": "2026-08-23T14:26:12.384Z",
+      "title": "Artificial intelligence agents spontaneously conform to the majority opinion - PsyPost"
+    },
+    {
+      "id": "u_f30f581c",
+      "sentAt": "2026-08-23T14:26:12.384Z",
+      "title": "Anthropic's Protein Models Just Got Verified in a Wet Lab -"
+    },
+    {
+      "id": "u_d8791264",
+      "sentAt": "2026-08-23T14:26:12.384Z",
+      "title": "A Retrieval Layer Just Beat OpenAI, Anthropic and Google Agents"
+    },
+    {
+      "id": "u_d6f8002c",
+      "sentAt": "2026-08-23T14:26:12.384Z",
+      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules"
+    },
     {
       "id": "u_69c04d32",
       "sentAt": "2026-08-23T12:44:39.252Z",
@@ -4975,31 +5000,6 @@
       "id": "u_63f4ea88",
       "sentAt": "2026-07-31T17:41:51.978Z",
       "title": "Disrupting a Criminal Scam Operation"
-    },
-    {
-      "id": "u_cbd76c9e",
-      "sentAt": "2026-07-31T17:41:51.978Z",
-      "title": "Evaluating code review agents with ReviewBench"
-    },
-    {
-      "id": "u_365954d5",
-      "sentAt": "2026-07-31T17:41:51.978Z",
-      "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost"
-    },
-    {
-      "id": "u_a33bba4e",
-      "sentAt": "2026-07-31T17:41:51.978Z",
-      "title": "Beyond Model Loyalty: Enterprise AI Must Be Built For Vendor Volatility"
-    },
-    {
-      "id": "u_ce9a7958",
-      "sentAt": "2026-07-31T17:41:51.978Z",
-      "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability"
-    },
-    {
-      "id": "u_e2568e64",
-      "sentAt": "2026-07-31T14:13:20.007Z",
-      "title": "Building Voice-Controlled AI Agents"
     }
   ]
 }
