@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T10:26:41.070Z",
+  "updatedAt": "2026-08-23T12:44:39.252Z",
   "entries": [
+    {
+      "id": "u_69c04d32",
+      "sentAt": "2026-08-23T12:44:39.252Z",
+      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules"
+    },
+    {
+      "id": "u_7f3c3f7c",
+      "sentAt": "2026-08-23T12:44:39.252Z",
+      "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]"
+    },
+    {
+      "id": "u_5fd16103",
+      "sentAt": "2026-08-23T12:44:39.252Z",
+      "title": "b10593"
+    },
+    {
+      "id": "u_644717e0",
+      "sentAt": "2026-08-23T12:44:39.252Z",
+      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter"
+    },
+    {
+      "id": "u_4b30f2dd",
+      "sentAt": "2026-08-23T12:44:39.252Z",
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters"
+    },
     {
       "id": "u_cdd79dd6",
       "sentAt": "2026-08-23T10:26:41.070Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e2568e64",
       "sentAt": "2026-07-31T14:13:20.007Z",
       "title": "Building Voice-Controlled AI Agents"
-    },
-    {
-      "id": "u_c75f7c3d",
-      "sentAt": "2026-07-31T14:13:20.007Z",
-      "title": "From Tools To Governed Intelligence: Enterprise AI’s Platform Moment"
-    },
-    {
-      "id": "u_acc14c72",
-      "sentAt": "2026-07-31T14:13:20.007Z",
-      "title": "How to Debug AI Coding Agents When They Change the Wrong Thing"
-    },
-    {
-      "id": "u_518eceb5",
-      "sentAt": "2026-07-31T14:13:20.007Z",
-      "title": "GM to launch its own in-vehicle AI system later this year - CNBC"
-    },
-    {
-      "id": "u_84141640",
-      "sentAt": "2026-07-31T14:13:20.007Z",
-      "title": "Chinese Military Distilled GPT-3.5 and Claude to Build Defense AI — 80 Papers Show Systematic Effort"
-    },
-    {
-      "id": "u_267b06b7",
-      "sentAt": "2026-07-31T10:42:31.767Z",
-      "title": "Advancing responsible AI across Europe"
     }
   ]
 }
