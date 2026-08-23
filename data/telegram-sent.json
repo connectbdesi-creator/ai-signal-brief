@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-22T20:26:00.194Z",
+  "updatedAt": "2026-08-23T01:35:04.693Z",
   "entries": [
+    {
+      "id": "u_88ff8c2c",
+      "sentAt": "2026-08-23T01:35:04.693Z",
+      "title": "How to grow a project? [D]"
+    },
+    {
+      "id": "u_a73a78aa",
+      "sentAt": "2026-08-23T01:35:04.693Z",
+      "title": "v1.98.0"
+    },
+    {
+      "id": "u_75a3e9aa",
+      "sentAt": "2026-08-23T01:35:04.693Z",
+      "title": "v1.99.0-rc.1"
+    },
+    {
+      "id": "u_da2846e",
+      "sentAt": "2026-08-23T01:35:04.693Z",
+      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
+    },
+    {
+      "id": "u_b2ed3c8f",
+      "sentAt": "2026-08-23T01:35:04.693Z",
+      "title": "b10588"
+    },
     {
       "id": "u_215e22af",
       "sentAt": "2026-08-22T20:26:00.194Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9024296d",
       "sentAt": "2026-07-31T03:17:43.312Z",
       "title": "Anthropic’s Claude AI models hack into 3 outside groups during testing"
-    },
-    {
-      "id": "u_781a321f",
-      "sentAt": "2026-07-30T23:10:40.562Z",
-      "title": "Okta to acquire Permiso Security in reported $200M identity security deal"
-    },
-    {
-      "id": "u_27736530",
-      "sentAt": "2026-07-30T23:10:40.562Z",
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users"
-    },
-    {
-      "id": "u_6b2e7288",
-      "sentAt": "2026-07-30T23:10:40.562Z",
-      "title": "Tim Cook says Apple may charge for AI Siri"
-    },
-    {
-      "id": "u_ba5208ac",
-      "sentAt": "2026-07-30T23:10:40.562Z",
-      "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - Reuters"
-    },
-    {
-      "id": "u_78ec60d9",
-      "sentAt": "2026-07-30T23:10:40.562Z",
-      "title": "OpenAI Slashes API Prices for GPT-5.6 Lineup As Efficiency Gains Pay Off - TradingView"
     }
   ]
 }
