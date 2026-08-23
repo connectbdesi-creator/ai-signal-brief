@@ -1,6 +1,11 @@
 {
-  "updatedAt": "2026-08-23T03:05:12.146Z",
+  "updatedAt": "2026-08-23T06:45:02.702Z",
   "entries": [
+    {
+      "id": "u_a091584a",
+      "sentAt": "2026-08-23T06:45:02.702Z",
+      "title": "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence - markets.businessinsider.com"
+    },
     {
       "id": "u_a7d1395f",
       "sentAt": "2026-08-23T03:05:12.146Z",
@@ -4995,11 +5000,6 @@
       "id": "u_ad99df3c",
       "sentAt": "2026-07-31T06:46:47.246Z",
       "title": "BridgeAlign: Bridging Preference Alignment for Humanities and Social Sciences"
-    },
-    {
-      "id": "u_e661732e",
-      "sentAt": "2026-07-31T06:46:47.246Z",
-      "title": "HSS-Synth: Humanities and Social Sciences Data Synthesis for LLMs"
     }
   ]
 }
