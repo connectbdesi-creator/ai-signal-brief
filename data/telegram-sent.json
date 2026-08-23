@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T18:33:17.086Z",
+  "updatedAt": "2026-08-23T20:26:34.201Z",
   "entries": [
+    {
+      "id": "u_dbf62dd4",
+      "sentAt": "2026-08-23T20:26:34.201Z",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive"
+    },
+    {
+      "id": "u_cb8bcb1f",
+      "sentAt": "2026-08-23T20:26:34.201Z",
+      "title": "b10603"
+    },
+    {
+      "id": "u_48bf1412",
+      "sentAt": "2026-08-23T20:26:34.201Z",
+      "title": "Mozilla killed orbit. I rebuilt it locally."
+    },
+    {
+      "id": "u_92d12667",
+      "sentAt": "2026-08-23T20:26:34.201Z",
+      "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\""
+    },
+    {
+      "id": "u_353b1115",
+      "sentAt": "2026-08-23T20:26:34.201Z",
+      "title": "Why every AI agent needs an org chart"
+    },
     {
       "id": "u_784ff93c",
       "sentAt": "2026-08-23T18:33:17.086Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d1bea513",
       "sentAt": "2026-07-31T23:04:05.256Z",
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok"
-    },
-    {
-      "id": "u_c1ed5e29",
-      "sentAt": "2026-07-31T23:04:05.256Z",
-      "title": "College of Business launches AI Management concentration - csus.edu"
-    },
-    {
-      "id": "u_c6563cc1",
-      "sentAt": "2026-07-31T23:04:05.256Z",
-      "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains"
-    },
-    {
-      "id": "u_43d6fec",
-      "sentAt": "2026-07-31T23:04:05.256Z",
-      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison"
-    },
-    {
-      "id": "u_e2a96653",
-      "sentAt": "2026-07-31T23:04:05.256Z",
-      "title": "Anthropic discloses that Claude hacked three organizations during internal tests"
-    },
-    {
-      "id": "u_c73e4d39",
-      "sentAt": "2026-07-31T21:08:22.419Z",
-      "title": "Renfe launches an app with artificial intelligence to dodge Rodalies' chronic failures in Catalonia - APD Noticies"
     }
   ]
 }
