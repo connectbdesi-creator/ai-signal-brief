@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-23T14:26:12.384Z",
+  "updatedAt": "2026-08-23T16:29:03.666Z",
   "entries": [
+    {
+      "id": "u_699e2bfe",
+      "sentAt": "2026-08-23T16:29:03.666Z",
+      "title": "MITechNews Building Michigan AI Company Directory — AI Firms Invited To Join For September Launch - MITechNews"
+    },
+    {
+      "id": "u_5abeb06c",
+      "sentAt": "2026-08-23T16:29:03.666Z",
+      "title": "Qwen3.5-9B Triple-Loop"
+    },
+    {
+      "id": "u_1611d91f",
+      "sentAt": "2026-08-23T16:29:03.666Z",
+      "title": "Qwen 3.8 27B is a game changer."
+    },
+    {
+      "id": "u_6205a277",
+      "sentAt": "2026-08-23T16:29:03.666Z",
+      "title": "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence - FinancialContent"
+    },
+    {
+      "id": "u_2ff25176",
+      "sentAt": "2026-08-23T16:29:03.666Z",
+      "title": "# Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict"
+    },
     {
       "id": "u_6e1df8ff",
       "sentAt": "2026-08-23T14:26:12.384Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f7132a84",
       "sentAt": "2026-07-31T19:37:57.595Z",
       "title": "AI & Tech Brief: Anthropic’s rogue agents - The Washington Post"
-    },
-    {
-      "id": "u_495abd92",
-      "sentAt": "2026-07-31T19:37:57.595Z",
-      "title": "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!"
-    },
-    {
-      "id": "u_34f4ecf8",
-      "sentAt": "2026-07-31T19:37:57.595Z",
-      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids"
-    },
-    {
-      "id": "u_2af1ba9c",
-      "sentAt": "2026-07-31T19:37:57.595Z",
-      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids"
-    },
-    {
-      "id": "u_d4234a06",
-      "sentAt": "2026-07-31T19:37:57.595Z",
-      "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small"
-    },
-    {
-      "id": "u_63f4ea88",
-      "sentAt": "2026-07-31T17:41:51.978Z",
-      "title": "Disrupting a Criminal Scam Operation"
     }
   ]
 }
