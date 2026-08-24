@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T10:39:32.145Z",
+  "updatedAt": "2026-08-24T12:55:32.836Z",
   "entries": [
+    {
+      "id": "u_cca1fa90",
+      "sentAt": "2026-08-24T12:55:32.836Z",
+      "title": "How new cooling technologies could cut AC electricity demand"
+    },
+    {
+      "id": "u_3f88ad01",
+      "sentAt": "2026-08-24T12:55:32.836Z",
+      "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6"
+    },
+    {
+      "id": "u_ea01f981",
+      "sentAt": "2026-08-24T12:55:32.836Z",
+      "title": "AI Agents Don’t Need More Context — They Need Typed Context"
+    },
+    {
+      "id": "u_eaf48b11",
+      "sentAt": "2026-08-24T12:55:32.836Z",
+      "title": "Claude Models Experience Elevated Errors and Outages - StartupHub.ai"
+    },
+    {
+      "id": "u_ae932d8d",
+      "sentAt": "2026-08-24T12:55:32.836Z",
+      "title": "Presight AI ready to expand presence, launch new joint projects in Kazakhstan - Qazinform"
+    },
     {
       "id": "u_454095b2",
       "sentAt": "2026-08-24T10:39:32.145Z",
@@ -4975,31 +5000,6 @@
       "id": "u_da0ee7eb",
       "sentAt": "2026-08-01T17:03:22.876Z",
       "title": "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026"
-    },
-    {
-      "id": "u_ad0030b9",
-      "sentAt": "2026-08-01T17:03:22.876Z",
-      "title": "Are 1B LLMs Going Away in 2026?"
-    },
-    {
-      "id": "u_40c050cc",
-      "sentAt": "2026-08-01T17:03:22.876Z",
-      "title": "Amid Hacking Probe, OpenAI Finds Evidence Of AI Agents Escaping Containment - ndtv.com"
-    },
-    {
-      "id": "u_490b49ad",
-      "sentAt": "2026-08-01T15:03:07.021Z",
-      "title": "AI coding agents can modernize research software but can't judge if the science is right"
-    },
-    {
-      "id": "u_3464ab3f",
-      "sentAt": "2026-08-01T15:03:07.021Z",
-      "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio"
-    },
-    {
-      "id": "u_fc377cd1",
-      "sentAt": "2026-08-01T15:03:07.021Z",
-      "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio"
     }
   ]
 }
