@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T18:43:45.875Z",
+  "updatedAt": "2026-08-24T20:33:15.336Z",
   "entries": [
+    {
+      "id": "u_8995084d",
+      "sentAt": "2026-08-24T20:33:15.336Z",
+      "title": "Introducing new Ray capabilities on SageMaker HyperPod"
+    },
+    {
+      "id": "u_5b5733d4",
+      "sentAt": "2026-08-24T20:33:15.336Z",
+      "title": "Planning to spend ~$100 benchmarking differnet Qwen3.8-27B quants and kv cache and looking for input before I start"
+    },
+    {
+      "id": "u_bd521f27",
+      "sentAt": "2026-08-24T20:33:15.336Z",
+      "title": "MobileMoE - a facebook Collection"
+    },
+    {
+      "id": "u_c189e9b5",
+      "sentAt": "2026-08-24T20:33:15.336Z",
+      "title": "How would you test Qwen3.8-27B inside a coding agent?"
+    },
+    {
+      "id": "u_88301409",
+      "sentAt": "2026-08-24T20:33:15.336Z",
+      "title": "llm-anthropic 0.27"
+    },
     {
       "id": "u_4c35450d",
       "sentAt": "2026-08-24T18:43:45.875Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e017d766",
       "sentAt": "2026-08-02T06:35:36.325Z",
       "title": "Anthropic said its artificial intelligence models hacked into three other organizations during testing, just days after ChatGPT maker OpenAI raised concerns over AI controls after it disclosed its rogue models hacked another company. https://wapo.st/4hbcfbh - facebook.com"
-    },
-    {
-      "id": "u_2864b50c",
-      "sentAt": "2026-08-02T06:35:36.325Z",
-      "title": "Artificial intelligence agents could go rogue and hack companies, warns former Pentagon official - Fox News"
-    },
-    {
-      "id": "u_fcdf9625",
-      "sentAt": "2026-08-02T06:35:36.325Z",
-      "title": "Artificial intelligence agents could go rogue and hack companies, warns former Pentagon official - Yahoo"
-    },
-    {
-      "id": "u_f47b1795",
-      "sentAt": "2026-08-02T03:16:20.811Z",
-      "title": "AI Agents At OpenAI, Anthropic, Microsoft Broke Out, Broke In, Obeyed"
-    },
-    {
-      "id": "u_b84be943",
-      "sentAt": "2026-08-02T03:16:20.811Z",
-      "title": "AMD's physical AI plans come into focus as company launch Ryzen embedded AI X100"
-    },
-    {
-      "id": "u_3cfc6a52",
-      "sentAt": "2026-08-02T03:16:20.811Z",
-      "title": "Five Reasons AI Regulation Is Coming To The US, How And When"
     }
   ]
 }
