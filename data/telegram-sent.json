@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T04:48:23.473Z",
+  "updatedAt": "2026-08-24T07:03:27.263Z",
   "entries": [
+    {
+      "id": "u_61d3b585",
+      "sentAt": "2026-08-24T07:03:27.263Z",
+      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness"
+    },
+    {
+      "id": "u_313c69c8",
+      "sentAt": "2026-08-24T07:03:27.263Z",
+      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory"
+    },
+    {
+      "id": "u_2f73cbde",
+      "sentAt": "2026-08-24T07:03:27.263Z",
+      "title": "Approximate Homomorphisms and Convergent Representations in Transducers"
+    },
+    {
+      "id": "u_c1854f78",
+      "sentAt": "2026-08-24T07:03:27.263Z",
+      "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers"
+    },
+    {
+      "id": "u_a1bd9178",
+      "sentAt": "2026-08-24T07:03:27.263Z",
+      "title": "When Graph-JEPA Learns the Wrong Thing: Diagnosing and Repairing Category-Conditional Collapse"
+    },
     {
       "id": "u_8f49b7d6",
       "sentAt": "2026-08-24T04:48:23.473Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5c42f62b",
       "sentAt": "2026-08-01T10:01:55.888Z",
       "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio"
-    },
-    {
-      "id": "u_c7a189ad",
-      "sentAt": "2026-08-01T10:01:55.888Z",
-      "title": "OpenAI is reportedly building Astra, a model family designed to work on problems for hours or days"
-    },
-    {
-      "id": "u_11c933e2",
-      "sentAt": "2026-08-01T10:01:55.888Z",
-      "title": "Ten advances in mathematics and theoretical computer science"
-    },
-    {
-      "id": "u_963e252e",
-      "sentAt": "2026-08-01T06:32:10.122Z",
-      "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing"
-    },
-    {
-      "id": "u_eb283f8e",
-      "sentAt": "2026-08-01T06:32:10.122Z",
-      "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks"
-    },
-    {
-      "id": "u_4c1ddab",
-      "sentAt": "2026-08-01T06:32:10.122Z",
-      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses"
     }
   ]
 }
