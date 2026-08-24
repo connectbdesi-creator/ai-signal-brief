@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T16:40:25.818Z",
+  "updatedAt": "2026-08-24T18:43:45.875Z",
   "entries": [
+    {
+      "id": "u_4c35450d",
+      "sentAt": "2026-08-24T18:43:45.875Z",
+      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch"
+    },
+    {
+      "id": "u_7ebbd068",
+      "sentAt": "2026-08-24T18:43:45.875Z",
+      "title": "Toyota Scales Enterprise AI with Deep Agents and LangSmith"
+    },
+    {
+      "id": "u_53338e5c",
+      "sentAt": "2026-08-24T18:43:45.875Z",
+      "title": "Bart- A vintage llm [R]"
+    },
+    {
+      "id": "u_bf0c9157",
+      "sentAt": "2026-08-24T18:43:45.875Z",
+      "title": "Nvidia’s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents"
+    },
+    {
+      "id": "u_6e06fc8e",
+      "sentAt": "2026-08-24T18:43:45.875Z",
+      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents"
+    },
     {
       "id": "u_55ba97f6",
       "sentAt": "2026-08-24T16:40:25.818Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3cfc6a52",
       "sentAt": "2026-08-02T03:16:20.811Z",
       "title": "Five Reasons AI Regulation Is Coming To The US, How And When"
-    },
-    {
-      "id": "u_4ebe83fa",
-      "sentAt": "2026-08-02T03:16:20.811Z",
-      "title": "Ask HN: I still don't understand why AI agents need \"skills\""
-    },
-    {
-      "id": "u_c634dd7d",
-      "sentAt": "2026-08-02T03:16:20.811Z",
-      "title": "Google Pulls Earth AI Tool After It Faked A Nuclear Plant In Iran"
-    },
-    {
-      "id": "u_fdd4c4f7",
-      "sentAt": "2026-08-01T20:56:33.689Z",
-      "title": "Ten advances in mathematics and theoretical computer science"
-    },
-    {
-      "id": "u_fe62a8e2",
-      "sentAt": "2026-08-01T20:56:33.689Z",
-      "title": "What’s next for Qwen open-source releases?"
-    },
-    {
-      "id": "u_399dd5e9",
-      "sentAt": "2026-08-01T20:56:33.689Z",
-      "title": "Is there a point where models just cannot get any smaller without losing intelligence?"
     }
   ]
 }
