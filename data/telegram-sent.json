@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-23T22:25:09.508Z",
+  "updatedAt": "2026-08-24T01:26:54.364Z",
   "entries": [
+    {
+      "id": "u_af7c3edb",
+      "sentAt": "2026-08-24T01:26:54.364Z",
+      "title": "Nobody knows who built AI coding model Ox Alpha or where the code goes"
+    },
+    {
+      "id": "u_b3c8f7c5",
+      "sentAt": "2026-08-24T01:26:54.364Z",
+      "title": "2028 Dems dodge on Bernie's push to pause AI development"
+    },
     {
       "id": "u_bf8a15e9",
       "sentAt": "2026-08-23T22:25:09.508Z",
@@ -4990,16 +5000,6 @@
       "id": "u_9f79ce38",
       "sentAt": "2026-08-01T03:16:17.754Z",
       "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)"
-    },
-    {
-      "id": "u_5faf77eb",
-      "sentAt": "2026-08-01T03:16:17.754Z",
-      "title": "llm-mcp-client 0.1a0"
-    },
-    {
-      "id": "u_7d10448c",
-      "sentAt": "2026-08-01T03:16:17.754Z",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok"
     }
   ]
 }
