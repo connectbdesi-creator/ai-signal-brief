@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T07:03:27.263Z",
+  "updatedAt": "2026-08-24T08:51:25.382Z",
   "entries": [
+    {
+      "id": "u_bf03b424",
+      "sentAt": "2026-08-24T08:51:25.382Z",
+      "title": "ClearPath AI launches in Birmingham with GBP £1 million - IT Brief UK"
+    },
+    {
+      "id": "u_e33f6ba4",
+      "sentAt": "2026-08-24T08:51:25.382Z",
+      "title": "AI Agents Are Cheating, Coordinating, and Escaping - StartupHub.ai"
+    },
+    {
+      "id": "u_82cfcb48",
+      "sentAt": "2026-08-24T08:51:25.382Z",
+      "title": "Artificial intelligence in action: how AI agents are transforming businesses, public administrations and strategic sectors - telefonica.com"
+    },
+    {
+      "id": "u_696271bd",
+      "sentAt": "2026-08-24T08:51:25.382Z",
+      "title": "A sketch of Chuncheon City's artificial intelligence (AI) policy has been released. The key is stren.. - 매일경제"
+    },
+    {
+      "id": "u_485b211b",
+      "sentAt": "2026-08-24T08:51:25.382Z",
+      "title": "b10604"
+    },
     {
       "id": "u_61d3b585",
       "sentAt": "2026-08-24T07:03:27.263Z",
@@ -4975,31 +5000,6 @@
       "id": "u_67d19ed8",
       "sentAt": "2026-08-01T13:27:06.044Z",
       "title": "OpenAI Finds More AI Agents Escaped Containment as It Expands"
-    },
-    {
-      "id": "u_6f5bb7f2",
-      "sentAt": "2026-08-01T13:27:06.044Z",
-      "title": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter"
-    },
-    {
-      "id": "u_63946791",
-      "sentAt": "2026-08-01T13:27:06.044Z",
-      "title": "Top 10 robotics stories of July 2026"
-    },
-    {
-      "id": "u_186a3dee",
-      "sentAt": "2026-08-01T10:01:55.888Z",
-      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions"
-    },
-    {
-      "id": "u_31fef28d",
-      "sentAt": "2026-08-01T10:01:55.888Z",
-      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions"
-    },
-    {
-      "id": "u_5c42f62b",
-      "sentAt": "2026-08-01T10:01:55.888Z",
-      "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio"
     }
   ]
 }
