@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T14:45:12.255Z",
+  "updatedAt": "2026-08-24T16:40:25.818Z",
   "entries": [
+    {
+      "id": "u_55ba97f6",
+      "sentAt": "2026-08-24T16:40:25.818Z",
+      "title": "Bart: A vintage llm"
+    },
+    {
+      "id": "u_8c3e52ab",
+      "sentAt": "2026-08-24T16:40:25.818Z",
+      "title": "Building a restaurant telephony AI host with Amazon Connect"
+    },
+    {
+      "id": "u_7b6df76a",
+      "sentAt": "2026-08-24T16:40:25.818Z",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics"
+    },
+    {
+      "id": "u_2234de98",
+      "sentAt": "2026-08-24T16:40:25.818Z",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
+    },
+    {
+      "id": "u_c261a970",
+      "sentAt": "2026-08-24T16:40:25.818Z",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
+    },
     {
       "id": "u_da334936",
       "sentAt": "2026-08-24T14:45:12.255Z",
@@ -4975,31 +5000,6 @@
       "id": "u_399dd5e9",
       "sentAt": "2026-08-01T20:56:33.689Z",
       "title": "Is there a point where models just cannot get any smaller without losing intelligence?"
-    },
-    {
-      "id": "u_3f40b7a5",
-      "sentAt": "2026-08-01T20:56:33.689Z",
-      "title": "Deepseek v4 flash 0731 still not holding up."
-    },
-    {
-      "id": "u_e1a60f56",
-      "sentAt": "2026-08-01T20:56:33.689Z",
-      "title": "DeepSeek-V4-Flash-0731-UD-Q3_K_XL 3x3090 test results"
-    },
-    {
-      "id": "u_97670e20",
-      "sentAt": "2026-08-01T19:12:40.802Z",
-      "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs"
-    },
-    {
-      "id": "u_d021884a",
-      "sentAt": "2026-08-01T19:12:40.802Z",
-      "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking"
-    },
-    {
-      "id": "u_2637642d",
-      "sentAt": "2026-08-01T19:12:40.802Z",
-      "title": "Artificial intelligence agents could go rogue and hack companies, warns former Pentagon official - Fox News"
     }
   ]
 }
