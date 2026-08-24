@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T01:26:54.364Z",
+  "updatedAt": "2026-08-24T04:48:23.473Z",
   "entries": [
+    {
+      "id": "u_8f49b7d6",
+      "sentAt": "2026-08-24T04:48:23.473Z",
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC"
+    },
+    {
+      "id": "u_95e4f44a",
+      "sentAt": "2026-08-24T04:48:23.473Z",
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure"
+    },
+    {
+      "id": "u_955b4e73",
+      "sentAt": "2026-08-24T04:48:23.473Z",
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification"
+    },
+    {
+      "id": "u_2a8fef3a",
+      "sentAt": "2026-08-24T04:48:23.473Z",
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications"
+    },
+    {
+      "id": "u_6193ec32",
+      "sentAt": "2026-08-24T04:48:23.473Z",
+      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles"
+    },
     {
       "id": "u_af7c3edb",
       "sentAt": "2026-08-24T01:26:54.364Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4c1ddab",
       "sentAt": "2026-08-01T06:32:10.122Z",
       "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses"
-    },
-    {
-      "id": "u_a34b8930",
-      "sentAt": "2026-08-01T06:32:10.122Z",
-      "title": "Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters"
-    },
-    {
-      "id": "u_afd67a89",
-      "sentAt": "2026-08-01T06:32:10.122Z",
-      "title": "I compared 18 major LLM API prices in 2026 — the same workload can cost anywhere from $0.018 to $"
-    },
-    {
-      "id": "u_c57160ab",
-      "sentAt": "2026-08-01T03:16:17.754Z",
-      "title": "Amid Hacking Probe, OpenAI Finds Evidence Of AI Agents Escaping Containment - NDTV"
-    },
-    {
-      "id": "u_f1fef76f",
-      "sentAt": "2026-08-01T03:16:17.754Z",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-0731"
-    },
-    {
-      "id": "u_9f79ce38",
-      "sentAt": "2026-08-01T03:16:17.754Z",
-      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)"
     }
   ]
 }
