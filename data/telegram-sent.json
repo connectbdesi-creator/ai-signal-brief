@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T08:51:25.382Z",
+  "updatedAt": "2026-08-24T10:39:32.145Z",
   "entries": [
+    {
+      "id": "u_454095b2",
+      "sentAt": "2026-08-24T10:39:32.145Z",
+      "title": "Cerebras unveils CS-4 with double the performance on the same chip"
+    },
+    {
+      "id": "u_78b1a3a6",
+      "sentAt": "2026-08-24T10:39:32.145Z",
+      "title": "Cerebras unveils CS-4 with double the performance on the same chip"
+    },
+    {
+      "id": "u_ffb21941",
+      "sentAt": "2026-08-24T10:39:32.145Z",
+      "title": "Presight AI ready to expand presence, launch new joint projects in Kazakhstan - Qazinform"
+    },
+    {
+      "id": "u_90b4fa7e",
+      "sentAt": "2026-08-24T10:39:32.145Z",
+      "title": "As AI agents act in unexpected ways, is ‘rogue AI’ really here? - The Express Tribune"
+    },
+    {
+      "id": "u_bdd96761",
+      "sentAt": "2026-08-24T10:39:32.145Z",
+      "title": "WHO highlights Clalit AI safety model as global healthcare benchmark - Ynetnews"
+    },
     {
       "id": "u_bf03b424",
       "sentAt": "2026-08-24T08:51:25.382Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fc377cd1",
       "sentAt": "2026-08-01T15:03:07.021Z",
       "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio"
-    },
-    {
-      "id": "u_533e0570",
-      "sentAt": "2026-08-01T15:03:07.021Z",
-      "title": "DeepSeek's new bargain model accelerates AI's race to zero"
-    },
-    {
-      "id": "u_ec7b72aa",
-      "sentAt": "2026-08-01T15:03:07.021Z",
-      "title": "DeepSeek-V4-Flash-0731: Oneshot evals, surprisingly not token efficient??"
-    },
-    {
-      "id": "u_1509cde6",
-      "sentAt": "2026-08-01T13:27:06.044Z",
-      "title": "DeepSeek V4 Flash Ships Official Build 0731 — Agent Benchmarks"
-    },
-    {
-      "id": "u_bbf394b1",
-      "sentAt": "2026-08-01T13:27:06.044Z",
-      "title": "$2 Million Crime Novel Deal Collapses Over AI Authorship"
-    },
-    {
-      "id": "u_67d19ed8",
-      "sentAt": "2026-08-01T13:27:06.044Z",
-      "title": "OpenAI Finds More AI Agents Escaped Containment as It Expands"
     }
   ]
 }
