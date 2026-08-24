@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T20:33:15.336Z",
+  "updatedAt": "2026-08-24T22:29:34.971Z",
   "entries": [
+    {
+      "id": "u_5ffddb56",
+      "sentAt": "2026-08-24T22:29:34.971Z",
+      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch"
+    },
+    {
+      "id": "u_b8faa536",
+      "sentAt": "2026-08-24T22:29:34.971Z",
+      "title": "Mistral x HUMAIN"
+    },
+    {
+      "id": "u_e5a0e053",
+      "sentAt": "2026-08-24T22:29:34.971Z",
+      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents"
+    },
+    {
+      "id": "u_c47aac91",
+      "sentAt": "2026-08-24T22:29:34.971Z",
+      "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt"
+    },
+    {
+      "id": "u_920918b7",
+      "sentAt": "2026-08-24T22:29:34.971Z",
+      "title": "AI agents are reshaping the threat landscape, shifting IT skills requirements - Network World"
+    },
     {
       "id": "u_8995084d",
       "sentAt": "2026-08-24T20:33:15.336Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d183224f",
       "sentAt": "2026-08-02T10:00:29.172Z",
       "title": "Chinese AI Used To Launch Attacks—Here’s What Happened Next"
-    },
-    {
-      "id": "u_8bf3d7ae",
-      "sentAt": "2026-08-02T10:00:29.172Z",
-      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior"
-    },
-    {
-      "id": "u_3a04069a",
-      "sentAt": "2026-08-02T10:00:29.172Z",
-      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior"
-    },
-    {
-      "id": "u_146fa8fc",
-      "sentAt": "2026-08-02T06:35:36.325Z",
-      "title": "Open letters about AI development"
-    },
-    {
-      "id": "u_8e48d4aa",
-      "sentAt": "2026-08-02T06:35:36.325Z",
-      "title": "July 2026 newsletter"
-    },
-    {
-      "id": "u_e017d766",
-      "sentAt": "2026-08-02T06:35:36.325Z",
-      "title": "Anthropic said its artificial intelligence models hacked into three other organizations during testing, just days after ChatGPT maker OpenAI raised concerns over AI controls after it disclosed its rogue models hacked another company. https://wapo.st/4hbcfbh - facebook.com"
     }
   ]
 }
