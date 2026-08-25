@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T20:32:05.600Z",
+  "updatedAt": "2026-08-25T22:30:32.314Z",
   "entries": [
+    {
+      "id": "u_8a658a33",
+      "sentAt": "2026-08-25T22:30:32.314Z",
+      "title": "b10630"
+    },
+    {
+      "id": "u_9573f10b",
+      "sentAt": "2026-08-25T22:30:32.314Z",
+      "title": "Using LangSmith to Support Fine-tuning"
+    },
+    {
+      "id": "u_4d4ac711",
+      "sentAt": "2026-08-25T22:30:32.314Z",
+      "title": "Benchmarking Question/Answering Over CSV Data"
+    },
+    {
+      "id": "u_97edbaa4",
+      "sentAt": "2026-08-25T22:30:32.314Z",
+      "title": "Announcing our $10M seed round led by Benchmark"
+    },
+    {
+      "id": "u_1924f656",
+      "sentAt": "2026-08-25T22:30:32.314Z",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding"
+    },
     {
       "id": "u_bb1634d",
       "sentAt": "2026-08-25T20:32:05.600Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fc6bb84b",
       "sentAt": "2026-08-04T06:30:12.670Z",
       "title": "The next step in AI cost saving: treating frontier models like expensive consultants"
-    },
-    {
-      "id": "u_7a100e32",
-      "sentAt": "2026-08-04T06:30:12.670Z",
-      "title": "AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents"
-    },
-    {
-      "id": "u_9d749772",
-      "sentAt": "2026-08-04T06:30:12.670Z",
-      "title": "DLLM-TTS: Block Discrete Diffusion Language Model for Text-to-Speech Synthesis"
-    },
-    {
-      "id": "u_f65d9d5b",
-      "sentAt": "2026-08-04T02:47:16.656Z",
-      "title": "Quoting Steve Yegge"
-    },
-    {
-      "id": "u_e59149d3",
-      "sentAt": "2026-08-04T02:47:16.656Z",
-      "title": "Paris Saint-Germain Secures Multi-Year Partnership with Google, Welcoming Gemini and Pixel to Club Ecosystem - Ministry of Sport"
-    },
-    {
-      "id": "u_33a884f5",
-      "sentAt": "2026-08-04T02:47:16.656Z",
-      "title": "UK launches inaugural AI degree program this fall - The Lexington Times"
     }
   ]
 }
