@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T16:40:14.205Z",
+  "updatedAt": "2026-08-25T18:42:33.356Z",
   "entries": [
+    {
+      "id": "u_7aa4311b",
+      "sentAt": "2026-08-25T18:42:33.356Z",
+      "title": "b10628"
+    },
+    {
+      "id": "u_2132d58",
+      "sentAt": "2026-08-25T18:42:33.356Z",
+      "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks"
+    },
+    {
+      "id": "u_75911b25",
+      "sentAt": "2026-08-25T18:42:33.356Z",
+      "title": "Using skills with Deep Agents"
+    },
+    {
+      "id": "u_84066918",
+      "sentAt": "2026-08-25T18:42:33.356Z",
+      "title": "Claude Cowork finally remembers what you told the app in chat"
+    },
+    {
+      "id": "u_a747c4d7",
+      "sentAt": "2026-08-25T18:42:33.356Z",
+      "title": "Preprint reports less distortion in a numerical wideband radar test"
+    },
     {
       "id": "u_9e1dd4f9",
       "sentAt": "2026-08-25T16:40:14.205Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3c372c79",
       "sentAt": "2026-08-03T23:04:13.295Z",
       "title": "igus launches energy chain with 600-degree rotation for industrial robots"
-    },
-    {
-      "id": "u_45ed322",
-      "sentAt": "2026-08-03T23:04:13.295Z",
-      "title": "DeepSeek V4-Flash (284B MoE) at 33 tok/s single / 68 tok/s aggregate on 2× RTX 3090 + a used quad-Xeon DDR4 server — full config"
-    },
-    {
-      "id": "u_a31d7cb2",
-      "sentAt": "2026-08-03T23:04:13.295Z",
-      "title": "How to Secure AI Agents, MCP Servers, and LLM Apps in Production"
-    },
-    {
-      "id": "u_2b35ceff",
-      "sentAt": "2026-08-03T21:06:03.688Z",
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models"
-    },
-    {
-      "id": "u_c76a7fda",
-      "sentAt": "2026-08-03T21:06:03.688Z",
-      "title": "Quoting David Crawshaw's prompt"
-    },
-    {
-      "id": "u_f1997421",
-      "sentAt": "2026-08-03T21:06:03.688Z",
-      "title": "Walden Robotics Partners With Toyota on Practical Humanoids"
     }
   ]
 }
