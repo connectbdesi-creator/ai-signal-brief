@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T18:42:33.356Z",
+  "updatedAt": "2026-08-25T20:32:05.600Z",
   "entries": [
+    {
+      "id": "u_bb1634d",
+      "sentAt": "2026-08-25T20:32:05.600Z",
+      "title": "35B-A3B tool calling benchmark: Original Qwen vs. KAT Coder, Ornith and Tiel-Coder"
+    },
+    {
+      "id": "u_dfc123b1",
+      "sentAt": "2026-08-25T20:32:05.600Z",
+      "title": "How Honda pit AI agents against each other to cut development times - Nikkei Asia"
+    },
+    {
+      "id": "u_451ea9f8",
+      "sentAt": "2026-08-25T20:32:05.600Z",
+      "title": "Plan-and-Execute Agents"
+    },
+    {
+      "id": "u_8eee82db",
+      "sentAt": "2026-08-25T20:32:05.600Z",
+      "title": "Preprint: Oxygen dopants cluster in stretched regions of a cuprate film"
+    },
+    {
+      "id": "u_c39773d1",
+      "sentAt": "2026-08-25T20:32:05.600Z",
+      "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps"
+    },
     {
       "id": "u_7aa4311b",
       "sentAt": "2026-08-25T18:42:33.356Z",
@@ -4975,31 +5000,6 @@
       "id": "u_33a884f5",
       "sentAt": "2026-08-04T02:47:16.656Z",
       "title": "UK launches inaugural AI degree program this fall - The Lexington Times"
-    },
-    {
-      "id": "u_dacf1c5a",
-      "sentAt": "2026-08-04T02:47:16.656Z",
-      "title": "Evaluating Multimodal Vision Models with Moonshot PerceptionBench Using Robust Data Loading and Automated Judging"
-    },
-    {
-      "id": "u_a523c252",
-      "sentAt": "2026-08-04T02:47:16.656Z",
-      "title": "I created an autonomous boxing benchmark [D]"
-    },
-    {
-      "id": "u_cf94e180",
-      "sentAt": "2026-08-03T23:04:13.295Z",
-      "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'"
-    },
-    {
-      "id": "u_b1445981",
-      "sentAt": "2026-08-03T23:04:13.295Z",
-      "title": "Ling-3.0-flash is another potential model to test before qwen3.8 27b"
-    },
-    {
-      "id": "u_3c372c79",
-      "sentAt": "2026-08-03T23:04:13.295Z",
-      "title": "igus launches energy chain with 600-degree rotation for industrial robots"
     }
   ]
 }
