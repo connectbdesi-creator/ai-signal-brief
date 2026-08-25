@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T06:52:44.520Z",
+  "updatedAt": "2026-08-25T08:46:33.047Z",
   "entries": [
+    {
+      "id": "u_17bb77c7",
+      "sentAt": "2026-08-25T08:46:33.047Z",
+      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks"
+    },
+    {
+      "id": "u_107a2aeb",
+      "sentAt": "2026-08-25T08:46:33.047Z",
+      "title": "b10618"
+    },
+    {
+      "id": "u_f1ca3d27",
+      "sentAt": "2026-08-25T08:46:33.047Z",
+      "title": "b10617"
+    },
+    {
+      "id": "u_a852f58b",
+      "sentAt": "2026-08-25T08:46:33.047Z",
+      "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference"
+    },
+    {
+      "id": "u_e7366e8e",
+      "sentAt": "2026-08-25T08:46:33.047Z",
+      "title": "K-Bench: measuring model performance on real scientific agent requests"
+    },
     {
       "id": "u_cace21e0",
       "sentAt": "2026-08-25T06:52:44.520Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c3c26506",
       "sentAt": "2026-08-03T11:28:03.041Z",
       "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters"
-    },
-    {
-      "id": "u_23b7ecdc",
-      "sentAt": "2026-08-03T11:28:03.041Z",
-      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart"
-    },
-    {
-      "id": "u_e28e9cbc",
-      "sentAt": "2026-08-03T11:28:03.041Z",
-      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart"
-    },
-    {
-      "id": "u_1416d457",
-      "sentAt": "2026-08-03T07:31:14.262Z",
-      "title": "DeepSeek launches ultra-low-cost AI model - Gulf Business"
-    },
-    {
-      "id": "u_5f31d899",
-      "sentAt": "2026-08-03T07:31:14.262Z",
-      "title": "Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim - Nikkei Asia"
-    },
-    {
-      "id": "u_8cd25c98",
-      "sentAt": "2026-08-03T07:31:14.262Z",
-      "title": "Alibaba releases new Qwen AI model with performance rivalling Anthropic’s Fable - The Business Times"
     }
   ]
 }
