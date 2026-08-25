@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T10:35:45.474Z",
+  "updatedAt": "2026-08-25T12:51:56.304Z",
   "entries": [
+    {
+      "id": "u_7f5ed20d",
+      "sentAt": "2026-08-25T12:51:56.304Z",
+      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated"
+    },
+    {
+      "id": "u_5e698864",
+      "sentAt": "2026-08-25T12:51:56.304Z",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux"
+    },
+    {
+      "id": "u_167bfc85",
+      "sentAt": "2026-08-25T12:51:56.304Z",
+      "title": "Fullspan Health’s AI agent sees strong early traction with 1.1M views since June launch - Fierce Healthcare"
+    },
+    {
+      "id": "u_71a2094a",
+      "sentAt": "2026-08-25T12:51:56.304Z",
+      "title": "Graebel Launches Switch, an AI-Powered Virtual Relocation Assistant, for Graebel CitySwitcher - HRTech Series"
+    },
+    {
+      "id": "u_746a58e2",
+      "sentAt": "2026-08-25T12:51:56.304Z",
+      "title": "AG Marshall launches investigation into OpenAI and founder Sam Altman for massive artificial intelligence data breach - 1819 News"
+    },
     {
       "id": "u_56ba7d75",
       "sentAt": "2026-08-25T10:35:45.474Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b42f7c0c",
       "sentAt": "2026-08-03T17:53:20.656Z",
       "title": "Congress’s favorite AI tool? ChatGPT"
-    },
-    {
-      "id": "u_d34792f0",
-      "sentAt": "2026-08-03T17:53:20.656Z",
-      "title": "Anthropic’s AI models accidentally hacked three companies - Computerworld"
-    },
-    {
-      "id": "u_f1dd2f53",
-      "sentAt": "2026-08-03T17:53:20.656Z",
-      "title": "Automated Reasoning policy refinement in Amazon Bedrock"
-    },
-    {
-      "id": "u_1713ed1",
-      "sentAt": "2026-08-03T14:45:10.110Z",
-      "title": "China's MiniMax H3 is the first open model to top an AI video ranking"
-    },
-    {
-      "id": "u_a3deed58",
-      "sentAt": "2026-08-03T14:45:10.110Z",
-      "title": "China's MiniMax H3 is the first open model to top an AI video ranking"
-    },
-    {
-      "id": "u_c2174451",
-      "sentAt": "2026-08-03T14:45:10.110Z",
-      "title": "Running Claude Code Against Anything: Profiles, Other Models, and a Deliberately Raw One"
     }
   ]
 }
