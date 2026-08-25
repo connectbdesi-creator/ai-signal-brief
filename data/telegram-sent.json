@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T12:51:56.304Z",
+  "updatedAt": "2026-08-25T14:49:14.404Z",
   "entries": [
+    {
+      "id": "u_4d0dd177",
+      "sentAt": "2026-08-25T14:49:14.404Z",
+      "title": "What would a fair benchmark for agent architecture look like? [D]"
+    },
+    {
+      "id": "u_b7dccdeb",
+      "sentAt": "2026-08-25T14:49:14.404Z",
+      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October"
+    },
+    {
+      "id": "u_bb9e7f60",
+      "sentAt": "2026-08-25T14:49:14.404Z",
+      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October"
+    },
+    {
+      "id": "u_e4f958a9",
+      "sentAt": "2026-08-25T14:49:14.404Z",
+      "title": "Preprint Finds LFU Hard to Beat in Large-Language-Model Caches"
+    },
+    {
+      "id": "u_2120f8ba",
+      "sentAt": "2026-08-25T14:49:14.404Z",
+      "title": "Accel-backed Keenable is indexing the web for AI agents"
+    },
     {
       "id": "u_7f5ed20d",
       "sentAt": "2026-08-25T12:51:56.304Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7beac028",
       "sentAt": "2026-08-03T19:41:48.426Z",
       "title": "Speculative decoding with deepseek v4 flash 0731?"
-    },
-    {
-      "id": "u_3cc6e58a",
-      "sentAt": "2026-08-03T19:41:48.426Z",
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?"
-    },
-    {
-      "id": "u_b5779739",
-      "sentAt": "2026-08-03T19:41:48.426Z",
-      "title": "[NEW MODELS!] Supra2-100M Base and Instruct - go check them out!"
-    },
-    {
-      "id": "u_ce74c0d3",
-      "sentAt": "2026-08-03T17:53:20.656Z",
-      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great"
-    },
-    {
-      "id": "u_c203c747",
-      "sentAt": "2026-08-03T17:53:20.656Z",
-      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great"
-    },
-    {
-      "id": "u_b42f7c0c",
-      "sentAt": "2026-08-03T17:53:20.656Z",
-      "title": "Congress’s favorite AI tool? ChatGPT"
     }
   ]
 }
