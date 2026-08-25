@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-24T22:29:34.971Z",
+  "updatedAt": "2026-08-25T01:23:46.673Z",
   "entries": [
+    {
+      "id": "u_4dd19899",
+      "sentAt": "2026-08-25T01:23:46.673Z",
+      "title": "Alabama launches probe into OpenAI after Hugging Face breach - The Mighty 790 KFGO"
+    },
+    {
+      "id": "u_9deb36b5",
+      "sentAt": "2026-08-25T01:23:46.673Z",
+      "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction"
+    },
+    {
+      "id": "u_50e6334d",
+      "sentAt": "2026-08-25T01:23:46.673Z",
+      "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project"
+    },
+    {
+      "id": "u_40e534e3",
+      "sentAt": "2026-08-25T01:23:46.673Z",
+      "title": "Xiaomi Built Its Own 3nm Chip to Stop Renting From Qualcomm -"
+    },
+    {
+      "id": "u_ff641018",
+      "sentAt": "2026-08-25T01:23:46.673Z",
+      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
+    },
     {
       "id": "u_5ffddb56",
       "sentAt": "2026-08-24T22:29:34.971Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9531e311",
       "sentAt": "2026-08-02T13:27:08.673Z",
       "title": "OpenAI Presence wants to make AI agents production-ready for businesses"
-    },
-    {
-      "id": "u_5b28eed2",
-      "sentAt": "2026-08-02T13:27:08.673Z",
-      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track"
-    },
-    {
-      "id": "u_86d276b0",
-      "sentAt": "2026-08-02T13:27:08.673Z",
-      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track"
-    },
-    {
-      "id": "u_12bfa2bb",
-      "sentAt": "2026-08-02T13:27:08.673Z",
-      "title": "AI's manifesto war"
-    },
-    {
-      "id": "u_3c034eaa",
-      "sentAt": "2026-08-02T11:24:37.870Z",
-      "title": "As artificial intelligence (AI) model \"GLM-5.2\" and Moonshot AI's \"Kimi K3\" recently released by Chi.. - 매일경제"
-    },
-    {
-      "id": "u_d183224f",
-      "sentAt": "2026-08-02T10:00:29.172Z",
-      "title": "Chinese AI Used To Launch Attacks—Here’s What Happened Next"
     }
   ]
 }
