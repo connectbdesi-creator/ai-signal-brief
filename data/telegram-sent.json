@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T04:41:41.573Z",
+  "updatedAt": "2026-08-25T06:52:44.520Z",
   "entries": [
+    {
+      "id": "u_cace21e0",
+      "sentAt": "2026-08-25T06:52:44.520Z",
+      "title": "Introducing the Edits Film Festival to Spotlight India’s Emerging Creator Talent"
+    },
+    {
+      "id": "u_9a21d113",
+      "sentAt": "2026-08-25T06:52:44.520Z",
+      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG"
+    },
+    {
+      "id": "u_31f95945",
+      "sentAt": "2026-08-25T06:52:44.520Z",
+      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items"
+    },
+    {
+      "id": "u_8fbf104",
+      "sentAt": "2026-08-25T06:52:44.520Z",
+      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students"
+    },
+    {
+      "id": "u_cbb49a1c",
+      "sentAt": "2026-08-25T06:52:44.520Z",
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform"
+    },
     {
       "id": "u_a9d5c222",
       "sentAt": "2026-08-25T04:41:41.573Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8cd25c98",
       "sentAt": "2026-08-03T07:31:14.262Z",
       "title": "Alibaba releases new Qwen AI model with performance rivalling Anthropic’s Fable - The Business Times"
-    },
-    {
-      "id": "u_bb16b851",
-      "sentAt": "2026-08-03T07:31:14.262Z",
-      "title": "Alibaba Releases AI Model With Performance Rivaling Anthropic - Bloomberg.com"
-    },
-    {
-      "id": "u_9a2b8cc9",
-      "sentAt": "2026-08-03T07:31:14.262Z",
-      "title": "Sensitivity Analysis of GRU, LSTM and Transformer Encoder in Classification of Automated Driving Systems"
-    },
-    {
-      "id": "u_41b38f46",
-      "sentAt": "2026-08-03T03:18:01.501Z",
-      "title": "Negros Occidental 3rd District Rep. Javier Miguel Benitez called for a Philippine artificial intelligence policy that promotes innovation while protecting workers, particularly those in the creative economy. Link to the full story in comment section. - facebook.com"
-    },
-    {
-      "id": "u_5ca4d117",
-      "sentAt": "2026-08-03T03:18:01.501Z",
-      "title": "SAS to launch Chief AI Officer Initiative, collaborate with local governments - The Daily Pennsylvanian"
-    },
-    {
-      "id": "u_233c4cc0",
-      "sentAt": "2026-08-03T03:18:01.501Z",
-      "title": "Twin: A Possible Solution to AI Context Rebuilding [P]"
     }
   ]
 }
