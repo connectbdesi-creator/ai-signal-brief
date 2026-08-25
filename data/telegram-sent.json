@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T08:46:33.047Z",
+  "updatedAt": "2026-08-25T10:35:45.474Z",
   "entries": [
+    {
+      "id": "u_56ba7d75",
+      "sentAt": "2026-08-25T10:35:45.474Z",
+      "title": "v4.18.0"
+    },
+    {
+      "id": "u_3d2a83ab",
+      "sentAt": "2026-08-25T10:35:45.474Z",
+      "title": "b10620"
+    },
+    {
+      "id": "u_1e0a69cb",
+      "sentAt": "2026-08-25T10:35:45.474Z",
+      "title": "The data center era that's reshaping America"
+    },
+    {
+      "id": "u_eee47696",
+      "sentAt": "2026-08-25T10:35:45.474Z",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack"
+    },
+    {
+      "id": "u_6e4f95c2",
+      "sentAt": "2026-08-25T10:35:45.474Z",
+      "title": "HiDream.ai releases HiDream-O1-World interactive artificial intelligence model - Vietnam Investment Review - VIR"
+    },
     {
       "id": "u_17bb77c7",
       "sentAt": "2026-08-25T08:46:33.047Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c2174451",
       "sentAt": "2026-08-03T14:45:10.110Z",
       "title": "Running Claude Code Against Anything: Profiles, Other Models, and a Deliberately Raw One"
-    },
-    {
-      "id": "u_4de05f9e",
-      "sentAt": "2026-08-03T14:45:10.110Z",
-      "title": "DeepSeek unveils AI model 100 times cheaper than top rivals - ITP.net"
-    },
-    {
-      "id": "u_a5d1e5cb",
-      "sentAt": "2026-08-03T14:45:10.110Z",
-      "title": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch - InfoWorld"
-    },
-    {
-      "id": "u_1d2d6d73",
-      "sentAt": "2026-08-03T11:28:03.041Z",
-      "title": "RSNA launches new knee MRI AI challenge - Radiology Business"
-    },
-    {
-      "id": "u_4c6d548b",
-      "sentAt": "2026-08-03T11:28:03.041Z",
-      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters"
-    },
-    {
-      "id": "u_c3c26506",
-      "sentAt": "2026-08-03T11:28:03.041Z",
-      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters"
     }
   ]
 }
