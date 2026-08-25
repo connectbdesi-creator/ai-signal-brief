@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T03:00:59.809Z",
+  "updatedAt": "2026-08-25T04:41:41.573Z",
   "entries": [
+    {
+      "id": "u_a9d5c222",
+      "sentAt": "2026-08-25T04:41:41.573Z",
+      "title": "v0.33.0"
+    },
+    {
+      "id": "u_39163e8c",
+      "sentAt": "2026-08-25T04:41:41.573Z",
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference"
+    },
+    {
+      "id": "u_d1a80e34",
+      "sentAt": "2026-08-25T04:41:41.573Z",
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance"
+    },
+    {
+      "id": "u_4d40b83",
+      "sentAt": "2026-08-25T04:41:41.573Z",
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules"
+    },
+    {
+      "id": "u_91cb5179",
+      "sentAt": "2026-08-25T04:41:41.573Z",
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform"
+    },
     {
       "id": "u_cd606972",
       "sentAt": "2026-08-25T03:00:59.809Z",
@@ -4975,31 +5000,6 @@
       "id": "u_233c4cc0",
       "sentAt": "2026-08-03T03:18:01.501Z",
       "title": "Twin: A Possible Solution to AI Context Rebuilding [P]"
-    },
-    {
-      "id": "u_e68e8030",
-      "sentAt": "2026-08-03T03:18:01.501Z",
-      "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines"
-    },
-    {
-      "id": "u_e25df75f",
-      "sentAt": "2026-08-03T03:18:01.501Z",
-      "title": "When rogue AI launches a cyberattack, who is legally responsible? - Sinar Daily"
-    },
-    {
-      "id": "u_39e7c157",
-      "sentAt": "2026-08-02T20:58:50.626Z",
-      "title": "Governor Gavin Newsom Announces Release of Updated Strategy to Protect California Against New Online Threats, Including Artificial Intelligence (AI)-Enabled Cyberattacks - Sierra Sun Times"
-    },
-    {
-      "id": "u_20fc6197",
-      "sentAt": "2026-08-02T19:14:42.474Z",
-      "title": "Governor Gavin Newsom Announces Release of Updated Strategy to Protect California Against New Online Threats, Including Artificial Intelligence (AI)-Enabled Cyberattacks - goldrushcam.com"
-    },
-    {
-      "id": "u_83112ae2",
-      "sentAt": "2026-08-02T19:14:42.474Z",
-      "title": "Claude-maker Anthropic: AI models hacked 3 organizations during testing - Cebu Daily News"
     }
   ]
 }
