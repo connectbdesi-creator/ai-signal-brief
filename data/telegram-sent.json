@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T14:49:14.404Z",
+  "updatedAt": "2026-08-25T16:40:14.205Z",
   "entries": [
+    {
+      "id": "u_9e1dd4f9",
+      "sentAt": "2026-08-25T16:40:14.205Z",
+      "title": "Google launches Gemini for legal work to automate contracts and research"
+    },
+    {
+      "id": "u_11b44442",
+      "sentAt": "2026-08-25T16:40:14.205Z",
+      "title": "Google launches Gemini for legal work to automate contracts and research"
+    },
+    {
+      "id": "u_893501d5",
+      "sentAt": "2026-08-25T16:40:14.205Z",
+      "title": "Preprint: Tool-Using Multimodal AI Scores Higher on New Rules in Maze Tests"
+    },
+    {
+      "id": "u_6b843bb1",
+      "sentAt": "2026-08-25T16:40:14.205Z",
+      "title": "OpenAI Unveils Jalapeño Chip - StartupHub.ai"
+    },
+    {
+      "id": "u_6b53d8bd",
+      "sentAt": "2026-08-25T16:40:14.205Z",
+      "title": "Google Launches Gemini Enterprise for Legal - Artificial Lawyer"
+    },
     {
       "id": "u_4d0dd177",
       "sentAt": "2026-08-25T14:49:14.404Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f1997421",
       "sentAt": "2026-08-03T21:06:03.688Z",
       "title": "Walden Robotics Partners With Toyota on Practical Humanoids"
-    },
-    {
-      "id": "u_f2f824d0",
-      "sentAt": "2026-08-03T21:06:03.688Z",
-      "title": "Does MiniMax Agent Actually Make Work Easier?"
-    },
-    {
-      "id": "u_d23776b6",
-      "sentAt": "2026-08-03T21:06:03.688Z",
-      "title": "New DeepSeek model cheapest of well-known models to run: research firm - Taipei Times"
-    },
-    {
-      "id": "u_528211ab",
-      "sentAt": "2026-08-03T19:41:48.426Z",
-      "title": "We tested Deepseek v4 flash, GLM 5.2, and Kimi K3 on hard agentic tasks, and DeepSeek just crushed"
-    },
-    {
-      "id": "u_1de215ae",
-      "sentAt": "2026-08-03T19:41:48.426Z",
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models"
-    },
-    {
-      "id": "u_7beac028",
-      "sentAt": "2026-08-03T19:41:48.426Z",
-      "title": "Speculative decoding with deepseek v4 flash 0731?"
     }
   ]
 }
