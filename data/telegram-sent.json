@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T06:54:06.057Z",
+  "updatedAt": "2026-08-26T08:47:42.809Z",
   "entries": [
+    {
+      "id": "u_cb642c6f",
+      "sentAt": "2026-08-26T08:47:42.809Z",
+      "title": "Preprint: Smaller model reports gains on seven time-series benchmarks"
+    },
+    {
+      "id": "u_c38eaee2",
+      "sentAt": "2026-08-26T08:47:42.809Z",
+      "title": "Preprint reports near-verbatim recovery of hidden AI reasoning through tool calls"
+    },
+    {
+      "id": "u_c7d078d",
+      "sentAt": "2026-08-26T08:47:42.809Z",
+      "title": "Google launches Gemini AI tools for lawyers - The Arkansas Democrat-Gazette"
+    },
+    {
+      "id": "u_1f0db127",
+      "sentAt": "2026-08-26T08:47:42.809Z",
+      "title": "Preprint tests a factorized design for predictive world models"
+    },
+    {
+      "id": "u_8e90d18a",
+      "sentAt": "2026-08-26T08:47:42.809Z",
+      "title": "From Gradient-Boosted Trees to Deep Recommenders: Practical Lessons from Migrating a Production Customer Support Recommender"
+    },
     {
       "id": "u_b3886587",
       "sentAt": "2026-08-26T06:54:06.057Z",
@@ -4975,31 +5000,6 @@
       "id": "u_31f87848",
       "sentAt": "2026-08-04T21:14:35.198Z",
       "title": "Third-party cyber evaluations involving OpenAI models"
-    },
-    {
-      "id": "u_a7ea2acb",
-      "sentAt": "2026-08-04T21:14:35.198Z",
-      "title": "AI agents get better at IT ops, but only with humans in the loop - Computerworld"
-    },
-    {
-      "id": "u_c134e3f8",
-      "sentAt": "2026-08-04T21:14:35.198Z",
-      "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use"
-    },
-    {
-      "id": "u_9d15b007",
-      "sentAt": "2026-08-04T19:40:45.130Z",
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress"
-    },
-    {
-      "id": "u_a6f01c90",
-      "sentAt": "2026-08-04T19:40:45.130Z",
-      "title": "PipeNetwork/minimax-h3-mlx"
-    },
-    {
-      "id": "u_45a65aec",
-      "sentAt": "2026-08-04T19:40:45.130Z",
-      "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding"
     }
   ]
 }
