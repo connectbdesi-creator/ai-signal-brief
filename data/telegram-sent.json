@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-25T22:30:32.314Z",
+  "updatedAt": "2026-08-26T01:27:09.602Z",
   "entries": [
+    {
+      "id": "u_b5d7949b",
+      "sentAt": "2026-08-26T01:27:09.602Z",
+      "title": "Preprint puts a ceiling on worst-case safety risks in uncertain systems"
+    },
+    {
+      "id": "u_f517fadf",
+      "sentAt": "2026-08-26T01:27:09.602Z",
+      "title": "Agentic web search infrastructure startup Keenable raises $26M"
+    },
+    {
+      "id": "u_dbab7413",
+      "sentAt": "2026-08-26T01:27:09.602Z",
+      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together"
+    },
+    {
+      "id": "u_9884a248",
+      "sentAt": "2026-08-26T01:27:09.602Z",
+      "title": "EVE Online: The Move to Python 3 Begins!"
+    },
+    {
+      "id": "u_298ce662",
+      "sentAt": "2026-08-26T01:27:09.602Z",
+      "title": "Join a community-run AI Discord: open discussion, transparent moderation, local model quants"
+    },
     {
       "id": "u_8a658a33",
       "sentAt": "2026-08-25T22:30:32.314Z",
@@ -4975,31 +5000,6 @@
       "id": "u_28f48135",
       "sentAt": "2026-08-04T10:42:19.567Z",
       "title": "Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive"
-    },
-    {
-      "id": "u_6b688364",
-      "sentAt": "2026-08-04T10:42:19.567Z",
-      "title": "Mistral Is in the Right Place at the Right Time"
-    },
-    {
-      "id": "u_9e0ed45c",
-      "sentAt": "2026-08-04T10:42:19.567Z",
-      "title": "Mistral Is in the Right Place at the Right Time"
-    },
-    {
-      "id": "u_81ef9c64",
-      "sentAt": "2026-08-04T06:30:12.670Z",
-      "title": "AIJRF Launches advanced Agentic AI Media Program - intlbm"
-    },
-    {
-      "id": "u_6650154b",
-      "sentAt": "2026-08-04T06:30:12.670Z",
-      "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web"
-    },
-    {
-      "id": "u_fc6bb84b",
-      "sentAt": "2026-08-04T06:30:12.670Z",
-      "title": "The next step in AI cost saving: treating frontier models like expensive consultants"
     }
   ]
 }
