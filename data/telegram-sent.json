@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T08:47:42.809Z",
+  "updatedAt": "2026-08-26T10:38:04.923Z",
   "entries": [
+    {
+      "id": "u_cfce531a",
+      "sentAt": "2026-08-26T10:38:04.923Z",
+      "title": "Computer model handles changing-stiffness plates, but distorted meshes trip some versions"
+    },
+    {
+      "id": "u_867baea4",
+      "sentAt": "2026-08-26T10:38:04.923Z",
+      "title": "AI models flub these intelligence tests. Can you fare any better?"
+    },
+    {
+      "id": "u_d1ff524b",
+      "sentAt": "2026-08-26T10:38:04.923Z",
+      "title": "Plant Culture Systems Launches AGGI, a Free AI-Powered Intelligence Platform for Farmers - markets.businessinsider.com"
+    },
+    {
+      "id": "u_d897dba5",
+      "sentAt": "2026-08-26T10:38:04.923Z",
+      "title": "IAPO: Influence-Aware Policy Optimization for Credit Assignment in Multi-Turn Service Agents"
+    },
+    {
+      "id": "u_517ec3db",
+      "sentAt": "2026-08-26T10:38:04.923Z",
+      "title": "UHI-Bench: Benchmarking Dual-Source Urban Heat Island Modeling Across Cities in Diverse Climate Regimes"
+    },
     {
       "id": "u_cb642c6f",
       "sentAt": "2026-08-26T08:47:42.809Z",
@@ -4975,31 +5000,6 @@
       "id": "u_329d0a63",
       "sentAt": "2026-08-04T23:05:41.139Z",
       "title": "A 2.6B model with tool calling and 128K context now runs at 30 tok/s on a phone"
-    },
-    {
-      "id": "u_85a1deda",
-      "sentAt": "2026-08-04T23:05:41.139Z",
-      "title": "AI Briefing: Frontier AI Models Gone Rogue, DeepMind CEO Calls for Oversight Body, and NY Pauses Data Center Permits - Faegre Drinker Biddle & Reath LLP"
-    },
-    {
-      "id": "u_261fdb38",
-      "sentAt": "2026-08-04T23:05:41.139Z",
-      "title": "Local LLM 35B MoE — Real-world coding benchmarks (Qwen vs Ornith vs KAT)"
-    },
-    {
-      "id": "u_a14c707",
-      "sentAt": "2026-08-04T21:14:35.198Z",
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains."
-    },
-    {
-      "id": "u_70242c3c",
-      "sentAt": "2026-08-04T21:14:35.198Z",
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress"
-    },
-    {
-      "id": "u_31f87848",
-      "sentAt": "2026-08-04T21:14:35.198Z",
-      "title": "Third-party cyber evaluations involving OpenAI models"
     }
   ]
 }
