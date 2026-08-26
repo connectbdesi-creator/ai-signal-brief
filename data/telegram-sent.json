@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T04:42:31.220Z",
+  "updatedAt": "2026-08-26T06:54:06.057Z",
   "entries": [
+    {
+      "id": "u_b3886587",
+      "sentAt": "2026-08-26T06:54:06.057Z",
+      "title": "b10631"
+    },
+    {
+      "id": "u_60ee4651",
+      "sentAt": "2026-08-26T06:54:06.057Z",
+      "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models"
+    },
+    {
+      "id": "u_ad552f08",
+      "sentAt": "2026-08-26T06:54:06.057Z",
+      "title": "v1.100.0-dev.1"
+    },
+    {
+      "id": "u_729eb902",
+      "sentAt": "2026-08-26T06:54:06.057Z",
+      "title": "Haibot releases artificial intelligence agent to automate sales knowledge retrieval - Portal ERP"
+    },
+    {
+      "id": "u_dd12a5",
+      "sentAt": "2026-08-26T06:54:06.057Z",
+      "title": "PinSieve: Production Selective VLM Serving and a Governed Memory Flywheel for Enterprise Content-Quality Triage"
+    },
     {
       "id": "u_f18aa522",
       "sentAt": "2026-08-26T04:42:31.220Z",
@@ -4975,31 +5000,6 @@
       "id": "u_45a65aec",
       "sentAt": "2026-08-04T19:40:45.130Z",
       "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding"
-    },
-    {
-      "id": "u_621438cf",
-      "sentAt": "2026-08-04T19:40:45.130Z",
-      "title": "Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks"
-    },
-    {
-      "id": "u_b0c4677c",
-      "sentAt": "2026-08-04T19:40:45.130Z",
-      "title": "How to Evaluate Voice Agents with LangSmith"
-    },
-    {
-      "id": "u_c23c4f2d",
-      "sentAt": "2026-08-04T17:51:09.453Z",
-      "title": "Runtime Wire Launches AI-Powered Newsroom Covering the Artificial Intelligence Industry - citybiz"
-    },
-    {
-      "id": "u_73735195",
-      "sentAt": "2026-08-04T17:51:09.453Z",
-      "title": "Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More"
-    },
-    {
-      "id": "u_ef2848ee",
-      "sentAt": "2026-08-04T17:51:09.453Z",
-      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
     }
   ]
 }
