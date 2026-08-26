@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T12:57:12.942Z",
+  "updatedAt": "2026-08-26T14:49:20.733Z",
   "entries": [
+    {
+      "id": "u_c9543f21",
+      "sentAt": "2026-08-26T14:49:20.733Z",
+      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\""
+    },
+    {
+      "id": "u_36250314",
+      "sentAt": "2026-08-26T14:49:20.733Z",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents"
+    },
+    {
+      "id": "u_9de916f0",
+      "sentAt": "2026-08-26T14:49:20.733Z",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model"
+    },
+    {
+      "id": "u_64a921",
+      "sentAt": "2026-08-26T14:49:20.733Z",
+      "title": "Autonomous Agents & Agent Simulations"
+    },
+    {
+      "id": "u_8065273c",
+      "sentAt": "2026-08-26T14:49:20.733Z",
+      "title": "Robot brain builders are pushing out of their GPT-2 era"
+    },
     {
       "id": "u_4e1df444",
       "sentAt": "2026-08-26T12:57:12.942Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6db31a23",
       "sentAt": "2026-08-05T06:30:49.288Z",
       "title": "Knowing the Form, Not the Function: Automatically Auditing Answer--Authority Decoupling in Legal Benchmarks"
-    },
-    {
-      "id": "u_ffb28bc2",
-      "sentAt": "2026-08-05T06:30:49.288Z",
-      "title": "OPTD: On-Policy Transition Distillation with Consistency-Guided Adaptive Compression for Few-Step Diffusion Language Models"
-    },
-    {
-      "id": "u_94f9e0da",
-      "sentAt": "2026-08-05T06:30:49.288Z",
-      "title": "Every Wrong Answer Counts: Option-Level Psychometrics for LLM Multiple-Choice Benchmarks"
-    },
-    {
-      "id": "u_3e421ae8",
-      "sentAt": "2026-08-05T02:44:52.103Z",
-      "title": "AMD executives say the chip company has a key advantage over Nvidia: being more open"
-    },
-    {
-      "id": "u_f26d649b",
-      "sentAt": "2026-08-05T02:44:52.103Z",
-      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging"
-    },
-    {
-      "id": "u_4b14dada",
-      "sentAt": "2026-08-05T02:44:52.103Z",
-      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging"
     }
   ]
 }
