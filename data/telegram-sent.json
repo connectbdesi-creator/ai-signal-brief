@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T10:38:04.923Z",
+  "updatedAt": "2026-08-26T12:57:12.942Z",
   "entries": [
+    {
+      "id": "u_4e1df444",
+      "sentAt": "2026-08-26T12:57:12.942Z",
+      "title": "Arga is building a better way to train enterprise AI agents"
+    },
+    {
+      "id": "u_b55ff1f4",
+      "sentAt": "2026-08-26T12:57:12.942Z",
+      "title": "Preprint reports AI skill selector reaching 0.73 benchmark success with fewer tokens"
+    },
+    {
+      "id": "u_42886c88",
+      "sentAt": "2026-08-26T12:57:12.942Z",
+      "title": "10 Rules for Getting Better Results from AI Coding Agents"
+    },
+    {
+      "id": "u_c69bc35f",
+      "sentAt": "2026-08-26T12:57:12.942Z",
+      "title": "b10635"
+    },
+    {
+      "id": "u_1d01f54e",
+      "sentAt": "2026-08-26T12:57:12.942Z",
+      "title": "Preprint: Time-series model posts stronger forecasts with fewer parameters"
+    },
     {
       "id": "u_cfce531a",
       "sentAt": "2026-08-26T10:38:04.923Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4b14dada",
       "sentAt": "2026-08-05T02:44:52.103Z",
       "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging"
-    },
-    {
-      "id": "u_5c18a747",
-      "sentAt": "2026-08-05T02:44:52.103Z",
-      "title": "OK, Well, Rogue AI Agents Are Hacking Again"
-    },
-    {
-      "id": "u_a00e8c01",
-      "sentAt": "2026-08-05T02:44:52.103Z",
-      "title": "OK, Well, There Are Even More AI Agent Hacking Incidents"
-    },
-    {
-      "id": "u_33e44df3",
-      "sentAt": "2026-08-04T23:05:41.139Z",
-      "title": "GPT-OSS has turned one year old today!"
-    },
-    {
-      "id": "u_99d34348",
-      "sentAt": "2026-08-04T23:05:41.139Z",
-      "title": "Israel launches national quantum computer and Physical AI race - ynetnews.com"
-    },
-    {
-      "id": "u_329d0a63",
-      "sentAt": "2026-08-04T23:05:41.139Z",
-      "title": "A 2.6B model with tool calling and 128K context now runs at 30 tok/s on a phone"
     }
   ]
 }
