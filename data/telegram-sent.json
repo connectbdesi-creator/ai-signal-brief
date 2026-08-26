@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T16:49:58.802Z",
+  "updatedAt": "2026-08-26T19:49:58.224Z",
   "entries": [
+    {
+      "id": "u_4d0c3957",
+      "sentAt": "2026-08-26T19:49:58.224Z",
+      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations"
+    },
+    {
+      "id": "u_ae050b40",
+      "sentAt": "2026-08-26T19:49:58.224Z",
+      "title": "OpenAI releases its official report on the Hugging Face breach"
+    },
+    {
+      "id": "u_279d116b",
+      "sentAt": "2026-08-26T19:49:58.224Z",
+      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC"
+    },
+    {
+      "id": "u_e3c2a5a8",
+      "sentAt": "2026-08-26T19:49:58.224Z",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face"
+    },
+    {
+      "id": "u_45ec24b5",
+      "sentAt": "2026-08-26T19:49:58.224Z",
+      "title": "GlucoFM: Foundation model for continuous glucose monitoring"
+    },
     {
       "id": "u_615b7ffd",
       "sentAt": "2026-08-26T16:49:58.802Z",
@@ -4975,31 +5000,6 @@
       "id": "u_99f188af",
       "sentAt": "2026-08-05T14:15:06.099Z",
       "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0"
-    },
-    {
-      "id": "u_a2ba3d0a",
-      "sentAt": "2026-08-05T14:15:06.099Z",
-      "title": "A debate is brewing over the risks and rewards of serving ads to AI agents"
-    },
-    {
-      "id": "u_ed2ad85b",
-      "sentAt": "2026-08-05T14:15:06.099Z",
-      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon"
-    },
-    {
-      "id": "u_1994dda5",
-      "sentAt": "2026-08-05T10:38:32.690Z",
-      "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon"
-    },
-    {
-      "id": "u_e3ebf5a0",
-      "sentAt": "2026-08-05T10:38:32.690Z",
-      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted"
-    },
-    {
-      "id": "u_3bf97c49",
-      "sentAt": "2026-08-05T10:38:32.690Z",
-      "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted"
     }
   ]
 }
