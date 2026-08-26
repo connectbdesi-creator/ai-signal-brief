@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T01:27:09.602Z",
+  "updatedAt": "2026-08-26T03:08:11.364Z",
   "entries": [
+    {
+      "id": "u_47ef9bd2",
+      "sentAt": "2026-08-26T03:08:11.364Z",
+      "title": "Preprint tests location-aware rules to explain extreme-weather AI"
+    },
+    {
+      "id": "u_862531b5",
+      "sentAt": "2026-08-26T03:08:11.364Z",
+      "title": "Preprint reports privacy-preserving cell analysis close to standard accuracy"
+    },
+    {
+      "id": "u_8241fc6e",
+      "sentAt": "2026-08-26T03:08:11.364Z",
+      "title": "Alice raises $140M as its AI security business grows more than 500%"
+    },
+    {
+      "id": "u_aff88243",
+      "sentAt": "2026-08-26T03:08:11.364Z",
+      "title": "Perplexity AI launches Portable Computer on-device AI agent"
+    },
+    {
+      "id": "u_e7f60478",
+      "sentAt": "2026-08-26T03:08:11.364Z",
+      "title": "College of Business launches Artificial Intelligence for Business program - uta.edu"
+    },
     {
       "id": "u_b5d7949b",
       "sentAt": "2026-08-26T01:27:09.602Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4dc2a136",
       "sentAt": "2026-08-04T14:22:05.443Z",
       "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI"
-    },
-    {
-      "id": "u_c8f397ed",
-      "sentAt": "2026-08-04T14:22:05.443Z",
-      "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI"
-    },
-    {
-      "id": "u_39435d9a",
-      "sentAt": "2026-08-04T14:22:05.443Z",
-      "title": "Using Agents as Tools"
-    },
-    {
-      "id": "u_2bff153b",
-      "sentAt": "2026-08-04T10:42:19.567Z",
-      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague"
-    },
-    {
-      "id": "u_5c0a4d5f",
-      "sentAt": "2026-08-04T10:42:19.567Z",
-      "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague"
-    },
-    {
-      "id": "u_28f48135",
-      "sentAt": "2026-08-04T10:42:19.567Z",
-      "title": "Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive"
     }
   ]
 }
