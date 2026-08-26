@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T19:49:58.224Z",
+  "updatedAt": "2026-08-26T22:53:15.520Z",
   "entries": [
+    {
+      "id": "u_c4131c13",
+      "sentAt": "2026-08-26T22:53:15.520Z",
+      "title": "b10642"
+    },
+    {
+      "id": "u_2f1111c0",
+      "sentAt": "2026-08-26T22:53:15.520Z",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought"
+    },
+    {
+      "id": "u_f4fdc673",
+      "sentAt": "2026-08-26T22:53:15.520Z",
+      "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context"
+    },
+    {
+      "id": "u_a2a6e997",
+      "sentAt": "2026-08-26T22:53:15.520Z",
+      "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure"
+    },
+    {
+      "id": "u_c1ad2643",
+      "sentAt": "2026-08-26T22:53:15.520Z",
+      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
+    },
     {
       "id": "u_4d0c3957",
       "sentAt": "2026-08-26T19:49:58.224Z",
@@ -4975,31 +5000,6 @@
       "id": "u_10d9d7f9",
       "sentAt": "2026-08-05T17:42:04.922Z",
       "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size"
-    },
-    {
-      "id": "u_b9329f52",
-      "sentAt": "2026-08-05T17:42:04.922Z",
-      "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size"
-    },
-    {
-      "id": "u_d170cb46",
-      "sentAt": "2026-08-05T17:42:04.922Z",
-      "title": "How we built an autonomous SRE agent for Kubernetes"
-    },
-    {
-      "id": "u_ccedda66",
-      "sentAt": "2026-08-05T14:15:06.099Z",
-      "title": "Anthropic is hiring an AI chip design team"
-    },
-    {
-      "id": "u_208573d4",
-      "sentAt": "2026-08-05T14:15:06.099Z",
-      "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0"
-    },
-    {
-      "id": "u_99f188af",
-      "sentAt": "2026-08-05T14:15:06.099Z",
-      "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0"
     }
   ]
 }
