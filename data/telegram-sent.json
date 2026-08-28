@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-28T06:00:58.214Z",
+  "updatedAt": "2026-08-28T20:00:03.933Z",
   "entries": [
+    {
+      "id": "u_dba9270",
+      "sentAt": "2026-08-28T20:00:03.933Z",
+      "title": "Blue Yonder redesigns supply chain operations around AI agents"
+    },
+    {
+      "id": "u_250d7f9d",
+      "sentAt": "2026-08-28T20:00:03.933Z",
+      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture"
+    },
+    {
+      "id": "u_52c77c6b",
+      "sentAt": "2026-08-28T20:00:03.933Z",
+      "title": "AI video model routes tasks to experts in benchmark tests"
+    },
+    {
+      "id": "u_90bf55fb",
+      "sentAt": "2026-08-28T20:00:03.933Z",
+      "title": "b10678"
+    },
+    {
+      "id": "u_cbd32a4c",
+      "sentAt": "2026-08-28T20:00:03.933Z",
+      "title": "Google DeepMind's \"Co-Scientist\" Evolves from a Hypothesis Generator to a Research Partner"
+    },
     {
       "id": "u_561ecab4",
       "sentAt": "2026-08-28T06:00:58.214Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2704ae7f",
       "sentAt": "2026-08-06T02:47:40.707Z",
       "title": "How OpenAI's agents broke out of testing to hack Hugging Face"
-    },
-    {
-      "id": "u_502f9c60",
-      "sentAt": "2026-08-06T02:47:40.707Z",
-      "title": "OpenAI and Anthropic's AI Models Used Fake Profiles to Trick Developers in Safety Tests - Android Headlines"
-    },
-    {
-      "id": "u_13afedfa",
-      "sentAt": "2026-08-06T02:47:40.707Z",
-      "title": "Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses"
-    },
-    {
-      "id": "u_90cb8fc1",
-      "sentAt": "2026-08-05T23:03:02.647Z",
-      "title": "Meta to take on Anthropic's Claude and OpenAI's Codex with new coding agent"
-    },
-    {
-      "id": "u_f3b2106",
-      "sentAt": "2026-08-05T23:03:02.647Z",
-      "title": "Meta launches Muse Code, an AI agent for large code bases"
-    },
-    {
-      "id": "u_e97819ac",
-      "sentAt": "2026-08-05T23:03:02.647Z",
-      "title": "NSF Launches $100M Program to Expand Regional AI Research Infrastructure - ExecutiveGov"
     }
   ]
 }
