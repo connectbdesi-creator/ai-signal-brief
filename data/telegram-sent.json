@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-27T20:12:44.024Z",
+  "updatedAt": "2026-08-28T06:00:58.214Z",
   "entries": [
+    {
+      "id": "u_561ecab4",
+      "sentAt": "2026-08-28T06:00:58.214Z",
+      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages"
+    },
+    {
+      "id": "u_4a17a66",
+      "sentAt": "2026-08-28T06:00:58.214Z",
+      "title": "v1.100.0-dev.2"
+    },
+    {
+      "id": "u_cbca5ecf",
+      "sentAt": "2026-08-28T06:00:58.214Z",
+      "title": "VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology"
+    },
+    {
+      "id": "u_a002e3c6",
+      "sentAt": "2026-08-28T06:00:58.214Z",
+      "title": "Video-FLAIR: Not Whether to Reason, But How"
+    },
+    {
+      "id": "u_fd91b42f",
+      "sentAt": "2026-08-28T06:00:58.214Z",
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset"
+    },
     {
       "id": "u_7949b593",
       "sentAt": "2026-08-27T20:12:44.024Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e97819ac",
       "sentAt": "2026-08-05T23:03:02.647Z",
       "title": "NSF Launches $100M Program to Expand Regional AI Research Infrastructure - ExecutiveGov"
-    },
-    {
-      "id": "u_73fe8a33",
-      "sentAt": "2026-08-05T23:03:02.647Z",
-      "title": "AI safety warnings mount as frontier models test new limits - WBFF"
-    },
-    {
-      "id": "u_57c1ec5b",
-      "sentAt": "2026-08-05T23:03:02.647Z",
-      "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools"
-    },
-    {
-      "id": "u_58aad755",
-      "sentAt": "2026-08-05T21:13:28.370Z",
-      "title": "Meta AI Releases Muse Code: A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model"
-    },
-    {
-      "id": "u_90db82c5",
-      "sentAt": "2026-08-05T21:13:28.370Z",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders"
-    },
-    {
-      "id": "u_de4fad0a",
-      "sentAt": "2026-08-05T21:13:28.370Z",
-      "title": "One-shotting a Raccoon Heist game using Claude Fable 5"
     }
   ]
 }
