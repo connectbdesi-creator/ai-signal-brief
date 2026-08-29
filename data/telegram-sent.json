@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-29T02:47:44.258Z",
+  "updatedAt": "2026-08-29T10:55:03.254Z",
   "entries": [
+    {
+      "id": "u_75daf671",
+      "sentAt": "2026-08-29T10:55:03.254Z",
+      "title": "How to Run a Chatbot on Your Own Computer"
+    },
+    {
+      "id": "u_c810b1bd",
+      "sentAt": "2026-08-29T10:55:03.254Z",
+      "title": "How to Run a Chatbot on Your Own Computer"
+    },
+    {
+      "id": "u_382e6ecd",
+      "sentAt": "2026-08-29T10:55:03.254Z",
+      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research"
+    },
+    {
+      "id": "u_7bb45e7a",
+      "sentAt": "2026-08-29T10:55:03.254Z",
+      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research"
+    },
+    {
+      "id": "u_e70a2715",
+      "sentAt": "2026-08-29T10:55:03.254Z",
+      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software"
+    },
     {
       "id": "u_82a82346",
       "sentAt": "2026-08-29T02:47:44.258Z",
@@ -4975,31 +5000,6 @@
       "id": "u_caa85d46",
       "sentAt": "2026-08-06T10:48:11.424Z",
       "title": "The Year AI Science and the Physical AI Industry Came Alive"
-    },
-    {
-      "id": "u_e9741fb2",
-      "sentAt": "2026-08-06T10:48:11.424Z",
-      "title": "Prime Intellect Releases Prime Agent: An Open-Source RLM Harness Where Sub-Agents Are Function Calls Inside Persistent IPython Kernel"
-    },
-    {
-      "id": "u_f89992d9",
-      "sentAt": "2026-08-06T10:48:11.424Z",
-      "title": "Nvidia is quietly staffing a new AI safety team as it doubles down on open models"
-    },
-    {
-      "id": "u_247c894b",
-      "sentAt": "2026-08-06T06:33:56.956Z",
-      "title": "Meta has launched Muse Code, an artificial intelligence agent dedicated to programming, to compete with solutions from Anthropic and OpenAI. - Informat.ro"
-    },
-    {
-      "id": "u_ac74b81e",
-      "sentAt": "2026-08-06T06:33:56.956Z",
-      "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding"
-    },
-    {
-      "id": "u_2cd96b47",
-      "sentAt": "2026-08-06T06:33:56.956Z",
-      "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models"
     }
   ]
 }
