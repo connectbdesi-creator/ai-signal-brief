@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-29T10:55:03.254Z",
+  "updatedAt": "2026-08-29T16:25:23.523Z",
   "entries": [
+    {
+      "id": "u_f3feef2a",
+      "sentAt": "2026-08-29T16:25:23.523Z",
+      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music"
+    },
+    {
+      "id": "u_6d5777f",
+      "sentAt": "2026-08-29T16:25:23.523Z",
+      "title": "b10683"
+    },
+    {
+      "id": "u_6e7dcab",
+      "sentAt": "2026-08-29T16:25:23.523Z",
+      "title": "b10682"
+    },
+    {
+      "id": "u_2cc4839f",
+      "sentAt": "2026-08-29T16:25:23.523Z",
+      "title": "b10681"
+    },
+    {
+      "id": "u_1aa44fb",
+      "sentAt": "2026-08-29T16:25:23.523Z",
+      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling"
+    },
     {
       "id": "u_75daf671",
       "sentAt": "2026-08-29T10:55:03.254Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b2d59632",
       "sentAt": "2026-08-07T00:04:45.509Z",
       "title": "UCO launches new artificial intelligence degree programs this Fall - News 9"
-    },
-    {
-      "id": "u_d294d87e",
-      "sentAt": "2026-08-07T00:04:45.509Z",
-      "title": "AI designs new virus not found in nature"
-    },
-    {
-      "id": "u_1034a474",
-      "sentAt": "2026-08-07T00:04:45.509Z",
-      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker"
-    },
-    {
-      "id": "u_7b3512c7",
-      "sentAt": "2026-08-06T10:48:11.424Z",
-      "title": "Rogue OpenAI models behind 'unprecedented cybersecurity incident' teamed up to break out of their testing environment — multiple agents left each other messages for months, communicating undetected - Tom's Hardware"
-    },
-    {
-      "id": "u_ffe6de0",
-      "sentAt": "2026-08-06T10:48:11.424Z",
-      "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets"
-    },
-    {
-      "id": "u_caa85d46",
-      "sentAt": "2026-08-06T10:48:11.424Z",
-      "title": "The Year AI Science and the Physical AI Industry Came Alive"
     }
   ]
 }
