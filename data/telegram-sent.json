@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-28T20:00:03.933Z",
+  "updatedAt": "2026-08-29T02:47:44.258Z",
   "entries": [
+    {
+      "id": "u_82a82346",
+      "sentAt": "2026-08-29T02:47:44.258Z",
+      "title": "GRIP model blend reports similar accuracy with fewer tokens"
+    },
+    {
+      "id": "u_9745835c",
+      "sentAt": "2026-08-29T02:47:44.258Z",
+      "title": "One-shot AI guidance outperforms static help in program searches"
+    },
+    {
+      "id": "u_6a477639",
+      "sentAt": "2026-08-29T02:47:44.258Z",
+      "title": "Andreessen Horowitz raises $1.1B AI infrastructure fund"
+    },
+    {
+      "id": "u_1415b859",
+      "sentAt": "2026-08-29T02:47:44.258Z",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days"
+    },
+    {
+      "id": "u_15d00933",
+      "sentAt": "2026-08-29T02:47:44.258Z",
+      "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership"
+    },
     {
       "id": "u_dba9270",
       "sentAt": "2026-08-28T20:00:03.933Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2cd96b47",
       "sentAt": "2026-08-06T06:33:56.956Z",
       "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models"
-    },
-    {
-      "id": "u_72b4c81e",
-      "sentAt": "2026-08-06T06:33:56.956Z",
-      "title": "Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools"
-    },
-    {
-      "id": "u_3215d3ad",
-      "sentAt": "2026-08-06T06:33:56.956Z",
-      "title": "Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load"
-    },
-    {
-      "id": "u_e32abfc9",
-      "sentAt": "2026-08-06T02:47:40.707Z",
-      "title": "Three’s company: Meta says its AI agents went rogue during testing, too"
-    },
-    {
-      "id": "u_1b261459",
-      "sentAt": "2026-08-06T02:47:40.707Z",
-      "title": "Meta says AI model accessed the internet and hacked another firm"
-    },
-    {
-      "id": "u_2704ae7f",
-      "sentAt": "2026-08-06T02:47:40.707Z",
-      "title": "How OpenAI's agents broke out of testing to hack Hugging Face"
     }
   ]
 }
