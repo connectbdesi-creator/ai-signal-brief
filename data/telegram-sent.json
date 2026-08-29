@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-29T20:39:05.945Z",
+  "updatedAt": "2026-08-29T23:57:46.572Z",
   "entries": [
+    {
+      "id": "u_478f6cd5",
+      "sentAt": "2026-08-29T23:57:46.572Z",
+      "title": "Humaneval benchmark for Deepseek V4 Flash 0731 vs GLM5.3 Flash on 2x DGX Spark setup"
+    },
+    {
+      "id": "u_17a539e7",
+      "sentAt": "2026-08-29T23:57:46.572Z",
+      "title": "Staged AI Agent Tops Multi-Turn Tool Tests Across Model Sizes"
+    },
+    {
+      "id": "u_4aacbaa5",
+      "sentAt": "2026-08-29T23:57:46.572Z",
+      "title": "Targeted Checks Cut AI Errors From Outdated Memory"
+    },
+    {
+      "id": "u_303eb30f",
+      "sentAt": "2026-08-29T23:57:46.572Z",
+      "title": "Any current Voice2Voice AI model that runs locally that’s good?"
+    },
+    {
+      "id": "u_344fd0cc",
+      "sentAt": "2026-08-29T23:57:46.572Z",
+      "title": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\""
+    },
     {
       "id": "u_8fd2aecf",
       "sentAt": "2026-08-29T20:39:05.945Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2e5307f1",
       "sentAt": "2026-08-07T07:20:12.708Z",
       "title": "AI Agent Attempted to Social Engineer Open Source Maintainer to Merge Malware"
-    },
-    {
-      "id": "u_cc9543bc",
-      "sentAt": "2026-08-07T07:20:12.708Z",
-      "title": "One of science fiction’s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel"
-    },
-    {
-      "id": "u_48976d51",
-      "sentAt": "2026-08-07T07:20:12.708Z",
-      "title": "Relay, Don't Route: Adaptive Population Handoff for Cost-Efficient LLM-Driven Evolution"
-    },
-    {
-      "id": "u_f43f354f",
-      "sentAt": "2026-08-07T04:27:47.248Z",
-      "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights"
-    },
-    {
-      "id": "u_3b8380b3",
-      "sentAt": "2026-08-07T04:27:47.248Z",
-      "title": "Naïve bags $28.5M in funding to automate the creation and day-to-day running of almost any business"
-    },
-    {
-      "id": "u_32da6d71",
-      "sentAt": "2026-08-07T04:27:47.248Z",
-      "title": "Bowie State University to launch bachelor's degree in artificial intelligence this fall - WUSA9"
     }
   ]
 }
