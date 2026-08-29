@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-29T16:25:23.523Z",
+  "updatedAt": "2026-08-29T20:39:05.945Z",
   "entries": [
+    {
+      "id": "u_8fd2aecf",
+      "sentAt": "2026-08-29T20:39:05.945Z",
+      "title": "b10687"
+    },
+    {
+      "id": "u_21a3a4d3",
+      "sentAt": "2026-08-29T20:39:05.945Z",
+      "title": "b10686"
+    },
+    {
+      "id": "u_74aca144",
+      "sentAt": "2026-08-29T20:39:05.945Z",
+      "title": "CrowdStrike’s post-Mythos surge: Moat, momentum and the blast-radius test"
+    },
+    {
+      "id": "u_46b59aef",
+      "sentAt": "2026-08-29T20:39:05.945Z",
+      "title": "b10685"
+    },
+    {
+      "id": "u_54f5c9e1",
+      "sentAt": "2026-08-29T20:39:05.945Z",
+      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling - MarkTechPost"
+    },
     {
       "id": "u_f3feef2a",
       "sentAt": "2026-08-29T16:25:23.523Z",
@@ -4975,31 +5000,6 @@
       "id": "u_32da6d71",
       "sentAt": "2026-08-07T04:27:47.248Z",
       "title": "Bowie State University to launch bachelor's degree in artificial intelligence this fall - WUSA9"
-    },
-    {
-      "id": "u_d1f05c1d",
-      "sentAt": "2026-08-07T04:27:47.248Z",
-      "title": "Optical networking startup Lumilens launches with $900M in funding"
-    },
-    {
-      "id": "u_8debac98",
-      "sentAt": "2026-08-07T04:27:47.248Z",
-      "title": "Alibaba’s latest AI model puts it back in the great game"
-    },
-    {
-      "id": "u_88e3336e",
-      "sentAt": "2026-08-07T00:04:45.509Z",
-      "title": "Meta’s Muse Spark 1.1 hacked an external organization during cybersecurity test"
-    },
-    {
-      "id": "u_30e60a3b",
-      "sentAt": "2026-08-07T00:04:45.509Z",
-      "title": "AMD acquires Taalas to hardwire AI models into silicon"
-    },
-    {
-      "id": "u_b2d59632",
-      "sentAt": "2026-08-07T00:04:45.509Z",
-      "title": "UCO launches new artificial intelligence degree programs this Fall - News 9"
     }
   ]
 }
