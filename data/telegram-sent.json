@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-30T16:19:03.759Z",
+  "updatedAt": "2026-08-30T20:45:37.918Z",
   "entries": [
+    {
+      "id": "u_329ea76c",
+      "sentAt": "2026-08-30T20:45:37.918Z",
+      "title": "AI summarization method is far faster at choosing training examples"
+    },
+    {
+      "id": "u_446979e3",
+      "sentAt": "2026-08-30T20:45:37.918Z",
+      "title": "b10701"
+    },
+    {
+      "id": "u_d871452f",
+      "sentAt": "2026-08-30T20:45:37.918Z",
+      "title": "b10700"
+    },
+    {
+      "id": "u_38dc58e8",
+      "sentAt": "2026-08-30T20:45:37.918Z",
+      "title": "AI Agents Are Where Microservices Were in 2015 - StartupHub.ai"
+    },
+    {
+      "id": "u_a8abe73",
+      "sentAt": "2026-08-30T20:45:37.918Z",
+      "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment"
+    },
     {
       "id": "u_227c456e",
       "sentAt": "2026-08-30T16:19:03.759Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8fbb0b7e",
       "sentAt": "2026-08-07T14:55:09.904Z",
       "title": "Menlo Security targets real-time AI agent security with MARS platform"
-    },
-    {
-      "id": "u_501884e9",
-      "sentAt": "2026-08-07T14:55:09.904Z",
-      "title": "Anyone running DeepSeek-V4-Flash-0731 on MI325X with vLLM? Mine is behaving completely broken"
-    },
-    {
-      "id": "u_bf320d3c",
-      "sentAt": "2026-08-07T14:55:09.904Z",
-      "title": "AMD to buy Taalas, maker of model-specific AI chips for enterprise inference - Network World"
-    },
-    {
-      "id": "u_da1b39aa",
-      "sentAt": "2026-08-07T13:10:06.333Z",
-      "title": "Agentic AI Creates A New Cybersecurity Challenge And A Defense Model"
-    },
-    {
-      "id": "u_9cda301d",
-      "sentAt": "2026-08-07T13:10:06.333Z",
-      "title": "LabyrinthBench: a local-focused, judge-free LLM benchmark that measures context recall under interference for multi-step agentic tasks."
-    },
-    {
-      "id": "u_b49fb50b",
-      "sentAt": "2026-08-07T13:10:06.333Z",
-      "title": "Essential Safeguards For AI Agents That Access Critical Systems"
     }
   ]
 }
