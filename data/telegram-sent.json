@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-29T23:57:46.572Z",
+  "updatedAt": "2026-08-30T05:11:13.507Z",
   "entries": [
+    {
+      "id": "u_878ddc8f",
+      "sentAt": "2026-08-30T05:11:13.507Z",
+      "title": "b10689"
+    },
+    {
+      "id": "u_7a01c05d",
+      "sentAt": "2026-08-30T05:11:13.507Z",
+      "title": "AI Recovery Method Reports Fewer Hidden Attacks in Hardware Code"
+    },
+    {
+      "id": "u_329f197c",
+      "sentAt": "2026-08-30T05:11:13.507Z",
+      "title": "v1.99.0-rc.2"
+    },
+    {
+      "id": "u_35bbbb9e",
+      "sentAt": "2026-08-30T05:11:13.507Z",
+      "title": "v1.100.0-rc.1"
+    },
+    {
+      "id": "u_8745a920",
+      "sentAt": "2026-08-30T05:11:13.507Z",
+      "title": "A neutrino model links CP violation to strong-CP constraints"
+    },
     {
       "id": "u_478f6cd5",
       "sentAt": "2026-08-29T23:57:46.572Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b3ed3c78",
       "sentAt": "2026-08-07T09:02:48.761Z",
       "title": "Show HN: Skill to stop AI agents from retry-looping during GitHub outages"
-    },
-    {
-      "id": "u_1d3cd67d",
-      "sentAt": "2026-08-07T09:02:48.761Z",
-      "title": "When autonomous AI agents go rogue, who pays for the damage? - Ynetnews"
-    },
-    {
-      "id": "u_14799304",
-      "sentAt": "2026-08-07T09:02:48.761Z",
-      "title": "Alibaba To Charge Big Users Of Its Next Open-Source AI Model: Report - NDTV"
-    },
-    {
-      "id": "u_632953a5",
-      "sentAt": "2026-08-07T07:20:12.708Z",
-      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot"
-    },
-    {
-      "id": "u_afc737f7",
-      "sentAt": "2026-08-07T07:20:12.708Z",
-      "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market"
-    },
-    {
-      "id": "u_2e5307f1",
-      "sentAt": "2026-08-07T07:20:12.708Z",
-      "title": "AI Agent Attempted to Social Engineer Open Source Maintainer to Merge Malware"
     }
   ]
 }
