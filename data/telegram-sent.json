@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-30T11:31:20.830Z",
+  "updatedAt": "2026-08-30T16:19:03.759Z",
   "entries": [
+    {
+      "id": "u_227c456e",
+      "sentAt": "2026-08-30T16:19:03.759Z",
+      "title": "oMLX Review, Auditing the 90s to 5s Agent Claim"
+    },
+    {
+      "id": "u_dd4d2f32",
+      "sentAt": "2026-08-30T16:19:03.759Z",
+      "title": "Four safeguards to stop your AI agents from going rogue"
+    },
+    {
+      "id": "u_53677e4b",
+      "sentAt": "2026-08-30T16:19:03.759Z",
+      "title": "b10698"
+    },
+    {
+      "id": "u_dd1f35a4",
+      "sentAt": "2026-08-30T16:19:03.759Z",
+      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage - BleepingComputer"
+    },
+    {
+      "id": "u_119db57",
+      "sentAt": "2026-08-30T16:19:03.759Z",
+      "title": "b10697"
+    },
     {
       "id": "u_83af497c",
       "sentAt": "2026-08-30T11:31:20.830Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b49fb50b",
       "sentAt": "2026-08-07T13:10:06.333Z",
       "title": "Essential Safeguards For AI Agents That Access Critical Systems"
-    },
-    {
-      "id": "u_f289d709",
-      "sentAt": "2026-08-07T13:10:06.333Z",
-      "title": "5 Free Courses to Learn Modern AI and LLMs"
-    },
-    {
-      "id": "u_6a2e06b1",
-      "sentAt": "2026-08-07T13:10:06.333Z",
-      "title": "Show HN: Akintu – AI agents trained on custom knowledge bases using RAG"
-    },
-    {
-      "id": "u_b0db7dbb",
-      "sentAt": "2026-08-07T10:55:08.706Z",
-      "title": "Ask HN: What observability stack are you using for AI agents in production?"
-    },
-    {
-      "id": "u_116fb6f3",
-      "sentAt": "2026-08-07T10:55:08.706Z",
-      "title": "Alibaba tests new business model for Qwen open-source AI - AI News"
-    },
-    {
-      "id": "u_46976677",
-      "sentAt": "2026-08-07T10:55:08.706Z",
-      "title": "Runtime instances: persistent compute for production AI agents"
     }
   ]
 }
