@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-31T08:19:33.522Z",
+  "updatedAt": "2026-08-31T17:27:18.818Z",
   "entries": [
+    {
+      "id": "u_d70b5d46",
+      "sentAt": "2026-08-31T17:27:18.818Z",
+      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting"
+    },
+    {
+      "id": "u_4fb7b1b5",
+      "sentAt": "2026-08-31T17:27:18.818Z",
+      "title": "Unified AI model leads most hate-speech benchmark tests"
+    },
+    {
+      "id": "u_e20f92b8",
+      "sentAt": "2026-08-31T17:27:18.818Z",
+      "title": "Rubric-based Qwen3-VL variant tops two benchmark averages"
+    },
+    {
+      "id": "u_2c5622c8",
+      "sentAt": "2026-08-31T17:27:18.818Z",
+      "title": "OpenAI confirms ChatGPT outage as users report errors - BleepingComputer"
+    },
+    {
+      "id": "u_e43e9fc3",
+      "sentAt": "2026-08-31T17:27:18.818Z",
+      "title": "b10723"
+    },
     {
       "id": "u_7565f9b8",
       "sentAt": "2026-08-31T08:19:33.522Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ffe050ef",
       "sentAt": "2026-08-07T20:43:51.403Z",
       "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful"
-    },
-    {
-      "id": "u_42458356",
-      "sentAt": "2026-08-07T20:43:51.403Z",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory"
-    },
-    {
-      "id": "u_77a0c5ef",
-      "sentAt": "2026-08-07T20:43:51.403Z",
-      "title": "My issue with Artificial Analysis's 'intelligence index'"
-    },
-    {
-      "id": "u_52087221",
-      "sentAt": "2026-08-07T19:01:07.603Z",
-      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon"
-    },
-    {
-      "id": "u_650c0913",
-      "sentAt": "2026-08-07T19:01:07.603Z",
-      "title": "Watch the OpenAI Hugging Face presentation that people are calling a 'holy %{*#^' moment in AI"
-    },
-    {
-      "id": "u_1b4264b6",
-      "sentAt": "2026-08-07T19:01:07.603Z",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents"
     }
   ]
 }
