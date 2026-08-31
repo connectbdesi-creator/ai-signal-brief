@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-31T17:27:18.818Z",
+  "updatedAt": "2026-08-31T22:38:31.039Z",
   "entries": [
+    {
+      "id": "u_b41d3a04",
+      "sentAt": "2026-08-31T22:38:31.039Z",
+      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting"
+    },
+    {
+      "id": "u_9b4c9613",
+      "sentAt": "2026-08-31T22:38:31.039Z",
+      "title": "AI Theorem Provers Struggle to Turn Math Answers Into Proofs"
+    },
+    {
+      "id": "u_bf3b4e23",
+      "sentAt": "2026-08-31T22:38:31.039Z",
+      "title": "One AI auditor setup scored above a baseline, but results varied"
+    },
+    {
+      "id": "u_d5fd1d54",
+      "sentAt": "2026-08-31T22:38:31.039Z",
+      "title": "Direct Neural Predictors Beat Generative Models in Rarefied-Flow Test"
+    },
+    {
+      "id": "u_29dd21e3",
+      "sentAt": "2026-08-31T22:38:31.039Z",
+      "title": "b10727"
+    },
     {
       "id": "u_d70b5d46",
       "sentAt": "2026-08-31T17:27:18.818Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cdf99c11",
       "sentAt": "2026-08-07T22:38:58.736Z",
       "title": "Agentic AI Is Breaking Security’s Human Assumptions"
-    },
-    {
-      "id": "u_76924c34",
-      "sentAt": "2026-08-07T22:38:58.736Z",
-      "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents"
-    },
-    {
-      "id": "u_20917696",
-      "sentAt": "2026-08-07T22:38:58.736Z",
-      "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class"
-    },
-    {
-      "id": "u_53a14623",
-      "sentAt": "2026-08-07T20:43:51.403Z",
-      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time"
-    },
-    {
-      "id": "u_273518e4",
-      "sentAt": "2026-08-07T20:43:51.403Z",
-      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)"
-    },
-    {
-      "id": "u_ffe050ef",
-      "sentAt": "2026-08-07T20:43:51.403Z",
-      "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful"
     }
   ]
 }
