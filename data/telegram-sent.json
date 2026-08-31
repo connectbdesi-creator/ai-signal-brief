@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-30T20:45:37.918Z",
+  "updatedAt": "2026-08-31T00:16:36.213Z",
   "entries": [
+    {
+      "id": "u_55e12b82",
+      "sentAt": "2026-08-31T00:16:36.213Z",
+      "title": "Understanding ChatGPT Work"
+    },
+    {
+      "id": "u_b048630b",
+      "sentAt": "2026-08-31T00:16:36.213Z",
+      "title": "b10705"
+    },
+    {
+      "id": "u_9d398bcb",
+      "sentAt": "2026-08-31T00:16:36.213Z",
+      "title": "b10703"
+    },
+    {
+      "id": "u_fc7ac206",
+      "sentAt": "2026-08-31T00:16:36.213Z",
+      "title": "AI agents have no sense of time and are not aware of it"
+    },
+    {
+      "id": "u_552b40b1",
+      "sentAt": "2026-08-31T00:16:36.213Z",
+      "title": "boAt launches Crest AI with Google Cloud, powered by Google Gemini - ET Enterprise AI"
+    },
     {
       "id": "u_329ea76c",
       "sentAt": "2026-08-30T20:45:37.918Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2522c2f3",
       "sentAt": "2026-08-07T16:56:36.796Z",
       "title": "A research firm shares its top cybersecurity stock picks with agentic AI threats on the rise"
-    },
-    {
-      "id": "u_13bace69",
-      "sentAt": "2026-08-07T16:56:36.796Z",
-      "title": "Responding to the next frontier of critical cyber capabilities"
-    },
-    {
-      "id": "u_ffa05413",
-      "sentAt": "2026-08-07T16:56:36.796Z",
-      "title": "Kenco To Deploy More of DeepFabric’s AI Agents - WWD"
-    },
-    {
-      "id": "u_f042cc08",
-      "sentAt": "2026-08-07T14:55:09.904Z",
-      "title": "Geoffrey Hinton Warns AI May Outsmart Humans As Agents Escape Tests"
-    },
-    {
-      "id": "u_112e3f20",
-      "sentAt": "2026-08-07T14:55:09.904Z",
-      "title": "OpenAI’s Security Breach Was More Alarming Than We Knew"
-    },
-    {
-      "id": "u_8fbb0b7e",
-      "sentAt": "2026-08-07T14:55:09.904Z",
-      "title": "Menlo Security targets real-time AI agent security with MARS platform"
     }
   ]
 }
