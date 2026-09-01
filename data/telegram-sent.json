@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-01T16:17:00.829Z",
+  "updatedAt": "2026-09-01T20:45:37.822Z",
   "entries": [
+    {
+      "id": "u_766af27d",
+      "sentAt": "2026-09-01T20:45:37.822Z",
+      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others"
+    },
+    {
+      "id": "u_316dec18",
+      "sentAt": "2026-09-01T20:45:37.822Z",
+      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less"
+    },
+    {
+      "id": "u_62b80566",
+      "sentAt": "2026-09-01T20:45:37.822Z",
+      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less"
+    },
+    {
+      "id": "u_3ffb7680",
+      "sentAt": "2026-09-01T20:45:37.822Z",
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities"
+    },
+    {
+      "id": "u_5302c23",
+      "sentAt": "2026-09-01T20:45:37.822Z",
+      "title": "b10750"
+    },
     {
       "id": "u_9e26a67b",
       "sentAt": "2026-09-01T16:17:00.829Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ed30bbb0",
       "sentAt": "2026-08-08T10:36:33.881Z",
       "title": "How to Disable Gemini in Gmail and Google Docs"
-    },
-    {
-      "id": "u_1c8384aa",
-      "sentAt": "2026-08-08T10:36:33.881Z",
-      "title": "AI agents use roughly 600 times more energy than a simple chat prompt"
-    },
-    {
-      "id": "u_e35e1e0f",
-      "sentAt": "2026-08-08T10:36:33.881Z",
-      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks"
-    },
-    {
-      "id": "u_674aca40",
-      "sentAt": "2026-08-08T08:45:06.125Z",
-      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks"
-    },
-    {
-      "id": "u_c39236da",
-      "sentAt": "2026-08-08T08:45:06.125Z",
-      "title": "Anyone else amped up over Qwen 3.8?"
-    },
-    {
-      "id": "u_e92c4fd",
-      "sentAt": "2026-08-08T08:45:06.125Z",
-      "title": "Is anyone else finding DeepSeek-V4-Flash unreliable for non-coding tasks?"
     }
   ]
 }
