@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-01T20:45:37.822Z",
+  "updatedAt": "2026-09-01T23:52:50.331Z",
   "entries": [
+    {
+      "id": "u_8e386f82",
+      "sentAt": "2026-09-01T23:52:50.331Z",
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work"
+    },
+    {
+      "id": "u_dba9ab3e",
+      "sentAt": "2026-09-01T23:52:50.331Z",
+      "title": "v1.101.0-dev.1"
+    },
+    {
+      "id": "u_60422d22",
+      "sentAt": "2026-09-01T23:52:50.331Z",
+      "title": "OpenAI to launch new model with ‘stronger safeguards’ after hack - BNN Bloomberg"
+    },
+    {
+      "id": "u_e13694b9",
+      "sentAt": "2026-09-01T23:52:50.331Z",
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems"
+    },
+    {
+      "id": "u_f29a5b5d",
+      "sentAt": "2026-09-01T23:52:50.331Z",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack"
+    },
     {
       "id": "u_766af27d",
       "sentAt": "2026-09-01T20:45:37.822Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1476a199",
       "sentAt": "2026-08-08T12:53:56.724Z",
       "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours"
-    },
-    {
-      "id": "u_80450953",
-      "sentAt": "2026-08-08T12:53:56.724Z",
-      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours"
-    },
-    {
-      "id": "u_b10a6181",
-      "sentAt": "2026-08-08T12:53:56.724Z",
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia"
-    },
-    {
-      "id": "u_c453da1a",
-      "sentAt": "2026-08-08T12:53:56.724Z",
-      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia"
-    },
-    {
-      "id": "u_1a21c655",
-      "sentAt": "2026-08-08T12:53:56.724Z",
-      "title": "Suspected AI use is the entertainment industry's scarlet letter"
-    },
-    {
-      "id": "u_ed30bbb0",
-      "sentAt": "2026-08-08T10:36:33.881Z",
-      "title": "How to Disable Gemini in Gmail and Google Docs"
     }
   ]
 }
