@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-01T04:13:44.095Z",
+  "updatedAt": "2026-09-01T11:19:51.336Z",
   "entries": [
+    {
+      "id": "u_978ed6e4",
+      "sentAt": "2026-09-01T11:19:51.336Z",
+      "title": "Holographic Entropy Study Finds a Conditional Flow Bound"
+    },
+    {
+      "id": "u_d110e6ad",
+      "sentAt": "2026-09-01T11:19:51.336Z",
+      "title": "v4.27.0"
+    },
+    {
+      "id": "u_aa868fca",
+      "sentAt": "2026-09-01T11:19:51.336Z",
+      "title": "Verifier-based training linked to higher AI scores on pointing tests"
+    },
+    {
+      "id": "u_da3b414f",
+      "sentAt": "2026-09-01T11:19:51.336Z",
+      "title": "b10733"
+    },
+    {
+      "id": "u_7fea94b8",
+      "sentAt": "2026-09-01T11:19:51.336Z",
+      "title": "China’s AI Rally Is Real. Most Global Investors Are Missing It."
+    },
     {
       "id": "u_f85a4064",
       "sentAt": "2026-09-01T04:13:44.095Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d6418d76",
       "sentAt": "2026-08-08T04:59:35.289Z",
       "title": "Breaking the Curse of Multilinguality in Many-to-Many Speech-to-Text Translation via a Resource-Aware Mixture of Speech Encoders"
-    },
-    {
-      "id": "u_c7cf4040",
-      "sentAt": "2026-08-08T04:59:35.289Z",
-      "title": "A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination"
-    },
-    {
-      "id": "u_f7b1d3a2",
-      "sentAt": "2026-08-08T04:59:35.289Z",
-      "title": "InsightEmb: Learning Action-Intent Embeddings for Agentic Insight Retrieval"
-    },
-    {
-      "id": "u_9d83906a",
-      "sentAt": "2026-08-08T04:59:35.289Z",
-      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time"
-    },
-    {
-      "id": "u_b6f28650",
-      "sentAt": "2026-08-08T03:35:24.952Z",
-      "title": "Resolve AI Agents Tackle Production Issues Proactively - StartupHub.ai"
-    },
-    {
-      "id": "u_8d1b8e8",
-      "sentAt": "2026-08-08T01:49:41.753Z",
-      "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities"
     }
   ]
 }
