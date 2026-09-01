@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-01T11:19:51.336Z",
+  "updatedAt": "2026-09-01T16:17:00.829Z",
   "entries": [
+    {
+      "id": "u_9e26a67b",
+      "sentAt": "2026-09-01T16:17:00.829Z",
+      "title": "John Deere launched an AI chatbot for farmers"
+    },
+    {
+      "id": "u_55cb8d87",
+      "sentAt": "2026-09-01T16:17:00.829Z",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace"
+    },
+    {
+      "id": "u_fe2fc37d",
+      "sentAt": "2026-09-01T16:17:00.829Z",
+      "title": "Google Pics is like Canva, but with even more AI"
+    },
+    {
+      "id": "u_2d366a42",
+      "sentAt": "2026-09-01T16:17:00.829Z",
+      "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]"
+    },
+    {
+      "id": "u_cec50807",
+      "sentAt": "2026-09-01T16:17:00.829Z",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use"
+    },
     {
       "id": "u_978ed6e4",
       "sentAt": "2026-09-01T11:19:51.336Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e92c4fd",
       "sentAt": "2026-08-08T08:45:06.125Z",
       "title": "Is anyone else finding DeepSeek-V4-Flash unreliable for non-coding tasks?"
-    },
-    {
-      "id": "u_cc3d761d",
-      "sentAt": "2026-08-08T08:45:06.125Z",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative and, with Arcee, Unveils Genesis-Science-1 — Its First Open-Weight Model for Scientific Research"
-    },
-    {
-      "id": "u_dce3e032",
-      "sentAt": "2026-08-08T08:45:06.125Z",
-      "title": "Serving Deepseek v4 Flash 0731 on 2x DGX Spark — 5-7 GB OS headroom, what would you do to lower VRAM usage and increase OS available RAM?"
-    },
-    {
-      "id": "u_c69679b8",
-      "sentAt": "2026-08-08T06:57:59.676Z",
-      "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size"
-    },
-    {
-      "id": "u_3a694427",
-      "sentAt": "2026-08-08T04:59:35.289Z",
-      "title": "EuroExec: Frontier Language Models Fall Short of Expert Judgment on European Executive Decision Tasks"
-    },
-    {
-      "id": "u_d6418d76",
-      "sentAt": "2026-08-08T04:59:35.289Z",
-      "title": "Breaking the Curse of Multilinguality in Many-to-Many Speech-to-Text Translation via a Resource-Aware Mixture of Speech Encoders"
     }
   ]
 }
