@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-31T22:38:31.039Z",
+  "updatedAt": "2026-09-01T04:13:44.095Z",
   "entries": [
+    {
+      "id": "u_f85a4064",
+      "sentAt": "2026-09-01T04:13:44.095Z",
+      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making"
+    },
+    {
+      "id": "u_6cbf94a1",
+      "sentAt": "2026-09-01T04:13:44.095Z",
+      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification"
+    },
+    {
+      "id": "u_450b1aaf",
+      "sentAt": "2026-09-01T04:13:44.095Z",
+      "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences"
+    },
+    {
+      "id": "u_d3fc0865",
+      "sentAt": "2026-09-01T04:13:44.095Z",
+      "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis"
+    },
+    {
+      "id": "u_7f5de654",
+      "sentAt": "2026-09-01T04:13:44.095Z",
+      "title": "SHAPE of Chain-of-Thought in Math Reasoning"
+    },
     {
       "id": "u_b41d3a04",
       "sentAt": "2026-08-31T22:38:31.039Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8d1b8e8",
       "sentAt": "2026-08-08T01:49:41.753Z",
       "title": "OpenAI reveals upcoming Astra model may possess ‘critical’ hacking capabilities"
-    },
-    {
-      "id": "u_d5a27e4b",
-      "sentAt": "2026-08-08T01:49:41.753Z",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face"
-    },
-    {
-      "id": "u_9b8a9bf6",
-      "sentAt": "2026-08-08T01:49:41.753Z",
-      "title": "Google’s Gemini, BTS launch campaign at Las Vegas Sphere - Qazinform"
-    },
-    {
-      "id": "u_df164b0a",
-      "sentAt": "2026-08-08T01:49:41.753Z",
-      "title": "Exolnet Launches Dedicated Artificial Intelligence Development Se - natlawreview.com"
-    },
-    {
-      "id": "u_4a6c1cf4",
-      "sentAt": "2026-08-08T01:49:41.753Z",
-      "title": "Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs — Samsung reported as manufacturing partner for Claude maker - Tom's Hardware"
-    },
-    {
-      "id": "u_cdf99c11",
-      "sentAt": "2026-08-07T22:38:58.736Z",
-      "title": "Agentic AI Is Breaking Security’s Human Assumptions"
     }
   ]
 }
