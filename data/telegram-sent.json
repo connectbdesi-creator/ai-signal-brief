@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-02T19:17:18.555Z",
+  "updatedAt": "2026-09-02T22:27:17.315Z",
   "entries": [
+    {
+      "id": "u_fe90b823",
+      "sentAt": "2026-09-02T22:27:17.315Z",
+      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference"
+    },
+    {
+      "id": "u_4c00f09b",
+      "sentAt": "2026-09-02T22:27:17.315Z",
+      "title": "b10766"
+    },
+    {
+      "id": "u_b445ecd2",
+      "sentAt": "2026-09-02T22:27:17.315Z",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts"
+    },
+    {
+      "id": "u_b1a35b55",
+      "sentAt": "2026-09-02T22:27:17.315Z",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more"
+    },
+    {
+      "id": "u_e58b7cab",
+      "sentAt": "2026-09-02T22:27:17.315Z",
+      "title": "b10764"
+    },
     {
       "id": "u_29da6dac",
       "sentAt": "2026-09-02T19:17:18.555Z",
@@ -4975,31 +5000,6 @@
       "id": "u_11fed79b",
       "sentAt": "2026-08-09T14:37:21.168Z",
       "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time"
-    },
-    {
-      "id": "u_20bc4434",
-      "sentAt": "2026-08-09T14:37:21.168Z",
-      "title": "Best Embedding + Reranking Model"
-    },
-    {
-      "id": "u_5c05e04a",
-      "sentAt": "2026-08-09T12:56:07.518Z",
-      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time"
-    },
-    {
-      "id": "u_3613abc",
-      "sentAt": "2026-08-09T12:56:07.518Z",
-      "title": "AMD llama.cpp: reducing MTP buffer overhead gave me 64K → 149K context for Qwen 27B"
-    },
-    {
-      "id": "u_5814b547",
-      "sentAt": "2026-08-09T12:56:07.518Z",
-      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model"
-    },
-    {
-      "id": "u_f52dda25",
-      "sentAt": "2026-08-09T12:56:07.518Z",
-      "title": "Six weeks is all you get in the age of post-processable velocity"
     }
   ]
 }
