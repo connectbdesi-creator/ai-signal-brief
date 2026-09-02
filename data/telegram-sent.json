@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-02T14:11:28.252Z",
+  "updatedAt": "2026-09-02T19:17:18.555Z",
   "entries": [
+    {
+      "id": "u_29da6dac",
+      "sentAt": "2026-09-02T19:17:18.555Z",
+      "title": "Artificial Intelligence News: MoneySimpler Launches AI Trading App for Automated Global Stock and Forex Investing - StreetInsider"
+    },
+    {
+      "id": "u_23e621a6",
+      "sentAt": "2026-09-02T19:17:18.555Z",
+      "title": "In 2005, Jeff Bezos launched a platform he called “artificial artificial intelligence” that once had more than 500,000 workers. Amazon is now shutting it down - The Economic Times"
+    },
+    {
+      "id": "u_728a3afd",
+      "sentAt": "2026-09-02T19:17:18.555Z",
+      "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs"
+    },
+    {
+      "id": "u_964c2d2e",
+      "sentAt": "2026-09-02T19:17:18.555Z",
+      "title": "AI Agent Study Finds Smarter Testing Can Beat More Rollouts"
+    },
+    {
+      "id": "u_ff44ac",
+      "sentAt": "2026-09-02T19:17:18.555Z",
+      "title": "Smaller AI models’ mistakes guide stronger systems on tests"
+    },
     {
       "id": "u_f71d536c",
       "sentAt": "2026-09-02T14:11:28.252Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f52dda25",
       "sentAt": "2026-08-09T12:56:07.518Z",
       "title": "Six weeks is all you get in the age of post-processable velocity"
-    },
-    {
-      "id": "u_4c27f0e0",
-      "sentAt": "2026-08-09T12:56:07.518Z",
-      "title": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1 in an independent public-harness run (445 trials)"
-    },
-    {
-      "id": "u_38a21c71",
-      "sentAt": "2026-08-09T10:37:42.149Z",
-      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model"
-    },
-    {
-      "id": "u_632e0f59",
-      "sentAt": "2026-08-09T10:37:42.149Z",
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes"
-    },
-    {
-      "id": "u_88b18a78",
-      "sentAt": "2026-08-09T10:37:42.149Z",
-      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit"
-    },
-    {
-      "id": "u_233d00aa",
-      "sentAt": "2026-08-09T10:37:42.149Z",
-      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit"
     }
   ]
 }
