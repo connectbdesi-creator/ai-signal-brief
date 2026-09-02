@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-02T03:36:32.111Z",
+  "updatedAt": "2026-09-02T08:34:24.066Z",
   "entries": [
+    {
+      "id": "u_a29dbe2f",
+      "sentAt": "2026-09-02T08:34:24.066Z",
+      "title": "b10756"
+    },
+    {
+      "id": "u_a6e9ca3c",
+      "sentAt": "2026-09-02T08:34:24.066Z",
+      "title": "Which one will you choose and why, between R9700 32GB vs W7800 48GB?"
+    },
+    {
+      "id": "u_498950b3",
+      "sentAt": "2026-09-02T08:34:24.066Z",
+      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens"
+    },
+    {
+      "id": "u_d6778ed3",
+      "sentAt": "2026-09-02T08:34:24.066Z",
+      "title": "b10754"
+    },
+    {
+      "id": "u_5cf4e322",
+      "sentAt": "2026-09-02T08:34:24.066Z",
+      "title": "v1.99.1"
+    },
     {
       "id": "u_4c16da14",
       "sentAt": "2026-09-02T03:36:32.111Z",
@@ -4975,31 +5000,6 @@
       "id": "u_76f1621",
       "sentAt": "2026-08-09T01:56:08.315Z",
       "title": "Is Microsoft-Phi dead?"
-    },
-    {
-      "id": "u_fc290c4d",
-      "sentAt": "2026-08-09T01:56:08.315Z",
-      "title": "Building a budget 32GB → 48GB VRAM home AI server: 2-3x RX 9060 XT 16GB vs RTX 5060 Ti 16GB, AM5 vs used EPYC?"
-    },
-    {
-      "id": "u_b6cd4517",
-      "sentAt": "2026-08-08T22:32:22.215Z",
-      "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run"
-    },
-    {
-      "id": "u_4ccaf2e5",
-      "sentAt": "2026-08-08T20:32:52.306Z",
-      "title": "OpenAI acquires presentation startup NextSlide"
-    },
-    {
-      "id": "u_bcbc559b",
-      "sentAt": "2026-08-08T20:32:52.306Z",
-      "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]"
-    },
-    {
-      "id": "u_a407670c",
-      "sentAt": "2026-08-08T18:40:58.001Z",
-      "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary"
     }
   ]
 }
