@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-02T08:34:24.066Z",
+  "updatedAt": "2026-09-02T14:11:28.252Z",
   "entries": [
+    {
+      "id": "u_f71d536c",
+      "sentAt": "2026-09-02T14:11:28.252Z",
+      "title": "Why AI Agents Are The Identity Crisis Nobody's Logging"
+    },
+    {
+      "id": "u_debf8acf",
+      "sentAt": "2026-09-02T14:11:28.252Z",
+      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos"
+    },
+    {
+      "id": "u_66c51a43",
+      "sentAt": "2026-09-02T14:11:28.252Z",
+      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos"
+    },
+    {
+      "id": "u_63497610",
+      "sentAt": "2026-09-02T14:11:28.252Z",
+      "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]"
+    },
+    {
+      "id": "u_5e74ca69",
+      "sentAt": "2026-09-02T14:11:28.252Z",
+      "title": "What kinds of ML bottlenecks are a good fit for Triton? [Manning giveaway] [D]"
+    },
     {
       "id": "u_a29dbe2f",
       "sentAt": "2026-09-02T08:34:24.066Z",
@@ -4975,31 +5000,6 @@
       "id": "u_233d00aa",
       "sentAt": "2026-08-09T10:37:42.149Z",
       "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit"
-    },
-    {
-      "id": "u_6f17ad8d",
-      "sentAt": "2026-08-09T07:00:53.507Z",
-      "title": "KPMG Says Nearly Half Of Executives Pulled Back AI Agents Over Cost"
-    },
-    {
-      "id": "u_dd84fe80",
-      "sentAt": "2026-08-09T05:08:37.461Z",
-      "title": "Claude Vs ChatGPT: How These AI Assistants Differ"
-    },
-    {
-      "id": "u_bf1b18da",
-      "sentAt": "2026-08-09T01:56:08.315Z",
-      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
-    },
-    {
-      "id": "u_1773c67e",
-      "sentAt": "2026-08-09T01:56:08.315Z",
-      "title": "Extremely slow DSpark draft model performance (1-2 t/s) with DeepSeek-V4-Flash on llama-server compared to MTP?"
-    },
-    {
-      "id": "u_76f1621",
-      "sentAt": "2026-08-09T01:56:08.315Z",
-      "title": "Is Microsoft-Phi dead?"
     }
   ]
 }
