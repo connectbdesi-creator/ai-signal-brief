@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-03T14:14:29.662Z",
+  "updatedAt": "2026-09-03T19:11:17.658Z",
   "entries": [
+    {
+      "id": "u_1a7f4af9",
+      "sentAt": "2026-09-03T19:11:17.658Z",
+      "title": "OpenAI launches Astra AI model - Latest news from Azerbaijan"
+    },
+    {
+      "id": "u_92aae74",
+      "sentAt": "2026-09-03T19:11:17.658Z",
+      "title": "OpenAI launches GPT-6 Astra, claims 'generational leap' - Breakingthenews.net"
+    },
+    {
+      "id": "u_c8ddb5b7",
+      "sentAt": "2026-09-03T19:11:17.658Z",
+      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety - Reuters"
+    },
+    {
+      "id": "u_cc7c5868",
+      "sentAt": "2026-09-03T19:11:17.658Z",
+      "title": "Meta is paying to peek at how you use their latest AI model"
+    },
+    {
+      "id": "u_8334680c",
+      "sentAt": "2026-09-03T19:11:17.658Z",
+      "title": "Nvidia buying AI startup that was hacked by rogue OpenAI agents - KRON4"
+    },
     {
       "id": "u_f584f22a",
       "sentAt": "2026-09-03T14:14:29.662Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fbba09bf",
       "sentAt": "2026-08-10T07:46:51.864Z",
       "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model"
-    },
-    {
-      "id": "u_af7eeeca",
-      "sentAt": "2026-08-10T07:46:51.864Z",
-      "title": "The Sparsity Whisperer"
-    },
-    {
-      "id": "u_3e2ee306",
-      "sentAt": "2026-08-10T07:46:51.864Z",
-      "title": "ArchEGraph: A Large-Scale Graph Dataset for Geometry-Topology-Physics Aligned Building Energy Modeling"
-    },
-    {
-      "id": "u_9a202235",
-      "sentAt": "2026-08-10T05:35:32.880Z",
-      "title": "Breaking: SA launches royal commission into artificial intelligence - ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-      "id": "u_82a7eeef",
-      "sentAt": "2026-08-10T05:35:32.880Z",
-      "title": "TEXAS WESLEYAN UNIVERSITY LAUNCHES NEW BACHELOR'S DEGREE IN HUMANITIES AND ARTIFICIAL INTELLIGENCE - The Business Press"
-    },
-    {
-      "id": "u_baa10fc4",
-      "sentAt": "2026-08-10T05:35:32.880Z",
-      "title": "Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning"
     }
   ]
 }
