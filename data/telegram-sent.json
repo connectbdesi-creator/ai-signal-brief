@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-03T03:35:42.794Z",
+  "updatedAt": "2026-09-03T08:42:25.591Z",
   "entries": [
+    {
+      "id": "u_54828bd9",
+      "sentAt": "2026-09-03T08:42:25.591Z",
+      "title": "Anker Unveils THUS AI Chip Across Five Audio Models At IFA 2026"
+    },
+    {
+      "id": "u_74ef6d7b",
+      "sentAt": "2026-09-03T08:42:25.591Z",
+      "title": "Philips Hue IFA 2026 Bumper Launch: Everything You Need To Know"
+    },
+    {
+      "id": "u_ae724ae6",
+      "sentAt": "2026-09-03T08:42:25.591Z",
+      "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon"
+    },
+    {
+      "id": "u_a47e1c61",
+      "sentAt": "2026-09-03T08:42:25.591Z",
+      "title": "To keep the AI hacking genie bottled up, try one-way networks"
+    },
+    {
+      "id": "u_44e2406b",
+      "sentAt": "2026-09-03T08:42:25.591Z",
+      "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training"
+    },
     {
       "id": "u_77ed4bbb",
       "sentAt": "2026-09-03T03:35:42.794Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7a2f3fd5",
       "sentAt": "2026-08-10T02:01:00.299Z",
       "title": "Veeam pushes cyber resilience as AI raises data risks"
-    },
-    {
-      "id": "u_11e47a0f",
-      "sentAt": "2026-08-10T02:01:00.299Z",
-      "title": "Quoting Claude Opus 5 system prompt"
-    },
-    {
-      "id": "u_5c697f38",
-      "sentAt": "2026-08-10T02:01:00.299Z",
-      "title": "GitHub Models is now retired"
-    },
-    {
-      "id": "u_3570893e",
-      "sentAt": "2026-08-09T22:34:27.944Z",
-      "title": "endless-frontier/BigBang-v1 - qwen 3.5 finetunes"
-    },
-    {
-      "id": "u_9b758e93",
-      "sentAt": "2026-08-09T22:34:27.944Z",
-      "title": "The Gemma team will host a special event on August 20"
-    },
-    {
-      "id": "u_2e44bf8b",
-      "sentAt": "2026-08-09T22:34:27.944Z",
-      "title": "DeepSeek-V4-Flash-0731 Q8_K_XL sometimes stops mid-task in OpenCode - anyone else seeing this?"
     }
   ]
 }
