@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-03T19:11:17.658Z",
+  "updatedAt": "2026-09-03T22:24:28.607Z",
   "entries": [
+    {
+      "id": "u_f4bedecf",
+      "sentAt": "2026-09-03T22:24:28.607Z",
+      "title": "b10793"
+    },
+    {
+      "id": "u_88503a72",
+      "sentAt": "2026-09-03T22:24:28.607Z",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today"
+    },
+    {
+      "id": "u_700c949d",
+      "sentAt": "2026-09-03T22:24:28.607Z",
+      "title": "OpenAI Launches GPT-6 Astra and Claims a New Era of Artificial Intelligence - Northeast Times"
+    },
+    {
+      "id": "u_a2e014d",
+      "sentAt": "2026-09-03T22:24:28.607Z",
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested"
+    },
+    {
+      "id": "u_df273db7",
+      "sentAt": "2026-09-03T22:24:28.607Z",
+      "title": "OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gated Behind a ‘Critical’ Cyber Threshold"
+    },
     {
       "id": "u_1a7f4af9",
       "sentAt": "2026-09-03T19:11:17.658Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d60b4ac3",
       "sentAt": "2026-08-10T09:25:31.683Z",
       "title": "Broward schools launch AI hub as district expands use of technology in classrooms - caribbeannationalweekly.com"
-    },
-    {
-      "id": "u_b779ad39",
-      "sentAt": "2026-08-10T09:25:31.683Z",
-      "title": "KIST unveils neuromorphic AI training method for an era of low-power intelligence - Bioengineer.org"
-    },
-    {
-      "id": "u_d05b32d4",
-      "sentAt": "2026-08-10T09:25:31.683Z",
-      "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits"
-    },
-    {
-      "id": "u_48990342",
-      "sentAt": "2026-08-10T07:46:51.864Z",
-      "title": "SA launches royal commission into artificial intelligence - ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-      "id": "u_f7f570c1",
-      "sentAt": "2026-08-10T07:46:51.864Z",
-      "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal"
-    },
-    {
-      "id": "u_fbba09bf",
-      "sentAt": "2026-08-10T07:46:51.864Z",
-      "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model"
     }
   ]
 }
