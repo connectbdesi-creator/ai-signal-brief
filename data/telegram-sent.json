@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-03T08:42:25.591Z",
+  "updatedAt": "2026-09-03T14:14:29.662Z",
   "entries": [
+    {
+      "id": "u_f584f22a",
+      "sentAt": "2026-09-03T14:14:29.662Z",
+      "title": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness"
+    },
+    {
+      "id": "u_1631ebcd",
+      "sentAt": "2026-09-03T14:14:29.662Z",
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here"
+    },
+    {
+      "id": "u_e66d95ef",
+      "sentAt": "2026-09-03T14:14:29.662Z",
+      "title": "b10786"
+    },
+    {
+      "id": "u_9b413f33",
+      "sentAt": "2026-09-03T14:14:29.662Z",
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI"
+    },
+    {
+      "id": "u_937b02ce",
+      "sentAt": "2026-09-03T14:14:29.662Z",
+      "title": "Nvidia is buying Hugging Face for almost $13 billion"
+    },
     {
       "id": "u_54828bd9",
       "sentAt": "2026-09-03T08:42:25.591Z",
@@ -4975,31 +5000,6 @@
       "id": "u_baa10fc4",
       "sentAt": "2026-08-10T05:35:32.880Z",
       "title": "Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning"
-    },
-    {
-      "id": "u_7e934ef7",
-      "sentAt": "2026-08-10T05:35:32.880Z",
-      "title": "Online Monitoring and Corrective Steering of Programming Agents"
-    },
-    {
-      "id": "u_da6a925c",
-      "sentAt": "2026-08-10T05:35:32.880Z",
-      "title": "Beyond Attention: Signed Integrated Gradients Attribution in a BiomeGPT-Style Microbiome Transformer"
-    },
-    {
-      "id": "u_692c44ec",
-      "sentAt": "2026-08-10T02:01:00.299Z",
-      "title": "Broward schools launch AI hub as district expands use of technology in classrooms - Caribbean National Weekly"
-    },
-    {
-      "id": "u_fa79853a",
-      "sentAt": "2026-08-10T02:01:00.299Z",
-      "title": "Report explores risks and controls for artificial intelligence (AI) agents - Department of Industry Science and Resources"
-    },
-    {
-      "id": "u_7a2f3fd5",
-      "sentAt": "2026-08-10T02:01:00.299Z",
-      "title": "Veeam pushes cyber resilience as AI raises data risks"
     }
   ]
 }
