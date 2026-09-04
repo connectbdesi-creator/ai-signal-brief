@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-04T03:36:24.079Z",
+  "updatedAt": "2026-09-04T08:37:58.464Z",
   "entries": [
+    {
+      "id": "u_130e6f8e",
+      "sentAt": "2026-09-04T08:37:58.464Z",
+      "title": "OpenAI unveils GPT-6 Astra, says it may have reached human-level AI - Ynetnews"
+    },
+    {
+      "id": "u_f63ed5d0",
+      "sentAt": "2026-09-04T08:37:58.464Z",
+      "title": "OpenAI Launches 'World's Most Intelligent' AI Model GPT-6 Astra - ndtv.com"
+    },
+    {
+      "id": "u_7bcb6d6f",
+      "sentAt": "2026-09-04T08:37:58.464Z",
+      "title": "OpenAI unveils GPT-6 Astra: Here’s what this new model can do - Gulf Business"
+    },
+    {
+      "id": "u_9aa27b94",
+      "sentAt": "2026-09-04T08:37:58.464Z",
+      "title": "August newsletter is out"
+    },
+    {
+      "id": "u_6c4dcb",
+      "sentAt": "2026-09-04T08:37:58.464Z",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time"
+    },
     {
       "id": "u_f5239446",
       "sentAt": "2026-09-04T03:36:24.079Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d73abe3d",
       "sentAt": "2026-08-10T13:14:41.716Z",
       "title": "Why Enterprise AI Agents Need A Secure API Gateway Before They Need A Bigger Model"
-    },
-    {
-      "id": "u_2cdfe231",
-      "sentAt": "2026-08-10T13:14:41.716Z",
-      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic"
-    },
-    {
-      "id": "u_f80506d8",
-      "sentAt": "2026-08-10T13:14:41.716Z",
-      "title": "Deirdre Bosa to Leave CNBC and Launch Artificial Intelligence Show - citybiz"
-    },
-    {
-      "id": "u_2e1c02d",
-      "sentAt": "2026-08-10T13:14:41.716Z",
-      "title": "AI-native market research automation startup Echovane raises $1M"
-    },
-    {
-      "id": "u_89f14bed",
-      "sentAt": "2026-08-10T11:11:12.365Z",
-      "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs - AI News"
-    },
-    {
-      "id": "u_80f8e693",
-      "sentAt": "2026-08-10T11:11:12.365Z",
-      "title": "OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies"
     }
   ]
 }
