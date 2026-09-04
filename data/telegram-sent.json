@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-04T18:53:39.977Z",
+  "updatedAt": "2026-09-04T22:13:18.567Z",
   "entries": [
+    {
+      "id": "u_f33cdc3a",
+      "sentAt": "2026-09-04T22:13:18.567Z",
+      "title": "OpenAi’s ChatGPT-6 Astra released - ABC Columbia"
+    },
+    {
+      "id": "u_af88e1e3",
+      "sentAt": "2026-09-04T22:13:18.567Z",
+      "title": "PicPay Launches Anthropic Claude Integration for Banking Inquiries - PYMNTS.com"
+    },
+    {
+      "id": "u_5b75f15b",
+      "sentAt": "2026-09-04T22:13:18.567Z",
+      "title": "High-Gravity Risks: How Large Companies Build Zero Trust For AI Agents"
+    },
+    {
+      "id": "u_87d5913c",
+      "sentAt": "2026-09-04T22:13:18.567Z",
+      "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]"
+    },
+    {
+      "id": "u_c5000dfb",
+      "sentAt": "2026-09-04T22:13:18.567Z",
+      "title": "b10816"
+    },
     {
       "id": "u_87a2987f",
       "sentAt": "2026-09-04T18:53:39.977Z",
@@ -4975,31 +5000,6 @@
       "id": "u_82f144e9",
       "sentAt": "2026-08-10T19:01:12.190Z",
       "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do"
-    },
-    {
-      "id": "u_b375020e",
-      "sentAt": "2026-08-10T19:01:12.190Z",
-      "title": "Humanoid Robotics Are Blurring The Line Between Humans And Machines"
-    },
-    {
-      "id": "u_84b42c1a",
-      "sentAt": "2026-08-10T19:01:12.190Z",
-      "title": "Graph neural networks are turning hidden fraud into visible networks"
-    },
-    {
-      "id": "u_10d35388",
-      "sentAt": "2026-08-10T19:01:12.190Z",
-      "title": "House Democrats press OpenAI, Anthropic over AI agents - Latest news from Azerbaijan"
-    },
-    {
-      "id": "u_110b0bb9",
-      "sentAt": "2026-08-10T16:57:01.960Z",
-      "title": "CCC&TI Launches New Artificial Intelligence Degree Program - WataugaOnline.com"
-    },
-    {
-      "id": "u_2b2c6e34",
-      "sentAt": "2026-08-10T16:57:01.960Z",
-      "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore"
     }
   ]
 }
