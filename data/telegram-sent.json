@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-04T14:05:02.254Z",
+  "updatedAt": "2026-09-04T18:53:39.977Z",
   "entries": [
+    {
+      "id": "u_87a2987f",
+      "sentAt": "2026-09-04T18:53:39.977Z",
+      "title": "b10809"
+    },
+    {
+      "id": "u_e8798730",
+      "sentAt": "2026-09-04T18:53:39.977Z",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis"
+    },
+    {
+      "id": "u_f126c1a0",
+      "sentAt": "2026-09-04T18:53:39.977Z",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis"
+    },
+    {
+      "id": "u_44452fb8",
+      "sentAt": "2026-09-04T18:53:39.977Z",
+      "title": "OpenAI agents made 15,000 edits to German website, researchers say - NonStop Local KHQ"
+    },
+    {
+      "id": "u_9cb2bba",
+      "sentAt": "2026-09-04T18:53:39.977Z",
+      "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
+    },
     {
       "id": "u_9c99d309",
       "sentAt": "2026-09-04T14:05:02.254Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2b2c6e34",
       "sentAt": "2026-08-10T16:57:01.960Z",
       "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_12b52827",
-      "sentAt": "2026-08-10T16:57:01.960Z",
-      "title": "Zuckerberg manifesto pushes an open-source approach on AI as Meta releases its latest model - The Washington Post"
-    },
-    {
-      "id": "u_5b988275",
-      "sentAt": "2026-08-10T16:57:01.960Z",
-      "title": "AI agents are the only employees at Japan tech group NEC's new department - Nikkei Asia"
-    },
-    {
-      "id": "u_e5571292",
-      "sentAt": "2026-08-10T16:57:01.960Z",
-      "title": "EY Launching Unit to Keep a Lid on Artificial Intelligence Costs - Bloomberg.com"
-    },
-    {
-      "id": "u_f19cd58a",
-      "sentAt": "2026-08-10T15:01:30.785Z",
-      "title": "Evolve your marketing with new AI tools"
-    },
-    {
-      "id": "u_d26fbc85",
-      "sentAt": "2026-08-10T15:01:30.785Z",
-      "title": "Meta releases new AI model as Zuckerberg lays out vision - France 24"
     }
   ]
 }
