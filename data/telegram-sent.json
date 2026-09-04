@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-04T08:37:58.464Z",
+  "updatedAt": "2026-09-04T14:05:02.254Z",
   "entries": [
+    {
+      "id": "u_9c99d309",
+      "sentAt": "2026-09-04T14:05:02.254Z",
+      "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
+    },
+    {
+      "id": "u_3c851cb1",
+      "sentAt": "2026-09-04T14:05:02.254Z",
+      "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
+    },
+    {
+      "id": "u_79f4127c",
+      "sentAt": "2026-09-04T14:05:02.254Z",
+      "title": "5 Free LLM API Providers You Can Use in 2026"
+    },
+    {
+      "id": "u_f20163dc",
+      "sentAt": "2026-09-04T14:05:02.254Z",
+      "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward"
+    },
+    {
+      "id": "u_d9632bd0",
+      "sentAt": "2026-09-04T14:05:02.254Z",
+      "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward"
+    },
     {
       "id": "u_130e6f8e",
       "sentAt": "2026-09-04T08:37:58.464Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d26fbc85",
       "sentAt": "2026-08-10T15:01:30.785Z",
       "title": "Meta releases new AI model as Zuckerberg lays out vision - France 24"
-    },
-    {
-      "id": "u_90676679",
-      "sentAt": "2026-08-10T15:01:30.785Z",
-      "title": "Meta launches new Muse Glimmer AI model to democratize artificial intelligence - foxbusiness.com"
-    },
-    {
-      "id": "u_165f67a",
-      "sentAt": "2026-08-10T15:01:30.785Z",
-      "title": "Bose CEO Lila Snyder on the fight for high-quality audio"
-    },
-    {
-      "id": "u_a3c80030",
-      "sentAt": "2026-08-10T15:01:30.785Z",
-      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction"
-    },
-    {
-      "id": "u_414ba39f",
-      "sentAt": "2026-08-10T13:14:41.716Z",
-      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Business Standard"
-    },
-    {
-      "id": "u_d73abe3d",
-      "sentAt": "2026-08-10T13:14:41.716Z",
-      "title": "Why Enterprise AI Agents Need A Secure API Gateway Before They Need A Bigger Model"
     }
   ]
 }
