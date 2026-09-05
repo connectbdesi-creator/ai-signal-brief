@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-05T03:36:40.041Z",
+  "updatedAt": "2026-09-05T08:11:07.325Z",
   "entries": [
+    {
+      "id": "u_97651564",
+      "sentAt": "2026-09-05T08:11:07.325Z",
+      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
+    },
+    {
+      "id": "u_922fdee8",
+      "sentAt": "2026-09-05T08:11:07.325Z",
+      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
+    },
+    {
+      "id": "u_251178ec",
+      "sentAt": "2026-09-05T08:11:07.325Z",
+      "title": "Thousands of OpenAI agents took over German website, researchers say - Free Press Kashmir"
+    },
+    {
+      "id": "u_8be1f552",
+      "sentAt": "2026-09-05T08:11:07.325Z",
+      "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus"
+    },
+    {
+      "id": "u_ee2189f6",
+      "sentAt": "2026-09-05T08:11:07.325Z",
+      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%"
+    },
     {
       "id": "u_bd7af91",
       "sentAt": "2026-09-05T03:36:40.041Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4892f8cd",
       "sentAt": "2026-08-10T22:40:18.669Z",
       "title": "What smart people are saying about Meta's open-weight model Muse Glimmer and Mark Zuckerberg's AI manifesto"
-    },
-    {
-      "id": "u_639a48fa",
-      "sentAt": "2026-08-10T22:40:18.669Z",
-      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale"
-    },
-    {
-      "id": "u_b4471db2",
-      "sentAt": "2026-08-10T22:40:18.669Z",
-      "title": "EY Launching Unit to Keep a Lid on Artificial Intelligence Costs - bloomberg.com"
-    },
-    {
-      "id": "u_ee1dcd10",
-      "sentAt": "2026-08-10T22:40:18.669Z",
-      "title": "Meta unveils new AI model as Zuckerberg touts open source vision | Daily Sabah - Daily Sabah"
-    },
-    {
-      "id": "u_ad0f6a7b",
-      "sentAt": "2026-08-10T20:45:00.915Z",
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym"
-    },
-    {
-      "id": "u_92cd3902",
-      "sentAt": "2026-08-10T20:45:00.915Z",
-      "title": "Meta releases open-source AI model as Zuckerberg warns on concentrated control - firstcoastnews.com"
     }
   ]
 }
