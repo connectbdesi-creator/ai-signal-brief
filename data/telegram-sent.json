@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-05T08:11:07.325Z",
+  "updatedAt": "2026-09-05T13:18:37.275Z",
   "entries": [
+    {
+      "id": "u_4f3abfdd",
+      "sentAt": "2026-09-05T13:18:37.275Z",
+      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
+    },
+    {
+      "id": "u_38d70ba0",
+      "sentAt": "2026-09-05T13:18:37.275Z",
+      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
+    },
+    {
+      "id": "u_27b8bdb7",
+      "sentAt": "2026-09-05T13:18:37.275Z",
+      "title": "b10819"
+    },
+    {
+      "id": "u_bfd72f88",
+      "sentAt": "2026-09-05T13:18:37.275Z",
+      "title": "OpenAI Agents Hacked Another Website"
+    },
+    {
+      "id": "u_13857c59",
+      "sentAt": "2026-09-05T13:18:37.275Z",
+      "title": "OpenAI Agents Hacked Another Website"
+    },
     {
       "id": "u_97651564",
       "sentAt": "2026-09-05T08:11:07.325Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1fadd31c",
       "sentAt": "2026-08-11T01:56:19.680Z",
       "title": "OpenAI expands Daybreak cybersecurity research program"
-    },
-    {
-      "id": "u_9843b117",
-      "sentAt": "2026-08-11T01:56:19.680Z",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model"
-    },
-    {
-      "id": "u_b934e2da",
-      "sentAt": "2026-08-11T01:56:19.680Z",
-      "title": "Introducing Muse Glimmer"
-    },
-    {
-      "id": "u_4688aa87",
-      "sentAt": "2026-08-11T01:56:19.680Z",
-      "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots"
-    },
-    {
-      "id": "u_45a2e2b9",
-      "sentAt": "2026-08-10T22:40:18.669Z",
-      "title": "Meta releases open-source Muse Glimmer model with 30B parameters"
-    },
-    {
-      "id": "u_4892f8cd",
-      "sentAt": "2026-08-10T22:40:18.669Z",
-      "title": "What smart people are saying about Meta's open-weight model Muse Glimmer and Mark Zuckerberg's AI manifesto"
     }
   ]
 }
