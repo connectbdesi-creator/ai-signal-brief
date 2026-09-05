@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-05T20:05:43.706Z",
+  "updatedAt": "2026-09-05T23:37:42.249Z",
   "entries": [
+    {
+      "id": "u_15ca0e83",
+      "sentAt": "2026-09-05T23:37:42.249Z",
+      "title": "Introducing GPT-6 Astra for developers"
+    },
+    {
+      "id": "u_fd53c442",
+      "sentAt": "2026-09-05T23:37:42.249Z",
+      "title": "AI agents score higher with verifier-guided training, preprint reports"
+    },
+    {
+      "id": "u_f1752990",
+      "sentAt": "2026-09-05T23:37:42.249Z",
+      "title": "NInfer fork: 555k context@fp4 for 5090 with YARN, reliable kv host cacheing, monitoring, jinja, opened model support"
+    },
+    {
+      "id": "u_10403f50",
+      "sentAt": "2026-09-05T23:37:42.249Z",
+      "title": "AI Engineering Agents Rechecked More Often With Explicit Guidance"
+    },
+    {
+      "id": "u_89df86dd",
+      "sentAt": "2026-09-05T23:37:42.249Z",
+      "title": "AI Models Score High on Easy Finance Questions, Then Stumble on Hard Ones"
+    },
     {
       "id": "u_f09549c8",
       "sentAt": "2026-09-05T20:05:43.706Z",
@@ -4975,31 +5000,6 @@
       "id": "u_aa478f73",
       "sentAt": "2026-08-11T07:12:11.335Z",
       "title": "Muse Glimmer 30B + DFlash speculative decoding on vLLM: 6 patches needed, 25 → 57 tok/s. Dockerfile and numbers inside."
-    },
-    {
-      "id": "u_86372f6e",
-      "sentAt": "2026-08-11T07:12:11.335Z",
-      "title": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs"
-    },
-    {
-      "id": "u_ca6c15c9",
-      "sentAt": "2026-08-11T07:12:11.335Z",
-      "title": "Path-dependent Discrete Amortized Inference"
-    },
-    {
-      "id": "u_8295e1b2",
-      "sentAt": "2026-08-11T07:12:11.335Z",
-      "title": "Knowing You Is Everything: LLM Agents Achieve Near-Perfect Profile-Consistent Reaction Prediction in Social Media Simulation"
-    },
-    {
-      "id": "u_37240dfe",
-      "sentAt": "2026-08-11T05:11:52.900Z",
-      "title": "CHRIST University and IBM Launch IBM Innovation Center for Artificial Intelligence to Accelerate Research, Innovation and Talent Development - IBM"
-    },
-    {
-      "id": "u_f3bf5526",
-      "sentAt": "2026-08-11T05:11:52.900Z",
-      "title": "When associative memory fails, are the synapses degraded? I measured them directly — they aren't. [R]"
     }
   ]
 }
