@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-04T22:13:18.567Z",
+  "updatedAt": "2026-09-05T03:36:40.041Z",
   "entries": [
+    {
+      "id": "u_bd7af91",
+      "sentAt": "2026-09-05T03:36:40.041Z",
+      "title": "New AI training method shows higher average scores on math tests"
+    },
+    {
+      "id": "u_5b8a742b",
+      "sentAt": "2026-09-05T03:36:40.041Z",
+      "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem"
+    },
+    {
+      "id": "u_d3c17dec",
+      "sentAt": "2026-09-05T03:36:40.041Z",
+      "title": "v2.40.0 (2026-09-04)"
+    },
+    {
+      "id": "u_4aa4aedc",
+      "sentAt": "2026-09-05T03:36:40.041Z",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them"
+    },
+    {
+      "id": "u_24d51069",
+      "sentAt": "2026-09-05T03:36:40.041Z",
+      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters"
+    },
     {
       "id": "u_f33cdc3a",
       "sentAt": "2026-09-04T22:13:18.567Z",
@@ -4975,31 +5000,6 @@
       "id": "u_92cd3902",
       "sentAt": "2026-08-10T20:45:00.915Z",
       "title": "Meta releases open-source AI model as Zuckerberg warns on concentrated control - firstcoastnews.com"
-    },
-    {
-      "id": "u_e6a2f5f5",
-      "sentAt": "2026-08-10T20:45:00.915Z",
-      "title": "AI agents, IRL socializing, and vibe coding: Where top consumer investors are placing bets"
-    },
-    {
-      "id": "u_9745db7e",
-      "sentAt": "2026-08-10T20:45:00.915Z",
-      "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve"
-    },
-    {
-      "id": "u_fc904acc",
-      "sentAt": "2026-08-10T20:45:00.915Z",
-      "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]"
-    },
-    {
-      "id": "u_b1894c6a",
-      "sentAt": "2026-08-10T19:01:12.190Z",
-      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale"
-    },
-    {
-      "id": "u_82f144e9",
-      "sentAt": "2026-08-10T19:01:12.190Z",
-      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do"
     }
   ]
 }
