@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-05T13:18:37.275Z",
+  "updatedAt": "2026-09-05T16:38:39.181Z",
   "entries": [
+    {
+      "id": "u_3969aee",
+      "sentAt": "2026-09-05T16:38:39.181Z",
+      "title": "Using Blender with coding agents on macOS"
+    },
+    {
+      "id": "u_790bba66",
+      "sentAt": "2026-09-05T16:38:39.181Z",
+      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot"
+    },
+    {
+      "id": "u_f7caf70f",
+      "sentAt": "2026-09-05T16:38:39.181Z",
+      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words"
+    },
+    {
+      "id": "u_52d2dbb4",
+      "sentAt": "2026-09-05T16:38:39.181Z",
+      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words"
+    },
+    {
+      "id": "u_f3ba4ad5",
+      "sentAt": "2026-09-05T16:38:39.181Z",
+      "title": "Cyborg Roaches Can Stab You With Needles"
+    },
     {
       "id": "u_4f3abfdd",
       "sentAt": "2026-09-05T13:18:37.275Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e083e3f7",
       "sentAt": "2026-08-11T03:49:08.079Z",
       "title": "Meta Unveils AI Model 'Muse Glimmer' That Can Run On Personal Computers - NDTV"
-    },
-    {
-      "id": "u_dcbe8aa8",
-      "sentAt": "2026-08-11T03:49:08.079Z",
-      "title": "Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model - The Guardian"
-    },
-    {
-      "id": "u_76a96e3c",
-      "sentAt": "2026-08-11T03:49:08.079Z",
-      "title": "Intel to launch $15B stock sale amid AI boom, advanced packaging demand"
-    },
-    {
-      "id": "u_7446290a",
-      "sentAt": "2026-08-11T03:49:08.079Z",
-      "title": "North Carolina Central University made history as the first HBCU in the nation to launch a dedicated AI research center - ABC11 News"
-    },
-    {
-      "id": "u_6189ed42",
-      "sentAt": "2026-08-11T01:56:19.680Z",
-      "title": "Meta Unveils Downloadable AI Model 'Muse Glimmer' To Run On Personal Computers - ndtv.com"
-    },
-    {
-      "id": "u_1fadd31c",
-      "sentAt": "2026-08-11T01:56:19.680Z",
-      "title": "OpenAI expands Daybreak cybersecurity research program"
     }
   ]
 }
