@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-05T23:37:42.249Z",
+  "updatedAt": "2026-09-06T03:38:43.905Z",
   "entries": [
+    {
+      "id": "u_f43253f0",
+      "sentAt": "2026-09-06T03:38:43.905Z",
+      "title": "Video AI Keeps Nearly All Benchmark Performance With Fewer Tokens"
+    },
+    {
+      "id": "u_71dd099c",
+      "sentAt": "2026-09-06T03:38:43.905Z",
+      "title": "Foraging Agents Learn to Cluster Without a Grouping Reward"
+    },
+    {
+      "id": "u_d7e3c1e6",
+      "sentAt": "2026-09-06T03:38:43.905Z",
+      "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]"
+    },
+    {
+      "id": "u_551ce319",
+      "sentAt": "2026-09-06T03:38:43.905Z",
+      "title": "SA Launches Royal Commission Into Artificial Intelligence | ABC NEWS Danhausen (HZyCqQSJoz) - Mshale"
+    },
+    {
+      "id": "u_e2af01f9",
+      "sentAt": "2026-09-06T03:38:43.905Z",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure"
+    },
     {
       "id": "u_15ca0e83",
       "sentAt": "2026-09-05T23:37:42.249Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f24f49c5",
       "sentAt": "2026-08-11T13:11:30.185Z",
       "title": "Enterprise Brain Replaces AI Agents As Microsoft And UnifyApps Race"
-    },
-    {
-      "id": "u_9feab290",
-      "sentAt": "2026-08-11T13:11:30.185Z",
-      "title": "Claude will apply invisible watermarks to AI text and images"
-    },
-    {
-      "id": "u_390c4de1",
-      "sentAt": "2026-08-11T13:11:30.185Z",
-      "title": "Can a Local LLM Run My AI Assistant?"
-    },
-    {
-      "id": "u_ba243428",
-      "sentAt": "2026-08-11T13:11:30.185Z",
-      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens"
-    },
-    {
-      "id": "u_fc6a1187",
-      "sentAt": "2026-08-11T07:12:11.335Z",
-      "title": "I ran Muse Glimmer @ 1M context - All tests passed."
-    },
-    {
-      "id": "u_aa478f73",
-      "sentAt": "2026-08-11T07:12:11.335Z",
-      "title": "Muse Glimmer 30B + DFlash speculative decoding on vLLM: 6 patches needed, 25 → 57 tok/s. Dockerfile and numbers inside."
     }
   ]
 }
