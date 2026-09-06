@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-06T20:09:53.764Z",
+  "updatedAt": "2026-09-06T23:36:30.335Z",
   "entries": [
+    {
+      "id": "u_97e5b605",
+      "sentAt": "2026-09-06T23:36:30.335Z",
+      "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki"
+    },
+    {
+      "id": "u_9f2730bb",
+      "sentAt": "2026-09-06T23:36:30.335Z",
+      "title": "b10828"
+    },
+    {
+      "id": "u_d862487f",
+      "sentAt": "2026-09-06T23:36:30.335Z",
+      "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder"
+    },
+    {
+      "id": "u_4a3dd52b",
+      "sentAt": "2026-09-06T23:36:30.335Z",
+      "title": "b10827"
+    },
+    {
+      "id": "u_19d55f29",
+      "sentAt": "2026-09-06T23:36:30.335Z",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement"
+    },
     {
       "id": "u_7c96c19",
       "sentAt": "2026-09-06T20:09:53.764Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e649fd19",
       "sentAt": "2026-08-11T22:46:08.347Z",
       "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock"
-    },
-    {
-      "id": "u_df21f021",
-      "sentAt": "2026-08-11T22:46:08.347Z",
-      "title": "We quantized DeepSeek V4 0731 and benchmarked it against popular quants on 8× RTX 5090"
-    },
-    {
-      "id": "u_672685b",
-      "sentAt": "2026-08-11T22:46:08.347Z",
-      "title": "Anthropic to start watermarking Claude-generated text, images"
-    },
-    {
-      "id": "u_b162900c",
-      "sentAt": "2026-08-11T22:46:08.347Z",
-      "title": "[llama.cpp PR #26608] Ling-3.0 support (unmerged)"
-    },
-    {
-      "id": "u_f99bb0a7",
-      "sentAt": "2026-08-11T20:49:22.371Z",
-      "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model"
-    },
-    {
-      "id": "u_c9c60ab4",
-      "sentAt": "2026-08-11T20:49:22.371Z",
-      "title": "Real-time tax compliance puts agentic AI accuracy to the test"
     }
   ]
 }
