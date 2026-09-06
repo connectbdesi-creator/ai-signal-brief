@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-06T03:38:43.905Z",
+  "updatedAt": "2026-09-06T08:28:12.991Z",
   "entries": [
+    {
+      "id": "u_1ee09886",
+      "sentAt": "2026-09-06T08:28:12.991Z",
+      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents"
+    },
+    {
+      "id": "u_8be42680",
+      "sentAt": "2026-09-06T08:28:12.991Z",
+      "title": "AI Training Filter Reports Higher Math and Code Scores"
+    },
+    {
+      "id": "u_1eb965bb",
+      "sentAt": "2026-09-06T08:28:12.991Z",
+      "title": "Model ties South Korea's education race to smaller families"
+    },
+    {
+      "id": "u_479959a4",
+      "sentAt": "2026-09-06T08:28:12.991Z",
+      "title": "AI framework recovers C from binaries, but behavior still slips"
+    },
+    {
+      "id": "u_91f2d69d",
+      "sentAt": "2026-09-06T08:28:12.991Z",
+      "title": "AI training method reports gains on harder mathematics problems"
+    },
     {
       "id": "u_f43253f0",
       "sentAt": "2026-09-06T03:38:43.905Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b3b12805",
       "sentAt": "2026-08-11T15:00:41.845Z",
       "title": "FriskAI launches with $3.6M to show enterprises what their AI agents are doing"
-    },
-    {
-      "id": "u_7c8e7abd",
-      "sentAt": "2026-08-11T15:00:41.845Z",
-      "title": "Why Early AI Adopters Are Getting Breached More Often"
-    },
-    {
-      "id": "u_256a6dac",
-      "sentAt": "2026-08-11T15:00:41.845Z",
-      "title": "Abbott and Google launch first-of-its-kind partnership to transform everyday health through glucose insights and AI - Abbott MediaRoom"
-    },
-    {
-      "id": "u_db5a5cd7",
-      "sentAt": "2026-08-11T15:00:41.845Z",
-      "title": "Wix launches Symphony, a new standalone multi-agent system built for business operations"
-    },
-    {
-      "id": "u_1a5bd24a",
-      "sentAt": "2026-08-11T13:11:30.185Z",
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations"
-    },
-    {
-      "id": "u_f24f49c5",
-      "sentAt": "2026-08-11T13:11:30.185Z",
-      "title": "Enterprise Brain Replaces AI Agents As Microsoft And UnifyApps Race"
     }
   ]
 }
