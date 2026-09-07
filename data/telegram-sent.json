@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-06T23:36:30.335Z",
+  "updatedAt": "2026-09-07T03:37:53.378Z",
   "entries": [
+    {
+      "id": "u_c1d5436e",
+      "sentAt": "2026-09-07T03:37:53.378Z",
+      "title": "The Rogue AI Story Was Never Just A Warning Shot Or A Marketing Stunt"
+    },
+    {
+      "id": "u_f9382e0a",
+      "sentAt": "2026-09-07T03:37:53.378Z",
+      "title": "Research acceleration: The view inside OpenAI"
+    },
+    {
+      "id": "u_979b505",
+      "sentAt": "2026-09-07T03:37:53.378Z",
+      "title": "OpenAI Releases GPT-6 Astra, Pushing AI Further Into Real-World Computer Work - strategicrevenue.com"
+    },
+    {
+      "id": "u_d72524ff",
+      "sentAt": "2026-09-07T03:37:53.378Z",
+      "title": "b10830"
+    },
+    {
+      "id": "u_907b63c7",
+      "sentAt": "2026-09-07T03:37:53.378Z",
+      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI"
+    },
     {
       "id": "u_97e5b605",
       "sentAt": "2026-09-06T23:36:30.335Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f8aac4cf",
       "sentAt": "2026-08-12T02:09:18.324Z",
       "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
-    },
-    {
-      "id": "u_cad84510",
-      "sentAt": "2026-08-12T02:09:18.324Z",
-      "title": "IBM inks $240M infrastructure deal with AI-optimized cloud operator Together AI"
-    },
-    {
-      "id": "u_3bcea892",
-      "sentAt": "2026-08-12T02:09:18.324Z",
-      "title": "There are no lossless transformations of natural-language text"
-    },
-    {
-      "id": "u_12729481",
-      "sentAt": "2026-08-12T02:09:18.324Z",
-      "title": "Personalized AI startup River AI raises $1.1B from consortium backed by Nvidia, AMD"
-    },
-    {
-      "id": "u_b0e7d78e",
-      "sentAt": "2026-08-11T22:46:08.347Z",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs"
-    },
-    {
-      "id": "u_e649fd19",
-      "sentAt": "2026-08-11T22:46:08.347Z",
-      "title": "Accelerate cyber defense with OpenAI and AWS: Daybreak Red & Daybreak Blue now available to eligible customers on Amazon Bedrock"
     }
   ]
 }
