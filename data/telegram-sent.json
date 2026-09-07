@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-07T19:41:45.533Z",
+  "updatedAt": "2026-09-07T22:37:55.477Z",
   "entries": [
+    {
+      "id": "u_a47899d3",
+      "sentAt": "2026-09-07T22:37:55.477Z",
+      "title": "Quoting Jakub Pachocki"
+    },
+    {
+      "id": "u_8e9f3b84",
+      "sentAt": "2026-09-07T22:37:55.477Z",
+      "title": "CPI | OpenAI Files EU Report After AI Agents Hijacked German Website - PYMNTS.com"
+    },
+    {
+      "id": "u_ee8d0d5",
+      "sentAt": "2026-09-07T22:37:55.477Z",
+      "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks"
+    },
+    {
+      "id": "u_3cc0f613",
+      "sentAt": "2026-09-07T22:37:55.477Z",
+      "title": "b10844"
+    },
+    {
+      "id": "u_c5713b43",
+      "sentAt": "2026-09-07T22:37:55.477Z",
+      "title": "FlashNarrative launches artificial intelligence platform for local language media monitoring - Portal ERP"
+    },
     {
       "id": "u_920691d1",
       "sentAt": "2026-09-07T19:41:45.533Z",
@@ -4975,31 +5000,6 @@
       "id": "u_15780db2",
       "sentAt": "2026-08-12T11:02:24.519Z",
       "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance"
-    },
-    {
-      "id": "u_41ddd70e",
-      "sentAt": "2026-08-12T11:02:24.519Z",
-      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance"
-    },
-    {
-      "id": "u_4467c3f6",
-      "sentAt": "2026-08-12T11:02:24.519Z",
-      "title": "According to AMD, Arm, and Microsoft, agentic AI could push CPU-to-GPU ratios from 1:4 to even1:1"
-    },
-    {
-      "id": "u_d7a16738",
-      "sentAt": "2026-08-12T11:02:24.519Z",
-      "title": "AI brings savings to clinical trials: study"
-    },
-    {
-      "id": "u_23b7bc16",
-      "sentAt": "2026-08-12T11:02:24.519Z",
-      "title": "Anthropic's text watermarks signal new front in AI detection"
-    },
-    {
-      "id": "u_80332291",
-      "sentAt": "2026-08-12T09:14:31.781Z",
-      "title": "Skillfully Adding AI To The HHS Pledge On Advancing Best Practices For National Mental Health Care"
     }
   ]
 }
