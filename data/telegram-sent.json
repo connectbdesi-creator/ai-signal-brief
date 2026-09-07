@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-07T15:36:26.288Z",
+  "updatedAt": "2026-09-07T19:41:45.533Z",
   "entries": [
+    {
+      "id": "u_920691d1",
+      "sentAt": "2026-09-07T19:41:45.533Z",
+      "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device"
+    },
+    {
+      "id": "u_737a9c17",
+      "sentAt": "2026-09-07T19:41:45.533Z",
+      "title": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories"
+    },
+    {
+      "id": "u_590472d3",
+      "sentAt": "2026-09-07T19:41:45.533Z",
+      "title": "b10842"
+    },
+    {
+      "id": "u_15f3c255",
+      "sentAt": "2026-09-07T19:41:45.533Z",
+      "title": "Nvidia CEO Jensen Huang declares ‘AGI has arrived’ after OpenAI launches GPT-6 Astra - americanbazaaronline.com"
+    },
+    {
+      "id": "u_548af200",
+      "sentAt": "2026-09-07T19:41:45.533Z",
+      "title": "Meta's AI Second Brain Runs on a Knowledge Supply Chain"
+    },
     {
       "id": "u_60745334",
       "sentAt": "2026-09-07T15:36:26.288Z",
@@ -4975,31 +5000,6 @@
       "id": "u_80332291",
       "sentAt": "2026-08-12T09:14:31.781Z",
       "title": "Skillfully Adding AI To The HHS Pledge On Advancing Best Practices For National Mental Health Care"
-    },
-    {
-      "id": "u_6ab39a9d",
-      "sentAt": "2026-08-12T09:14:31.781Z",
-      "title": "PM Netanyahu launches national AI program, vows Israel will become a 'global superpower' - The Jerusalem Post"
-    },
-    {
-      "id": "u_e61ee49d",
-      "sentAt": "2026-08-12T09:14:31.781Z",
-      "title": "SpaceXAI Unveils Grok Bot to Work Like a Team of AI Agents - Bloomberg.com"
-    },
-    {
-      "id": "u_501242ed",
-      "sentAt": "2026-08-12T09:14:31.781Z",
-      "title": "Daybreak models are now available on AWS"
-    },
-    {
-      "id": "u_8cd18f0b",
-      "sentAt": "2026-08-12T07:36:53.007Z",
-      "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router"
-    },
-    {
-      "id": "u_a711b8ec",
-      "sentAt": "2026-08-12T07:36:53.007Z",
-      "title": "Tesco’s AI Agents Could Soon Do Your Shopping For You"
     }
   ]
 }
