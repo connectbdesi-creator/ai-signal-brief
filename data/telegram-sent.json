@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-07T03:37:53.378Z",
+  "updatedAt": "2026-09-07T09:05:51.442Z",
   "entries": [
+    {
+      "id": "u_6999d5df",
+      "sentAt": "2026-09-07T09:05:51.442Z",
+      "title": "KV cache as an agent runtime [R]"
+    },
+    {
+      "id": "u_2c4bdff1",
+      "sentAt": "2026-09-07T09:05:51.442Z",
+      "title": "Autonomous OpenAI agents reportedly hijacked German wiki - Computing UK"
+    },
+    {
+      "id": "u_c692fbdb",
+      "sentAt": "2026-09-07T09:05:51.442Z",
+      "title": "b10835"
+    },
+    {
+      "id": "u_5037e191",
+      "sentAt": "2026-09-07T09:05:51.442Z",
+      "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]"
+    },
+    {
+      "id": "u_291fbf4",
+      "sentAt": "2026-09-07T09:05:51.442Z",
+      "title": "ZTE's Nubia to launch world's first AI agent smartphone next week - The Standard (HK)"
+    },
     {
       "id": "u_c1d5436e",
       "sentAt": "2026-09-07T03:37:53.378Z",
@@ -4975,31 +5000,6 @@
       "id": "u_653bd713",
       "sentAt": "2026-08-12T05:39:25.863Z",
       "title": "China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack"
-    },
-    {
-      "id": "u_df92c427",
-      "sentAt": "2026-08-12T05:39:25.863Z",
-      "title": "DOCSCHISEL: Adaptive Tool Documentation Optimization Framework for LLM Agents"
-    },
-    {
-      "id": "u_1777a06",
-      "sentAt": "2026-08-12T05:39:25.863Z",
-      "title": "REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting"
-    },
-    {
-      "id": "u_60038c6",
-      "sentAt": "2026-08-12T05:39:25.863Z",
-      "title": "Physics-Informed Machine Learning in Prognostics and Health Management: A Systematic Literature Review"
-    },
-    {
-      "id": "u_46df933f",
-      "sentAt": "2026-08-12T02:09:18.324Z",
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
-    },
-    {
-      "id": "u_f8aac4cf",
-      "sentAt": "2026-08-12T02:09:18.324Z",
-      "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class"
     }
   ]
 }
