@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-08T19:19:39.075Z",
+  "updatedAt": "2026-09-08T22:27:31.034Z",
   "entries": [
+    {
+      "id": "u_1c7a343",
+      "sentAt": "2026-09-08T22:27:31.034Z",
+      "title": "UNT receives $20M gift to launch new college focused on Artificial Intelligence - WFAA"
+    },
+    {
+      "id": "u_5110f4dc",
+      "sentAt": "2026-09-08T22:27:31.034Z",
+      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock"
+    },
+    {
+      "id": "u_867365a0",
+      "sentAt": "2026-09-08T22:27:31.034Z",
+      "title": "On the Value of Human Ideas: What data poisoning research reveals about \"autonomous\" AI breakthroughs"
+    },
+    {
+      "id": "u_b25fd245",
+      "sentAt": "2026-09-08T22:27:31.034Z",
+      "title": "A hilarious comment about llama.cpp: “It’s a FB business using the pipeline to make profits”"
+    },
+    {
+      "id": "u_8aba32fd",
+      "sentAt": "2026-09-08T22:27:31.034Z",
+      "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’"
+    },
     {
       "id": "u_59ea2a93",
       "sentAt": "2026-09-08T19:19:39.075Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d44dcec1",
       "sentAt": "2026-08-12T20:49:38.328Z",
       "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please"
-    },
-    {
-      "id": "u_ed691656",
-      "sentAt": "2026-08-12T20:49:38.328Z",
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please"
-    },
-    {
-      "id": "u_3b849cbd",
-      "sentAt": "2026-08-12T20:49:38.328Z",
-      "title": "Federal Intelligence Chief Says AI Agents Need Birth Certificates - PYMNTS.com"
-    },
-    {
-      "id": "u_fb4b6c55",
-      "sentAt": "2026-08-12T20:49:38.328Z",
-      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price"
-    },
-    {
-      "id": "u_ad3740ca",
-      "sentAt": "2026-08-12T20:49:38.328Z",
-      "title": "Intelligence vs. Expertise in AI Agents - StartupHub.ai"
-    },
-    {
-      "id": "u_1067e838",
-      "sentAt": "2026-08-12T19:04:57.650Z",
-      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price"
     }
   ]
 }
