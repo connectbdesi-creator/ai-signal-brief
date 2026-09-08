@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-08T08:43:03.382Z",
+  "updatedAt": "2026-09-08T14:14:49.273Z",
   "entries": [
+    {
+      "id": "u_b5c2bad1",
+      "sentAt": "2026-09-08T14:14:49.273Z",
+      "title": "Anyone tried self-hosting 3D object generation?"
+    },
+    {
+      "id": "u_c6c012b0",
+      "sentAt": "2026-09-08T14:14:49.273Z",
+      "title": "OpenAI releases new AI agent – which promptly goes rogue"
+    },
+    {
+      "id": "u_d7ed6b0f",
+      "sentAt": "2026-09-08T14:14:49.273Z",
+      "title": "An open-source context layer for building AI on top of company data"
+    },
+    {
+      "id": "u_aada57c5",
+      "sentAt": "2026-09-08T14:14:49.273Z",
+      "title": "v4.32.0"
+    },
+    {
+      "id": "u_19eb5c33",
+      "sentAt": "2026-09-08T14:14:49.273Z",
+      "title": "Mistral bags €3B to build Europe's sovereign AI champion"
+    },
     {
       "id": "u_f687256e",
       "sentAt": "2026-09-08T08:43:03.382Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e809fd6d",
       "sentAt": "2026-08-12T16:58:58.638Z",
       "title": "Guitar company D’Addario admits that AI music was used in a promotional video"
-    },
-    {
-      "id": "u_cbd14406",
-      "sentAt": "2026-08-12T16:58:58.638Z",
-      "title": "Galaxy Z Fold8 And Beyond: Samsung CEO TM Roh On Why AI Must Understand The User"
-    },
-    {
-      "id": "u_1b2ae90c",
-      "sentAt": "2026-08-12T16:58:58.638Z",
-      "title": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?"
-    },
-    {
-      "id": "u_a0b3b9f1",
-      "sentAt": "2026-08-12T16:58:58.638Z",
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features"
-    },
-    {
-      "id": "u_dfcc71cc",
-      "sentAt": "2026-08-12T16:58:58.638Z",
-      "title": "Texas Wesleyan Launches New Humanities and Artificial Intelligence Degree - Fort Worth Inc."
-    },
-    {
-      "id": "u_c4f00718",
-      "sentAt": "2026-08-12T14:59:48.815Z",
-      "title": "How AI Agents Are Changing ERP And What CIOs Need To Know"
     }
   ]
 }
