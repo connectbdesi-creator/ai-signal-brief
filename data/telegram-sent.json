@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-09T08:49:04.437Z",
+  "updatedAt": "2026-09-09T14:15:07.135Z",
   "entries": [
+    {
+      "id": "u_8373a348",
+      "sentAt": "2026-09-09T14:15:07.135Z",
+      "title": "Suno launches v6 music models built with Warner, BMG, and Believe"
+    },
+    {
+      "id": "u_cfbea3b1",
+      "sentAt": "2026-09-09T14:15:07.135Z",
+      "title": "Databricks adds adaptive search model to speed agent retrieval"
+    },
+    {
+      "id": "u_4ed87783",
+      "sentAt": "2026-09-09T14:15:07.135Z",
+      "title": "First Command Unveils Tech Blueprint through 2026 IT, Data, and AI Strategic Guidance - aetc.af.mil"
+    },
+    {
+      "id": "u_9b1e4a37",
+      "sentAt": "2026-09-09T14:15:07.135Z",
+      "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]"
+    },
+    {
+      "id": "u_aca1c942",
+      "sentAt": "2026-09-09T14:15:07.135Z",
+      "title": "Orchid Security gives enterprises a kill switch for rogue AI agents"
+    },
     {
       "id": "u_1932307f",
       "sentAt": "2026-09-09T08:49:04.437Z",
@@ -4975,31 +5000,6 @@
       "id": "u_193518d3",
       "sentAt": "2026-08-13T05:42:07.887Z",
       "title": "Morgan State University Launches Artificial Intelligence Degree With Quantum Machine Learning Courses - NCHStats"
-    },
-    {
-      "id": "u_b6ae256d",
-      "sentAt": "2026-08-13T05:42:07.887Z",
-      "title": "Long-Horizon Forecasting of Complete Financial Statements with Forma"
-    },
-    {
-      "id": "u_c71cf406",
-      "sentAt": "2026-08-13T05:42:07.887Z",
-      "title": "Dual-Primal Graph VAEs for Noisy Label Aggregation"
-    },
-    {
-      "id": "u_6301f969",
-      "sentAt": "2026-08-13T05:42:07.887Z",
-      "title": "PAIR: Pairwise-Aware Inclusion Reweighting for Adaptive Rollout Allocation in RLVR"
-    },
-    {
-      "id": "u_8d5e39f6",
-      "sentAt": "2026-08-13T05:42:07.887Z",
-      "title": "Rubric Dropout: A Simple Way to Mitigate Reward Hacking in Rubric-as-Reward RL"
-    },
-    {
-      "id": "u_7e9d4d3a",
-      "sentAt": "2026-08-13T02:10:55.541Z",
-      "title": "SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities"
     }
   ]
 }
