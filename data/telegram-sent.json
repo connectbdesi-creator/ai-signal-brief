@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-08T22:27:31.034Z",
+  "updatedAt": "2026-09-09T03:47:44.268Z",
   "entries": [
+    {
+      "id": "u_1cfd3b34",
+      "sentAt": "2026-09-09T03:47:44.268Z",
+      "title": "DSV4 Flash 0731 on OpenRouter. Why is the price SO LOW"
+    },
+    {
+      "id": "u_64e5f7c7",
+      "sentAt": "2026-09-09T03:47:44.268Z",
+      "title": "What OpenAI’s latest controversy tells us about the future of math"
+    },
+    {
+      "id": "u_68cb5553",
+      "sentAt": "2026-09-09T03:47:44.268Z",
+      "title": "b10868"
+    },
+    {
+      "id": "u_7a5d09e0",
+      "sentAt": "2026-09-09T03:47:44.268Z",
+      "title": "Meta debuts its ‘secure by design’ personal AI agent Muse"
+    },
+    {
+      "id": "u_820d626a",
+      "sentAt": "2026-09-09T03:47:44.268Z",
+      "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!"
+    },
     {
       "id": "u_1c7a343",
       "sentAt": "2026-09-08T22:27:31.034Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ce3f7bf4",
       "sentAt": "2026-08-12T22:44:09.460Z",
       "title": "David Protein founder's candy launch is full of AI typos. The brand's president says it's intentional 'rage bait.'"
-    },
-    {
-      "id": "u_b515bfe4",
-      "sentAt": "2026-08-12T22:44:09.460Z",
-      "title": "Google launches five new Pixel devices, array of Gemini Intelligence features"
-    },
-    {
-      "id": "u_1b4d60df",
-      "sentAt": "2026-08-12T22:44:09.460Z",
-      "title": "Three insights you may have missed from theCUBE’s coverage of the Neo4j GraphTalk event"
-    },
-    {
-      "id": "u_7afb8da8",
-      "sentAt": "2026-08-12T22:44:09.460Z",
-      "title": "The White House Is Going to Expand Its AI Policy"
-    },
-    {
-      "id": "u_da582e4",
-      "sentAt": "2026-08-12T22:44:09.460Z",
-      "title": "The White House Is Going to Expand Its AI Policy"
-    },
-    {
-      "id": "u_d44dcec1",
-      "sentAt": "2026-08-12T20:49:38.328Z",
-      "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please"
     }
   ]
 }
