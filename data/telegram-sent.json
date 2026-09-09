@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-09T14:15:07.135Z",
+  "updatedAt": "2026-09-09T19:09:05.621Z",
   "entries": [
+    {
+      "id": "u_c80ea59b",
+      "sentAt": "2026-09-09T19:09:05.621Z",
+      "title": "Amazon makes its agentic AI platform Quick generally available for desktop on Windows and macOS"
+    },
+    {
+      "id": "u_4808876a",
+      "sentAt": "2026-09-09T19:09:05.621Z",
+      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters"
+    },
+    {
+      "id": "u_cc8f9287",
+      "sentAt": "2026-09-09T19:09:05.621Z",
+      "title": "v0.34.0"
+    },
+    {
+      "id": "u_4e9f303e",
+      "sentAt": "2026-09-09T19:09:05.621Z",
+      "title": "Paul Christiano joins OpenAI Foundation Board"
+    },
+    {
+      "id": "u_52b494a",
+      "sentAt": "2026-09-09T19:09:05.621Z",
+      "title": "Here's how AI could kill us all (if the worst fears come true)"
+    },
     {
       "id": "u_8373a348",
       "sentAt": "2026-09-09T14:15:07.135Z",
@@ -4975,31 +5000,6 @@
       "id": "u_efc42d3",
       "sentAt": "2026-08-13T07:38:45.022Z",
       "title": "My AI agents shipped 128 releases of a product no one ever used"
-    },
-    {
-      "id": "u_e2aedf57",
-      "sentAt": "2026-08-13T07:38:45.022Z",
-      "title": "SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for Long-Running Agents, Coding, and Knowledge Work"
-    },
-    {
-      "id": "u_e6835e8",
-      "sentAt": "2026-08-13T07:38:45.022Z",
-      "title": "AIPass – AI agents with persistent identity, memory, and email"
-    },
-    {
-      "id": "u_2049d365",
-      "sentAt": "2026-08-13T07:38:45.022Z",
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes"
-    },
-    {
-      "id": "u_a321943e",
-      "sentAt": "2026-08-13T07:38:45.022Z",
-      "title": "Intelligence Community CIOs Warn Autonomous AI Agents Are Reshaping Cyber Threat Landscape - ExecutiveGov"
-    },
-    {
-      "id": "u_193518d3",
-      "sentAt": "2026-08-13T05:42:07.887Z",
-      "title": "Morgan State University Launches Artificial Intelligence Degree With Quantum Machine Learning Courses - NCHStats"
     }
   ]
 }
