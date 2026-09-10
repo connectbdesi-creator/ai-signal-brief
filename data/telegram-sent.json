@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-10T03:46:09.858Z",
+  "updatedAt": "2026-09-10T08:47:08.078Z",
   "entries": [
+    {
+      "id": "u_7b404761",
+      "sentAt": "2026-09-10T08:47:08.078Z",
+      "title": "Springer Nature launches framework on use of artificial intelligence - Research Information"
+    },
+    {
+      "id": "u_d96850aa",
+      "sentAt": "2026-09-10T08:47:08.078Z",
+      "title": "v1.101.0-rc.2"
+    },
+    {
+      "id": "u_d95ac894",
+      "sentAt": "2026-09-10T08:47:08.078Z",
+      "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse"
+    },
+    {
+      "id": "u_1735365b",
+      "sentAt": "2026-09-10T08:47:08.078Z",
+      "title": "DeepSeek V4.1 Flash: Stronger, Faster, More Accessible"
+    },
+    {
+      "id": "u_8581ff08",
+      "sentAt": "2026-09-10T08:47:08.078Z",
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows"
+    },
     {
       "id": "u_15d39e1b",
       "sentAt": "2026-09-10T03:46:09.858Z",
@@ -4975,31 +5000,6 @@
       "id": "u_68a9b056",
       "sentAt": "2026-08-13T13:17:41.333Z",
       "title": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters"
-    },
-    {
-      "id": "u_36a7a698",
-      "sentAt": "2026-08-13T13:17:41.333Z",
-      "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
-    },
-    {
-      "id": "u_a2f99d78",
-      "sentAt": "2026-08-13T13:17:41.333Z",
-      "title": "SpaceX Stock Jumps as Grok Release Ramps Up AI War With Anthropic and OpenAI - Barron's"
-    },
-    {
-      "id": "u_69c4d562",
-      "sentAt": "2026-08-13T13:17:41.333Z",
-      "title": "Youth advocates gather in New York to launch new AI standards - UN News"
-    },
-    {
-      "id": "u_805e451a",
-      "sentAt": "2026-08-13T13:17:41.333Z",
-      "title": "alchemy-utils 0.1a0"
-    },
-    {
-      "id": "u_3a52dca8",
-      "sentAt": "2026-08-13T11:02:26.736Z",
-      "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
     }
   ]
 }
