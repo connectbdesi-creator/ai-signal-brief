@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-09T22:21:17.841Z",
+  "updatedAt": "2026-09-10T03:46:09.858Z",
   "entries": [
+    {
+      "id": "u_15d39e1b",
+      "sentAt": "2026-09-10T03:46:09.858Z",
+      "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]"
+    },
+    {
+      "id": "u_31a85655",
+      "sentAt": "2026-09-10T03:46:09.858Z",
+      "title": "Certinia launches new System of Action as the foundation of autonomous service operations"
+    },
+    {
+      "id": "u_11dc8123",
+      "sentAt": "2026-09-10T03:46:09.858Z",
+      "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity"
+    },
+    {
+      "id": "u_bcb3726d",
+      "sentAt": "2026-09-10T03:46:09.858Z",
+      "title": "AI-native CRM startup Lightfield raises $47M to build an AI agent-ready replacement for Salesforce"
+    },
+    {
+      "id": "u_ed2dbe1e",
+      "sentAt": "2026-09-10T03:46:09.858Z",
+      "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company"
+    },
     {
       "id": "u_7a08befe",
       "sentAt": "2026-09-09T22:21:17.841Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3a52dca8",
       "sentAt": "2026-08-13T11:02:26.736Z",
       "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
-    },
-    {
-      "id": "u_4ebbaf52",
-      "sentAt": "2026-08-13T11:02:26.736Z",
-      "title": "Musk and Zuckerberg claw back into AI race with new model momentum"
-    },
-    {
-      "id": "u_b6b3ece5",
-      "sentAt": "2026-08-13T11:02:26.736Z",
-      "title": "Youth poll: Thumbs down on everything"
-    },
-    {
-      "id": "u_cda36ef6",
-      "sentAt": "2026-08-13T11:02:26.736Z",
-      "title": "DeepSeek’s flagship AI model update underwhelms – except in cybersecurity - scmp.com"
-    },
-    {
-      "id": "u_9aa58bbc",
-      "sentAt": "2026-08-13T11:02:26.736Z",
-      "title": "AI agents are turning data silos into an existential infrastructure problem - cio.com"
-    },
-    {
-      "id": "u_6ed66fab",
-      "sentAt": "2026-08-13T09:15:16.705Z",
-      "title": "AI Agents Enable Adaptive Computer Worms"
     }
   ]
 }
