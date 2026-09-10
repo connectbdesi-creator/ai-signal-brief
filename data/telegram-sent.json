@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-10T08:47:08.078Z",
+  "updatedAt": "2026-09-10T19:00:47.754Z",
   "entries": [
+    {
+      "id": "u_a6450e1c",
+      "sentAt": "2026-09-10T19:00:47.754Z",
+      "title": "UNT launches artificial intelligence college after $20M donation - Community Impact"
+    },
+    {
+      "id": "u_facbe293",
+      "sentAt": "2026-09-10T19:00:47.754Z",
+      "title": "b10897"
+    },
+    {
+      "id": "u_11aae0cc",
+      "sentAt": "2026-09-10T19:00:47.754Z",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you"
+    },
+    {
+      "id": "u_3fc01506",
+      "sentAt": "2026-09-10T19:00:47.754Z",
+      "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time"
+    },
+    {
+      "id": "u_af320cd5",
+      "sentAt": "2026-09-10T19:00:47.754Z",
+      "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time"
+    },
     {
       "id": "u_7b404761",
       "sentAt": "2026-09-10T08:47:08.078Z",
@@ -4975,31 +5000,6 @@
       "id": "u_401c78f5",
       "sentAt": "2026-08-13T15:00:04.205Z",
       "title": "Regal ties its voice AI agents into Five9’s contact center platform"
-    },
-    {
-      "id": "u_fa119a0",
-      "sentAt": "2026-08-13T15:00:04.205Z",
-      "title": "Building a Streaming Local AI Agent"
-    },
-    {
-      "id": "u_350ad75d",
-      "sentAt": "2026-08-13T15:00:04.205Z",
-      "title": "LangChain CEO on Building Better AI Agents - StartupHub.ai"
-    },
-    {
-      "id": "u_f29a6b35",
-      "sentAt": "2026-08-13T15:00:04.205Z",
-      "title": "Writer launches major agentic AI improvements with Palmyra X6 flagship model"
-    },
-    {
-      "id": "u_6f0c2558",
-      "sentAt": "2026-08-13T15:00:04.205Z",
-      "title": "Scaling AI agents with trustworthy data"
-    },
-    {
-      "id": "u_68a9b056",
-      "sentAt": "2026-08-13T13:17:41.333Z",
-      "title": "DeepSeek releases official V4 Pro model as it steps up expansion - Reuters"
     }
   ]
 }
