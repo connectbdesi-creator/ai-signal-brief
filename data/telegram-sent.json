@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-11T03:43:31.561Z",
+  "updatedAt": "2026-09-11T08:44:52.541Z",
   "entries": [
+    {
+      "id": "u_7733cbf0",
+      "sentAt": "2026-09-11T08:44:52.541Z",
+      "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT"
+    },
+    {
+      "id": "u_a2c1cdea",
+      "sentAt": "2026-09-11T08:44:52.541Z",
+      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages"
+    },
+    {
+      "id": "u_5855ddb",
+      "sentAt": "2026-09-11T08:44:52.541Z",
+      "title": "b10903"
+    },
+    {
+      "id": "u_b40270f1",
+      "sentAt": "2026-09-11T08:44:52.541Z",
+      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration"
+    },
+    {
+      "id": "u_9bcbec61",
+      "sentAt": "2026-09-11T08:44:52.541Z",
+      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation"
+    },
     {
       "id": "u_13022f75",
       "sentAt": "2026-09-11T03:43:31.561Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b4e33781",
       "sentAt": "2026-08-13T20:47:16.466Z",
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed"
-    },
-    {
-      "id": "u_f4908516",
-      "sentAt": "2026-08-13T20:47:16.466Z",
-      "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only - Decrypt"
-    },
-    {
-      "id": "u_a5b8a82a",
-      "sentAt": "2026-08-13T20:47:16.466Z",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war."
-    },
-    {
-      "id": "u_5c106fab",
-      "sentAt": "2026-08-13T20:47:16.466Z",
-      "title": "Israel Launches National AI Action Plan, Setting Goal of Becoming a Global Artificial Intelligence Power - PR Newswire"
-    },
-    {
-      "id": "u_e2c86466",
-      "sentAt": "2026-08-13T20:47:16.466Z",
-      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens - marktechpost.com"
-    },
-    {
-      "id": "u_e48717d3",
-      "sentAt": "2026-08-13T19:05:41.594Z",
-      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%"
     }
   ]
 }
