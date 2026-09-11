@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-10T22:20:39.664Z",
+  "updatedAt": "2026-09-11T03:43:31.561Z",
   "entries": [
+    {
+      "id": "u_13022f75",
+      "sentAt": "2026-09-11T03:43:31.561Z",
+      "title": "Datasette 1.0a39 and 0.65.4 security releases"
+    },
+    {
+      "id": "u_732bf3ce",
+      "sentAt": "2026-09-11T03:43:31.561Z",
+      "title": "v1.102.0-dev.2"
+    },
+    {
+      "id": "u_94b984bb",
+      "sentAt": "2026-09-11T03:43:31.561Z",
+      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models - The Japan Times"
+    },
+    {
+      "id": "u_63536e24",
+      "sentAt": "2026-09-11T03:43:31.561Z",
+      "title": "OpenAI targets Wall Street bankers with a new version of ChatGPT"
+    },
+    {
+      "id": "u_5ca467b5",
+      "sentAt": "2026-09-11T03:43:31.561Z",
+      "title": "Salesforce introduces Enterprise AI Harness, AI Control Plane"
+    },
     {
       "id": "u_e2011c4c",
       "sentAt": "2026-09-10T22:20:39.664Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e48717d3",
       "sentAt": "2026-08-13T19:05:41.594Z",
       "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%"
-    },
-    {
-      "id": "u_d9228ebb",
-      "sentAt": "2026-08-13T19:05:41.594Z",
-      "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%"
-    },
-    {
-      "id": "u_ad495f69",
-      "sentAt": "2026-08-13T19:05:41.594Z",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war."
-    },
-    {
-      "id": "u_d80357ce",
-      "sentAt": "2026-08-13T19:05:41.594Z",
-      "title": "Israel Launches National AI Action Plan, Setting Goal of Becoming a Global Artificial Intelligence Power - Morningstar"
-    },
-    {
-      "id": "u_72702519",
-      "sentAt": "2026-08-13T19:05:41.594Z",
-      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens"
-    },
-    {
-      "id": "u_2f7fff71",
-      "sentAt": "2026-08-13T16:58:13.276Z",
-      "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices"
     }
   ]
 }
