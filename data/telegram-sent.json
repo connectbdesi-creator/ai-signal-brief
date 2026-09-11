@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-11T08:44:52.541Z",
+  "updatedAt": "2026-09-11T14:08:00.196Z",
   "entries": [
+    {
+      "id": "u_71d2c13e",
+      "sentAt": "2026-09-11T14:08:00.196Z",
+      "title": "Don't sleep on wrapture"
+    },
+    {
+      "id": "u_a0d5f12f",
+      "sentAt": "2026-09-11T14:08:00.196Z",
+      "title": "Open-Source AI & Open Models Reading List"
+    },
+    {
+      "id": "u_2aff3fad",
+      "sentAt": "2026-09-11T14:08:00.196Z",
+      "title": "AI Agents Will Take Shortcuts. The Solution Is To Design Better Paths"
+    },
+    {
+      "id": "u_e620f5d4",
+      "sentAt": "2026-09-11T14:08:00.196Z",
+      "title": "Salesforce Adds Long-Horizon AI Agents To Agentforce"
+    },
+    {
+      "id": "u_d925418b",
+      "sentAt": "2026-09-11T14:08:00.196Z",
+      "title": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows - Reuters"
+    },
     {
       "id": "u_7733cbf0",
       "sentAt": "2026-09-11T08:44:52.541Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3326eb18",
       "sentAt": "2026-08-13T22:45:06.896Z",
       "title": "DIA’s artificial intelligence chief envisions ‘agent-to-agents’ interactions that support military operations - DefenseScoop"
-    },
-    {
-      "id": "u_f53f8505",
-      "sentAt": "2026-08-13T22:45:06.896Z",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot"
-    },
-    {
-      "id": "u_4cfeed86",
-      "sentAt": "2026-08-13T22:45:06.896Z",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs"
-    },
-    {
-      "id": "u_b88b9c40",
-      "sentAt": "2026-08-13T22:45:06.896Z",
-      "title": "OpenAI's ChatGPT Gains Context with Computer History Feature - startuphub.ai"
-    },
-    {
-      "id": "u_41bef37d",
-      "sentAt": "2026-08-13T22:45:06.896Z",
-      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens - MarkTechPost"
-    },
-    {
-      "id": "u_b4e33781",
-      "sentAt": "2026-08-13T20:47:16.466Z",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed"
     }
   ]
 }
