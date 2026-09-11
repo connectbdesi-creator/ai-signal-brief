@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-11T14:08:00.196Z",
+  "updatedAt": "2026-09-11T19:02:39.648Z",
   "entries": [
+    {
+      "id": "u_5b8fb1a9",
+      "sentAt": "2026-09-11T19:02:39.648Z",
+      "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations"
+    },
+    {
+      "id": "u_e56b8b70",
+      "sentAt": "2026-09-11T19:02:39.648Z",
+      "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload"
+    },
+    {
+      "id": "u_e2fedd78",
+      "sentAt": "2026-09-11T19:02:39.648Z",
+      "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_649a2219",
+      "sentAt": "2026-09-11T19:02:39.648Z",
+      "title": "Quoting Boris Cherny"
+    },
+    {
+      "id": "u_f7e12f7e",
+      "sentAt": "2026-09-11T19:02:39.648Z",
+      "title": "langchain-core==1.6.3"
+    },
     {
       "id": "u_71d2c13e",
       "sentAt": "2026-09-11T14:08:00.196Z",
@@ -4975,31 +5000,6 @@
       "id": "u_355ac0f9",
       "sentAt": "2026-08-14T02:09:29.666Z",
       "title": "sqlite-utils 4.2.1"
-    },
-    {
-      "id": "u_60958245",
-      "sentAt": "2026-08-14T02:09:29.666Z",
-      "title": "Nozomi partners with Sophos to put operational technology data in IT consoles"
-    },
-    {
-      "id": "u_a140a53a",
-      "sentAt": "2026-08-14T02:09:29.666Z",
-      "title": "Google unveils Gemini 3.7 Flash AI model for coding and agent workflows, but top AI model still delayed - The Business Times"
-    },
-    {
-      "id": "u_7c29aec5",
-      "sentAt": "2026-08-14T02:09:29.666Z",
-      "title": "Google launches Gemini 3.7 Flash for coding, AI agent projects"
-    },
-    {
-      "id": "u_c2468ddb",
-      "sentAt": "2026-08-14T02:09:29.666Z",
-      "title": "The Safety Reckoning Inside OpenAI"
-    },
-    {
-      "id": "u_3326eb18",
-      "sentAt": "2026-08-13T22:45:06.896Z",
-      "title": "DIA’s artificial intelligence chief envisions ‘agent-to-agents’ interactions that support military operations - DefenseScoop"
     }
   ]
 }
