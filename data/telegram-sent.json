@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-11T19:02:39.648Z",
+  "updatedAt": "2026-09-11T22:20:21.998Z",
   "entries": [
+    {
+      "id": "u_a91a2b7b",
+      "sentAt": "2026-09-11T22:20:21.998Z",
+      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize"
+    },
+    {
+      "id": "u_bb87f714",
+      "sentAt": "2026-09-11T22:20:21.998Z",
+      "title": "Dynatrace and Arize AI push observability from detection toward action"
+    },
+    {
+      "id": "u_d632b4a1",
+      "sentAt": "2026-09-11T22:20:21.998Z",
+      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills"
+    },
+    {
+      "id": "u_8ec0b128",
+      "sentAt": "2026-09-11T22:20:21.998Z",
+      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too"
+    },
+    {
+      "id": "u_5e6ece8b",
+      "sentAt": "2026-09-11T22:20:21.998Z",
+      "title": "b10917"
+    },
     {
       "id": "u_5b8fb1a9",
       "sentAt": "2026-09-11T19:02:39.648Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a8c8b648",
       "sentAt": "2026-08-14T05:39:43.927Z",
       "title": "Google has unveiled its artificial intelligence (AI) model \"Gemini 3.7 Flash,\" which improves coding.. - 매일경제"
-    },
-    {
-      "id": "u_5e0be7c6",
-      "sentAt": "2026-08-14T05:39:43.927Z",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
-    },
-    {
-      "id": "u_5b1a22be",
-      "sentAt": "2026-08-14T05:39:43.927Z",
-      "title": "When Can You Trust Offline Evaluation of Equal-Cost Top-k Allocation? A Controlled, Reproducible Benchmark and Practitioner's Guide"
-    },
-    {
-      "id": "u_6f4d9fa6",
-      "sentAt": "2026-08-14T05:39:43.927Z",
-      "title": "Dual Spatial-Temporal Attribution: Architecture-Aligned Post-Hoc Explainability for Recurrent Graph Anomaly Detection"
-    },
-    {
-      "id": "u_2aaa47dd",
-      "sentAt": "2026-08-14T05:39:43.927Z",
-      "title": "CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution"
-    },
-    {
-      "id": "u_355ac0f9",
-      "sentAt": "2026-08-14T02:09:29.666Z",
-      "title": "sqlite-utils 4.2.1"
     }
   ]
 }
