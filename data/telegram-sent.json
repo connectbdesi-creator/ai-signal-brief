@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-12T13:25:38.581Z",
+  "updatedAt": "2026-09-12T16:51:01.273Z",
   "entries": [
+    {
+      "id": "u_4eef0737",
+      "sentAt": "2026-09-12T16:51:01.273Z",
+      "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown"
+    },
+    {
+      "id": "u_728cf1e",
+      "sentAt": "2026-09-12T16:51:01.273Z",
+      "title": "Devin GPT-6 Astra Self-Testing Moves Review to Evidence"
+    },
+    {
+      "id": "u_94cd7e73",
+      "sentAt": "2026-09-12T16:51:01.273Z",
+      "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control"
+    },
+    {
+      "id": "u_1543446f",
+      "sentAt": "2026-09-12T16:51:01.273Z",
+      "title": "b10931"
+    },
+    {
+      "id": "u_e01bbf5d",
+      "sentAt": "2026-09-12T16:51:01.273Z",
+      "title": "Anthropic CEO calls for immediate slowdown in AI development"
+    },
     {
       "id": "u_c84d3f2f",
       "sentAt": "2026-09-12T13:25:38.581Z",
@@ -4975,31 +5000,6 @@
       "id": "u_80f469a9",
       "sentAt": "2026-08-14T13:12:14.660Z",
       "title": "UniPod Malawi launches AI workshop to build practical artificial intelligence skills - Tech Review Africa"
-    },
-    {
-      "id": "u_41ba16ad",
-      "sentAt": "2026-08-14T13:12:14.660Z",
-      "title": "What KV cache tricks do you guys do with your agents?"
-    },
-    {
-      "id": "u_f30eb81",
-      "sentAt": "2026-08-14T13:12:14.660Z",
-      "title": "5 Fun Agentic AI Papers to Read"
-    },
-    {
-      "id": "u_b731e725",
-      "sentAt": "2026-08-14T13:12:14.660Z",
-      "title": "Samsung Innovation Campus Launched in Libya to Train Youth in AI - Libya Herald"
-    },
-    {
-      "id": "u_b5e2199a",
-      "sentAt": "2026-08-14T13:12:14.660Z",
-      "title": "Back in the Harness: DeepSeek continues its pivot towards agentic AI - South China Morning Post"
-    },
-    {
-      "id": "u_424ee857",
-      "sentAt": "2026-08-14T10:59:30.794Z",
-      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model"
     }
   ]
 }
