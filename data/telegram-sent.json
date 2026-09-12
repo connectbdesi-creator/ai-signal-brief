@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-12T16:51:01.273Z",
+  "updatedAt": "2026-09-12T20:20:11.242Z",
   "entries": [
+    {
+      "id": "u_ee61b8c1",
+      "sentAt": "2026-09-12T20:20:11.242Z",
+      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says"
+    },
+    {
+      "id": "u_74e72da1",
+      "sentAt": "2026-09-12T20:20:11.242Z",
+      "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns - WPBF"
+    },
+    {
+      "id": "u_d8c3ac18",
+      "sentAt": "2026-09-12T20:20:11.242Z",
+      "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks"
+    },
+    {
+      "id": "u_c9135702",
+      "sentAt": "2026-09-12T20:20:11.242Z",
+      "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns - KTEN"
+    },
+    {
+      "id": "u_16997dc8",
+      "sentAt": "2026-09-12T20:20:11.242Z",
+      "title": "One Capital Letter Was Silently Breaking My AI Support Bot, and It Wasn't in the New Model"
+    },
     {
       "id": "u_4eef0737",
       "sentAt": "2026-09-12T16:51:01.273Z",
@@ -4975,31 +5000,6 @@
       "id": "u_75fad1fa",
       "sentAt": "2026-08-14T14:54:39.944Z",
       "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras"
-    },
-    {
-      "id": "u_369861bd",
-      "sentAt": "2026-08-14T14:54:39.944Z",
-      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras"
-    },
-    {
-      "id": "u_c4ad9cba",
-      "sentAt": "2026-08-14T14:54:39.944Z",
-      "title": "Web's Future: Agents, Not APIs, Says Yutori's Batra - StartupHub.ai"
-    },
-    {
-      "id": "u_4d9508af",
-      "sentAt": "2026-08-14T14:54:39.944Z",
-      "title": "Benchmarks Are The New GEO And AI-SEO Strategy For B2B SaaS Companies"
-    },
-    {
-      "id": "u_dc8ea7d1",
-      "sentAt": "2026-08-14T14:54:39.944Z",
-      "title": "Autonomous AI attacks pose 'clear and present danger' to critical infrastructure"
-    },
-    {
-      "id": "u_80f469a9",
-      "sentAt": "2026-08-14T13:12:14.660Z",
-      "title": "UniPod Malawi launches AI workshop to build practical artificial intelligence skills - Tech Review Africa"
     }
   ]
 }
