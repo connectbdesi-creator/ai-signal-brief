@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-12T03:47:03.108Z",
+  "updatedAt": "2026-09-12T08:29:45.765Z",
   "entries": [
+    {
+      "id": "u_d5a8e9e3",
+      "sentAt": "2026-09-12T08:29:45.765Z",
+      "title": "b10921"
+    },
+    {
+      "id": "u_a5177b89",
+      "sentAt": "2026-09-12T08:29:45.765Z",
+      "title": "OpenAI agents linked to disruption of RubyGems service - news.az"
+    },
+    {
+      "id": "u_4438b5c1",
+      "sentAt": "2026-09-12T08:29:45.765Z",
+      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale"
+    },
+    {
+      "id": "u_793ecc0e",
+      "sentAt": "2026-09-12T08:29:45.765Z",
+      "title": "Mollick Writes About Agent Swarms And Hugging Face Debacle"
+    },
+    {
+      "id": "u_fd8466a0",
+      "sentAt": "2026-09-12T08:29:45.765Z",
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning"
+    },
     {
       "id": "u_79e95b1f",
       "sentAt": "2026-09-12T03:47:03.108Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9aeb29ef",
       "sentAt": "2026-08-14T09:10:07.850Z",
       "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks"
-    },
-    {
-      "id": "u_29e4c6b8",
-      "sentAt": "2026-08-14T09:10:07.850Z",
-      "title": "Claude Artificial Intelligence Model Signals It Is on Path to Self-Awareness - nysun.com"
-    },
-    {
-      "id": "u_c1eb0aa7",
-      "sentAt": "2026-08-14T09:10:07.850Z",
-      "title": "Google has released Gemini 3.7 Flash - LinkedIn"
-    },
-    {
-      "id": "u_f55e403e",
-      "sentAt": "2026-08-14T09:10:07.850Z",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets"
-    },
-    {
-      "id": "u_ed9c9b7",
-      "sentAt": "2026-08-14T09:10:07.850Z",
-      "title": "Introducing Gemini 3.7 Flash"
-    },
-    {
-      "id": "u_faf2e293",
-      "sentAt": "2026-08-14T07:28:06.530Z",
-      "title": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said"
     }
   ]
 }
