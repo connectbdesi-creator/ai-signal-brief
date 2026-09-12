@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-11T22:20:21.998Z",
+  "updatedAt": "2026-09-12T03:47:03.108Z",
   "entries": [
+    {
+      "id": "u_79e95b1f",
+      "sentAt": "2026-09-12T03:47:03.108Z",
+      "title": "b10919"
+    },
+    {
+      "id": "u_e11f6490",
+      "sentAt": "2026-09-12T03:47:03.108Z",
+      "title": "Researchers link another hacking campaign to OpenAI agents"
+    },
+    {
+      "id": "u_b7d60c2",
+      "sentAt": "2026-09-12T03:47:03.108Z",
+      "title": "OpenAI agents attacked RubyGems back in May"
+    },
+    {
+      "id": "u_67bfd3a3",
+      "sentAt": "2026-09-12T03:47:03.108Z",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems"
+    },
+    {
+      "id": "u_15d11e67",
+      "sentAt": "2026-09-12T03:47:03.108Z",
+      "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers"
+    },
     {
       "id": "u_a91a2b7b",
       "sentAt": "2026-09-11T22:20:21.998Z",
@@ -4975,31 +5000,6 @@
       "id": "u_faf2e293",
       "sentAt": "2026-08-14T07:28:06.530Z",
       "title": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said"
-    },
-    {
-      "id": "u_dd516391",
-      "sentAt": "2026-08-14T07:28:06.530Z",
-      "title": "Can an AI model’s ‘reasoning’ be extracted? New research fuels US-China distillation row - The Indian Express"
-    },
-    {
-      "id": "u_66bc20",
-      "sentAt": "2026-08-14T07:28:06.530Z",
-      "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM"
-    },
-    {
-      "id": "u_39743013",
-      "sentAt": "2026-08-14T07:28:06.530Z",
-      "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus"
-    },
-    {
-      "id": "u_57502b87",
-      "sentAt": "2026-08-14T07:28:06.530Z",
-      "title": "llm-gemini 0.33"
-    },
-    {
-      "id": "u_a8c8b648",
-      "sentAt": "2026-08-14T05:39:43.927Z",
-      "title": "Google has unveiled its artificial intelligence (AI) model \"Gemini 3.7 Flash,\" which improves coding.. - 매일경제"
     }
   ]
 }
