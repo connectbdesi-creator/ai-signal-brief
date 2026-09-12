@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-12T08:29:45.765Z",
+  "updatedAt": "2026-09-12T13:25:38.581Z",
   "entries": [
+    {
+      "id": "u_c84d3f2f",
+      "sentAt": "2026-09-12T13:25:38.581Z",
+      "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends"
+    },
+    {
+      "id": "u_5cab4253",
+      "sentAt": "2026-09-12T13:25:38.581Z",
+      "title": "b10930"
+    },
+    {
+      "id": "u_50afe12a",
+      "sentAt": "2026-09-12T13:25:38.581Z",
+      "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression"
+    },
+    {
+      "id": "u_d849a383",
+      "sentAt": "2026-09-12T13:25:38.581Z",
+      "title": "b10929"
+    },
+    {
+      "id": "u_1cb686d3",
+      "sentAt": "2026-09-12T13:25:38.581Z",
+      "title": "b10927"
+    },
     {
       "id": "u_d5a8e9e3",
       "sentAt": "2026-09-12T08:29:45.765Z",
@@ -4975,31 +5000,6 @@
       "id": "u_424ee857",
       "sentAt": "2026-08-14T10:59:30.794Z",
       "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model"
-    },
-    {
-      "id": "u_7cacd016",
-      "sentAt": "2026-08-14T10:59:30.794Z",
-      "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model"
-    },
-    {
-      "id": "u_e31f5b58",
-      "sentAt": "2026-08-14T10:59:30.794Z",
-      "title": "Why AI Agents Fail In Production And What The Execution Gap Means"
-    },
-    {
-      "id": "u_aad21992",
-      "sentAt": "2026-08-14T10:59:30.794Z",
-      "title": "OpenAI sheds senior execs in pre-IPO refresh"
-    },
-    {
-      "id": "u_d5e2648f",
-      "sentAt": "2026-08-14T10:59:30.794Z",
-      "title": "Apple trained its own AI model for China with help from Alibaba"
-    },
-    {
-      "id": "u_9aeb29ef",
-      "sentAt": "2026-08-14T09:10:07.850Z",
-      "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks"
     }
   ]
 }
