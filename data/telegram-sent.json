@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-12T20:20:11.242Z",
+  "updatedAt": "2026-09-12T23:51:19.862Z",
   "entries": [
+    {
+      "id": "u_4f4594d7",
+      "sentAt": "2026-09-12T23:51:19.862Z",
+      "title": "b10932"
+    },
+    {
+      "id": "u_f241d59d",
+      "sentAt": "2026-09-12T23:51:19.862Z",
+      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says"
+    },
+    {
+      "id": "u_1984761f",
+      "sentAt": "2026-09-12T23:51:19.862Z",
+      "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns - CP24"
+    },
+    {
+      "id": "u_97c74d4",
+      "sentAt": "2026-09-12T23:51:19.862Z",
+      "title": "ChatGPT for Finance, Agents API and Uber Context - startuphub.ai"
+    },
+    {
+      "id": "u_acb9743a",
+      "sentAt": "2026-09-12T23:51:19.862Z",
+      "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds"
+    },
     {
       "id": "u_ee61b8c1",
       "sentAt": "2026-09-12T20:20:11.242Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7dd73c46",
       "sentAt": "2026-08-14T16:57:24.127Z",
       "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline"
-    },
-    {
-      "id": "u_52c9508",
-      "sentAt": "2026-08-14T16:57:24.127Z",
-      "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline"
-    },
-    {
-      "id": "u_c8422aa6",
-      "sentAt": "2026-08-14T16:57:24.127Z",
-      "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach"
-    },
-    {
-      "id": "u_f2d5ea4",
-      "sentAt": "2026-08-14T16:57:24.127Z",
-      "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach"
-    },
-    {
-      "id": "u_ce1de25f",
-      "sentAt": "2026-08-14T16:57:24.127Z",
-      "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore"
-    },
-    {
-      "id": "u_75fad1fa",
-      "sentAt": "2026-08-14T14:54:39.944Z",
-      "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras"
     }
   ]
 }
