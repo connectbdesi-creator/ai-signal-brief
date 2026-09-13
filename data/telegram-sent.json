@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-13T18:37:06.106Z",
+  "updatedAt": "2026-09-13T22:14:02.811Z",
   "entries": [
+    {
+      "id": "u_2d638e8f",
+      "sentAt": "2026-09-13T22:14:02.811Z",
+      "title": "The Very Real Threat of a Persistent Botnet"
+    },
+    {
+      "id": "u_a01033df",
+      "sentAt": "2026-09-13T22:14:02.811Z",
+      "title": "b10948"
+    },
+    {
+      "id": "u_7c6097f5",
+      "sentAt": "2026-09-13T22:14:02.811Z",
+      "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown"
+    },
+    {
+      "id": "u_13de06f9",
+      "sentAt": "2026-09-13T22:14:02.811Z",
+      "title": "COBRA-Skills: Contextual Bandits for Efficient Agent Skill Optimization (Open Source)"
+    },
+    {
+      "id": "u_6244f631",
+      "sentAt": "2026-09-13T22:14:02.811Z",
+      "title": "[Research] COBRA-Skills: Contextual Bandits for Efficient Agent Skill Optimization (Open Source)"
+    },
     {
       "id": "u_f159d1ef",
       "sentAt": "2026-09-13T18:37:06.106Z",
@@ -4975,31 +5000,6 @@
       "id": "u_53a27c0d",
       "sentAt": "2026-08-15T06:42:19.762Z",
       "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]"
-    },
-    {
-      "id": "u_387d0301",
-      "sentAt": "2026-08-15T06:42:19.762Z",
-      "title": "New benchmark confirms AI models still perform poorly at visual perception"
-    },
-    {
-      "id": "u_a0e302b2",
-      "sentAt": "2026-08-15T06:42:19.762Z",
-      "title": "New benchmark confirms AI models still perform poorly at visual perception"
-    },
-    {
-      "id": "u_e67e6208",
-      "sentAt": "2026-08-15T06:42:19.762Z",
-      "title": "Did Nvidia’s Jensen Huang just make the AI buildout too big to fail?"
-    },
-    {
-      "id": "u_a88a9d18",
-      "sentAt": "2026-08-15T04:34:13.688Z",
-      "title": "MBA: Multimodal Benchmark and Agents for Real-World Business Ideation"
-    },
-    {
-      "id": "u_9adbbfb4",
-      "sentAt": "2026-08-15T04:34:13.688Z",
-      "title": "Anthropic's Claude Agents Engage in Simulated Turf War - StartupHub.ai"
     }
   ]
 }
