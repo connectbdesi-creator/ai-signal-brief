@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-12T23:51:19.862Z",
+  "updatedAt": "2026-09-13T03:55:12.089Z",
   "entries": [
+    {
+      "id": "u_1afe81bf",
+      "sentAt": "2026-09-13T03:55:12.089Z",
+      "title": "ChatGPT enters the world of finance: OpenAI launches a smart platform dedicated to financial institutions - صوت الإمارات"
+    },
+    {
+      "id": "u_668651a7",
+      "sentAt": "2026-09-13T03:55:12.089Z",
+      "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference"
+    },
+    {
+      "id": "u_533fdf55",
+      "sentAt": "2026-09-13T03:55:12.089Z",
+      "title": "'We Must Pace the Frontier': Anthropic CEO urges AI companies to slow model development - The Jerusalem Post"
+    },
+    {
+      "id": "u_50797357",
+      "sentAt": "2026-09-13T03:55:12.089Z",
+      "title": "b10936"
+    },
+    {
+      "id": "u_7eb544ff",
+      "sentAt": "2026-09-13T03:55:12.089Z",
+      "title": "b10935"
+    },
     {
       "id": "u_4f4594d7",
       "sentAt": "2026-09-12T23:51:19.862Z",
@@ -4975,31 +5000,6 @@
       "id": "u_dc52c045",
       "sentAt": "2026-08-14T18:58:11.574Z",
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent"
-    },
-    {
-      "id": "u_70928815",
-      "sentAt": "2026-08-14T18:58:11.574Z",
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent"
-    },
-    {
-      "id": "u_751594c2",
-      "sentAt": "2026-08-14T18:58:11.574Z",
-      "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]"
-    },
-    {
-      "id": "u_4683456d",
-      "sentAt": "2026-08-14T18:58:11.574Z",
-      "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
-    },
-    {
-      "id": "u_4554b3a7",
-      "sentAt": "2026-08-14T18:58:11.574Z",
-      "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
-    },
-    {
-      "id": "u_7dd73c46",
-      "sentAt": "2026-08-14T16:57:24.127Z",
-      "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline"
     }
   ]
 }
