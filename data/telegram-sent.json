@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-13T14:10:33.145Z",
+  "updatedAt": "2026-09-13T18:37:06.106Z",
   "entries": [
+    {
+      "id": "u_f159d1ef",
+      "sentAt": "2026-09-13T18:37:06.106Z",
+      "title": "b10946"
+    },
+    {
+      "id": "u_4e5504fd",
+      "sentAt": "2026-09-13T18:37:06.106Z",
+      "title": "What Made AI Researchers Freak Out—The \"Incident\" In Plain English"
+    },
+    {
+      "id": "u_9b85ce79",
+      "sentAt": "2026-09-13T18:37:06.106Z",
+      "title": "Former AI researcher: ‘Not enough time’ for employees to consider safety of models - The Hill"
+    },
+    {
+      "id": "u_b06e2d8e",
+      "sentAt": "2026-09-13T18:37:06.106Z",
+      "title": "Johnson calls for AI solutions but says Congress won't take the lead"
+    },
+    {
+      "id": "u_fa501d72",
+      "sentAt": "2026-09-13T18:37:06.106Z",
+      "title": "Chinese military researchers and tech giants caught using Claude — US frontier model coded 16 air-defense suppression tools targeting Taiwan, drafted anti-torpedo specs, and fed 151 million training queries to Alibaba - Tom's Hardware"
+    },
     {
       "id": "u_eb5391eb",
       "sentAt": "2026-09-13T14:10:33.145Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9adbbfb4",
       "sentAt": "2026-08-15T04:34:13.688Z",
       "title": "Anthropic's Claude Agents Engage in Simulated Turf War - StartupHub.ai"
-    },
-    {
-      "id": "u_5322818e",
-      "sentAt": "2026-08-15T04:34:13.688Z",
-      "title": "Anthropic AI Agents Engage in Simulated Turf War - StartupHub.ai"
-    },
-    {
-      "id": "u_a6cda1c1",
-      "sentAt": "2026-08-15T01:22:31.487Z",
-      "title": "Anthropic details unreleased Model 2, new alignment concerns in latest AI risk report"
-    },
-    {
-      "id": "u_c6e5e180",
-      "sentAt": "2026-08-15T01:22:31.487Z",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text - BleepingComputer"
-    },
-    {
-      "id": "u_d179cc6d",
-      "sentAt": "2026-08-15T01:22:31.487Z",
-      "title": "Hippocratic AI rolls out platform to coordinate teams of conversational voice AI agents - Fierce Healthcare"
-    },
-    {
-      "id": "u_f0017355",
-      "sentAt": "2026-08-14T22:26:11.455Z",
-      "title": "China's Z.ai launches model it says rivals Anthropic's Mythos - Nikkei Asia"
     }
   ]
 }
