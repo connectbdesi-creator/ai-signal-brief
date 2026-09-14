@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-13T22:14:02.811Z",
+  "updatedAt": "2026-09-14T04:02:06.448Z",
   "entries": [
+    {
+      "id": "u_d117545",
+      "sentAt": "2026-09-14T04:02:06.448Z",
+      "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?"
+    },
+    {
+      "id": "u_a5953f27",
+      "sentAt": "2026-09-14T04:02:06.448Z",
+      "title": "b10950"
+    },
+    {
+      "id": "u_5c27bfa9",
+      "sentAt": "2026-09-14T04:02:06.448Z",
+      "title": "Pacing the Frontier – Tahuna: AI Training Infrastructure, Now Open Source [P]"
+    },
+    {
+      "id": "u_5eb54aa7",
+      "sentAt": "2026-09-14T04:02:06.448Z",
+      "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]"
+    },
+    {
+      "id": "u_59dec82",
+      "sentAt": "2026-09-14T04:02:06.448Z",
+      "title": "Former AI researcher: ‘Not enough time’ for employees to consider safety of models - thehill.com"
+    },
     {
       "id": "u_2d638e8f",
       "sentAt": "2026-09-13T22:14:02.811Z",
@@ -4975,31 +5000,6 @@
       "id": "u_11cfab34",
       "sentAt": "2026-08-15T08:32:00.640Z",
       "title": "Anthropic's Claude Agents Engage in Simulated Turf War - startuphub.ai"
-    },
-    {
-      "id": "u_1cc92d4e",
-      "sentAt": "2026-08-15T08:32:00.640Z",
-      "title": "Anthropic AI Agents Engage in Simulated Turf War - startuphub.ai"
-    },
-    {
-      "id": "u_8779a693",
-      "sentAt": "2026-08-15T08:32:00.640Z",
-      "title": "Qwen 3.8 - 27B is a game changer"
-    },
-    {
-      "id": "u_1484a9b5",
-      "sentAt": "2026-08-15T08:32:00.640Z",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text - bleepingcomputer.com"
-    },
-    {
-      "id": "u_4fece81d",
-      "sentAt": "2026-08-15T08:32:00.640Z",
-      "title": "Qwen3.8-27B is now up to ~3× faster on Apple Silicon with mlx-dspark"
-    },
-    {
-      "id": "u_53a27c0d",
-      "sentAt": "2026-08-15T06:42:19.762Z",
-      "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]"
     }
   ]
 }
