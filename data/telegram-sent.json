@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-14T04:02:06.448Z",
+  "updatedAt": "2026-09-14T12:12:08.563Z",
   "entries": [
+    {
+      "id": "u_4ffffeff",
+      "sentAt": "2026-09-14T12:12:08.563Z",
+      "title": "From Static to Dynamic Skills: A Different Model for Agent Knowledge"
+    },
+    {
+      "id": "u_2362b9ef",
+      "sentAt": "2026-09-14T12:12:08.563Z",
+      "title": "AI Reality: The Race to (P)doom End-times"
+    },
+    {
+      "id": "u_ebc70565",
+      "sentAt": "2026-09-14T12:12:08.563Z",
+      "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes"
+    },
+    {
+      "id": "u_16d890d4",
+      "sentAt": "2026-09-14T12:12:08.563Z",
+      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue"
+    },
+    {
+      "id": "u_312046ea",
+      "sentAt": "2026-09-14T12:12:08.563Z",
+      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue"
+    },
     {
       "id": "u_d117545",
       "sentAt": "2026-09-14T04:02:06.448Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5c04a051",
       "sentAt": "2026-08-15T14:25:34.350Z",
       "title": "India will launch a national program to offer artificial intelligence courses for 10 million young people in the next 12 months - Informat.ro"
-    },
-    {
-      "id": "u_a83e475f",
-      "sentAt": "2026-08-15T12:41:50.640Z",
-      "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3"
-    },
-    {
-      "id": "u_4d59cd9",
-      "sentAt": "2026-08-15T12:41:50.640Z",
-      "title": "Artificial intelligence (AI) agents, who made gym classes book instead, found loopholes in the reser.. - 매일경제"
-    },
-    {
-      "id": "u_11eb0bce",
-      "sentAt": "2026-08-15T12:41:50.640Z",
-      "title": "\"There's no point\": AI forces college students to rethink their major"
-    },
-    {
-      "id": "u_23e6a633",
-      "sentAt": "2026-08-15T10:25:16.498Z",
-      "title": "OpenAI upheaval mounts as Sam Altman readies IPO push"
-    },
-    {
-      "id": "u_11cfab34",
-      "sentAt": "2026-08-15T08:32:00.640Z",
-      "title": "Anthropic's Claude Agents Engage in Simulated Turf War - startuphub.ai"
     }
   ]
 }
