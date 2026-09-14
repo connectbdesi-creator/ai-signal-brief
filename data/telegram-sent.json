@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-14T19:06:30.131Z",
+  "updatedAt": "2026-09-14T23:01:06.857Z",
   "entries": [
+    {
+      "id": "u_d821963b",
+      "sentAt": "2026-09-14T23:01:06.857Z",
+      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale"
+    },
+    {
+      "id": "u_df19898d",
+      "sentAt": "2026-09-14T23:01:06.857Z",
+      "title": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data"
+    },
+    {
+      "id": "u_87bcad33",
+      "sentAt": "2026-09-14T23:01:06.857Z",
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop"
+    },
+    {
+      "id": "u_1ba6638b",
+      "sentAt": "2026-09-14T23:01:06.857Z",
+      "title": "b10970"
+    },
+    {
+      "id": "u_82adc6b9",
+      "sentAt": "2026-09-14T23:01:06.857Z",
+      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore"
+    },
     {
       "id": "u_56157bcb",
       "sentAt": "2026-09-14T19:06:30.131Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3d9fc229",
       "sentAt": "2026-08-15T22:24:51.731Z",
       "title": "The perfect way for Google to screw over OAI and Anthropic is by releasing a 120B dense multimodal Gemma model"
-    },
-    {
-      "id": "u_cbd26d6f",
-      "sentAt": "2026-08-15T22:24:51.731Z",
-      "title": "club-5060ti refresh: tested RTX 5060 Ti presets, a proper high-context harness, and Qwen3.8 27B"
-    },
-    {
-      "id": "u_1543ba33",
-      "sentAt": "2026-08-15T22:24:51.731Z",
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery"
-    },
-    {
-      "id": "u_8a68e45e",
-      "sentAt": "2026-08-15T22:24:51.731Z",
-      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks"
-    },
-    {
-      "id": "u_126d9118",
-      "sentAt": "2026-08-15T20:25:13.558Z",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work"
-    },
-    {
-      "id": "u_c4ca3933",
-      "sentAt": "2026-08-15T20:25:13.558Z",
-      "title": "The voluntary-to-mandatory pipeline for AI safety frameworks — with sources"
     }
   ]
 }
