@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-15T16:33:37.809Z",
+  "updatedAt": "2026-09-15T21:00:12.434Z",
   "entries": [
+    {
+      "id": "u_10a42984",
+      "sentAt": "2026-09-15T21:00:12.434Z",
+      "title": "What to expect at Neo4j’s GraphSummit: Join theCUBE Sept. 24"
+    },
+    {
+      "id": "u_1e332a11",
+      "sentAt": "2026-09-15T21:00:12.434Z",
+      "title": "Your AI agents' reports and questions have a new inbox, courtesy of AWS"
+    },
+    {
+      "id": "u_53860950",
+      "sentAt": "2026-09-15T21:00:12.434Z",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup"
+    },
+    {
+      "id": "u_82ade2d5",
+      "sentAt": "2026-09-15T21:00:12.434Z",
+      "title": "Two camps have emerged in the debate over AI safety and regulation"
+    },
+    {
+      "id": "u_6772cff1",
+      "sentAt": "2026-09-15T21:00:12.434Z",
+      "title": "Euclyd raises $230M+ to develop chips for AI agents"
+    },
     {
       "id": "u_c15481e3",
       "sentAt": "2026-09-15T16:33:37.809Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cc0aa63d",
       "sentAt": "2026-08-16T16:28:40.754Z",
       "title": "ChatGPT’s Computer History tracks your clicks and keystrokes"
-    },
-    {
-      "id": "u_274c7fc3",
-      "sentAt": "2026-08-16T16:28:40.754Z",
-      "title": "b10453"
-    },
-    {
-      "id": "u_67c2c68b",
-      "sentAt": "2026-08-16T16:28:40.754Z",
-      "title": "b10452"
-    },
-    {
-      "id": "u_ca9568a7",
-      "sentAt": "2026-08-16T16:28:40.754Z",
-      "title": "b10451"
-    },
-    {
-      "id": "u_7c5b1f54",
-      "sentAt": "2026-08-16T16:28:40.754Z",
-      "title": "v1.98.0-rc.1"
-    },
-    {
-      "id": "u_fd5ad0cc",
-      "sentAt": "2026-08-16T14:26:07.350Z",
-      "title": "Rogue AI aren’t science fiction anymore"
     }
   ]
 }
