@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-15T11:21:50.397Z",
+  "updatedAt": "2026-09-15T16:33:37.809Z",
   "entries": [
+    {
+      "id": "u_c15481e3",
+      "sentAt": "2026-09-15T16:33:37.809Z",
+      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching"
+    },
+    {
+      "id": "u_c4e315e0",
+      "sentAt": "2026-09-15T16:33:37.809Z",
+      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization"
+    },
+    {
+      "id": "u_4472e84",
+      "sentAt": "2026-09-15T16:33:37.809Z",
+      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs"
+    },
+    {
+      "id": "u_ab6618c2",
+      "sentAt": "2026-09-15T16:33:37.809Z",
+      "title": "‘Like Syd Barrett’: AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon"
+    },
+    {
+      "id": "u_5876905a",
+      "sentAt": "2026-09-15T16:33:37.809Z",
+      "title": "AI for everyone in every language"
+    },
     {
       "id": "u_175794ff",
       "sentAt": "2026-09-15T11:21:50.397Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fd5ad0cc",
       "sentAt": "2026-08-16T14:26:07.350Z",
       "title": "Rogue AI aren’t science fiction anymore"
-    },
-    {
-      "id": "u_f4bfbf09",
-      "sentAt": "2026-08-16T12:43:44.865Z",
-      "title": "Qwen 3.8 27b with DSH(DeepSeek Harness) is Amazing!! Experiences so far and perfomance."
-    },
-    {
-      "id": "u_b5efb3ee",
-      "sentAt": "2026-08-16T12:43:44.865Z",
-      "title": "Is ternary (1.58-bit) LLMs making a come back?"
-    },
-    {
-      "id": "u_8132e8af",
-      "sentAt": "2026-08-16T12:43:44.865Z",
-      "title": "It is an agent-specific model recently introduced by artificial intelligence (AI) startup Upstage, a.. - 매일경제"
-    },
-    {
-      "id": "u_abbb8bd3",
-      "sentAt": "2026-08-16T10:26:13.945Z",
-      "title": "How AI could bring Mayo-quality health care to everyone"
-    },
-    {
-      "id": "u_e572c9a0",
-      "sentAt": "2026-08-16T08:32:26.372Z",
-      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
     }
   ]
 }
