@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-15T04:01:20.128Z",
+  "updatedAt": "2026-09-15T11:21:50.397Z",
   "entries": [
+    {
+      "id": "u_175794ff",
+      "sentAt": "2026-09-15T11:21:50.397Z",
+      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU"
+    },
+    {
+      "id": "u_c186edb5",
+      "sentAt": "2026-09-15T11:21:50.397Z",
+      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU"
+    },
+    {
+      "id": "u_5d12e7cb",
+      "sentAt": "2026-09-15T11:21:50.397Z",
+      "title": "b10977"
+    },
+    {
+      "id": "u_314beb5c",
+      "sentAt": "2026-09-15T11:21:50.397Z",
+      "title": "GBAPS to launch two AI use, literacy lessons for K-12 students - Green Bay Press-Gazette"
+    },
+    {
+      "id": "u_ccaca354",
+      "sentAt": "2026-09-15T11:21:50.397Z",
+      "title": "Democrats say supreme court rejection of Trump mail ballot restrictions will ensure ‘safe, secure and accurate elections’ – US politics live"
+    },
     {
       "id": "u_e984dd70",
       "sentAt": "2026-09-15T04:01:20.128Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e572c9a0",
       "sentAt": "2026-08-16T08:32:26.372Z",
       "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
-    },
-    {
-      "id": "u_6469cfa3",
-      "sentAt": "2026-08-16T08:32:26.372Z",
-      "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
-    },
-    {
-      "id": "u_772e5d65",
-      "sentAt": "2026-08-16T08:32:26.372Z",
-      "title": "Qwen3.8-27B abliterated FP8: refusal 64–99% → 0–6%, and MMLU/GSM8K move less than 1.3 points"
-    },
-    {
-      "id": "u_c458dcba",
-      "sentAt": "2026-08-16T08:32:26.372Z",
-      "title": "New AI platform launches as Ja prepares public debate on AI rules - Jamaica Gleaner"
-    },
-    {
-      "id": "u_2cd2ad02",
-      "sentAt": "2026-08-16T08:32:26.372Z",
-      "title": "Best Setup for a 16 GB VRAM + 128 GB RAM System?"
-    },
-    {
-      "id": "u_a52be020",
-      "sentAt": "2026-08-16T06:43:36.606Z",
-      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
     }
   ]
 }
