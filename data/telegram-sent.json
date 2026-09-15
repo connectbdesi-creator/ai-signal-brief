@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-14T23:01:06.857Z",
+  "updatedAt": "2026-09-15T04:01:20.128Z",
   "entries": [
+    {
+      "id": "u_e984dd70",
+      "sentAt": "2026-09-15T04:01:20.128Z",
+      "title": "Nuance Labs bags $50M in funding to fix the awkwardness of AI avatars"
+    },
+    {
+      "id": "u_6383fa99",
+      "sentAt": "2026-09-15T04:01:20.128Z",
+      "title": "Procurement automation startup Aron launches with $8M in funding"
+    },
+    {
+      "id": "u_d58acf68",
+      "sentAt": "2026-09-15T04:01:20.128Z",
+      "title": "Thune sees role for Congress on AI — Trump does not"
+    },
+    {
+      "id": "u_d34e9b09",
+      "sentAt": "2026-09-15T04:01:20.128Z",
+      "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom"
+    },
+    {
+      "id": "u_95aa2f17",
+      "sentAt": "2026-09-15T04:01:20.128Z",
+      "title": "CrowdStrike CEO on Anthropic’s AI safety warning: ‘The genie’s out of the bottle’"
+    },
     {
       "id": "u_d821963b",
       "sentAt": "2026-09-14T23:01:06.857Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a52be020",
       "sentAt": "2026-08-16T06:43:36.606Z",
       "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
-    },
-    {
-      "id": "u_a24abd61",
-      "sentAt": "2026-08-16T06:43:36.606Z",
-      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
-    },
-    {
-      "id": "u_8007ea26",
-      "sentAt": "2026-08-16T06:43:36.606Z",
-      "title": "Anyone managed to get Qwen 3.8 27B running smoothly on vLLM? Can't get rid of endless thinking"
-    },
-    {
-      "id": "u_4ce437fb",
-      "sentAt": "2026-08-16T06:43:36.606Z",
-      "title": "Google launches Gemini 3.7 Flash: What’s new in its latest AI model? - The Indian Express"
-    },
-    {
-      "id": "u_72262f1b",
-      "sentAt": "2026-08-16T06:43:36.606Z",
-      "title": "SOTA Apple Silicon Inference (August 15, 2026)"
-    },
-    {
-      "id": "u_3d9fc229",
-      "sentAt": "2026-08-15T22:24:51.731Z",
-      "title": "The perfect way for Google to screw over OAI and Anthropic is by releasing a 120B dense multimodal Gemma model"
     }
   ]
 }
