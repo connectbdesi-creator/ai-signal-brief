@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-16T18:01:23.178Z",
+  "updatedAt": "2026-09-16T22:44:21.033Z",
   "entries": [
+    {
+      "id": "u_bd58315",
+      "sentAt": "2026-09-16T22:44:21.033Z",
+      "title": "OpenAI releases framework to track model misalignment - Reuters"
+    },
+    {
+      "id": "u_32dbb1c8",
+      "sentAt": "2026-09-16T22:44:21.033Z",
+      "title": "OpenAI discloses six new safety incidents"
+    },
+    {
+      "id": "u_d4441a01",
+      "sentAt": "2026-09-16T22:44:21.033Z",
+      "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data"
+    },
+    {
+      "id": "u_87fa754c",
+      "sentAt": "2026-09-16T22:44:21.033Z",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?"
+    },
+    {
+      "id": "u_ffca8023",
+      "sentAt": "2026-09-16T22:44:21.033Z",
+      "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor"
+    },
     {
       "id": "u_6fbc8aab",
       "sentAt": "2026-09-16T18:01:23.178Z",
@@ -4975,31 +5000,6 @@
       "id": "u_86eae106",
       "sentAt": "2026-08-17T08:46:48.947Z",
       "title": "Get closer to the game with Gemini and Pixel"
-    },
-    {
-      "id": "u_fea5362b",
-      "sentAt": "2026-08-17T08:46:48.947Z",
-      "title": "b10456"
-    },
-    {
-      "id": "u_65bb87e9",
-      "sentAt": "2026-08-17T08:46:48.947Z",
-      "title": "Recent Advances in Deep Learning-Based Drug-Target Binding Affinity Prediction"
-    },
-    {
-      "id": "u_5b98b82f",
-      "sentAt": "2026-08-17T08:46:48.947Z",
-      "title": "Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions"
-    },
-    {
-      "id": "u_270af81a",
-      "sentAt": "2026-08-17T08:46:48.947Z",
-      "title": "Learning to Run Power Networks: Effective AlphaZero-inspired Topological Control"
-    },
-    {
-      "id": "u_5da970bf",
-      "sentAt": "2026-08-17T07:00:44.196Z",
-      "title": "b10455"
     }
   ]
 }
