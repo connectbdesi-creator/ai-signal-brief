@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-16T13:15:16.215Z",
+  "updatedAt": "2026-09-16T18:01:23.178Z",
   "entries": [
+    {
+      "id": "u_6fbc8aab",
+      "sentAt": "2026-09-16T18:01:23.178Z",
+      "title": "b11006"
+    },
+    {
+      "id": "u_42bf7fc",
+      "sentAt": "2026-09-16T18:01:23.178Z",
+      "title": "langchain==1.4.1"
+    },
+    {
+      "id": "u_5ace1717",
+      "sentAt": "2026-09-16T18:01:23.178Z",
+      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI"
+    },
+    {
+      "id": "u_d3a8835",
+      "sentAt": "2026-09-16T18:01:23.178Z",
+      "title": "Your AI agents can now control your Google Home devices"
+    },
+    {
+      "id": "u_e40cc97c",
+      "sentAt": "2026-09-16T18:01:23.178Z",
+      "title": "Anthropic Launches Claude For Advisors With Schwab And BlackRock"
+    },
     {
       "id": "u_6d5fc7e6",
       "sentAt": "2026-09-16T13:15:16.215Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5da970bf",
       "sentAt": "2026-08-17T07:00:44.196Z",
       "title": "b10455"
-    },
-    {
-      "id": "u_9b402d70",
-      "sentAt": "2026-08-17T07:00:44.196Z",
-      "title": "Anthropic unveils invisible text watermarking system for Claude models - Adgully.com"
-    },
-    {
-      "id": "u_1a6d52fc",
-      "sentAt": "2026-08-17T07:00:44.196Z",
-      "title": "Are Microsoft’s AI plans being held back by a shortage of chips?"
-    },
-    {
-      "id": "u_e46d612",
-      "sentAt": "2026-08-17T07:00:44.196Z",
-      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents"
-    },
-    {
-      "id": "u_e3699f07",
-      "sentAt": "2026-08-17T07:00:44.196Z",
-      "title": "The Integer Alibi: Localizing Cross-Kernel Divergence in INT8-Quantized LLM Inference"
-    },
-    {
-      "id": "u_ba25bf2f",
-      "sentAt": "2026-08-17T04:45:06.070Z",
-      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation"
     }
   ]
 }
