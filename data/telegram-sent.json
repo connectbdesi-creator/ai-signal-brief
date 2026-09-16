@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-15T21:00:12.434Z",
+  "updatedAt": "2026-09-16T00:03:01.775Z",
   "entries": [
+    {
+      "id": "u_2f968e57",
+      "sentAt": "2026-09-16T00:03:01.775Z",
+      "title": "b10990"
+    },
+    {
+      "id": "u_9cde3d39",
+      "sentAt": "2026-09-16T00:03:01.775Z",
+      "title": "Gemini Live audio"
+    },
+    {
+      "id": "u_466cba2e",
+      "sentAt": "2026-09-16T00:03:01.775Z",
+      "title": "AI agent certification startup AIUC raises $40M to begin auditing frontier models"
+    },
+    {
+      "id": "u_d519aff3",
+      "sentAt": "2026-09-16T00:03:01.775Z",
+      "title": "b10989"
+    },
+    {
+      "id": "u_8f3d0f3d",
+      "sentAt": "2026-09-16T00:03:01.775Z",
+      "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'"
+    },
     {
       "id": "u_10a42984",
       "sentAt": "2026-09-15T21:00:12.434Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fc26ad10",
       "sentAt": "2026-08-16T22:23:38.357Z",
       "title": "Qwen3.8 27B Q2 vs Q3 vs Qwen3.6 35B-A3B MoE on 12GB VRAM"
-    },
-    {
-      "id": "u_ff0c3635",
-      "sentAt": "2026-08-16T22:23:38.357Z",
-      "title": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027 (rationalisation below)"
-    },
-    {
-      "id": "u_b68a725f",
-      "sentAt": "2026-08-16T22:23:38.357Z",
-      "title": "Making small local models actually useful for coding"
-    },
-    {
-      "id": "u_30c087ca",
-      "sentAt": "2026-08-16T18:33:02.578Z",
-      "title": "v1.97.0"
-    },
-    {
-      "id": "u_73098447",
-      "sentAt": "2026-08-16T18:33:02.578Z",
-      "title": "b10447"
-    },
-    {
-      "id": "u_cc0aa63d",
-      "sentAt": "2026-08-16T16:28:40.754Z",
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes"
     }
   ]
 }
