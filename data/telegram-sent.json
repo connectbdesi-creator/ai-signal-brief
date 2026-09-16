@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-16T07:24:44.935Z",
+  "updatedAt": "2026-09-16T13:15:16.215Z",
   "entries": [
+    {
+      "id": "u_6d5fc7e6",
+      "sentAt": "2026-09-16T13:15:16.215Z",
+      "title": "ThinkingDataAI launches Agentic Engine with AI agents tracking growth on a company’s own infrastructure"
+    },
+    {
+      "id": "u_65554097",
+      "sentAt": "2026-09-16T13:15:16.215Z",
+      "title": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035 - Reuters"
+    },
+    {
+      "id": "u_a0b9bef5",
+      "sentAt": "2026-09-16T13:15:16.215Z",
+      "title": "Exclusive: OpenAI launches road tour to educate older Americans on AI - USA Today"
+    },
+    {
+      "id": "u_3e50631e",
+      "sentAt": "2026-09-16T13:15:16.215Z",
+      "title": "How to Build Effective Evals for AI Agents"
+    },
+    {
+      "id": "u_b2028f74",
+      "sentAt": "2026-09-16T13:15:16.215Z",
+      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser"
+    },
     {
       "id": "u_85a6db32",
       "sentAt": "2026-09-16T07:24:44.935Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ba25bf2f",
       "sentAt": "2026-08-17T04:45:06.070Z",
       "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation"
-    },
-    {
-      "id": "u_2de39342",
-      "sentAt": "2026-08-17T04:45:06.070Z",
-      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking"
-    },
-    {
-      "id": "u_fc61cc01",
-      "sentAt": "2026-08-17T04:45:06.070Z",
-      "title": "Modular Cognitive Architecture Emerges in Large Language Models"
-    },
-    {
-      "id": "u_f05a7f73",
-      "sentAt": "2026-08-17T04:45:06.070Z",
-      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing"
-    },
-    {
-      "id": "u_74ee6c79",
-      "sentAt": "2026-08-17T04:45:06.070Z",
-      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents"
-    },
-    {
-      "id": "u_b41fac98",
-      "sentAt": "2026-08-17T03:02:29.682Z",
-      "title": "Changzhou launches mass digital literacy push - China Daily Global Edition"
     }
   ]
 }
