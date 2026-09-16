@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-16T00:03:01.775Z",
+  "updatedAt": "2026-09-16T07:24:44.935Z",
   "entries": [
+    {
+      "id": "u_85a6db32",
+      "sentAt": "2026-09-16T07:24:44.935Z",
+      "title": "Cohesity’s new Agent Resilience lets companies roll back AI agents that go wrong"
+    },
+    {
+      "id": "u_2b792cb3",
+      "sentAt": "2026-09-16T07:24:44.935Z",
+      "title": "b10993"
+    },
+    {
+      "id": "u_58ce07af",
+      "sentAt": "2026-09-16T07:24:44.935Z",
+      "title": "Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings"
+    },
+    {
+      "id": "u_7829b053",
+      "sentAt": "2026-09-16T07:24:44.935Z",
+      "title": "b10992"
+    },
+    {
+      "id": "u_e7088212",
+      "sentAt": "2026-09-16T07:24:44.935Z",
+      "title": "Anthropic lands deal in $31bn datacentre in western Queensland"
+    },
     {
       "id": "u_2f968e57",
       "sentAt": "2026-09-16T00:03:01.775Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b41fac98",
       "sentAt": "2026-08-17T03:02:29.682Z",
       "title": "Changzhou launches mass digital literacy push - China Daily Global Edition"
-    },
-    {
-      "id": "u_32cb10e6",
-      "sentAt": "2026-08-17T03:02:29.682Z",
-      "title": "The next China shock will come from open-source AI"
-    },
-    {
-      "id": "u_a1764e5",
-      "sentAt": "2026-08-17T03:02:29.682Z",
-      "title": "Llama.cpp ROCm 7.2->7.14 upgrade, Radeon 780m iGPU benchmarks: ROCm vs Vulkan"
-    },
-    {
-      "id": "u_8cb5abe0",
-      "sentAt": "2026-08-16T22:23:38.357Z",
-      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things"
-    },
-    {
-      "id": "u_441e0432",
-      "sentAt": "2026-08-16T22:23:38.357Z",
-      "title": "Artificial Intelligence Crypto: MemeToro’s Dry-Run Pipeline Signals a Cautious Approach to AI Launches - StreetInsider"
-    },
-    {
-      "id": "u_fc26ad10",
-      "sentAt": "2026-08-16T22:23:38.357Z",
-      "title": "Qwen3.8 27B Q2 vs Q3 vs Qwen3.6 35B-A3B MoE on 12GB VRAM"
     }
   ]
 }
