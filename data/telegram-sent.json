@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-17T21:05:13.065Z",
+  "updatedAt": "2026-09-17T23:59:46.390Z",
   "entries": [
+    {
+      "id": "u_62ff8b1f",
+      "sentAt": "2026-09-17T23:59:46.390Z",
+      "title": "Google DeepMind launches institute to widen the AGI debate"
+    },
+    {
+      "id": "u_3de16358",
+      "sentAt": "2026-09-17T23:59:46.390Z",
+      "title": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research"
+    },
+    {
+      "id": "u_dcf846a6",
+      "sentAt": "2026-09-17T23:59:46.390Z",
+      "title": "Treble nabs $18M to generate audio simulations for robots"
+    },
+    {
+      "id": "u_97a166d6",
+      "sentAt": "2026-09-17T23:59:46.390Z",
+      "title": "langchain-typesafe==0.0.1a2"
+    },
+    {
+      "id": "u_84af08e3",
+      "sentAt": "2026-09-17T23:59:46.390Z",
+      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development"
+    },
     {
       "id": "u_11317f1c",
       "sentAt": "2026-09-17T21:05:13.065Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6e975d3b",
       "sentAt": "2026-08-17T20:30:07.599Z",
       "title": "I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it's helpful for certain things."
-    },
-    {
-      "id": "u_7ec7cde",
-      "sentAt": "2026-08-17T20:30:07.599Z",
-      "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption"
-    },
-    {
-      "id": "u_93f71bc",
-      "sentAt": "2026-08-17T20:30:07.599Z",
-      "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch - TradingView"
-    },
-    {
-      "id": "u_7d9fbd14",
-      "sentAt": "2026-08-17T20:30:07.599Z",
-      "title": "TRM Launches Enterprise AI Practice to Help Asset-Intensive Organizations Operationalize Artificial Intelligence - PR Newswire"
-    },
-    {
-      "id": "u_a8a831ce",
-      "sentAt": "2026-08-17T20:30:07.599Z",
-      "title": "The Defender’s Window"
-    },
-    {
-      "id": "u_819246d5",
-      "sentAt": "2026-08-17T18:42:38.649Z",
-      "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart"
     }
   ]
 }
