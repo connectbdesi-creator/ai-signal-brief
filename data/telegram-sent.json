@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-17T04:05:16.054Z",
+  "updatedAt": "2026-09-17T11:15:37.381Z",
   "entries": [
+    {
+      "id": "u_28d439d2",
+      "sentAt": "2026-09-17T11:15:37.381Z",
+      "title": "AI agent swarms are a massive waste of tokens with zero quality gain, says OpenAI Codex developer"
+    },
+    {
+      "id": "u_7d951b7a",
+      "sentAt": "2026-09-17T11:15:37.381Z",
+      "title": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing — 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments' - Tom's Hardware"
+    },
+    {
+      "id": "u_476db094",
+      "sentAt": "2026-09-17T11:15:37.381Z",
+      "title": "Google Launches Gemini 3.8 Live Models That Can Reason While They Talk - TechRepublic"
+    },
+    {
+      "id": "u_92764e3f",
+      "sentAt": "2026-09-17T11:15:37.381Z",
+      "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image"
+    },
+    {
+      "id": "u_72f71793",
+      "sentAt": "2026-09-17T11:15:37.381Z",
+      "title": "b11018"
+    },
     {
       "id": "u_e8394c5f",
       "sentAt": "2026-09-17T04:05:16.054Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7114aec0",
       "sentAt": "2026-08-17T12:50:55.207Z",
       "title": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence - The Globe and Mail"
-    },
-    {
-      "id": "u_491d24e5",
-      "sentAt": "2026-08-17T12:50:55.207Z",
-      "title": "$1 billion NYC-startup Dash0 acquires Berlin tech company to build software that fixes itself"
-    },
-    {
-      "id": "u_bda428c9",
-      "sentAt": "2026-08-17T12:50:55.207Z",
-      "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model"
-    },
-    {
-      "id": "u_984e2357",
-      "sentAt": "2026-08-17T12:50:55.207Z",
-      "title": "Anthropic explains how Claude’s invisible text watermarks will work"
-    },
-    {
-      "id": "u_1ed979e1",
-      "sentAt": "2026-08-17T12:50:55.207Z",
-      "title": "The 800-Millisecond Question Your Marketing Stack Can't Answer"
-    },
-    {
-      "id": "u_7ecdc5a1",
-      "sentAt": "2026-08-17T10:35:44.699Z",
-      "title": "SuperApp launches a shared space with AI models for teams to collaborate on work"
     }
   ]
 }
