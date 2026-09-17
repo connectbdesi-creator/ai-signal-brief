@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-17T16:32:31.569Z",
+  "updatedAt": "2026-09-17T21:05:13.065Z",
   "entries": [
+    {
+      "id": "u_11317f1c",
+      "sentAt": "2026-09-17T21:05:13.065Z",
+      "title": "The fix for rogue AI agents could be more AI"
+    },
+    {
+      "id": "u_6efb92ae",
+      "sentAt": "2026-09-17T21:05:13.065Z",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior"
+    },
+    {
+      "id": "u_1acc6bfe",
+      "sentAt": "2026-09-17T21:05:13.065Z",
+      "title": "AI agents erase the paper trail, reshaping audit assurance"
+    },
+    {
+      "id": "u_7481d2a5",
+      "sentAt": "2026-09-17T21:05:13.065Z",
+      "title": "Making global data easier to explore"
+    },
+    {
+      "id": "u_7bd1e194",
+      "sentAt": "2026-09-17T21:05:13.065Z",
+      "title": "UN turns to Google to make its global data ready for AI agents"
+    },
     {
       "id": "u_f0ca19be",
       "sentAt": "2026-09-17T16:32:31.569Z",
@@ -4975,31 +5000,6 @@
       "id": "u_819246d5",
       "sentAt": "2026-08-17T18:42:38.649Z",
       "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart"
-    },
-    {
-      "id": "u_ad3f2388",
-      "sentAt": "2026-08-17T18:42:38.649Z",
-      "title": "OpenAI Launches Computer History for ChatGPT and Codex on Mac - TechRepublic"
-    },
-    {
-      "id": "u_556c60e3",
-      "sentAt": "2026-08-17T18:42:38.649Z",
-      "title": "b10472"
-    },
-    {
-      "id": "u_4a56fae1",
-      "sentAt": "2026-08-17T18:42:38.649Z",
-      "title": "Claude to start watermarking AI-generated text – but will it make quality worse?"
-    },
-    {
-      "id": "u_87f8fc28",
-      "sentAt": "2026-08-17T18:42:38.649Z",
-      "title": "Webwright: Why AI Web Agents Should Write Code, Not Click"
-    },
-    {
-      "id": "u_c67c6136",
-      "sentAt": "2026-08-17T16:32:03.349Z",
-      "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments"
     }
   ]
 }
