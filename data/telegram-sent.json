@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-17T11:15:37.381Z",
+  "updatedAt": "2026-09-17T16:32:31.569Z",
   "entries": [
+    {
+      "id": "u_f0ca19be",
+      "sentAt": "2026-09-17T16:32:31.569Z",
+      "title": "AI governance moves closer to the workflow: theCUBE Insights at Amplify"
+    },
+    {
+      "id": "u_e4e3e5cf",
+      "sentAt": "2026-09-17T16:32:31.569Z",
+      "title": "b11027"
+    },
+    {
+      "id": "u_dc63e309",
+      "sentAt": "2026-09-17T16:32:31.569Z",
+      "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_a98bce8b",
+      "sentAt": "2026-09-17T16:32:31.569Z",
+      "title": "How MRH Trowe enabled secure self-service AI agents in financial services"
+    },
+    {
+      "id": "u_ad699aa7",
+      "sentAt": "2026-09-17T16:32:31.569Z",
+      "title": "Implementing defense-in-depth authorization for MCP tools on Amazon Quick"
+    },
     {
       "id": "u_28d439d2",
       "sentAt": "2026-09-17T11:15:37.381Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c67c6136",
       "sentAt": "2026-08-17T16:32:03.349Z",
       "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments"
-    },
-    {
-      "id": "u_ac067a5a",
-      "sentAt": "2026-08-17T16:32:03.349Z",
-      "title": "Qwen 3.8 27B Overthinking, It has to be done, it has to be overthinking to punch Opus 4.6"
-    },
-    {
-      "id": "u_c115608",
-      "sentAt": "2026-08-17T16:32:03.349Z",
-      "title": "AgentCore Payments middleware for LangChain agents"
-    },
-    {
-      "id": "u_4e586c41",
-      "sentAt": "2026-08-17T16:32:03.349Z",
-      "title": "v4.12.0"
-    },
-    {
-      "id": "u_364c437b",
-      "sentAt": "2026-08-17T16:32:03.349Z",
-      "title": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence - AiThority"
-    },
-    {
-      "id": "u_7114aec0",
-      "sentAt": "2026-08-17T12:50:55.207Z",
-      "title": "Fobi AI Launches FORTRESS, a Sovereign AI Platform for Secure, Enterprise Owned Intelligence - The Globe and Mail"
     }
   ]
 }
