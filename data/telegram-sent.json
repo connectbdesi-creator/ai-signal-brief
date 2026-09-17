@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-16T22:44:21.033Z",
+  "updatedAt": "2026-09-17T04:05:16.054Z",
   "entries": [
+    {
+      "id": "u_e8394c5f",
+      "sentAt": "2026-09-17T04:05:16.054Z",
+      "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents"
+    },
+    {
+      "id": "u_e63d36c5",
+      "sentAt": "2026-09-17T04:05:16.054Z",
+      "title": "GVD: Governed Versioning and Deduplication for Document Repositories"
+    },
+    {
+      "id": "u_2034afee",
+      "sentAt": "2026-09-17T04:05:16.054Z",
+      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records"
+    },
+    {
+      "id": "u_a0dcb410",
+      "sentAt": "2026-09-17T04:05:16.054Z",
+      "title": "A Four-Stage Decomposition of Word-Problem Solving and Mechanistic Fragility in LLM Math Reasoning"
+    },
+    {
+      "id": "u_2cbf1796",
+      "sentAt": "2026-09-17T04:05:16.054Z",
+      "title": "Learning Heterogeneous Preferences"
+    },
     {
       "id": "u_bd58315",
       "sentAt": "2026-09-16T22:44:21.033Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7ecdc5a1",
       "sentAt": "2026-08-17T10:35:44.699Z",
       "title": "SuperApp launches a shared space with AI models for teams to collaborate on work"
-    },
-    {
-      "id": "u_c8ef3946",
-      "sentAt": "2026-08-17T10:35:44.699Z",
-      "title": "AI Hospitality Alliance Launches Free 8-Part Practical AI Workshop Series for Hospitality Professionals - Hospitality Net"
-    },
-    {
-      "id": "u_e701bde9",
-      "sentAt": "2026-08-17T10:35:44.699Z",
-      "title": "The hottest AI models aren’t the ones developers actually use"
-    },
-    {
-      "id": "u_e8f3e503",
-      "sentAt": "2026-08-17T10:35:44.699Z",
-      "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin"
-    },
-    {
-      "id": "u_36368bd9",
-      "sentAt": "2026-08-17T10:35:44.699Z",
-      "title": "What happens to what you share with AI"
-    },
-    {
-      "id": "u_86eae106",
-      "sentAt": "2026-08-17T08:46:48.947Z",
-      "title": "Get closer to the game with Gemini and Pixel"
     }
   ]
 }
