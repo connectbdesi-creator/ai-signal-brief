@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-18T04:31:54.760Z",
+  "updatedAt": "2026-09-18T10:48:14.179Z",
   "entries": [
+    {
+      "id": "u_ffcc83bb",
+      "sentAt": "2026-09-18T10:48:14.179Z",
+      "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]"
+    },
+    {
+      "id": "u_47510c3",
+      "sentAt": "2026-09-18T10:48:14.179Z",
+      "title": "b11033"
+    },
+    {
+      "id": "u_c3403d54",
+      "sentAt": "2026-09-18T10:48:14.179Z",
+      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026"
+    },
+    {
+      "id": "u_c3725df",
+      "sentAt": "2026-09-18T10:48:14.179Z",
+      "title": "Inside the scramble for trusted AI cops"
+    },
+    {
+      "id": "u_18e026a9",
+      "sentAt": "2026-09-18T10:48:14.179Z",
+      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use"
+    },
     {
       "id": "u_78b6b4ec",
       "sentAt": "2026-09-18T04:31:54.760Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e2c667a1",
       "sentAt": "2026-08-18T02:58:13.320Z",
       "title": "Credit card issuer Synchrony announces partnership with OpenAI - CNBC"
-    },
-    {
-      "id": "u_d600ea0",
-      "sentAt": "2026-08-18T01:21:29.417Z",
-      "title": "ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scale Agentic RL System for CUDA Kernel Generation"
-    },
-    {
-      "id": "u_af1c7afb",
-      "sentAt": "2026-08-18T01:21:29.417Z",
-      "title": "Cursor launches Origin code hosting service to compete with GitHub"
-    },
-    {
-      "id": "u_2e87a743",
-      "sentAt": "2026-08-18T01:21:29.417Z",
-      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index"
-    },
-    {
-      "id": "u_a76b4588",
-      "sentAt": "2026-08-18T01:21:29.417Z",
-      "title": "AI cloud operator Groq raises $350M more in funding"
-    },
-    {
-      "id": "u_fa52f4b0",
-      "sentAt": "2026-08-18T01:21:29.417Z",
-      "title": "[AINews] Stripe buys OpenRouter for $7B"
     }
   ]
 }
