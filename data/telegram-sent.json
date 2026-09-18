@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-17T23:59:46.390Z",
+  "updatedAt": "2026-09-18T04:31:54.760Z",
   "entries": [
+    {
+      "id": "u_78b6b4ec",
+      "sentAt": "2026-09-18T04:31:54.760Z",
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research"
+    },
+    {
+      "id": "u_827ef108",
+      "sentAt": "2026-09-18T04:31:54.760Z",
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks"
+    },
+    {
+      "id": "u_e337b71f",
+      "sentAt": "2026-09-18T04:31:54.760Z",
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer"
+    },
+    {
+      "id": "u_df06411c",
+      "sentAt": "2026-09-18T04:31:54.760Z",
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses"
+    },
+    {
+      "id": "u_d70f7505",
+      "sentAt": "2026-09-18T04:31:54.760Z",
+      "title": "Do AI Agents Understand Computer Architecture?"
+    },
     {
       "id": "u_62ff8b1f",
       "sentAt": "2026-09-17T23:59:46.390Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fa52f4b0",
       "sentAt": "2026-08-18T01:21:29.417Z",
       "title": "[AINews] Stripe buys OpenRouter for $7B"
-    },
-    {
-      "id": "u_6be3e806",
-      "sentAt": "2026-08-17T22:27:36.629Z",
-      "title": "langchain-core==1.5.6"
-    },
-    {
-      "id": "u_e43c1f0e",
-      "sentAt": "2026-08-17T22:27:36.629Z",
-      "title": "Middle East demands are testing America's Pacific presence"
-    },
-    {
-      "id": "u_f9336ef9",
-      "sentAt": "2026-08-17T22:27:36.629Z",
-      "title": "CI&T Launches Business Builders and Debuts its New Agentic Enterprise Reinvention Offering - Business Wire"
-    },
-    {
-      "id": "u_2a783f97",
-      "sentAt": "2026-08-17T22:27:36.629Z",
-      "title": "New policy ideas for the Intelligence Age"
-    },
-    {
-      "id": "u_6e975d3b",
-      "sentAt": "2026-08-17T20:30:07.599Z",
-      "title": "I built an AI C-suite to help me run my small business. As a creative, I was hesitant to use AI, but it's helpful for certain things."
     }
   ]
 }
