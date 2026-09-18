@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-18T16:04:08.827Z",
+  "updatedAt": "2026-09-18T20:37:17.238Z",
   "entries": [
+    {
+      "id": "u_6ff6ba1e",
+      "sentAt": "2026-09-18T20:37:17.238Z",
+      "title": "Anthropic opens AI-powered biology research lab"
+    },
+    {
+      "id": "u_b15cf897",
+      "sentAt": "2026-09-18T20:37:17.238Z",
+      "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances"
+    },
+    {
+      "id": "u_f8745548",
+      "sentAt": "2026-09-18T20:37:17.238Z",
+      "title": "Quoting Thariq Shihipar"
+    },
+    {
+      "id": "u_ec446259",
+      "sentAt": "2026-09-18T20:37:17.238Z",
+      "title": "Benchmarking LLM Inference at Scale with AIPerf"
+    },
+    {
+      "id": "u_c243c857",
+      "sentAt": "2026-09-18T20:37:17.238Z",
+      "title": "Consumer Agents Signal New Phase for AI Growth - Goldman Sachs"
+    },
     {
       "id": "u_13959d97",
       "sentAt": "2026-09-18T16:04:08.827Z",
@@ -4975,31 +5000,6 @@
       "id": "u_36aaab37",
       "sentAt": "2026-08-18T06:48:00.093Z",
       "title": "LLMs Can Predict Failure Risk, But Struggle to Predict Which Collaboration Protocol Pays Off: Cost-Aware Protocol Routing Across Reasoning Tasks"
-    },
-    {
-      "id": "u_57337e7c",
-      "sentAt": "2026-08-18T06:48:00.093Z",
-      "title": "Position: Medical AI Neglects Real Treatment Outcomes"
-    },
-    {
-      "id": "u_451414af",
-      "sentAt": "2026-08-18T06:48:00.093Z",
-      "title": "Large Language Models and their Awareness of Mechanics and Spatial Geometry"
-    },
-    {
-      "id": "u_162af7f1",
-      "sentAt": "2026-08-18T04:38:17.041Z",
-      "title": "UK examines economic hit from loss of access to frontier AI models"
-    },
-    {
-      "id": "u_8de4a635",
-      "sentAt": "2026-08-18T04:38:17.041Z",
-      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning"
-    },
-    {
-      "id": "u_54d27ec9",
-      "sentAt": "2026-08-18T04:38:17.041Z",
-      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning"
     }
   ]
 }
