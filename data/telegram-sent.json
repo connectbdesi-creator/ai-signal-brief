@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-18T20:37:17.238Z",
+  "updatedAt": "2026-09-18T23:58:56.141Z",
   "entries": [
+    {
+      "id": "u_b802248e",
+      "sentAt": "2026-09-18T23:58:56.141Z",
+      "title": "Google’s Gemini AI System Hacked Three Systems in Safety Tests - Bloomberg.com"
+    },
+    {
+      "id": "u_a80765af",
+      "sentAt": "2026-09-18T23:58:56.141Z",
+      "title": "b11045"
+    },
+    {
+      "id": "u_1f7e2010",
+      "sentAt": "2026-09-18T23:58:56.141Z",
+      "title": "Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude"
+    },
+    {
+      "id": "u_dedaa54f",
+      "sentAt": "2026-09-18T23:58:56.141Z",
+      "title": "b11044"
+    },
+    {
+      "id": "u_54fb91c8",
+      "sentAt": "2026-09-18T23:58:56.141Z",
+      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs"
+    },
     {
       "id": "u_6ff6ba1e",
       "sentAt": "2026-09-18T20:37:17.238Z",
@@ -4975,31 +5000,6 @@
       "id": "u_180c40cf",
       "sentAt": "2026-08-18T08:39:55.008Z",
       "title": "Ciklum partners with ClickHouse to speed enterprise migrations to real-time analytics"
-    },
-    {
-      "id": "u_27e3bcda",
-      "sentAt": "2026-08-18T08:39:55.008Z",
-      "title": "CEDAR-GRPO: Process-Aware Reinforcement Learning for General Abductive Reasoning in LLMs"
-    },
-    {
-      "id": "u_1c081f64",
-      "sentAt": "2026-08-18T08:39:55.008Z",
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation"
-    },
-    {
-      "id": "u_710fbf1",
-      "sentAt": "2026-08-18T06:48:00.093Z",
-      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration"
-    },
-    {
-      "id": "u_6686318c",
-      "sentAt": "2026-08-18T06:48:00.093Z",
-      "title": "Frontier AI Forecasting Has a Measurement Problem: An Audit of Progress Evidence"
-    },
-    {
-      "id": "u_36aaab37",
-      "sentAt": "2026-08-18T06:48:00.093Z",
-      "title": "LLMs Can Predict Failure Risk, But Struggle to Predict Which Collaboration Protocol Pays Off: Cost-Aware Protocol Routing Across Reasoning Tasks"
     }
   ]
 }
