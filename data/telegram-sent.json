@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-18T10:48:14.179Z",
+  "updatedAt": "2026-09-18T16:04:08.827Z",
   "entries": [
+    {
+      "id": "u_13959d97",
+      "sentAt": "2026-09-18T16:04:08.827Z",
+      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime"
+    },
+    {
+      "id": "u_5dc18b7d",
+      "sentAt": "2026-09-18T16:04:08.827Z",
+      "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime - Amazon Web Services (AWS)"
+    },
+    {
+      "id": "u_1717377e",
+      "sentAt": "2026-09-18T16:04:08.827Z",
+      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts"
+    },
+    {
+      "id": "u_2dbff0d3",
+      "sentAt": "2026-09-18T16:04:08.827Z",
+      "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents"
+    },
+    {
+      "id": "u_990fb8d7",
+      "sentAt": "2026-09-18T16:04:08.827Z",
+      "title": "b11040"
+    },
     {
       "id": "u_ffcc83bb",
       "sentAt": "2026-09-18T10:48:14.179Z",
@@ -4975,31 +5000,6 @@
       "id": "u_54d27ec9",
       "sentAt": "2026-08-18T04:38:17.041Z",
       "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning"
-    },
-    {
-      "id": "u_413f4519",
-      "sentAt": "2026-08-18T04:38:17.041Z",
-      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared"
-    },
-    {
-      "id": "u_727f97bb",
-      "sentAt": "2026-08-18T04:38:17.041Z",
-      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture"
-    },
-    {
-      "id": "u_f81ee928",
-      "sentAt": "2026-08-18T02:58:13.320Z",
-      "title": "langchain-openai==1.5.2a1"
-    },
-    {
-      "id": "u_3fbb8590",
-      "sentAt": "2026-08-18T02:58:13.320Z",
-      "title": "AI inference is getting cheaper, but your agents are getting more expensive - Computerworld"
-    },
-    {
-      "id": "u_e2c667a1",
-      "sentAt": "2026-08-18T02:58:13.320Z",
-      "title": "Credit card issuer Synchrony announces partnership with OpenAI - CNBC"
     }
   ]
 }
