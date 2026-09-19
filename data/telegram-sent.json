@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-19T10:32:23.952Z",
+  "updatedAt": "2026-09-19T15:36:14.856Z",
   "entries": [
+    {
+      "id": "u_d25dc37c",
+      "sentAt": "2026-09-19T15:36:14.856Z",
+      "title": "Google says Gemini AI model hacked three companies in security test - TradingView"
+    },
+    {
+      "id": "u_48599d1",
+      "sentAt": "2026-09-19T15:36:14.856Z",
+      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks"
+    },
+    {
+      "id": "u_3238585b",
+      "sentAt": "2026-09-19T15:36:14.856Z",
+      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks"
+    },
+    {
+      "id": "u_19a88c74",
+      "sentAt": "2026-09-19T15:36:14.856Z",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????"
+    },
+    {
+      "id": "u_ebc4353b",
+      "sentAt": "2026-09-19T15:36:14.856Z",
+      "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials"
+    },
     {
       "id": "u_4588ba2b",
       "sentAt": "2026-09-19T10:32:23.952Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e4cb14e3",
       "sentAt": "2026-08-18T14:43:36.494Z",
       "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow - The New York Times"
-    },
-    {
-      "id": "u_e3f1c535",
-      "sentAt": "2026-08-18T14:43:36.494Z",
-      "title": "Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands"
-    },
-    {
-      "id": "u_a0b3f2a",
-      "sentAt": "2026-08-18T14:43:36.494Z",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it"
-    },
-    {
-      "id": "u_d8e1f9e9",
-      "sentAt": "2026-08-18T14:43:36.494Z",
-      "title": "v4.13.0"
-    },
-    {
-      "id": "u_8cb42fce",
-      "sentAt": "2026-08-18T14:43:36.494Z",
-      "title": "Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used"
-    },
-    {
-      "id": "u_edf5561f",
-      "sentAt": "2026-08-18T12:52:28.314Z",
-      "title": "Exclusive: Synthefy raises $6.5M for its number-crunching models trained on numerical data instead of words"
     }
   ]
 }
