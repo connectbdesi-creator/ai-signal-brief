@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-18T23:58:56.141Z",
+  "updatedAt": "2026-09-19T04:27:14.895Z",
   "entries": [
+    {
+      "id": "u_fbd68cd6",
+      "sentAt": "2026-09-19T04:27:14.895Z",
+      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)"
+    },
+    {
+      "id": "u_ec731586",
+      "sentAt": "2026-09-19T04:27:14.895Z",
+      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour"
+    },
+    {
+      "id": "u_5e99b6cd",
+      "sentAt": "2026-09-19T04:27:14.895Z",
+      "title": "Google Gemini AI model hacks three other companies - KOCO"
+    },
+    {
+      "id": "u_5871edb8",
+      "sentAt": "2026-09-19T04:27:14.895Z",
+      "title": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro"
+    },
+    {
+      "id": "u_e12d9af3",
+      "sentAt": "2026-09-19T04:27:14.895Z",
+      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems"
+    },
     {
       "id": "u_b802248e",
       "sentAt": "2026-09-18T23:58:56.141Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c4fa001f",
       "sentAt": "2026-08-18T10:31:56.438Z",
       "title": "b10485"
-    },
-    {
-      "id": "u_a1eb5961",
-      "sentAt": "2026-08-18T10:31:56.438Z",
-      "title": "We still don’t know how people are really using AI"
-    },
-    {
-      "id": "u_1273bbc4",
-      "sentAt": "2026-08-18T10:31:56.438Z",
-      "title": "This primary is \"like 'Florida Man' having his own election\""
-    },
-    {
-      "id": "u_5c280e9f",
-      "sentAt": "2026-08-18T10:31:56.438Z",
-      "title": "b10483"
-    },
-    {
-      "id": "u_d3644f73",
-      "sentAt": "2026-08-18T10:31:56.438Z",
-      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here"
-    },
-    {
-      "id": "u_180c40cf",
-      "sentAt": "2026-08-18T08:39:55.008Z",
-      "title": "Ciklum partners with ClickHouse to speed enterprise migrations to real-time analytics"
     }
   ]
 }
