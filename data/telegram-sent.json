@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-19T15:36:14.856Z",
+  "updatedAt": "2026-09-19T18:29:12.596Z",
   "entries": [
+    {
+      "id": "u_17bfd35b",
+      "sentAt": "2026-09-19T18:29:12.596Z",
+      "title": "b11056"
+    },
+    {
+      "id": "u_471f9fbd",
+      "sentAt": "2026-09-19T18:29:12.596Z",
+      "title": "Google’s Gemini is the latest AI model to hack other companies"
+    },
+    {
+      "id": "u_e4608c2f",
+      "sentAt": "2026-09-19T18:29:12.596Z",
+      "title": "b11055"
+    },
+    {
+      "id": "u_47957e3",
+      "sentAt": "2026-09-19T18:29:12.596Z",
+      "title": "b11054"
+    },
+    {
+      "id": "u_464625da",
+      "sentAt": "2026-09-19T18:29:12.596Z",
+      "title": "Why I still haven’t bought into true RSI"
+    },
     {
       "id": "u_d25dc37c",
       "sentAt": "2026-09-19T15:36:14.856Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7149f35c",
       "sentAt": "2026-08-18T16:34:27.203Z",
       "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore"
-    },
-    {
-      "id": "u_dfd701e7",
-      "sentAt": "2026-08-18T16:34:27.203Z",
-      "title": "The Machine Acquires an Office: A Briefing on AI Agents, Machine Learning and Cryptography - www.lvivherald.com"
-    },
-    {
-      "id": "u_700023e9",
-      "sentAt": "2026-08-18T16:34:27.203Z",
-      "title": "OpenAI launches ChatGPT for Teens with stronger safeguards"
-    },
-    {
-      "id": "u_c7b7cadc",
-      "sentAt": "2026-08-18T16:34:27.203Z",
-      "title": "OpenAI unveils ChatGPT for teens with robust safeguards - Deccan Herald"
-    },
-    {
-      "id": "u_2287463a",
-      "sentAt": "2026-08-18T16:34:27.203Z",
-      "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents"
-    },
-    {
-      "id": "u_e4cb14e3",
-      "sentAt": "2026-08-18T14:43:36.494Z",
-      "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow - The New York Times"
     }
   ]
 }
