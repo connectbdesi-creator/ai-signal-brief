@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-19T18:29:12.596Z",
+  "updatedAt": "2026-09-19T22:13:56.083Z",
   "entries": [
+    {
+      "id": "u_1926a901",
+      "sentAt": "2026-09-19T22:13:56.083Z",
+      "title": "AI governance moves from observability to provable control"
+    },
+    {
+      "id": "u_8ae51caa",
+      "sentAt": "2026-09-19T22:13:56.083Z",
+      "title": "Ternary-Bonsai-2-27B-PQ2_0 is not completely lobotomized"
+    },
+    {
+      "id": "u_8eab7912",
+      "sentAt": "2026-09-19T22:13:56.083Z",
+      "title": "I turned an asymetric pair of Tesla V100s PCIe both (16 GB + 32 GB) into a surprisingly capable local LLM lab — 1.38k prompt tok/s, 40 decode tok/s with qwen3.8 27B Q6 and Q8..."
+    },
+    {
+      "id": "u_b507b2fc",
+      "sentAt": "2026-09-19T22:13:56.083Z",
+      "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow - The Guardian"
+    },
+    {
+      "id": "u_8b729959",
+      "sentAt": "2026-09-19T22:13:56.083Z",
+      "title": "datasette-auth-github 1.0"
+    },
     {
       "id": "u_17bfd35b",
       "sentAt": "2026-09-19T18:29:12.596Z",
@@ -4975,31 +5000,6 @@
       "id": "u_34c2e12e",
       "sentAt": "2026-08-18T18:41:10.350Z",
       "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed"
-    },
-    {
-      "id": "u_6bb7f06",
-      "sentAt": "2026-08-18T18:41:10.350Z",
-      "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit"
-    },
-    {
-      "id": "u_6273aabb",
-      "sentAt": "2026-08-18T18:41:10.350Z",
-      "title": "VCs Fund AI Agents' Second-Order Fallout Before It Hits"
-    },
-    {
-      "id": "u_f3cf8cdc",
-      "sentAt": "2026-08-18T18:41:10.350Z",
-      "title": "langchain-openai==1.5.2"
-    },
-    {
-      "id": "u_6186be8f",
-      "sentAt": "2026-08-18T18:41:10.350Z",
-      "title": "Implement vector-prompt document classification using Amazon Bedrock"
-    },
-    {
-      "id": "u_7149f35c",
-      "sentAt": "2026-08-18T16:34:27.203Z",
-      "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore"
     }
   ]
 }
