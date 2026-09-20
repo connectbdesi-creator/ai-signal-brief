@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-20T18:33:37.545Z",
+  "updatedAt": "2026-09-20T22:16:31.440Z",
   "entries": [
+    {
+      "id": "u_f57de8ff",
+      "sentAt": "2026-09-20T22:16:31.440Z",
+      "title": "DIY Jev"
+    },
+    {
+      "id": "u_94871416",
+      "sentAt": "2026-09-20T22:16:31.440Z",
+      "title": "Ling 3.0 Tiny vs. Gemma 26B-A4B MoE"
+    },
+    {
+      "id": "u_b1747d58",
+      "sentAt": "2026-09-20T22:16:31.440Z",
+      "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests"
+    },
+    {
+      "id": "u_f85eb53c",
+      "sentAt": "2026-09-20T22:16:31.440Z",
+      "title": "langchain-typesafe==0.0.1a3"
+    },
+    {
+      "id": "u_16977fdf",
+      "sentAt": "2026-09-20T22:16:31.440Z",
+      "title": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks"
+    },
     {
       "id": "u_8ed7c658",
       "sentAt": "2026-09-20T18:33:37.545Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1eee9f62",
       "sentAt": "2026-08-19T04:39:21.902Z",
       "title": "v1.99.0-dev.1"
-    },
-    {
-      "id": "u_8e7d065e",
-      "sentAt": "2026-08-19T04:39:21.902Z",
-      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents"
-    },
-    {
-      "id": "u_36b36983",
-      "sentAt": "2026-08-19T04:39:21.902Z",
-      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution"
-    },
-    {
-      "id": "u_ac799819",
-      "sentAt": "2026-08-19T04:39:21.902Z",
-      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract"
-    },
-    {
-      "id": "u_18b601ed",
-      "sentAt": "2026-08-19T04:39:21.902Z",
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery"
-    },
-    {
-      "id": "u_98ac162e",
-      "sentAt": "2026-08-19T02:59:39.558Z",
-      "title": "OpenAI’s junior version of ChatGPT with guardrails has launched"
     }
   ]
 }
