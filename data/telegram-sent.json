@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-20T15:41:59.509Z",
+  "updatedAt": "2026-09-20T18:33:37.545Z",
   "entries": [
+    {
+      "id": "u_8ed7c658",
+      "sentAt": "2026-09-20T18:33:37.545Z",
+      "title": "Meta’s Muse TV ad is the latest sign that AI agents are going mainstream"
+    },
+    {
+      "id": "u_b5cfeded",
+      "sentAt": "2026-09-20T18:33:37.545Z",
+      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters"
+    },
+    {
+      "id": "u_a682cb8",
+      "sentAt": "2026-09-20T18:33:37.545Z",
+      "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages"
+    },
+    {
+      "id": "u_537c72f",
+      "sentAt": "2026-09-20T18:33:37.545Z",
+      "title": "b11060"
+    },
+    {
+      "id": "u_45ff0305",
+      "sentAt": "2026-09-20T18:33:37.545Z",
+      "title": "Phylo brings frontier AI to more scientists with open models on Fireworks"
+    },
     {
       "id": "u_18805e12",
       "sentAt": "2026-09-20T15:41:59.509Z",
@@ -4975,31 +5000,6 @@
       "id": "u_98ac162e",
       "sentAt": "2026-08-19T02:59:39.558Z",
       "title": "OpenAI’s junior version of ChatGPT with guardrails has launched"
-    },
-    {
-      "id": "u_be50e98c",
-      "sentAt": "2026-08-19T02:59:39.558Z",
-      "title": "OpenAI launches chatbot tailored for teens - wng.org"
-    },
-    {
-      "id": "u_d3e08422",
-      "sentAt": "2026-08-19T02:59:39.558Z",
-      "title": "Strengthening democratic oversight in national security"
-    },
-    {
-      "id": "u_aae4a178",
-      "sentAt": "2026-08-19T02:59:39.558Z",
-      "title": "1-bit / 2-bit / Ternary / Bitnet Models - Updates & Tracking"
-    },
-    {
-      "id": "u_87f4dfe",
-      "sentAt": "2026-08-19T02:59:39.558Z",
-      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue"
-    },
-    {
-      "id": "u_bd02473e",
-      "sentAt": "2026-08-19T01:23:11.160Z",
-      "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security"
     }
   ]
 }
