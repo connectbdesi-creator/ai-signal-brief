@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-20T04:04:32.543Z",
+  "updatedAt": "2026-09-20T10:55:06.260Z",
   "entries": [
+    {
+      "id": "u_b1f815d3",
+      "sentAt": "2026-09-20T10:55:06.260Z",
+      "title": "b11062"
+    },
+    {
+      "id": "u_7c8171e1",
+      "sentAt": "2026-09-20T10:55:06.260Z",
+      "title": "AI agents are ready to run your life. Do you trust them?"
+    },
+    {
+      "id": "u_7e13626d",
+      "sentAt": "2026-09-20T10:55:06.260Z",
+      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
+    },
+    {
+      "id": "u_d80e311",
+      "sentAt": "2026-09-20T10:55:06.260Z",
+      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
+    },
+    {
+      "id": "u_488022b7",
+      "sentAt": "2026-09-20T10:55:06.260Z",
+      "title": "Trump launches the ‘AI Force’: ‘We will not stifle the growth of artificial intelligence’ - en.ilsole24ore.com"
+    },
     {
       "id": "u_8e8dc0b7",
       "sentAt": "2026-09-20T04:04:32.543Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cd76a693",
       "sentAt": "2026-08-18T22:26:55.541Z",
       "title": "Cursor capitalizes on Github frustration, launches rival hosting platform"
-    },
-    {
-      "id": "u_b7d15d50",
-      "sentAt": "2026-08-18T22:26:55.541Z",
-      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands"
-    },
-    {
-      "id": "u_61fb8bc6",
-      "sentAt": "2026-08-18T22:26:55.541Z",
-      "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing"
-    },
-    {
-      "id": "u_efa865e1",
-      "sentAt": "2026-08-18T22:26:55.541Z",
-      "title": "Mojo🔥 is now open source"
-    },
-    {
-      "id": "u_350d916d",
-      "sentAt": "2026-08-18T22:26:55.541Z",
-      "title": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'"
-    },
-    {
-      "id": "u_caf2ae9d",
-      "sentAt": "2026-08-18T20:27:10.986Z",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face"
     }
   ]
 }
