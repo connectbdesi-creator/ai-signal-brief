@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-20T10:55:06.260Z",
+  "updatedAt": "2026-09-20T15:41:59.509Z",
   "entries": [
+    {
+      "id": "u_18805e12",
+      "sentAt": "2026-09-20T15:41:59.509Z",
+      "title": "Tencent's Gander aims to keep talking while it works in the background"
+    },
+    {
+      "id": "u_849de4be",
+      "sentAt": "2026-09-20T15:41:59.509Z",
+      "title": "Typesafe's JEV model work as an LLM [P]"
+    },
+    {
+      "id": "u_ae7eb37",
+      "sentAt": "2026-09-20T15:41:59.509Z",
+      "title": "b11063"
+    },
+    {
+      "id": "u_353de5d",
+      "sentAt": "2026-09-20T15:41:59.509Z",
+      "title": "The tech battle to build your AI assistant"
+    },
+    {
+      "id": "u_c7c514a6",
+      "sentAt": "2026-09-20T15:41:59.509Z",
+      "title": "v1.103.0-rc.1"
+    },
     {
       "id": "u_b1f815d3",
       "sentAt": "2026-09-20T10:55:06.260Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bd02473e",
       "sentAt": "2026-08-19T01:23:11.160Z",
       "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security"
-    },
-    {
-      "id": "u_e7752006",
-      "sentAt": "2026-08-19T01:23:11.160Z",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform"
-    },
-    {
-      "id": "u_d5e37272",
-      "sentAt": "2026-08-19T01:23:11.160Z",
-      "title": "Nvidia sells one chip for every four Huawei chips, and DeepSeek’s CEO just explained why that gap won’t close - OkDiario"
-    },
-    {
-      "id": "u_f2047cc3",
-      "sentAt": "2026-08-19T01:23:11.160Z",
-      "title": "OpenAI says it will expand monitoring of model testing after hacking incident"
-    },
-    {
-      "id": "u_fc395715",
-      "sentAt": "2026-08-19T01:23:11.160Z",
-      "title": "Inference chip startup Etched raises another $700M at $21B valuation"
-    },
-    {
-      "id": "u_cd76a693",
-      "sentAt": "2026-08-18T22:26:55.541Z",
-      "title": "Cursor capitalizes on Github frustration, launches rival hosting platform"
     }
   ]
 }
