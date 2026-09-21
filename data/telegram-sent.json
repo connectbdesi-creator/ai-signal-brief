@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-21T04:01:25.921Z",
+  "updatedAt": "2026-09-21T12:20:10.809Z",
   "entries": [
+    {
+      "id": "u_429f2a5f",
+      "sentAt": "2026-09-21T12:20:10.809Z",
+      "title": "LittleHorse adds agent controls and free serverless trial to its ‘Business-as-Code’ orchestration platform"
+    },
+    {
+      "id": "u_4cdf8018",
+      "sentAt": "2026-09-21T12:20:10.809Z",
+      "title": "UN says AI safeguards can’t wait for certainty"
+    },
+    {
+      "id": "u_aa167c7b",
+      "sentAt": "2026-09-21T12:20:10.809Z",
+      "title": "The Age Of Reimagining Enterprise Org Structure With AI"
+    },
+    {
+      "id": "u_541434e5",
+      "sentAt": "2026-09-21T12:20:10.809Z",
+      "title": "Gewell - Gemma4 inference engine"
+    },
+    {
+      "id": "u_6b77f05c",
+      "sentAt": "2026-09-21T12:20:10.809Z",
+      "title": "Anthropic Considers New Claude Model as OpenAI Gains Ground Ahead of Potential IPO - citybiz"
+    },
     {
       "id": "u_13503e1d",
       "sentAt": "2026-09-21T04:01:25.921Z",
@@ -4975,31 +5000,6 @@
       "id": "u_89d67447",
       "sentAt": "2026-08-19T08:40:33.317Z",
       "title": "When will there be a frontier level llm with updateable engrams or fixed engrams?"
-    },
-    {
-      "id": "u_8a7a9606",
-      "sentAt": "2026-08-19T08:40:33.317Z",
-      "title": "Thoughts About Scaling Law - Z.ai"
-    },
-    {
-      "id": "u_d1e8abbb",
-      "sentAt": "2026-08-19T08:40:33.317Z",
-      "title": "SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis"
-    },
-    {
-      "id": "u_44a8311e",
-      "sentAt": "2026-08-19T08:40:33.317Z",
-      "title": "When Writing Style Drifts: Benchmarking Authorship Verification under Distribution Shifts in Genre, Time and the AI-Era"
-    },
-    {
-      "id": "u_75e59769",
-      "sentAt": "2026-08-19T08:40:33.317Z",
-      "title": "Code as Representation: A Compilable Parsing Paradigm for Academic Documents"
-    },
-    {
-      "id": "u_50909fa7",
-      "sentAt": "2026-08-19T06:48:53.384Z",
-      "title": "Unitree IPO’s Massive 629% Pop Makes Agility Robotics Look Super Cheap"
     }
   ]
 }
