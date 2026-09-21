@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-20T22:16:31.440Z",
+  "updatedAt": "2026-09-21T04:01:25.921Z",
   "entries": [
+    {
+      "id": "u_13503e1d",
+      "sentAt": "2026-09-21T04:01:25.921Z",
+      "title": "ZCode is now open source"
+    },
+    {
+      "id": "u_24a25d32",
+      "sentAt": "2026-09-21T04:01:25.921Z",
+      "title": "Do NOT trust StepFun's Plan subscriptions., They stole >$100 from me with no warning, and I have not heard back from support at all."
+    },
+    {
+      "id": "u_fe032bf1",
+      "sentAt": "2026-09-21T04:01:25.921Z",
+      "title": "Success running Qwen 3.8 27B EXL3 on RTX 3060 + 5060 Ti"
+    },
+    {
+      "id": "u_6cb57313",
+      "sentAt": "2026-09-21T04:01:25.921Z",
+      "title": "b11065"
+    },
+    {
+      "id": "u_ecc41942",
+      "sentAt": "2026-09-21T04:01:25.921Z",
+      "title": "llm-keys-ui 0.1"
+    },
     {
       "id": "u_f57de8ff",
       "sentAt": "2026-09-20T22:16:31.440Z",
@@ -4975,31 +5000,6 @@
       "id": "u_50909fa7",
       "sentAt": "2026-08-19T06:48:53.384Z",
       "title": "Unitree IPO’s Massive 629% Pop Makes Agility Robotics Look Super Cheap"
-    },
-    {
-      "id": "u_1c2a3361",
-      "sentAt": "2026-08-19T06:48:53.384Z",
-      "title": "Graphwise aims to become the semantic layer for AI agents after securing major investment from Oakley Capital"
-    },
-    {
-      "id": "u_3807176d",
-      "sentAt": "2026-08-19T06:48:53.384Z",
-      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools"
-    },
-    {
-      "id": "u_6d20cfeb",
-      "sentAt": "2026-08-19T06:48:53.384Z",
-      "title": "Memory Is Communication: The Frontier Between Remembering and Signaling"
-    },
-    {
-      "id": "u_8df40ec9",
-      "sentAt": "2026-08-19T06:48:53.384Z",
-      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization"
-    },
-    {
-      "id": "u_1eee9f62",
-      "sentAt": "2026-08-19T04:39:21.902Z",
-      "title": "v1.99.0-dev.1"
     }
   ]
 }
