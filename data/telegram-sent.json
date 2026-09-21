@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-21T19:08:19.534Z",
+  "updatedAt": "2026-09-21T23:04:24.282Z",
   "entries": [
+    {
+      "id": "u_7e843e5e",
+      "sentAt": "2026-09-21T23:04:24.282Z",
+      "title": "UN panel calls for stronger safeguards as AI agents advance - UN News"
+    },
+    {
+      "id": "u_82a5b432",
+      "sentAt": "2026-09-21T23:04:24.282Z",
+      "title": "Simplifying Model Serving Across Multiple GPUs with NVIDIA TensorRT Multi-Device Integration in NVIDIA Dynamo-Triton"
+    },
+    {
+      "id": "u_4aef7442",
+      "sentAt": "2026-09-21T23:04:24.282Z",
+      "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy"
+    },
+    {
+      "id": "u_53be36d",
+      "sentAt": "2026-09-21T23:04:24.282Z",
+      "title": "OpenAI Calls for New AI Safety Rules After Agents Evaded Controls - Law Commentary"
+    },
+    {
+      "id": "u_ccf07a9f",
+      "sentAt": "2026-09-21T23:04:24.282Z",
+      "title": "How to Evaluate AI Agents From Tool Calls to Task Completion"
+    },
     {
       "id": "u_bcc3f7c7",
       "sentAt": "2026-09-21T19:08:19.534Z",
@@ -4975,31 +5000,6 @@
       "id": "u_50fe865e",
       "sentAt": "2026-08-19T12:52:19.105Z",
       "title": "Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents"
-    },
-    {
-      "id": "u_7c6f975e",
-      "sentAt": "2026-08-19T12:52:19.105Z",
-      "title": "5 Tools for Building and Deploying AI Agents in Production"
-    },
-    {
-      "id": "u_3b5aa6b0",
-      "sentAt": "2026-08-19T12:52:19.105Z",
-      "title": "The Myth Of Model Safety: The Role Of An AI Trust Layer"
-    },
-    {
-      "id": "u_316f44e1",
-      "sentAt": "2026-08-19T12:52:19.105Z",
-      "title": "Why Healthcare’s AI Breakthrough Must Be Built On Trust"
-    },
-    {
-      "id": "u_d1c3c8",
-      "sentAt": "2026-08-19T12:52:19.105Z",
-      "title": "I transformed Pokelike.xyz into a LLM and RL benchmark!"
-    },
-    {
-      "id": "u_560f4371",
-      "sentAt": "2026-08-19T10:31:26.286Z",
-      "title": "Three Ways Agentic AI Can Turn B2B Customer Service Into A Revenue Engine"
     }
   ]
 }
