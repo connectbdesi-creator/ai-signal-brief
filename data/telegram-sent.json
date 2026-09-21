@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-21T12:20:10.809Z",
+  "updatedAt": "2026-09-21T19:08:19.534Z",
   "entries": [
+    {
+      "id": "u_bcc3f7c7",
+      "sentAt": "2026-09-21T19:08:19.534Z",
+      "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock"
+    },
+    {
+      "id": "u_74d1967b",
+      "sentAt": "2026-09-21T19:08:19.534Z",
+      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads"
+    },
+    {
+      "id": "u_58702707",
+      "sentAt": "2026-09-21T19:08:19.534Z",
+      "title": "\"National security\" becomes Trump's executive sledgehammer"
+    },
+    {
+      "id": "u_48cd066b",
+      "sentAt": "2026-09-21T19:08:19.534Z",
+      "title": "b11077"
+    },
+    {
+      "id": "u_5b06b581",
+      "sentAt": "2026-09-21T19:08:19.534Z",
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
+    },
     {
       "id": "u_429f2a5f",
       "sentAt": "2026-09-21T12:20:10.809Z",
@@ -4975,31 +5000,6 @@
       "id": "u_560f4371",
       "sentAt": "2026-08-19T10:31:26.286Z",
       "title": "Three Ways Agentic AI Can Turn B2B Customer Service Into A Revenue Engine"
-    },
-    {
-      "id": "u_72a9371",
-      "sentAt": "2026-08-19T10:31:26.286Z",
-      "title": "Google and UK government launch North Atlantic contrail avoidance trial - Aerospace Testing International"
-    },
-    {
-      "id": "u_b351d71c",
-      "sentAt": "2026-08-19T10:31:26.286Z",
-      "title": "OpenAI blinks first in AI safety standoff"
-    },
-    {
-      "id": "u_72436d20",
-      "sentAt": "2026-08-19T10:31:26.286Z",
-      "title": "Behind the Curtain: The new existential threat to AI"
-    },
-    {
-      "id": "u_3741f27f",
-      "sentAt": "2026-08-19T10:31:26.286Z",
-      "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns - ET CIO"
-    },
-    {
-      "id": "u_89d67447",
-      "sentAt": "2026-08-19T08:40:33.317Z",
-      "title": "When will there be a frontier level llm with updateable engrams or fixed engrams?"
     }
   ]
 }
