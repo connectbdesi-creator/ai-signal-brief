@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-22T03:58:55.115Z",
+  "updatedAt": "2026-09-22T09:14:50.417Z",
   "entries": [
+    {
+      "id": "u_4d8bb30",
+      "sentAt": "2026-09-22T09:14:50.417Z",
+      "title": "\"The last invention that man need ever make\": The risk of self-improving AI"
+    },
+    {
+      "id": "u_13789ea1",
+      "sentAt": "2026-09-22T09:14:50.417Z",
+      "title": "With $7 trillion on the line, AI safety may always take a backseat to market domination"
+    },
+    {
+      "id": "u_d1a2479e",
+      "sentAt": "2026-09-22T09:14:50.417Z",
+      "title": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI"
+    },
+    {
+      "id": "u_5fda64e5",
+      "sentAt": "2026-09-22T09:14:50.417Z",
+      "title": "Daegu City is launching a large-scale \"AX (Artificial Intelligence Transformation) R&D Project\" - 매일경제"
+    },
+    {
+      "id": "u_47e9992f",
+      "sentAt": "2026-09-22T09:14:50.417Z",
+      "title": "b11099"
+    },
     {
       "id": "u_cd6dd92b",
       "sentAt": "2026-09-22T03:58:55.115Z",
@@ -4975,31 +5000,6 @@
       "id": "u_59fc5f48",
       "sentAt": "2026-08-19T16:34:26.632Z",
       "title": "langchain-core==1.6.0"
-    },
-    {
-      "id": "u_c84f750d",
-      "sentAt": "2026-08-19T16:34:26.632Z",
-      "title": "Harness launches AI agents that triage and patch vulnerabilities"
-    },
-    {
-      "id": "u_bb0f0059",
-      "sentAt": "2026-08-19T16:34:26.632Z",
-      "title": "ARM Sells Its Own Silicon"
-    },
-    {
-      "id": "u_5bf05ad6",
-      "sentAt": "2026-08-19T16:34:26.632Z",
-      "title": "Cloudera Anywhere Cloud gives AI agents safe, secure access to sensitive data wherever it lives"
-    },
-    {
-      "id": "u_80b1d153",
-      "sentAt": "2026-08-19T16:34:26.632Z",
-      "title": "GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed"
-    },
-    {
-      "id": "u_8a5fc12d",
-      "sentAt": "2026-08-19T14:36:32.946Z",
-      "title": "Same effective batch does not mean same training time with gradient accumulation, tested on LoRA on T4 and L4 [D]"
     }
   ]
 }
