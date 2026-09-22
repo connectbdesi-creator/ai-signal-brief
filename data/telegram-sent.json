@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-22T09:14:50.417Z",
+  "updatedAt": "2026-09-22T14:30:31.233Z",
   "entries": [
+    {
+      "id": "u_dca93e33",
+      "sentAt": "2026-09-22T14:30:31.233Z",
+      "title": "What to expect during Okta’s Oktane event: Join theCUBE Sept. 24"
+    },
+    {
+      "id": "u_bca8bc42",
+      "sentAt": "2026-09-22T14:30:31.233Z",
+      "title": "Barbara Mazzolai Wants to Build a New Field of Robotics"
+    },
+    {
+      "id": "u_e56aae90",
+      "sentAt": "2026-09-22T14:30:31.233Z",
+      "title": "How Shopify built a continual learning loop with PyTorch and vLLM"
+    },
+    {
+      "id": "u_66656f57",
+      "sentAt": "2026-09-22T14:30:31.233Z",
+      "title": "Exclusive: Darktrace makes SECURE AI generally available to monitor enterprise AI use"
+    },
+    {
+      "id": "u_e348996c",
+      "sentAt": "2026-09-22T14:30:31.233Z",
+      "title": "Barracuda launches AI Data Security to control what employees send to chatbots"
+    },
     {
       "id": "u_4d8bb30",
       "sentAt": "2026-09-22T09:14:50.417Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cd5f0d2",
       "sentAt": "2026-08-19T18:38:53.081Z",
       "title": "Offering Zero Data Retention for frontier models"
-    },
-    {
-      "id": "u_c799444",
-      "sentAt": "2026-08-19T18:38:53.081Z",
-      "title": "Offering Zero Data Retention for frontier models"
-    },
-    {
-      "id": "u_1107b7d0",
-      "sentAt": "2026-08-19T18:38:53.081Z",
-      "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE"
-    },
-    {
-      "id": "u_a7f369ab",
-      "sentAt": "2026-08-19T18:38:53.081Z",
-      "title": "Pandas API for DuckDB, PostgreSQL & ClickHouse — keeping computation inside the database[P]"
-    },
-    {
-      "id": "u_c979dbcf",
-      "sentAt": "2026-08-19T18:38:53.081Z",
-      "title": "Waymo is bringing Gemini into its custom Ojai vehicles."
-    },
-    {
-      "id": "u_59fc5f48",
-      "sentAt": "2026-08-19T16:34:26.632Z",
-      "title": "langchain-core==1.6.0"
     }
   ]
 }
