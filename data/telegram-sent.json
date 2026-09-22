@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-22T14:30:31.233Z",
+  "updatedAt": "2026-09-22T19:38:07.941Z",
   "entries": [
+    {
+      "id": "u_103b567c",
+      "sentAt": "2026-09-22T19:38:07.941Z",
+      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5"
+    },
+    {
+      "id": "u_a2269bff",
+      "sentAt": "2026-09-22T19:38:07.941Z",
+      "title": "3 guys hacked OpenAI using a rival Anthropic model. Here's what it shows about frontier labs' vulnerabilities. - CBS News"
+    },
+    {
+      "id": "u_a021fb38",
+      "sentAt": "2026-09-22T19:38:07.941Z",
+      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown"
+    },
+    {
+      "id": "u_dbf73cdb",
+      "sentAt": "2026-09-22T19:38:07.941Z",
+      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC"
+    },
+    {
+      "id": "u_26bfcdd5",
+      "sentAt": "2026-09-22T19:38:07.941Z",
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement"
+    },
     {
       "id": "u_dca93e33",
       "sentAt": "2026-09-22T14:30:31.233Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9381905e",
       "sentAt": "2026-08-19T20:31:04.196Z",
       "title": "How Cybercriminals Are Weaponizing Frontier AI Models Like Grok"
-    },
-    {
-      "id": "u_5fa1d0a1",
-      "sentAt": "2026-08-19T20:31:04.196Z",
-      "title": "N.Y. state launches artificial intelligence workforce sessions - Spectrum News"
-    },
-    {
-      "id": "u_a3570e39",
-      "sentAt": "2026-08-19T20:31:04.196Z",
-      "title": "Offering Zero Data Retention for frontier models"
-    },
-    {
-      "id": "u_8b407932",
-      "sentAt": "2026-08-19T20:31:04.196Z",
-      "title": "Offering Zero Data Retention for frontier models"
-    },
-    {
-      "id": "u_1a8da5f9",
-      "sentAt": "2026-08-19T20:31:04.196Z",
-      "title": "Start the semester with one year of Gemini, on us"
-    },
-    {
-      "id": "u_cd5f0d2",
-      "sentAt": "2026-08-19T18:38:53.081Z",
-      "title": "Offering Zero Data Retention for frontier models"
     }
   ]
 }
