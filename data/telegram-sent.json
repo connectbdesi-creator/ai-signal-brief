@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-21T23:04:24.282Z",
+  "updatedAt": "2026-09-22T03:58:55.115Z",
   "entries": [
+    {
+      "id": "u_cd6dd92b",
+      "sentAt": "2026-09-22T03:58:55.115Z",
+      "title": "b11094"
+    },
+    {
+      "id": "u_2d7763df",
+      "sentAt": "2026-09-22T03:58:55.115Z",
+      "title": "b11093"
+    },
+    {
+      "id": "u_562982da",
+      "sentAt": "2026-09-22T03:58:55.115Z",
+      "title": "SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades"
+    },
+    {
+      "id": "u_58610713",
+      "sentAt": "2026-09-22T03:58:55.115Z",
+      "title": "b11090"
+    },
+    {
+      "id": "u_d6eb0c1c",
+      "sentAt": "2026-09-22T03:58:55.115Z",
+      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents"
+    },
     {
       "id": "u_7e843e5e",
       "sentAt": "2026-09-21T23:04:24.282Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8a5fc12d",
       "sentAt": "2026-08-19T14:36:32.946Z",
       "title": "Same effective batch does not mean same training time with gradient accumulation, tested on LoRA on T4 and L4 [D]"
-    },
-    {
-      "id": "u_32efd687",
-      "sentAt": "2026-08-19T14:36:32.946Z",
-      "title": "EMQQ Global Announces Launch of EMXETF, a New ETF Brand Focused on Artificial Intelligence Opportunities in Emerging Markets - The Manila Times"
-    },
-    {
-      "id": "u_d099eb72",
-      "sentAt": "2026-08-19T14:36:32.946Z",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push"
-    },
-    {
-      "id": "u_166ce4c5",
-      "sentAt": "2026-08-19T14:36:32.946Z",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push"
-    },
-    {
-      "id": "u_ecc078d4",
-      "sentAt": "2026-08-19T14:36:32.946Z",
-      "title": "How to Answer AI System Design Interview Questions"
-    },
-    {
-      "id": "u_50fe865e",
-      "sentAt": "2026-08-19T12:52:19.105Z",
-      "title": "Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents"
     }
   ]
 }
