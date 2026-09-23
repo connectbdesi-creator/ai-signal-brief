@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-23T19:33:15.849Z",
+  "updatedAt": "2026-09-23T22:49:05.599Z",
   "entries": [
+    {
+      "id": "u_78d90707",
+      "sentAt": "2026-09-23T22:49:05.599Z",
+      "title": "Minnesota State Moorhead launches master’s program in Artificial Intelligence - Valley News Live"
+    },
+    {
+      "id": "u_c83c8e40",
+      "sentAt": "2026-09-23T22:49:05.599Z",
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch"
+    },
+    {
+      "id": "u_ca68f735",
+      "sentAt": "2026-09-23T22:49:05.599Z",
+      "title": "The Transformation Edge: Why AI is forcing the CFO and CHRO to rewrite the enterprise together"
+    },
+    {
+      "id": "u_228195ca",
+      "sentAt": "2026-09-23T22:49:05.599Z",
+      "title": "Microsoft unveils Integrated Security Operations Center in Defender for AI agents"
+    },
+    {
+      "id": "u_d2cf2406",
+      "sentAt": "2026-09-23T22:49:05.599Z",
+      "title": "Oracle puts database security controls beneath AI agents"
+    },
     {
       "id": "u_e30db013",
       "sentAt": "2026-09-23T19:33:15.849Z",
@@ -4975,31 +5000,6 @@
       "id": "u_559e1bfe",
       "sentAt": "2026-08-20T08:41:52.507Z",
       "title": "OpenAI builds safety system that catches misuse without storing customer data"
-    },
-    {
-      "id": "u_31f6839c",
-      "sentAt": "2026-08-20T08:41:52.507Z",
-      "title": "AI agent suggested installing a malware package. Engineer almost took its advice"
-    },
-    {
-      "id": "u_d3e4cafb",
-      "sentAt": "2026-08-20T08:41:52.507Z",
-      "title": "b10509"
-    },
-    {
-      "id": "u_a352397b",
-      "sentAt": "2026-08-20T08:41:52.507Z",
-      "title": "Readable, Faithful, Used: Three Dissociable Properties of Demographic Identity in a Language Model"
-    },
-    {
-      "id": "u_9f0cb85",
-      "sentAt": "2026-08-20T08:41:52.507Z",
-      "title": "Decomposing Wrong-Consensus Agreement in LLM Self-Consistency: A GPT-4.1 Case Study"
-    },
-    {
-      "id": "u_f8a2f3b1",
-      "sentAt": "2026-08-20T06:51:01.144Z",
-      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management"
     }
   ]
 }
