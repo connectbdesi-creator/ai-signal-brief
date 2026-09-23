@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-23T14:47:49.565Z",
+  "updatedAt": "2026-09-23T19:33:15.849Z",
   "entries": [
+    {
+      "id": "u_e30db013",
+      "sentAt": "2026-09-23T19:33:15.849Z",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+    },
+    {
+      "id": "u_b76f6ed3",
+      "sentAt": "2026-09-23T19:33:15.849Z",
+      "title": "b11147"
+    },
+    {
+      "id": "u_9facd574",
+      "sentAt": "2026-09-23T19:33:15.849Z",
+      "title": "Dems grapple with how to pace the AI race"
+    },
+    {
+      "id": "u_be5a3809",
+      "sentAt": "2026-09-23T19:33:15.849Z",
+      "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock"
+    },
+    {
+      "id": "u_cd2db043",
+      "sentAt": "2026-09-23T19:33:15.849Z",
+      "title": "b11146"
+    },
     {
       "id": "u_4dc8b88c",
       "sentAt": "2026-09-23T14:47:49.565Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f8a2f3b1",
       "sentAt": "2026-08-20T06:51:01.144Z",
       "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management"
-    },
-    {
-      "id": "u_11bf4471",
-      "sentAt": "2026-08-20T06:51:01.144Z",
-      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective"
-    },
-    {
-      "id": "u_80141820",
-      "sentAt": "2026-08-20T06:51:01.144Z",
-      "title": "When Do LLMs Actually Help? Evaluating LLMs as Data Quality Annotators"
-    },
-    {
-      "id": "u_ac4839f8",
-      "sentAt": "2026-08-20T06:51:01.144Z",
-      "title": "Are LLMs Safe Beyond Text: Do Emojis Expose Gaps in Safety Evaluation"
-    },
-    {
-      "id": "u_d1bf9038",
-      "sentAt": "2026-08-20T06:51:01.144Z",
-      "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents"
-    },
-    {
-      "id": "u_ccae4b26",
-      "sentAt": "2026-08-20T04:39:37.910Z",
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions"
     }
   ]
 }
