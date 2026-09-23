@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-22T22:48:49.108Z",
+  "updatedAt": "2026-09-23T03:56:37.365Z",
   "entries": [
+    {
+      "id": "u_80a5ef98",
+      "sentAt": "2026-09-23T03:56:37.365Z",
+      "title": "v2.48.0 (2026-09-22)"
+    },
+    {
+      "id": "u_10fbdfd7",
+      "sentAt": "2026-09-23T03:56:37.365Z",
+      "title": "b11118"
+    },
+    {
+      "id": "u_26d10e6b",
+      "sentAt": "2026-09-23T03:56:37.365Z",
+      "title": "b11117"
+    },
+    {
+      "id": "u_9808ff7b",
+      "sentAt": "2026-09-23T03:56:37.365Z",
+      "title": "Known Systems AI spins out of Identity Digital to try and make AI agents accountable to their owners"
+    },
+    {
+      "id": "u_3ad6ec3e",
+      "sentAt": "2026-09-23T03:56:37.365Z",
+      "title": "Meta Takes Action on 3.7 Million Accounts, Pages and Content In Partnership With Singapore Police Force"
+    },
     {
       "id": "u_23921578",
       "sentAt": "2026-09-22T22:48:49.108Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a19e0cf5",
       "sentAt": "2026-08-20T01:22:25.822Z",
       "title": "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding"
-    },
-    {
-      "id": "u_c1d6e109",
-      "sentAt": "2026-08-20T01:22:25.822Z",
-      "title": "OpenAI ‘temporarily slows’ scaling efforts, also promises zero data retention for select frontier model customers - Computerworld"
-    },
-    {
-      "id": "u_6a6c05c5",
-      "sentAt": "2026-08-20T01:22:25.822Z",
-      "title": "Qwen3.8-23B-Mini-Me: A Depth-Pruned Qwen3.8-27B (to ~22.7BB)"
-    },
-    {
-      "id": "u_b9c53238",
-      "sentAt": "2026-08-20T01:22:25.822Z",
-      "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript"
-    },
-    {
-      "id": "u_64c6e39a",
-      "sentAt": "2026-08-20T01:22:25.822Z",
-      "title": "Conceptual integrity and counting lines of code"
-    },
-    {
-      "id": "u_b758ac0",
-      "sentAt": "2026-08-19T22:27:28.973Z",
-      "title": "Domain and publish date filters for Web Search on AgentCore"
     }
   ]
 }
