@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-24T14:42:29.531Z",
+  "updatedAt": "2026-09-24T19:52:48.620Z",
   "entries": [
+    {
+      "id": "u_1b98754e",
+      "sentAt": "2026-09-24T19:52:48.620Z",
+      "title": "Neo4j makes the case for knowledge graphs as shared context for AI agents"
+    },
+    {
+      "id": "u_32225f1",
+      "sentAt": "2026-09-24T19:52:48.620Z",
+      "title": "Google to unveil new Gemini AI model - AzerNews"
+    },
+    {
+      "id": "u_e4bd3545",
+      "sentAt": "2026-09-24T19:52:48.620Z",
+      "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost"
+    },
+    {
+      "id": "u_d49e657e",
+      "sentAt": "2026-09-24T19:52:48.620Z",
+      "title": "langchain-core==1.6.5"
+    },
+    {
+      "id": "u_8bea215f",
+      "sentAt": "2026-09-24T19:52:48.620Z",
+      "title": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update"
+    },
     {
       "id": "u_80cdd0d0",
       "sentAt": "2026-09-24T14:42:29.531Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b439acc2",
       "sentAt": "2026-08-20T16:38:26.018Z",
       "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_fc7e9800",
-      "sentAt": "2026-08-20T16:38:26.018Z",
-      "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in"
-    },
-    {
-      "id": "u_10b42f2c",
-      "sentAt": "2026-08-20T16:38:26.018Z",
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_91d4ac7f",
-      "sentAt": "2026-08-20T16:38:26.018Z",
-      "title": "Cloud cost startup North adds Microsoft Azure to complete hyperscaler support"
-    },
-    {
-      "id": "u_544dc43a",
-      "sentAt": "2026-08-20T16:38:26.018Z",
-      "title": "It’s Greg Brockman’s OpenAI now"
-    },
-    {
-      "id": "u_74fffa29",
-      "sentAt": "2026-08-20T14:39:49.026Z",
-      "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?"
     }
   ]
 }
