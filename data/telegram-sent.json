@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-24T19:52:48.620Z",
+  "updatedAt": "2026-09-24T23:05:37.216Z",
   "entries": [
+    {
+      "id": "u_28aa530f",
+      "sentAt": "2026-09-24T23:05:37.216Z",
+      "title": "b11169"
+    },
+    {
+      "id": "u_1f12807e",
+      "sentAt": "2026-09-24T23:05:37.216Z",
+      "title": "8 insights from Proofpoint Protect: Security bets on intent as AI agents join the workforce"
+    },
+    {
+      "id": "u_91a7cd2b",
+      "sentAt": "2026-09-24T23:05:37.216Z",
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven"
+    },
+    {
+      "id": "u_ebad2e53",
+      "sentAt": "2026-09-24T23:05:37.216Z",
+      "title": "b11167"
+    },
+    {
+      "id": "u_1681edc7",
+      "sentAt": "2026-09-24T23:05:37.216Z",
+      "title": "The Biggest News From Connect 2026"
+    },
     {
       "id": "u_1b98754e",
       "sentAt": "2026-09-24T19:52:48.620Z",
@@ -4975,31 +5000,6 @@
       "id": "u_34a3f00c",
       "sentAt": "2026-08-20T18:42:33.578Z",
       "title": "langchain-fireworks==1.6.0"
-    },
-    {
-      "id": "u_5d6577d",
-      "sentAt": "2026-08-20T18:42:33.578Z",
-      "title": "Salesforce Headless 360 Shows Where Enterprise Software Is Going Next"
-    },
-    {
-      "id": "u_ff3be2e3",
-      "sentAt": "2026-08-20T18:42:33.578Z",
-      "title": "LLMs could write like humans but post-training guardrails make their text detectable"
-    },
-    {
-      "id": "u_16af9ac",
-      "sentAt": "2026-08-20T18:42:33.578Z",
-      "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds"
-    },
-    {
-      "id": "u_2b6b2de7",
-      "sentAt": "2026-08-20T18:42:33.578Z",
-      "title": "Ramp launches its own AI model router, called Router"
-    },
-    {
-      "id": "u_b439acc2",
-      "sentAt": "2026-08-20T16:38:26.018Z",
-      "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore"
     }
   ]
 }
