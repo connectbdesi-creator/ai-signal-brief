@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-23T22:49:05.599Z",
+  "updatedAt": "2026-09-24T03:49:37.209Z",
   "entries": [
+    {
+      "id": "u_6bd4fd1e",
+      "sentAt": "2026-09-24T03:49:37.209Z",
+      "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'"
+    },
+    {
+      "id": "u_e2b557b7",
+      "sentAt": "2026-09-24T03:49:37.209Z",
+      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push"
+    },
+    {
+      "id": "u_d0c3848d",
+      "sentAt": "2026-09-24T03:49:37.209Z",
+      "title": "Meta beat OpenAI to the punch on announcing an AI gadget"
+    },
+    {
+      "id": "u_bb75e49b",
+      "sentAt": "2026-09-24T03:49:37.209Z",
+      "title": "Google launches two benchmark-topping speech generation models"
+    },
+    {
+      "id": "u_513808f8",
+      "sentAt": "2026-09-24T03:49:37.209Z",
+      "title": "v1.101.2"
+    },
     {
       "id": "u_78d90707",
       "sentAt": "2026-09-23T22:49:05.599Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4dfde424",
       "sentAt": "2026-08-20T10:33:45.315Z",
       "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only"
-    },
-    {
-      "id": "u_58016f83",
-      "sentAt": "2026-08-20T10:33:45.315Z",
-      "title": "AI Agents Are Turning CTOs Into City Planners"
-    },
-    {
-      "id": "u_c061b062",
-      "sentAt": "2026-08-20T10:33:45.315Z",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users"
-    },
-    {
-      "id": "u_886ab126",
-      "sentAt": "2026-08-20T10:33:45.315Z",
-      "title": "A Venture Capitalist Spent $100 Creating A Fake Sorority Girl. TikTok Didn’t Notice."
-    },
-    {
-      "id": "u_23af894e",
-      "sentAt": "2026-08-20T10:33:45.315Z",
-      "title": "World Models: The Next Frontier Beyond LLMs - StartupHub.ai"
-    },
-    {
-      "id": "u_559e1bfe",
-      "sentAt": "2026-08-20T08:41:52.507Z",
-      "title": "OpenAI builds safety system that catches misuse without storing customer data"
     }
   ]
 }
