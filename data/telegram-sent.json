@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-24T03:49:37.209Z",
+  "updatedAt": "2026-09-24T09:07:12.270Z",
   "entries": [
+    {
+      "id": "u_28013112",
+      "sentAt": "2026-09-24T09:07:12.270Z",
+      "title": "Scoop: Trump allies open new front on Anthropic CEO as face of AI \"doomerism\""
+    },
+    {
+      "id": "u_d01eb447",
+      "sentAt": "2026-09-24T09:07:12.270Z",
+      "title": "b11156"
+    },
+    {
+      "id": "u_e1e9a5c3",
+      "sentAt": "2026-09-24T09:07:12.270Z",
+      "title": "b11155"
+    },
+    {
+      "id": "u_a0cdee63",
+      "sentAt": "2026-09-24T09:07:12.270Z",
+      "title": "b11153"
+    },
+    {
+      "id": "u_de148235",
+      "sentAt": "2026-09-24T09:07:12.270Z",
+      "title": "OpenAI agents breached Australian portal, attempted other hacks in routine data collection."
+    },
     {
       "id": "u_6bd4fd1e",
       "sentAt": "2026-09-24T03:49:37.209Z",
@@ -4975,31 +5000,6 @@
       "id": "u_78503d05",
       "sentAt": "2026-08-20T12:54:23.970Z",
       "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world"
-    },
-    {
-      "id": "u_b0c34920",
-      "sentAt": "2026-08-20T12:54:23.970Z",
-      "title": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026"
-    },
-    {
-      "id": "u_18187c88",
-      "sentAt": "2026-08-20T12:54:23.970Z",
-      "title": "Slack is launching collaborative vibe-coding channels"
-    },
-    {
-      "id": "u_93281c7e",
-      "sentAt": "2026-08-20T12:54:23.970Z",
-      "title": "Entering The Ontology Era: The Blueprint For Enterprise AI Agents"
-    },
-    {
-      "id": "u_f2aa028f",
-      "sentAt": "2026-08-20T12:54:23.970Z",
-      "title": "b10514"
-    },
-    {
-      "id": "u_4dfde424",
-      "sentAt": "2026-08-20T10:33:45.315Z",
-      "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only"
     }
   ]
 }
