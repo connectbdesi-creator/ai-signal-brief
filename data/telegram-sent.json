@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-24T09:07:12.270Z",
+  "updatedAt": "2026-09-24T14:42:29.531Z",
   "entries": [
+    {
+      "id": "u_80cdd0d0",
+      "sentAt": "2026-09-24T14:42:29.531Z",
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together"
+    },
+    {
+      "id": "u_7d6e0b28",
+      "sentAt": "2026-09-24T14:42:29.531Z",
+      "title": "Google is sending an AI satellite into space next week"
+    },
+    {
+      "id": "u_ff2b5669",
+      "sentAt": "2026-09-24T14:42:29.531Z",
+      "title": "I have some questions for Mark Zuckerberg"
+    },
+    {
+      "id": "u_10344900",
+      "sentAt": "2026-09-24T14:42:29.531Z",
+      "title": "Introducing LangSmith Fine-Tuning"
+    },
+    {
+      "id": "u_6c212111",
+      "sentAt": "2026-09-24T14:42:29.531Z",
+      "title": "OpenAI's agents went after government and university sites months before Hugging Face"
+    },
     {
       "id": "u_28013112",
       "sentAt": "2026-09-24T09:07:12.270Z",
@@ -4975,31 +5000,6 @@
       "id": "u_74fffa29",
       "sentAt": "2026-08-20T14:39:49.026Z",
       "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?"
-    },
-    {
-      "id": "u_10819f00",
-      "sentAt": "2026-08-20T14:39:49.026Z",
-      "title": "langchain-anthropic==1.6.1"
-    },
-    {
-      "id": "u_5f1d2c7c",
-      "sentAt": "2026-08-20T14:39:49.026Z",
-      "title": "Welcome to the AI crisis in math"
-    },
-    {
-      "id": "u_cbfb7067",
-      "sentAt": "2026-08-20T14:39:49.026Z",
-      "title": "Mapping intrinsic rank and informational gravity in complex tabular data: I developed a non-parametric, model-agnostic, information-theoretic diagnostic to bypass the limits of linear, rank, and Euclidean baselines. [R]"
-    },
-    {
-      "id": "u_296630ac",
-      "sentAt": "2026-08-20T14:39:49.026Z",
-      "title": "Microsoft's GitHub Under Siege As SpaceX's Cursor Takes The AI Stack"
-    },
-    {
-      "id": "u_78503d05",
-      "sentAt": "2026-08-20T12:54:23.970Z",
-      "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world"
     }
   ]
 }
