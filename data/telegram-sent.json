@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-24T23:05:37.216Z",
+  "updatedAt": "2026-09-25T04:04:50.097Z",
   "entries": [
+    {
+      "id": "u_dd6eb879",
+      "sentAt": "2026-09-25T04:04:50.097Z",
+      "title": "SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion"
+    },
+    {
+      "id": "u_a298e772",
+      "sentAt": "2026-09-25T04:04:50.097Z",
+      "title": "CARE: Condition-Aware Representation Regularization for Diffusion Models"
+    },
+    {
+      "id": "u_2d8563d7",
+      "sentAt": "2026-09-25T04:04:50.097Z",
+      "title": "Auditability Is Not One Property: Rule Overlap, Behavioural Agreement, and Composition in Reinforcement Learning"
+    },
+    {
+      "id": "u_1da67d8d",
+      "sentAt": "2026-09-25T04:04:50.097Z",
+      "title": "TAM-Chain: Multi-Scale Thyroid Cytology Classification via Absorbing Markov Chains and Shannon Entropy Uncertainty Quantification for False-Negative Suppression and Domain-Shift Adaptation"
+    },
+    {
+      "id": "u_e0053ac8",
+      "sentAt": "2026-09-25T04:04:50.097Z",
+      "title": "Learning to Discover Interesting Mathematics"
+    },
     {
       "id": "u_28aa530f",
       "sentAt": "2026-09-24T23:05:37.216Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e319b4ec",
       "sentAt": "2026-08-20T20:31:22.743Z",
       "title": "Howard University Launches Its First AI Certificate Program for Undergraduate Students - The Dig at Howard University"
-    },
-    {
-      "id": "u_40456ee0",
-      "sentAt": "2026-08-20T20:31:22.743Z",
-      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era"
-    },
-    {
-      "id": "u_9c757894",
-      "sentAt": "2026-08-20T20:31:22.743Z",
-      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs"
-    },
-    {
-      "id": "u_e2d4704b",
-      "sentAt": "2026-08-20T20:31:22.743Z",
-      "title": "Nvidia looks well placed to benefit from the next stage of the AI boom"
-    },
-    {
-      "id": "u_74058ba5",
-      "sentAt": "2026-08-20T20:31:22.743Z",
-      "title": "Choosing an Inference Provider for AI Agents: Latency, Tool Calling, and Cost per Task"
-    },
-    {
-      "id": "u_34a3f00c",
-      "sentAt": "2026-08-20T18:42:33.578Z",
-      "title": "langchain-fireworks==1.6.0"
     }
   ]
 }
