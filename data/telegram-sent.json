@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-25T16:50:36.025Z",
+  "updatedAt": "2026-09-25T21:15:36.647Z",
   "entries": [
+    {
+      "id": "u_96bc3b1f",
+      "sentAt": "2026-09-25T21:15:36.647Z",
+      "title": "4 insights from Dreamforce: AI agents move from demos to measurable outcomes"
+    },
+    {
+      "id": "u_6710b51",
+      "sentAt": "2026-09-25T21:15:36.647Z",
+      "title": "Rice University launches AI master's degree - Axios"
+    },
+    {
+      "id": "u_638c0474",
+      "sentAt": "2026-09-25T21:15:36.647Z",
+      "title": "Microsoft overhauls Copilot with new coding, document editing features"
+    },
+    {
+      "id": "u_f558573a",
+      "sentAt": "2026-09-25T21:15:36.647Z",
+      "title": "Syracuse University launches artificial intelligence research institute - Syracuse.com"
+    },
+    {
+      "id": "u_c73d34fc",
+      "sentAt": "2026-09-25T21:15:36.647Z",
+      "title": "Vanderbilt University extends identity governance to AI agents"
+    },
     {
       "id": "u_1b9300ad",
       "sentAt": "2026-09-25T16:50:36.025Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b6b2ea6f",
       "sentAt": "2026-08-21T03:05:28.044Z",
       "title": "b10536"
-    },
-    {
-      "id": "u_e979f007",
-      "sentAt": "2026-08-21T03:05:28.044Z",
-      "title": "Astromech raises $20M to build a biological operating system that can forecast evolutionary change"
-    },
-    {
-      "id": "u_84adb30c",
-      "sentAt": "2026-08-21T03:05:28.044Z",
-      "title": "Twin1 AI raises $20M to put an AI twin behind every knowledge worker"
-    },
-    {
-      "id": "u_bbc5f887",
-      "sentAt": "2026-08-21T03:05:28.044Z",
-      "title": "Slack Brings AI Agents To Workspaces. But Can It Take On Teams?"
-    },
-    {
-      "id": "u_74111bfe",
-      "sentAt": "2026-08-21T03:05:28.044Z",
-      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock - Amazon Web Services (AWS)"
-    },
-    {
-      "id": "u_399e91d3",
-      "sentAt": "2026-08-21T01:26:26.760Z",
-      "title": "b10533"
     }
   ]
 }
