@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-25T11:26:33.553Z",
+  "updatedAt": "2026-09-25T16:50:36.025Z",
   "entries": [
+    {
+      "id": "u_1b9300ad",
+      "sentAt": "2026-09-25T16:50:36.025Z",
+      "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing"
+    },
+    {
+      "id": "u_4758bbe5",
+      "sentAt": "2026-09-25T16:50:36.025Z",
+      "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing"
+    },
+    {
+      "id": "u_e28f4da6",
+      "sentAt": "2026-09-25T16:50:36.025Z",
+      "title": "Siegel Named MIT Schwarzman College Of Computing Innovation Fellow"
+    },
+    {
+      "id": "u_81b82d5c",
+      "sentAt": "2026-09-25T16:50:36.025Z",
+      "title": "Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod"
+    },
+    {
+      "id": "u_7369938b",
+      "sentAt": "2026-09-25T16:50:36.025Z",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off"
+    },
     {
       "id": "u_9667e786",
       "sentAt": "2026-09-25T11:26:33.553Z",
@@ -4975,31 +5000,6 @@
       "id": "u_399e91d3",
       "sentAt": "2026-08-21T01:26:26.760Z",
       "title": "b10533"
-    },
-    {
-      "id": "u_6c1132bf",
-      "sentAt": "2026-08-21T01:26:26.760Z",
-      "title": "b10531"
-    },
-    {
-      "id": "u_48a47a6f",
-      "sentAt": "2026-08-21T01:26:26.760Z",
-      "title": "ChatGPT search now uses the site:operator at scale"
-    },
-    {
-      "id": "u_29425235",
-      "sentAt": "2026-08-21T01:26:26.760Z",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates"
-    },
-    {
-      "id": "u_296cd157",
-      "sentAt": "2026-08-21T01:26:26.760Z",
-      "title": "Been tweaking my Qwen 3.8 setup, up to 45+ steady T/ps at 8bit quant. Realised I'm now top T/ps for this model+ctx across all benchmarked M-series chips. Full args linked below, happy to discuss as this was a pain of trial and error."
-    },
-    {
-      "id": "u_163f6a75",
-      "sentAt": "2026-08-20T22:30:25.744Z",
-      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock"
     }
   ]
 }
