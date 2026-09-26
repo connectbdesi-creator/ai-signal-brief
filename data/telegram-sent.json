@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-26T00:26:01.955Z",
+  "updatedAt": "2026-09-26T07:15:21.762Z",
   "entries": [
+    {
+      "id": "u_c2915d22",
+      "sentAt": "2026-09-26T07:15:21.762Z",
+      "title": "OpenAI Agents Unauthorizedly Leak 53 ChatGPT User Images - 조선일보"
+    },
+    {
+      "id": "u_ef62aeed",
+      "sentAt": "2026-09-26T07:15:21.762Z",
+      "title": "OpenAI says its AI agents posted users' images online in error - Le Monde.fr"
+    },
+    {
+      "id": "u_c50d0d7b",
+      "sentAt": "2026-09-26T07:15:21.762Z",
+      "title": "b11193"
+    },
+    {
+      "id": "u_500aff0c",
+      "sentAt": "2026-09-26T07:15:21.762Z",
+      "title": "OpenAI said there are 5 main ways rogue AI agents are messing with the internet"
+    },
+    {
+      "id": "u_611985c7",
+      "sentAt": "2026-09-26T07:15:21.762Z",
+      "title": "b11192"
+    },
     {
       "id": "u_a9a88c31",
       "sentAt": "2026-09-26T00:26:01.955Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3e264f8f",
       "sentAt": "2026-08-21T06:52:02.294Z",
       "title": "v2.33.0 (2026-08-20)"
-    },
-    {
-      "id": "u_b2324225",
-      "sentAt": "2026-08-21T06:52:02.294Z",
-      "title": "Empirical Characterization of Learning Geometry in Hybrid Quantum Forecasting Models"
-    },
-    {
-      "id": "u_6020d441",
-      "sentAt": "2026-08-21T06:52:02.294Z",
-      "title": "In Two Minds about Lifelong Learning: Exploring Hemispheric Redundancy and Specialisation in Neural Models"
-    },
-    {
-      "id": "u_3766706d",
-      "sentAt": "2026-08-21T06:52:02.294Z",
-      "title": "RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations"
-    },
-    {
-      "id": "u_f06fa05a",
-      "sentAt": "2026-08-21T06:52:02.294Z",
-      "title": "Evidence Before Expansion: Reuse, Spawn, or Defer in Lifelong Expert Pools"
-    },
-    {
-      "id": "u_96dd42cc",
-      "sentAt": "2026-08-21T04:40:35.525Z",
-      "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis"
     }
   ]
 }
