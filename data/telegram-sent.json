@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-25T21:15:36.647Z",
+  "updatedAt": "2026-09-26T00:26:01.955Z",
   "entries": [
+    {
+      "id": "u_a9a88c31",
+      "sentAt": "2026-09-26T00:26:01.955Z",
+      "title": "v2.51.0 (2026-09-25)"
+    },
+    {
+      "id": "u_4f562d74",
+      "sentAt": "2026-09-26T00:26:01.955Z",
+      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding"
+    },
+    {
+      "id": "u_ceab617c",
+      "sentAt": "2026-09-26T00:26:01.955Z",
+      "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity"
+    },
+    {
+      "id": "u_91cf85a1",
+      "sentAt": "2026-09-26T00:26:01.955Z",
+      "title": "Mica v0.1 4B: open Jev-style decision model (yes/no, choice, score) that runs on an 8 GB GPU — trained for under $30 of GPU time"
+    },
+    {
+      "id": "u_9895cb94",
+      "sentAt": "2026-09-26T00:26:01.955Z",
+      "title": "Oregon Is Latest State to Move on Frontier AI Regulation - govtech.com"
+    },
     {
       "id": "u_96bc3b1f",
       "sentAt": "2026-09-25T21:15:36.647Z",
@@ -4975,31 +5000,6 @@
       "id": "u_96dd42cc",
       "sentAt": "2026-08-21T04:40:35.525Z",
       "title": "Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis"
-    },
-    {
-      "id": "u_a1a5d8af",
-      "sentAt": "2026-08-21T04:40:35.525Z",
-      "title": "Hallucination as a Feature, not a Defect: Evaluating a multi-agent architecture to transform speculative language-model outputs into testable scientific hypotheses"
-    },
-    {
-      "id": "u_4c711d03",
-      "sentAt": "2026-08-21T04:40:35.525Z",
-      "title": "Compliance, Capability, and Conflict: Benchmarking Multimodal LLMs under System Messages"
-    },
-    {
-      "id": "u_7e75405d",
-      "sentAt": "2026-08-21T04:40:35.525Z",
-      "title": "When Irrelevant Text Matters: Affine Margin Shifts in Multimodal Large Language Models"
-    },
-    {
-      "id": "u_5b246bf4",
-      "sentAt": "2026-08-21T04:40:35.525Z",
-      "title": "Towards On-Board Implementation of ML-Based Helicopter Weight Estimator"
-    },
-    {
-      "id": "u_b6b2ea6f",
-      "sentAt": "2026-08-21T03:05:28.044Z",
-      "title": "b10536"
     }
   ]
 }
