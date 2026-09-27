@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-27T00:21:20.394Z",
+  "updatedAt": "2026-09-27T13:40:29.565Z",
   "entries": [
+    {
+      "id": "u_6b415173",
+      "sentAt": "2026-09-27T13:40:29.565Z",
+      "title": "b11214"
+    },
+    {
+      "id": "u_c968104f",
+      "sentAt": "2026-09-27T13:40:29.565Z",
+      "title": "b11213"
+    },
+    {
+      "id": "u_49796e99",
+      "sentAt": "2026-09-27T13:40:29.565Z",
+      "title": "Developer says Jev decision model beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends - Tom's Hardware"
+    },
+    {
+      "id": "u_4a69bdf3",
+      "sentAt": "2026-09-27T13:40:29.565Z",
+      "title": "b11212"
+    },
+    {
+      "id": "u_3cc8b617",
+      "sentAt": "2026-09-27T13:40:29.565Z",
+      "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time"
+    },
     {
       "id": "u_2517fefd",
       "sentAt": "2026-09-27T00:21:20.394Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fa752c59",
       "sentAt": "2026-08-21T16:37:30.523Z",
       "title": "Stop Making TUIs"
-    },
-    {
-      "id": "u_92e9b177",
-      "sentAt": "2026-08-21T16:37:30.523Z",
-      "title": "Quoting Matt Webb"
-    },
-    {
-      "id": "u_a71bcfed",
-      "sentAt": "2026-08-21T16:37:30.523Z",
-      "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini - SecurityWeek"
-    },
-    {
-      "id": "u_16fd8c1f",
-      "sentAt": "2026-08-21T16:37:30.523Z",
-      "title": "Stripe's 'Minions' Now Generate 1,300 Pull Requests a Week -"
-    },
-    {
-      "id": "u_b60a03de",
-      "sentAt": "2026-08-21T16:37:30.523Z",
-      "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents"
-    },
-    {
-      "id": "u_8567e794",
-      "sentAt": "2026-08-21T14:38:13.083Z",
-      "title": "langchain-perplexity==1.4.1"
     }
   ]
 }
