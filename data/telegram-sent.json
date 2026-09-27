@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-27T13:40:29.565Z",
+  "updatedAt": "2026-09-27T18:07:36.479Z",
   "entries": [
+    {
+      "id": "u_5a670797",
+      "sentAt": "2026-09-27T18:07:36.479Z",
+      "title": "b11222"
+    },
+    {
+      "id": "u_7027bf3f",
+      "sentAt": "2026-09-27T18:07:36.479Z",
+      "title": "b11221"
+    },
+    {
+      "id": "u_8abc18ae",
+      "sentAt": "2026-09-27T18:07:36.479Z",
+      "title": "GROKBOT :: I Asked an “AI Teammate” to Fill One Form. It Couldn’t."
+    },
+    {
+      "id": "u_c4d6c18c",
+      "sentAt": "2026-09-27T18:07:36.479Z",
+      "title": "AI agents do more of the work in model development, but humans still make the decisions"
+    },
+    {
+      "id": "u_489b3485",
+      "sentAt": "2026-09-27T18:07:36.479Z",
+      "title": "AI agents do more of the work in model development, but humans still make the decisions"
+    },
     {
       "id": "u_6b415173",
       "sentAt": "2026-09-27T13:40:29.565Z",
@@ -4975,31 +5000,6 @@
       "id": "u_32f8e6df",
       "sentAt": "2026-08-21T18:39:53.881Z",
       "title": "ChatGPT has entered the group chat. Texters have…feelings about it."
-    },
-    {
-      "id": "u_d680b93e",
-      "sentAt": "2026-08-21T18:39:53.881Z",
-      "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours"
-    },
-    {
-      "id": "u_e7a4526a",
-      "sentAt": "2026-08-21T18:39:53.881Z",
-      "title": "Govern AI agent tool access with Amazon Bedrock AgentCore Gateway"
-    },
-    {
-      "id": "u_fd7c9e2b",
-      "sentAt": "2026-08-21T18:39:53.881Z",
-      "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]"
-    },
-    {
-      "id": "u_bf4e2ca4",
-      "sentAt": "2026-08-21T18:39:53.881Z",
-      "title": "SOP-Bench: A new benchmark for evaluating AI agents on real business procedures"
-    },
-    {
-      "id": "u_fa752c59",
-      "sentAt": "2026-08-21T16:37:30.523Z",
-      "title": "Stop Making TUIs"
     }
   ]
 }
