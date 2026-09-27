@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-27T18:07:36.479Z",
+  "updatedAt": "2026-09-27T22:52:35.703Z",
   "entries": [
+    {
+      "id": "u_554960d3",
+      "sentAt": "2026-09-27T22:52:35.703Z",
+      "title": "b11223"
+    },
+    {
+      "id": "u_a536cb81",
+      "sentAt": "2026-09-27T22:52:35.703Z",
+      "title": "Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns - The Guardian"
+    },
+    {
+      "id": "u_cea67ee1",
+      "sentAt": "2026-09-27T22:52:35.703Z",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music"
+    },
+    {
+      "id": "u_a54cda2d",
+      "sentAt": "2026-09-27T22:52:35.703Z",
+      "title": "OpenAI Says Its Agents Interacted in 'Unexpected Ways' With Government Sites - SFist"
+    },
+    {
+      "id": "u_9c4f06d7",
+      "sentAt": "2026-09-27T22:52:35.703Z",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website"
+    },
     {
       "id": "u_5a670797",
       "sentAt": "2026-09-27T18:07:36.479Z",
@@ -4975,31 +5000,6 @@
       "id": "u_59342c39",
       "sentAt": "2026-08-21T20:28:32.457Z",
       "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8"
-    },
-    {
-      "id": "u_f29bbb8c",
-      "sentAt": "2026-08-21T20:28:32.457Z",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero"
-    },
-    {
-      "id": "u_e59e1725",
-      "sentAt": "2026-08-21T20:28:32.457Z",
-      "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks"
-    },
-    {
-      "id": "u_4e102b43",
-      "sentAt": "2026-08-21T20:28:32.457Z",
-      "title": "b10567"
-    },
-    {
-      "id": "u_3b11abcf",
-      "sentAt": "2026-08-21T20:28:32.457Z",
-      "title": "v0.2.0"
-    },
-    {
-      "id": "u_32f8e6df",
-      "sentAt": "2026-08-21T18:39:53.881Z",
-      "title": "ChatGPT has entered the group chat. Texters have…feelings about it."
     }
   ]
 }
