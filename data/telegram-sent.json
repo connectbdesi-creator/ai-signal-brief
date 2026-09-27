@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-26T20:48:07.531Z",
+  "updatedAt": "2026-09-27T00:21:20.394Z",
   "entries": [
+    {
+      "id": "u_2517fefd",
+      "sentAt": "2026-09-27T00:21:20.394Z",
+      "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - Goshen News"
+    },
+    {
+      "id": "u_bef4543",
+      "sentAt": "2026-09-27T00:21:20.394Z",
+      "title": "OpenAI Pauses Training of Latest Models After Agents Probed US Government Sites in Unexpected Ways - U.S. News & World Report"
+    },
+    {
+      "id": "u_6fd1aaa2",
+      "sentAt": "2026-09-27T00:21:20.394Z",
+      "title": "Scoop: Top AI companies probing tens of thousands of security incidents"
+    },
+    {
+      "id": "u_c2958c6a",
+      "sentAt": "2026-09-27T00:21:20.394Z",
+      "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English"
+    },
+    {
+      "id": "u_23c40683",
+      "sentAt": "2026-09-27T00:21:20.394Z",
+      "title": "b11205"
+    },
     {
       "id": "u_f7d22a37",
       "sentAt": "2026-09-26T20:48:07.531Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8567e794",
       "sentAt": "2026-08-21T14:38:13.083Z",
       "title": "langchain-perplexity==1.4.1"
-    },
-    {
-      "id": "u_8b58e4d1",
-      "sentAt": "2026-08-21T14:38:13.083Z",
-      "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi"
-    },
-    {
-      "id": "u_a7954a29",
-      "sentAt": "2026-08-21T14:38:13.083Z",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up"
-    },
-    {
-      "id": "u_d464e964",
-      "sentAt": "2026-08-21T14:38:13.083Z",
-      "title": "4 AI-powered hotel search tools that have launched so far in 2026 - Hotel Dive"
-    },
-    {
-      "id": "u_17f37ff1",
-      "sentAt": "2026-08-21T14:38:13.083Z",
-      "title": "Google Open-Sourced a Compiler That Runs AI on Data the Server"
-    },
-    {
-      "id": "u_2869284f",
-      "sentAt": "2026-08-21T12:53:16.330Z",
-      "title": "5 Real-World Use Cases for AI Agents Transforming Industries"
     }
   ]
 }
