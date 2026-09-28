@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-28T13:16:38.094Z",
+  "updatedAt": "2026-09-28T20:25:39.954Z",
   "entries": [
+    {
+      "id": "u_b0f308b9",
+      "sentAt": "2026-09-28T20:25:39.954Z",
+      "title": "Meta hires MongoDB CEO CJ Desai to lead new enterprise AI business"
+    },
+    {
+      "id": "u_812e28fa",
+      "sentAt": "2026-09-28T20:25:39.954Z",
+      "title": "ServiceNow calls for a measured response to rogue AI agents"
+    },
+    {
+      "id": "u_1df07ebf",
+      "sentAt": "2026-09-28T20:25:39.954Z",
+      "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday"
+    },
+    {
+      "id": "u_ebdddfbe",
+      "sentAt": "2026-09-28T20:25:39.954Z",
+      "title": "Planners Meet On AI This Week"
+    },
+    {
+      "id": "u_5853a84",
+      "sentAt": "2026-09-28T20:25:39.954Z",
+      "title": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections"
+    },
     {
       "id": "u_3571c390",
       "sentAt": "2026-09-28T13:16:38.094Z",
@@ -4975,31 +5000,6 @@
       "id": "u_abf8dbbb",
       "sentAt": "2026-08-22T02:56:29.363Z",
       "title": "b10569"
-    },
-    {
-      "id": "u_8ec791e3",
-      "sentAt": "2026-08-22T02:56:29.363Z",
-      "title": "OpenCode + llama.cpp + unsloth/Qwen3.8-27B-GGUF:Q6_K_XL = only failure so far"
-    },
-    {
-      "id": "u_3f5e2658",
-      "sentAt": "2026-08-22T02:56:29.363Z",
-      "title": "Qwen 3.8 27b - PI AGENT vs OPENCODE - another smaple"
-    },
-    {
-      "id": "u_c5010fbd",
-      "sentAt": "2026-08-22T02:56:29.363Z",
-      "title": "I feel like I finally graduated."
-    },
-    {
-      "id": "u_780c3d27",
-      "sentAt": "2026-08-22T02:56:29.363Z",
-      "title": "Llama.cpp DSpark PC Tree Fork (up to 3%-29.5% faster!)"
-    },
-    {
-      "id": "u_5368ca9b",
-      "sentAt": "2026-08-22T01:21:24.268Z",
-      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI"
     }
   ]
 }
