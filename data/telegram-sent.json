@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-27T22:52:35.703Z",
+  "updatedAt": "2026-09-28T04:25:40.201Z",
   "entries": [
+    {
+      "id": "u_a650b93d",
+      "sentAt": "2026-09-28T04:25:40.201Z",
+      "title": "Quoting Muse AI Agent"
+    },
+    {
+      "id": "u_d2e8632a",
+      "sentAt": "2026-09-28T04:25:40.201Z",
+      "title": "20 Agentic Use Cases of TypeSafe AI’s Jev"
+    },
+    {
+      "id": "u_226c9178",
+      "sentAt": "2026-09-28T04:25:40.201Z",
+      "title": "Google Research Introduces an AI Video Co-Director: 4 Agentic Frameworks for Coherent, Minutes-Long Video Generation"
+    },
+    {
+      "id": "u_f8f4d21f",
+      "sentAt": "2026-09-28T04:25:40.201Z",
+      "title": "AWS CloudWatch Omni goes after the hardest question in agentic AI: Why did the agent do that?"
+    },
+    {
+      "id": "u_8d227429",
+      "sentAt": "2026-09-28T04:25:40.201Z",
+      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email - BleepingComputer"
+    },
     {
       "id": "u_554960d3",
       "sentAt": "2026-09-27T22:52:35.703Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8660c2eb",
       "sentAt": "2026-08-21T22:27:43.846Z",
       "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access"
-    },
-    {
-      "id": "u_1abe00e4",
-      "sentAt": "2026-08-21T22:27:43.846Z",
-      "title": "Hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers [P]"
-    },
-    {
-      "id": "u_84acaf4b",
-      "sentAt": "2026-08-21T22:27:43.846Z",
-      "title": "b10566"
-    },
-    {
-      "id": "u_50585b62",
-      "sentAt": "2026-08-21T22:27:43.846Z",
-      "title": "Rogue AI Agents Compel Companies to Deal With Rising Liability - Bloomberg Law News"
-    },
-    {
-      "id": "u_b875212f",
-      "sentAt": "2026-08-21T22:27:43.846Z",
-      "title": "llm 0.32.1"
-    },
-    {
-      "id": "u_59342c39",
-      "sentAt": "2026-08-21T20:28:32.457Z",
-      "title": "DeepSeek debuts multimodal language model competitive with Opus 4.8"
     }
   ]
 }
