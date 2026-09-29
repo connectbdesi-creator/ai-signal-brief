@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-28T20:25:39.954Z",
+  "updatedAt": "2026-09-29T01:35:16.889Z",
   "entries": [
+    {
+      "id": "u_6f115c77",
+      "sentAt": "2026-09-29T01:35:16.889Z",
+      "title": "Florida attorney general asks state court to prevent OpenAI from advancing its frontier models"
+    },
+    {
+      "id": "u_6798c56c",
+      "sentAt": "2026-09-29T01:35:16.889Z",
+      "title": "OpenAI cancels new AI launch, citing safety issues - The Washington Post"
+    },
+    {
+      "id": "u_5394e990",
+      "sentAt": "2026-09-29T01:35:16.889Z",
+      "title": "OpenAI scraps GPT-6.1 Astra launch after safety tests raise concerns"
+    },
+    {
+      "id": "u_3565c347",
+      "sentAt": "2026-09-29T01:35:16.889Z",
+      "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It ‘Regressed’ on Safety - Gizmodo"
+    },
+    {
+      "id": "u_d621c034",
+      "sentAt": "2026-09-29T01:35:16.889Z",
+      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm"
+    },
     {
       "id": "u_b0f308b9",
       "sentAt": "2026-09-28T20:25:39.954Z",
@@ -4975,31 +5000,6 @@
       "id": "u_42e3285f",
       "sentAt": "2026-08-22T08:33:08.911Z",
       "title": "b10576"
-    },
-    {
-      "id": "u_99c4adab",
-      "sentAt": "2026-08-22T08:33:08.911Z",
-      "title": "Psychological methods reveal major weaknesses in AI security testing"
-    },
-    {
-      "id": "u_e349b589",
-      "sentAt": "2026-08-22T06:43:34.942Z",
-      "title": "From Models to Agents: The Next Phase of AI Adoption in Molecular Discovery - Genetic Engineering and Biotechnology News"
-    },
-    {
-      "id": "u_e8a42aba",
-      "sentAt": "2026-08-22T04:35:26.758Z",
-      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - The Indian Express"
-    },
-    {
-      "id": "u_d6bc746f",
-      "sentAt": "2026-08-22T04:35:26.758Z",
-      "title": "Bowie State University Launches Bachelor’s Degree Program in Artificial Intelligence - The Journal of Blacks in Higher Education"
-    },
-    {
-      "id": "u_abf8dbbb",
-      "sentAt": "2026-08-22T02:56:29.363Z",
-      "title": "b10569"
     }
   ]
 }
