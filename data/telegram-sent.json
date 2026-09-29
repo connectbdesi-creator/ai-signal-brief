@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-29T16:23:30.759Z",
+  "updatedAt": "2026-09-29T22:01:12.051Z",
   "entries": [
+    {
+      "id": "u_8e38645e",
+      "sentAt": "2026-09-29T22:01:12.051Z",
+      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian"
+    },
+    {
+      "id": "u_1e54fb64",
+      "sentAt": "2026-09-29T22:01:12.051Z",
+      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns"
+    },
+    {
+      "id": "u_d5ecf57",
+      "sentAt": "2026-09-29T22:01:12.051Z",
+      "title": "b11261"
+    },
+    {
+      "id": "u_7de3f4bd",
+      "sentAt": "2026-09-29T22:01:12.051Z",
+      "title": "Scoop: Trump warms to Jay Clayton as AI czar"
+    },
+    {
+      "id": "u_9d9c2fc1",
+      "sentAt": "2026-09-29T22:01:12.051Z",
+      "title": "Oracle CISO puts humans at the center of AI security governance"
+    },
     {
       "id": "u_c81b4123",
       "sentAt": "2026-09-29T16:23:30.759Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f1f582a8",
       "sentAt": "2026-08-22T16:27:24.974Z",
       "title": "More than just code review"
-    },
-    {
-      "id": "u_53c8333e",
-      "sentAt": "2026-08-22T16:27:24.974Z",
-      "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock"
-    },
-    {
-      "id": "u_a33374f3",
-      "sentAt": "2026-08-22T16:27:24.974Z",
-      "title": "b10585"
-    },
-    {
-      "id": "u_40542108",
-      "sentAt": "2026-08-22T14:24:30.143Z",
-      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each"
-    },
-    {
-      "id": "u_9806e6e",
-      "sentAt": "2026-08-22T12:43:23.003Z",
-      "title": "Study explains why AI agents benefit from \"skills\" and when they fail"
-    },
-    {
-      "id": "u_d25d265",
-      "sentAt": "2026-08-22T12:43:23.003Z",
-      "title": "Study explains why AI agents benefit from \"skills\" and when they fail"
     }
   ]
 }
