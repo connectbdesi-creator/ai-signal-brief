@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-29T08:04:10.198Z",
+  "updatedAt": "2026-09-29T16:23:30.759Z",
   "entries": [
+    {
+      "id": "u_c81b4123",
+      "sentAt": "2026-09-29T16:23:30.759Z",
+      "title": "Anthropic Warns Rogue AI Agents Could Expose It to Uncharted Legal Risks - Modern Diplomacy"
+    },
+    {
+      "id": "u_c9d0ebbb",
+      "sentAt": "2026-09-29T16:23:30.759Z",
+      "title": "Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_b1b92b76",
+      "sentAt": "2026-09-29T16:23:30.759Z",
+      "title": "AfDB launches free AI training for African officials - Africa Business Communities"
+    },
+    {
+      "id": "u_288474e5",
+      "sentAt": "2026-09-29T16:23:30.759Z",
+      "title": "Trump launches government chatbot, urging a wary public not to fear AI - The Washington Post"
+    },
+    {
+      "id": "u_f3881644",
+      "sentAt": "2026-09-29T16:23:30.759Z",
+      "title": "langchain-anthropic==1.7.5"
+    },
     {
       "id": "u_90055240",
       "sentAt": "2026-09-29T08:04:10.198Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d25d265",
       "sentAt": "2026-08-22T12:43:23.003Z",
       "title": "Study explains why AI agents benefit from \"skills\" and when they fail"
-    },
-    {
-      "id": "u_94c6c363",
-      "sentAt": "2026-08-22T12:43:23.003Z",
-      "title": "How Claude Watermarks AI-Generated Text"
-    },
-    {
-      "id": "u_f610d62b",
-      "sentAt": "2026-08-22T10:26:25.342Z",
-      "title": "b10581"
-    },
-    {
-      "id": "u_47703eef",
-      "sentAt": "2026-08-22T10:26:25.342Z",
-      "title": "b10580"
-    },
-    {
-      "id": "u_c266427e",
-      "sentAt": "2026-08-22T10:26:25.342Z",
-      "title": "Psychological methods reveal major weaknesses in AI security testing"
-    },
-    {
-      "id": "u_e84acd97",
-      "sentAt": "2026-08-22T10:26:25.342Z",
-      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates"
     }
   ]
 }
