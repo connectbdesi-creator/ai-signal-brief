@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-30T12:09:00.914Z",
+  "updatedAt": "2026-09-30T18:54:39.304Z",
   "entries": [
+    {
+      "id": "u_b36ec79c",
+      "sentAt": "2026-09-30T18:54:39.304Z",
+      "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI"
+    },
+    {
+      "id": "u_a6860793",
+      "sentAt": "2026-09-30T18:54:39.304Z",
+      "title": "b11294"
+    },
+    {
+      "id": "u_d5d32af3",
+      "sentAt": "2026-09-30T18:54:39.304Z",
+      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats"
+    },
+    {
+      "id": "u_3c1951a1",
+      "sentAt": "2026-09-30T18:54:39.304Z",
+      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats"
+    },
+    {
+      "id": "u_4ec4f878",
+      "sentAt": "2026-09-30T18:54:39.304Z",
+      "title": "AMD Unveils Ross Agentic AI To Accelerate Embedded Engineering"
+    },
     {
       "id": "u_86b3ceb4",
       "sentAt": "2026-09-30T12:09:00.914Z",
@@ -4975,31 +5000,6 @@
       "id": "u_da30404",
       "sentAt": "2026-08-23T03:05:12.146Z",
       "title": "AI Agents Need Budgets, Not Just Tokens - StartupHub.ai"
-    },
-    {
-      "id": "u_88ff8c2c",
-      "sentAt": "2026-08-23T01:35:04.693Z",
-      "title": "How to grow a project? [D]"
-    },
-    {
-      "id": "u_a73a78aa",
-      "sentAt": "2026-08-23T01:35:04.693Z",
-      "title": "v1.98.0"
-    },
-    {
-      "id": "u_75a3e9aa",
-      "sentAt": "2026-08-23T01:35:04.693Z",
-      "title": "v1.99.0-rc.1"
-    },
-    {
-      "id": "u_da2846e",
-      "sentAt": "2026-08-23T01:35:04.693Z",
-      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety"
-    },
-    {
-      "id": "u_b2ed3c8f",
-      "sentAt": "2026-08-23T01:35:04.693Z",
-      "title": "b10588"
     }
   ]
 }
