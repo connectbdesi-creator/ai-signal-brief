@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-30T04:42:07.450Z",
+  "updatedAt": "2026-09-30T12:09:00.914Z",
   "entries": [
+    {
+      "id": "u_86b3ceb4",
+      "sentAt": "2026-09-30T12:09:00.914Z",
+      "title": "Airbnb adds AI search, more social features"
+    },
+    {
+      "id": "u_2f53909b",
+      "sentAt": "2026-09-30T12:09:00.914Z",
+      "title": "b11280"
+    },
+    {
+      "id": "u_c9803e7e",
+      "sentAt": "2026-09-30T12:09:00.914Z",
+      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots"
+    },
+    {
+      "id": "u_283b8272",
+      "sentAt": "2026-09-30T12:09:00.914Z",
+      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots"
+    },
+    {
+      "id": "u_c9dd9c9a",
+      "sentAt": "2026-09-30T12:09:00.914Z",
+      "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits"
+    },
     {
       "id": "u_15c5c636",
       "sentAt": "2026-09-30T04:42:07.450Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b2ed3c8f",
       "sentAt": "2026-08-23T01:35:04.693Z",
       "title": "b10588"
-    },
-    {
-      "id": "u_215e22af",
-      "sentAt": "2026-08-22T20:26:00.194Z",
-      "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K"
-    },
-    {
-      "id": "u_2c031cc6",
-      "sentAt": "2026-08-22T20:26:00.194Z",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research"
-    },
-    {
-      "id": "u_6067c666",
-      "sentAt": "2026-08-22T20:26:00.194Z",
-      "title": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp"
-    },
-    {
-      "id": "u_d4f833e3",
-      "sentAt": "2026-08-22T20:26:00.194Z",
-      "title": "Does anyone actually respect benchmarks?"
-    },
-    {
-      "id": "u_2407dac",
-      "sentAt": "2026-08-22T18:34:22.950Z",
-      "title": "I built an open-source roguelike specifically for training game-playing agents [P]"
     }
   ]
 }
