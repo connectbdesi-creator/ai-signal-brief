@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-01T12:42:38.051Z",
+  "updatedAt": "2026-10-01T19:20:00.682Z",
   "entries": [
+    {
+      "id": "u_9bdabc7d",
+      "sentAt": "2026-10-01T19:20:00.682Z",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground"
+    },
+    {
+      "id": "u_5e6a5acc",
+      "sentAt": "2026-10-01T19:20:00.682Z",
+      "title": "OpenAI says rogue agents may have breached more than 100 organizations - The Washington Post"
+    },
+    {
+      "id": "u_1f6f2e6f",
+      "sentAt": "2026-10-01T19:20:00.682Z",
+      "title": "b11323"
+    },
+    {
+      "id": "u_53fe9461",
+      "sentAt": "2026-10-01T19:20:00.682Z",
+      "title": "Google launches AI into space in world first - The Independent"
+    },
+    {
+      "id": "u_dc200ca",
+      "sentAt": "2026-10-01T19:20:00.682Z",
+      "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent"
+    },
     {
       "id": "u_747c6f4f",
       "sentAt": "2026-10-01T12:42:38.051Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d8791264",
       "sentAt": "2026-08-23T14:26:12.384Z",
       "title": "A Retrieval Layer Just Beat OpenAI, Anthropic and Google Agents"
-    },
-    {
-      "id": "u_d6f8002c",
-      "sentAt": "2026-08-23T14:26:12.384Z",
-      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules"
-    },
-    {
-      "id": "u_69c04d32",
-      "sentAt": "2026-08-23T12:44:39.252Z",
-      "title": "An AI boss fired its first employee but only after humans reminded it of its own rules"
-    },
-    {
-      "id": "u_7f3c3f7c",
-      "sentAt": "2026-08-23T12:44:39.252Z",
-      "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]"
-    },
-    {
-      "id": "u_5fd16103",
-      "sentAt": "2026-08-23T12:44:39.252Z",
-      "title": "b10593"
-    },
-    {
-      "id": "u_644717e0",
-      "sentAt": "2026-08-23T12:44:39.252Z",
-      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter"
     }
   ]
 }
