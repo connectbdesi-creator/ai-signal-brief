@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-01T04:54:07.514Z",
+  "updatedAt": "2026-10-01T12:42:38.051Z",
   "entries": [
+    {
+      "id": "u_747c6f4f",
+      "sentAt": "2026-10-01T12:42:38.051Z",
+      "title": "Google unveils Gemini 4 Argon with strong scores and limited access - The Rundown AI"
+    },
+    {
+      "id": "u_e9d75ccf",
+      "sentAt": "2026-10-01T12:42:38.051Z",
+      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure"
+    },
+    {
+      "id": "u_c3b8d93e",
+      "sentAt": "2026-10-01T12:42:38.051Z",
+      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure"
+    },
+    {
+      "id": "u_dd6b1ed2",
+      "sentAt": "2026-10-01T12:42:38.051Z",
+      "title": "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning — logged 16,000 extraction requests across 4,000 accounts before cutoff - Tom's Hardware"
+    },
+    {
+      "id": "u_47e452c7",
+      "sentAt": "2026-10-01T12:42:38.051Z",
+      "title": "b11320"
+    },
     {
       "id": "u_ff2568df",
       "sentAt": "2026-10-01T04:54:07.514Z",
@@ -4975,31 +5000,6 @@
       "id": "u_644717e0",
       "sentAt": "2026-08-23T12:44:39.252Z",
       "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter"
-    },
-    {
-      "id": "u_4b30f2dd",
-      "sentAt": "2026-08-23T12:44:39.252Z",
-      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters"
-    },
-    {
-      "id": "u_cdd79dd6",
-      "sentAt": "2026-08-23T10:26:41.070Z",
-      "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter"
-    },
-    {
-      "id": "u_9b3407df",
-      "sentAt": "2026-08-23T10:26:41.070Z",
-      "title": "b10590"
-    },
-    {
-      "id": "u_41ac70ee",
-      "sentAt": "2026-08-23T10:26:41.070Z",
-      "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks"
-    },
-    {
-      "id": "u_8bf49568",
-      "sentAt": "2026-08-23T10:26:41.070Z",
-      "title": "How China's gray market sells Claude tokens at a fraction of the price"
     }
   ]
 }
