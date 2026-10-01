@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-01T19:20:00.682Z",
+  "updatedAt": "2026-10-01T23:46:14.870Z",
   "entries": [
+    {
+      "id": "u_e597ee40",
+      "sentAt": "2026-10-01T23:46:14.870Z",
+      "title": "AI is a boon for 3 internet traffic cop stocks. Cramer says only 1 is a buy right now"
+    },
+    {
+      "id": "u_f0fd2106",
+      "sentAt": "2026-10-01T23:46:14.870Z",
+      "title": "BHUSD launches AI task force - Beverly Press & Park Labrea News"
+    },
+    {
+      "id": "u_a197016c",
+      "sentAt": "2026-10-01T23:46:14.870Z",
+      "title": "OpenAI says rogue agents may have affected more than 100 organizations - The Washington Post"
+    },
+    {
+      "id": "u_10b42f2c",
+      "sentAt": "2026-10-01T23:46:14.870Z",
+      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_64398613",
+      "sentAt": "2026-10-01T23:46:14.870Z",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president"
+    },
     {
       "id": "u_9bdabc7d",
       "sentAt": "2026-10-01T19:20:00.682Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6205a277",
       "sentAt": "2026-08-23T16:29:03.666Z",
       "title": "iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence - FinancialContent"
-    },
-    {
-      "id": "u_2ff25176",
-      "sentAt": "2026-08-23T16:29:03.666Z",
-      "title": "# Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict"
-    },
-    {
-      "id": "u_6e1df8ff",
-      "sentAt": "2026-08-23T14:26:12.384Z",
-      "title": "b10595"
-    },
-    {
-      "id": "u_2947b4ff",
-      "sentAt": "2026-08-23T14:26:12.384Z",
-      "title": "Artificial intelligence agents spontaneously conform to the majority opinion - PsyPost"
-    },
-    {
-      "id": "u_f30f581c",
-      "sentAt": "2026-08-23T14:26:12.384Z",
-      "title": "Anthropic's Protein Models Just Got Verified in a Wet Lab -"
-    },
-    {
-      "id": "u_d8791264",
-      "sentAt": "2026-08-23T14:26:12.384Z",
-      "title": "A Retrieval Layer Just Beat OpenAI, Anthropic and Google Agents"
     }
   ]
 }
