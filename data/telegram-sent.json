@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-02T12:07:13.258Z",
+  "updatedAt": "2026-10-02T19:03:21.290Z",
   "entries": [
+    {
+      "id": "u_bb9dd476",
+      "sentAt": "2026-10-02T19:03:21.290Z",
+      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents"
+    },
+    {
+      "id": "u_19545ed0",
+      "sentAt": "2026-10-02T19:03:21.290Z",
+      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents"
+    },
+    {
+      "id": "u_2019772f",
+      "sentAt": "2026-10-02T19:03:21.290Z",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
+    },
+    {
+      "id": "u_6fd5b58b",
+      "sentAt": "2026-10-02T19:03:21.290Z",
+      "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference"
+    },
+    {
+      "id": "u_8291c266",
+      "sentAt": "2026-10-02T19:03:21.290Z",
+      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner"
+    },
     {
       "id": "u_9e518b53",
       "sentAt": "2026-10-02T12:07:13.258Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b3c8f7c5",
       "sentAt": "2026-08-24T01:26:54.364Z",
       "title": "2028 Dems dodge on Bernie's push to pause AI development"
-    },
-    {
-      "id": "u_bf8a15e9",
-      "sentAt": "2026-08-23T22:25:09.508Z",
-      "title": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram"
-    },
-    {
-      "id": "u_dbf62dd4",
-      "sentAt": "2026-08-23T20:26:34.201Z",
-      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive"
-    },
-    {
-      "id": "u_cb8bcb1f",
-      "sentAt": "2026-08-23T20:26:34.201Z",
-      "title": "b10603"
-    },
-    {
-      "id": "u_48bf1412",
-      "sentAt": "2026-08-23T20:26:34.201Z",
-      "title": "Mozilla killed orbit. I rebuilt it locally."
-    },
-    {
-      "id": "u_92d12667",
-      "sentAt": "2026-08-23T20:26:34.201Z",
-      "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\""
     }
   ]
 }
