@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-02T04:44:47.801Z",
+  "updatedAt": "2026-10-02T12:07:13.258Z",
   "entries": [
+    {
+      "id": "u_9e518b53",
+      "sentAt": "2026-10-02T12:07:13.258Z",
+      "title": "Wiring and powering GPUs differently can swing AI latency by orders of magnitude, says CoreWeave"
+    },
+    {
+      "id": "u_276fe3f4",
+      "sentAt": "2026-10-02T12:07:13.258Z",
+      "title": "Why Do We Need World Models When LLMs Exist? How World Models Will Impact Physical AI"
+    },
+    {
+      "id": "u_e447c10c",
+      "sentAt": "2026-10-02T12:07:13.258Z",
+      "title": "Gemini 4 Argon brings Google back into the fight for frontier AI: benchmarks skyrocket expectations - El Constitucional"
+    },
+    {
+      "id": "u_9619930b",
+      "sentAt": "2026-10-02T12:07:13.258Z",
+      "title": "Enterprise storage becomes AI memory as privately run models close in on the frontier"
+    },
+    {
+      "id": "u_afc442e9",
+      "sentAt": "2026-10-02T12:07:13.258Z",
+      "title": "Ethiopia launches active development of artificial intelligence and expansion of applied research - TV BRICS"
+    },
     {
       "id": "u_15272071",
       "sentAt": "2026-10-02T04:44:47.801Z",
@@ -4975,31 +5000,6 @@
       "id": "u_92d12667",
       "sentAt": "2026-08-23T20:26:34.201Z",
       "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\""
-    },
-    {
-      "id": "u_353b1115",
-      "sentAt": "2026-08-23T20:26:34.201Z",
-      "title": "Why every AI agent needs an org chart"
-    },
-    {
-      "id": "u_784ff93c",
-      "sentAt": "2026-08-23T18:33:17.086Z",
-      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work"
-    },
-    {
-      "id": "u_9fbd734f",
-      "sentAt": "2026-08-23T18:33:17.086Z",
-      "title": "b10599"
-    },
-    {
-      "id": "u_31c091df",
-      "sentAt": "2026-08-23T18:33:17.086Z",
-      "title": "b10598"
-    },
-    {
-      "id": "u_7fb1ba2f",
-      "sentAt": "2026-08-23T18:33:17.086Z",
-      "title": "Crowd-funding new open-weight models?"
     }
   ]
 }
