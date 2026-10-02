@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-02T19:03:21.290Z",
+  "updatedAt": "2026-10-02T23:37:11.138Z",
   "entries": [
+    {
+      "id": "u_c6ca1faf",
+      "sentAt": "2026-10-02T23:37:11.138Z",
+      "title": "b11352"
+    },
+    {
+      "id": "u_f0f6e643",
+      "sentAt": "2026-10-02T23:37:11.138Z",
+      "title": "Apple is adding new privacy safeguards for Mac users as AI agents get more powerful"
+    },
+    {
+      "id": "u_94ca2def",
+      "sentAt": "2026-10-02T23:37:11.138Z",
+      "title": "Meta open sources code to let you make Muse AI gadgets"
+    },
+    {
+      "id": "u_326bf891",
+      "sentAt": "2026-10-02T23:37:11.138Z",
+      "title": "NetApp hands storage operations to AI agents, but humans still draw the boundaries"
+    },
+    {
+      "id": "u_6e14ffd9",
+      "sentAt": "2026-10-02T23:37:11.138Z",
+      "title": "IBM and CoreWeave co-design controls for agent workloads"
+    },
     {
       "id": "u_bb9dd476",
       "sentAt": "2026-10-02T19:03:21.290Z",
@@ -4975,31 +5000,6 @@
       "id": "u_95e4f44a",
       "sentAt": "2026-08-24T04:48:23.473Z",
       "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure"
-    },
-    {
-      "id": "u_955b4e73",
-      "sentAt": "2026-08-24T04:48:23.473Z",
-      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification"
-    },
-    {
-      "id": "u_2a8fef3a",
-      "sentAt": "2026-08-24T04:48:23.473Z",
-      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications"
-    },
-    {
-      "id": "u_6193ec32",
-      "sentAt": "2026-08-24T04:48:23.473Z",
-      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles"
-    },
-    {
-      "id": "u_af7c3edb",
-      "sentAt": "2026-08-24T01:26:54.364Z",
-      "title": "Nobody knows who built AI coding model Ox Alpha or where the code goes"
-    },
-    {
-      "id": "u_b3c8f7c5",
-      "sentAt": "2026-08-24T01:26:54.364Z",
-      "title": "2028 Dems dodge on Bernie's push to pause AI development"
     }
   ]
 }
