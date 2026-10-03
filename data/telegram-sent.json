@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-03T15:56:31.589Z",
+  "updatedAt": "2026-10-03T19:07:06.695Z",
   "entries": [
+    {
+      "id": "u_e9705bc0",
+      "sentAt": "2026-10-03T19:07:06.695Z",
+      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore"
+    },
+    {
+      "id": "u_ecb95c41",
+      "sentAt": "2026-10-03T19:07:06.695Z",
+      "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - 930 WFMD Free Talk"
+    },
+    {
+      "id": "u_f9854752",
+      "sentAt": "2026-10-03T19:07:06.695Z",
+      "title": "OpenAI Pioneers Common Workspace Called Space For Humans And Agents"
+    },
+    {
+      "id": "u_d0c454b3",
+      "sentAt": "2026-10-03T19:07:06.695Z",
+      "title": "b11379"
+    },
+    {
+      "id": "u_3f6d9dc7",
+      "sentAt": "2026-10-03T19:07:06.695Z",
+      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project"
+    },
     {
       "id": "u_80b724fd",
       "sentAt": "2026-10-03T15:56:31.589Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3f88ad01",
       "sentAt": "2026-08-24T12:55:32.836Z",
       "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6"
-    },
-    {
-      "id": "u_ea01f981",
-      "sentAt": "2026-08-24T12:55:32.836Z",
-      "title": "AI Agents Don’t Need More Context — They Need Typed Context"
-    },
-    {
-      "id": "u_eaf48b11",
-      "sentAt": "2026-08-24T12:55:32.836Z",
-      "title": "Claude Models Experience Elevated Errors and Outages - StartupHub.ai"
-    },
-    {
-      "id": "u_ae932d8d",
-      "sentAt": "2026-08-24T12:55:32.836Z",
-      "title": "Presight AI ready to expand presence, launch new joint projects in Kazakhstan - Qazinform"
-    },
-    {
-      "id": "u_454095b2",
-      "sentAt": "2026-08-24T10:39:32.145Z",
-      "title": "Cerebras unveils CS-4 with double the performance on the same chip"
-    },
-    {
-      "id": "u_78b1a3a6",
-      "sentAt": "2026-08-24T10:39:32.145Z",
-      "title": "Cerebras unveils CS-4 with double the performance on the same chip"
     }
   ]
 }
