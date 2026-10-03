@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-03T04:26:57.905Z",
+  "updatedAt": "2026-10-03T11:18:32.131Z",
   "entries": [
+    {
+      "id": "u_2a224543",
+      "sentAt": "2026-10-03T11:18:32.131Z",
+      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity"
+    },
+    {
+      "id": "u_918b6523",
+      "sentAt": "2026-10-03T11:18:32.131Z",
+      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity"
+    },
+    {
+      "id": "u_ced6fc3b",
+      "sentAt": "2026-10-03T11:18:32.131Z",
+      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations"
+    },
+    {
+      "id": "u_ab62e30c",
+      "sentAt": "2026-10-03T11:18:32.131Z",
+      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations"
+    },
+    {
+      "id": "u_d8866d19",
+      "sentAt": "2026-10-03T11:18:32.131Z",
+      "title": "AI agents build 3D scenes from photos but have no idea if they got it right"
+    },
     {
       "id": "u_66079d35",
       "sentAt": "2026-10-03T04:26:57.905Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e33f6ba4",
       "sentAt": "2026-08-24T08:51:25.382Z",
       "title": "AI Agents Are Cheating, Coordinating, and Escaping - StartupHub.ai"
-    },
-    {
-      "id": "u_82cfcb48",
-      "sentAt": "2026-08-24T08:51:25.382Z",
-      "title": "Artificial intelligence in action: how AI agents are transforming businesses, public administrations and strategic sectors - telefonica.com"
-    },
-    {
-      "id": "u_696271bd",
-      "sentAt": "2026-08-24T08:51:25.382Z",
-      "title": "A sketch of Chuncheon City's artificial intelligence (AI) policy has been released. The key is stren.. - 매일경제"
-    },
-    {
-      "id": "u_485b211b",
-      "sentAt": "2026-08-24T08:51:25.382Z",
-      "title": "b10604"
-    },
-    {
-      "id": "u_61d3b585",
-      "sentAt": "2026-08-24T07:03:27.263Z",
-      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness"
-    },
-    {
-      "id": "u_313c69c8",
-      "sentAt": "2026-08-24T07:03:27.263Z",
-      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory"
     }
   ]
 }
