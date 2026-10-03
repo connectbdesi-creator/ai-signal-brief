@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-03T19:07:06.695Z",
+  "updatedAt": "2026-10-03T22:45:02.466Z",
   "entries": [
+    {
+      "id": "u_918e42d0",
+      "sentAt": "2026-10-03T22:45:02.466Z",
+      "title": "September sponsors-only newsletter"
+    },
+    {
+      "id": "u_5da93cab",
+      "sentAt": "2026-10-03T22:45:02.466Z",
+      "title": "b11381"
+    },
+    {
+      "id": "u_ef2e2033",
+      "sentAt": "2026-10-03T22:45:02.466Z",
+      "title": "b11380"
+    },
+    {
+      "id": "u_622cd20c",
+      "sentAt": "2026-10-03T22:45:02.466Z",
+      "title": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD"
+    },
+    {
+      "id": "u_4a16e329",
+      "sentAt": "2026-10-03T22:45:02.466Z",
+      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’"
+    },
     {
       "id": "u_e9705bc0",
       "sentAt": "2026-10-03T19:07:06.695Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4c8bf577",
       "sentAt": "2026-08-24T14:45:12.255Z",
       "title": "How to encourage smarter AI use in the classroom"
-    },
-    {
-      "id": "u_2d95de6f",
-      "sentAt": "2026-08-24T14:45:12.255Z",
-      "title": "b10612"
-    },
-    {
-      "id": "u_20c1e5bb",
-      "sentAt": "2026-08-24T14:45:12.255Z",
-      "title": "Speculative Decoding on CPUs: Nearly 4x Faster Token Generation with DFlash"
-    },
-    {
-      "id": "u_9c1d330b",
-      "sentAt": "2026-08-24T14:45:12.255Z",
-      "title": "b10610"
-    },
-    {
-      "id": "u_cca1fa90",
-      "sentAt": "2026-08-24T12:55:32.836Z",
-      "title": "How new cooling technologies could cut AC electricity demand"
-    },
-    {
-      "id": "u_3f88ad01",
-      "sentAt": "2026-08-24T12:55:32.836Z",
-      "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6"
     }
   ]
 }
