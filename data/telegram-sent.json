@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-03T11:18:32.131Z",
+  "updatedAt": "2026-10-03T15:56:31.589Z",
   "entries": [
+    {
+      "id": "u_80b724fd",
+      "sentAt": "2026-10-03T15:56:31.589Z",
+      "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\""
+    },
+    {
+      "id": "u_8393589f",
+      "sentAt": "2026-10-03T15:56:31.589Z",
+      "title": "Claude Code at NVIDIA's Free Model Catalog. It Took a Proxy and Four Traps."
+    },
+    {
+      "id": "u_c0aadb6b",
+      "sentAt": "2026-10-03T15:56:31.589Z",
+      "title": "b11378"
+    },
+    {
+      "id": "u_f7fc6381",
+      "sentAt": "2026-10-03T15:56:31.589Z",
+      "title": "An OpenAI safety employee has quit and is sounding the alarm"
+    },
+    {
+      "id": "u_1051c335",
+      "sentAt": "2026-10-03T15:56:31.589Z",
+      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project"
+    },
     {
       "id": "u_2a224543",
       "sentAt": "2026-10-03T11:18:32.131Z",
@@ -4975,31 +5000,6 @@
       "id": "u_78b1a3a6",
       "sentAt": "2026-08-24T10:39:32.145Z",
       "title": "Cerebras unveils CS-4 with double the performance on the same chip"
-    },
-    {
-      "id": "u_ffb21941",
-      "sentAt": "2026-08-24T10:39:32.145Z",
-      "title": "Presight AI ready to expand presence, launch new joint projects in Kazakhstan - Qazinform"
-    },
-    {
-      "id": "u_90b4fa7e",
-      "sentAt": "2026-08-24T10:39:32.145Z",
-      "title": "As AI agents act in unexpected ways, is ‘rogue AI’ really here? - The Express Tribune"
-    },
-    {
-      "id": "u_bdd96761",
-      "sentAt": "2026-08-24T10:39:32.145Z",
-      "title": "WHO highlights Clalit AI safety model as global healthcare benchmark - Ynetnews"
-    },
-    {
-      "id": "u_bf03b424",
-      "sentAt": "2026-08-24T08:51:25.382Z",
-      "title": "ClearPath AI launches in Birmingham with GBP £1 million - IT Brief UK"
-    },
-    {
-      "id": "u_e33f6ba4",
-      "sentAt": "2026-08-24T08:51:25.382Z",
-      "title": "AI Agents Are Cheating, Coordinating, and Escaping - StartupHub.ai"
     }
   ]
 }
