@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-02T23:37:11.138Z",
+  "updatedAt": "2026-10-03T04:26:57.905Z",
   "entries": [
+    {
+      "id": "u_66079d35",
+      "sentAt": "2026-10-03T04:26:57.905Z",
+      "title": "AI vs Accountants: Mercor's CPA Study, Read Closely"
+    },
+    {
+      "id": "u_f70271f9",
+      "sentAt": "2026-10-03T04:26:57.905Z",
+      "title": "Anthropic, Religious Leaders and the Pope: What's Known"
+    },
+    {
+      "id": "u_968effac",
+      "sentAt": "2026-10-03T04:26:57.905Z",
+      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors"
+    },
+    {
+      "id": "u_470f3729",
+      "sentAt": "2026-10-03T04:26:57.905Z",
+      "title": "The fastest interference engine for RTX5090 and Qwen3.8 27B. Twice as fast as ninfer. 500+ t/s single coding, 2000+t/s up to 12 agents at the same time with 800k context. Smart VRAM-RAM-DISC Cache management, Loop Guard, Nice UI etc."
+    },
+    {
+      "id": "u_be9732d7",
+      "sentAt": "2026-10-03T04:26:57.905Z",
+      "title": "b11364"
+    },
     {
       "id": "u_c6ca1faf",
       "sentAt": "2026-10-02T23:37:11.138Z",
@@ -4975,31 +5000,6 @@
       "id": "u_313c69c8",
       "sentAt": "2026-08-24T07:03:27.263Z",
       "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory"
-    },
-    {
-      "id": "u_2f73cbde",
-      "sentAt": "2026-08-24T07:03:27.263Z",
-      "title": "Approximate Homomorphisms and Convergent Representations in Transducers"
-    },
-    {
-      "id": "u_c1854f78",
-      "sentAt": "2026-08-24T07:03:27.263Z",
-      "title": "BF1: A Causal Dyadic Sparse-Attention Retrofit for Efficient Long-Context Transformers"
-    },
-    {
-      "id": "u_a1bd9178",
-      "sentAt": "2026-08-24T07:03:27.263Z",
-      "title": "When Graph-JEPA Learns the Wrong Thing: Diagnosing and Repairing Category-Conditional Collapse"
-    },
-    {
-      "id": "u_8f49b7d6",
-      "sentAt": "2026-08-24T04:48:23.473Z",
-      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC"
-    },
-    {
-      "id": "u_95e4f44a",
-      "sentAt": "2026-08-24T04:48:23.473Z",
-      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure"
     }
   ]
 }
