@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-03T22:45:02.466Z",
+  "updatedAt": "2026-10-04T04:58:40.627Z",
   "entries": [
+    {
+      "id": "u_db4b3d5d",
+      "sentAt": "2026-10-04T04:58:40.627Z",
+      "title": "Apple Tightens macOS Full Disk Access Over AI Agents"
+    },
+    {
+      "id": "u_cd904fc6",
+      "sentAt": "2026-10-04T04:58:40.627Z",
+      "title": "v1.105.0-rc.1"
+    },
+    {
+      "id": "u_128ef747",
+      "sentAt": "2026-10-04T04:58:40.627Z",
+      "title": "b11382"
+    },
+    {
+      "id": "u_a76439a7",
+      "sentAt": "2026-10-04T04:58:40.627Z",
+      "title": "We're going to need default hard budget caps on pretty much everything"
+    },
+    {
+      "id": "u_b9738bf6",
+      "sentAt": "2026-10-04T04:58:40.627Z",
+      "title": "v1.103.3"
+    },
     {
       "id": "u_918e42d0",
       "sentAt": "2026-10-03T22:45:02.466Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8c3e52ab",
       "sentAt": "2026-08-24T16:40:25.818Z",
       "title": "Building a restaurant telephony AI host with Amazon Connect"
-    },
-    {
-      "id": "u_7b6df76a",
-      "sentAt": "2026-08-24T16:40:25.818Z",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics"
-    },
-    {
-      "id": "u_2234de98",
-      "sentAt": "2026-08-24T16:40:25.818Z",
-      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
-    },
-    {
-      "id": "u_c261a970",
-      "sentAt": "2026-08-24T16:40:25.818Z",
-      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents"
-    },
-    {
-      "id": "u_da334936",
-      "sentAt": "2026-08-24T14:45:12.255Z",
-      "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project"
-    },
-    {
-      "id": "u_4c8bf577",
-      "sentAt": "2026-08-24T14:45:12.255Z",
-      "title": "How to encourage smarter AI use in the classroom"
     }
   ]
 }
