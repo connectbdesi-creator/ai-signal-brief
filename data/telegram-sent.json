@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-04T16:47:44.122Z",
+  "updatedAt": "2026-10-04T21:01:48.822Z",
   "entries": [
+    {
+      "id": "u_f40a5c29",
+      "sentAt": "2026-10-04T21:01:48.822Z",
+      "title": "President Trump launches ‘Super Intelligence Force’ after calls for AI slowdown - Benton Institute for Broadband & Society"
+    },
+    {
+      "id": "u_3af7fd3e",
+      "sentAt": "2026-10-04T21:01:48.822Z",
+      "title": "Trump launches ‘Super Intelligence Force’ after calls for AI slowdown - washingtonpost.com"
+    },
+    {
+      "id": "u_4917f28f",
+      "sentAt": "2026-10-04T21:01:48.822Z",
+      "title": "b11398"
+    },
+    {
+      "id": "u_33b82dbb",
+      "sentAt": "2026-10-04T21:01:48.822Z",
+      "title": "b11397"
+    },
+    {
+      "id": "u_caafa0f6",
+      "sentAt": "2026-10-04T21:01:48.822Z",
+      "title": "Google tests bringing artificial intelligence to space with the launch of its first experimental satellite - Noticias Ambientales"
+    },
     {
       "id": "u_4c7669f7",
       "sentAt": "2026-10-04T16:47:44.122Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b8faa536",
       "sentAt": "2026-08-24T22:29:34.971Z",
       "title": "Mistral x HUMAIN"
-    },
-    {
-      "id": "u_e5a0e053",
-      "sentAt": "2026-08-24T22:29:34.971Z",
-      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents"
-    },
-    {
-      "id": "u_c47aac91",
-      "sentAt": "2026-08-24T22:29:34.971Z",
-      "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt"
-    },
-    {
-      "id": "u_920918b7",
-      "sentAt": "2026-08-24T22:29:34.971Z",
-      "title": "AI agents are reshaping the threat landscape, shifting IT skills requirements - Network World"
-    },
-    {
-      "id": "u_8995084d",
-      "sentAt": "2026-08-24T20:33:15.336Z",
-      "title": "Introducing new Ray capabilities on SageMaker HyperPod"
-    },
-    {
-      "id": "u_5b5733d4",
-      "sentAt": "2026-08-24T20:33:15.336Z",
-      "title": "Planning to spend ~$100 benchmarking differnet Qwen3.8-27B quants and kv cache and looking for input before I start"
     }
   ]
 }
