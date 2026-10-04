@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-04T11:58:08.851Z",
+  "updatedAt": "2026-10-04T16:47:44.122Z",
   "entries": [
+    {
+      "id": "u_4c7669f7",
+      "sentAt": "2026-10-04T16:47:44.122Z",
+      "title": "What to expect at SailPoint’s Navigate event: Join theCUBE Oct. 6–7"
+    },
+    {
+      "id": "u_a2b445c5",
+      "sentAt": "2026-10-04T16:47:44.122Z",
+      "title": "Well, if AI said it, it must be true"
+    },
+    {
+      "id": "u_b88a4017",
+      "sentAt": "2026-10-04T16:47:44.122Z",
+      "title": "v0.40.0-rc2"
+    },
+    {
+      "id": "u_b8f226f8",
+      "sentAt": "2026-10-04T16:47:44.122Z",
+      "title": "Trump Unveils Super Intelligence Force for AI Safety - The Tech Buzz"
+    },
+    {
+      "id": "u_ac3964f4",
+      "sentAt": "2026-10-04T16:47:44.122Z",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat"
+    },
     {
       "id": "u_38eda325",
       "sentAt": "2026-10-04T11:58:08.851Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5b5733d4",
       "sentAt": "2026-08-24T20:33:15.336Z",
       "title": "Planning to spend ~$100 benchmarking differnet Qwen3.8-27B quants and kv cache and looking for input before I start"
-    },
-    {
-      "id": "u_bd521f27",
-      "sentAt": "2026-08-24T20:33:15.336Z",
-      "title": "MobileMoE - a facebook Collection"
-    },
-    {
-      "id": "u_c189e9b5",
-      "sentAt": "2026-08-24T20:33:15.336Z",
-      "title": "How would you test Qwen3.8-27B inside a coding agent?"
-    },
-    {
-      "id": "u_88301409",
-      "sentAt": "2026-08-24T20:33:15.336Z",
-      "title": "llm-anthropic 0.27"
-    },
-    {
-      "id": "u_4c35450d",
-      "sentAt": "2026-08-24T18:43:45.875Z",
-      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch"
-    },
-    {
-      "id": "u_7ebbd068",
-      "sentAt": "2026-08-24T18:43:45.875Z",
-      "title": "Toyota Scales Enterprise AI with Deep Agents and LangSmith"
     }
   ]
 }
