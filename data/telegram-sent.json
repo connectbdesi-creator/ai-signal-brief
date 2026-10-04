@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-04T04:58:40.627Z",
+  "updatedAt": "2026-10-04T11:58:08.851Z",
   "entries": [
+    {
+      "id": "u_38eda325",
+      "sentAt": "2026-10-04T11:58:08.851Z",
+      "title": "OpenAI safety expert quits as he warns company behind ChatGPT is not taking enough care - LADbible"
+    },
+    {
+      "id": "u_50602e7c",
+      "sentAt": "2026-10-04T11:58:08.851Z",
+      "title": "Trump's shift on AI: From 'very dangerous' to the launch of America.gov - voz.us"
+    },
+    {
+      "id": "u_26ae2ef",
+      "sentAt": "2026-10-04T11:58:08.851Z",
+      "title": "b11387"
+    },
+    {
+      "id": "u_647f58c9",
+      "sentAt": "2026-10-04T11:58:08.851Z",
+      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science"
+    },
+    {
+      "id": "u_557a8571",
+      "sentAt": "2026-10-04T11:58:08.851Z",
+      "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science"
+    },
     {
       "id": "u_db4b3d5d",
       "sentAt": "2026-10-04T04:58:40.627Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7ebbd068",
       "sentAt": "2026-08-24T18:43:45.875Z",
       "title": "Toyota Scales Enterprise AI with Deep Agents and LangSmith"
-    },
-    {
-      "id": "u_53338e5c",
-      "sentAt": "2026-08-24T18:43:45.875Z",
-      "title": "Bart- A vintage llm [R]"
-    },
-    {
-      "id": "u_bf0c9157",
-      "sentAt": "2026-08-24T18:43:45.875Z",
-      "title": "Nvidia’s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents"
-    },
-    {
-      "id": "u_6e06fc8e",
-      "sentAt": "2026-08-24T18:43:45.875Z",
-      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents"
-    },
-    {
-      "id": "u_55ba97f6",
-      "sentAt": "2026-08-24T16:40:25.818Z",
-      "title": "Bart: A vintage llm"
-    },
-    {
-      "id": "u_8c3e52ab",
-      "sentAt": "2026-08-24T16:40:25.818Z",
-      "title": "Building a restaurant telephony AI host with Amazon Connect"
     }
   ]
 }
