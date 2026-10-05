@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-05T00:33:24.620Z",
+  "updatedAt": "2026-10-05T08:37:37.799Z",
   "entries": [
+    {
+      "id": "u_3f128f53",
+      "sentAt": "2026-10-05T08:37:37.799Z",
+      "title": "Trump announces Super Intelligence Force to coordinate US AI policy - Qazinform"
+    },
+    {
+      "id": "u_d3cee411",
+      "sentAt": "2026-10-05T08:37:37.799Z",
+      "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T"
+    },
+    {
+      "id": "u_e7ac06cb",
+      "sentAt": "2026-10-05T08:37:37.799Z",
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses"
+    },
+    {
+      "id": "u_ba425dc",
+      "sentAt": "2026-10-05T08:37:37.799Z",
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents"
+    },
+    {
+      "id": "u_d1c108c9",
+      "sentAt": "2026-10-05T08:37:37.799Z",
+      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents"
+    },
     {
       "id": "u_d7e14b4f",
       "sentAt": "2026-10-05T00:33:24.620Z",
@@ -4975,31 +5000,6 @@
       "id": "u_91cb5179",
       "sentAt": "2026-08-25T04:41:41.573Z",
       "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform"
-    },
-    {
-      "id": "u_cd606972",
-      "sentAt": "2026-08-25T03:00:59.809Z",
-      "title": "Chip software automation startup Embedd raises $2.7M"
-    },
-    {
-      "id": "u_c5eaf933",
-      "sentAt": "2026-08-25T03:00:59.809Z",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro"
-    },
-    {
-      "id": "u_65312887",
-      "sentAt": "2026-08-25T03:00:59.809Z",
-      "title": "Kids outlearn AI—and we still don’t know why"
-    },
-    {
-      "id": "u_4dd19899",
-      "sentAt": "2026-08-25T01:23:46.673Z",
-      "title": "Alabama launches probe into OpenAI after Hugging Face breach - The Mighty 790 KFGO"
-    },
-    {
-      "id": "u_9deb36b5",
-      "sentAt": "2026-08-25T01:23:46.673Z",
-      "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction"
     }
   ]
 }
