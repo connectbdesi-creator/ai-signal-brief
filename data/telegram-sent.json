@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-04T21:01:48.822Z",
+  "updatedAt": "2026-10-05T00:33:24.620Z",
   "entries": [
+    {
+      "id": "u_d7e14b4f",
+      "sentAt": "2026-10-05T00:33:24.620Z",
+      "title": "b11400"
+    },
+    {
+      "id": "u_307263ff",
+      "sentAt": "2026-10-05T00:33:24.620Z",
+      "title": "b11401"
+    },
+    {
+      "id": "u_d94ea362",
+      "sentAt": "2026-10-05T00:33:24.620Z",
+      "title": "v0.40.0"
+    },
+    {
+      "id": "u_4abd058f",
+      "sentAt": "2026-10-05T00:33:24.620Z",
+      "title": "Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy - NBC News"
+    },
+    {
+      "id": "u_caa5c79",
+      "sentAt": "2026-10-05T00:33:24.620Z",
+      "title": "Trump launches Super Intelligence Force with Jay Clayton as AI czar"
+    },
     {
       "id": "u_f40a5c29",
       "sentAt": "2026-10-04T21:01:48.822Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9deb36b5",
       "sentAt": "2026-08-25T01:23:46.673Z",
       "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction"
-    },
-    {
-      "id": "u_50e6334d",
-      "sentAt": "2026-08-25T01:23:46.673Z",
-      "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project"
-    },
-    {
-      "id": "u_40e534e3",
-      "sentAt": "2026-08-25T01:23:46.673Z",
-      "title": "Xiaomi Built Its Own 3nm Chip to Stop Renting From Qualcomm -"
-    },
-    {
-      "id": "u_ff641018",
-      "sentAt": "2026-08-25T01:23:46.673Z",
-      "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
-    },
-    {
-      "id": "u_5ffddb56",
-      "sentAt": "2026-08-24T22:29:34.971Z",
-      "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch"
-    },
-    {
-      "id": "u_b8faa536",
-      "sentAt": "2026-08-24T22:29:34.971Z",
-      "title": "Mistral x HUMAIN"
     }
   ]
 }
