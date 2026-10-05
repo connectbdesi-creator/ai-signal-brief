@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-05T08:37:37.799Z",
+  "updatedAt": "2026-10-05T19:08:26.632Z",
   "entries": [
+    {
+      "id": "u_4c115c05",
+      "sentAt": "2026-10-05T19:08:26.632Z",
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account"
+    },
+    {
+      "id": "u_7eab776d",
+      "sentAt": "2026-10-05T19:08:26.632Z",
+      "title": "How to use Local Models to monitor your screen. Open Source, No Install and Completely Free!!"
+    },
+    {
+      "id": "u_8c5c290b",
+      "sentAt": "2026-10-05T19:08:26.632Z",
+      "title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model"
+    },
+    {
+      "id": "u_8ed7c5a5",
+      "sentAt": "2026-10-05T19:08:26.632Z",
+      "title": "Namibia launches National Artificial Intelligence Institute to enhance local AI capabilities - Tech Review Africa"
+    },
+    {
+      "id": "u_386f3030",
+      "sentAt": "2026-10-05T19:08:26.632Z",
+      "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide"
+    },
     {
       "id": "u_3f128f53",
       "sentAt": "2026-10-05T08:37:37.799Z",
@@ -4974,31 +4999,6 @@
     {
       "id": "u_cbb49a1c",
       "sentAt": "2026-08-25T06:52:44.520Z",
-      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform"
-    },
-    {
-      "id": "u_a9d5c222",
-      "sentAt": "2026-08-25T04:41:41.573Z",
-      "title": "v0.33.0"
-    },
-    {
-      "id": "u_39163e8c",
-      "sentAt": "2026-08-25T04:41:41.573Z",
-      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference"
-    },
-    {
-      "id": "u_d1a80e34",
-      "sentAt": "2026-08-25T04:41:41.573Z",
-      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance"
-    },
-    {
-      "id": "u_4d40b83",
-      "sentAt": "2026-08-25T04:41:41.573Z",
-      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules"
-    },
-    {
-      "id": "u_91cb5179",
-      "sentAt": "2026-08-25T04:41:41.573Z",
       "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform"
     }
   ]
