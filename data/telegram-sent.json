@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-05T19:08:26.632Z",
+  "updatedAt": "2026-10-06T01:12:17.494Z",
   "entries": [
+    {
+      "id": "u_6ffa30a2",
+      "sentAt": "2026-10-06T01:12:17.494Z",
+      "title": "Reflection AI debuts open-source Beam model with 501B parameters"
+    },
+    {
+      "id": "u_d9d3710d",
+      "sentAt": "2026-10-06T01:12:17.494Z",
+      "title": "AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M"
+    },
+    {
+      "id": "u_7b7b36df",
+      "sentAt": "2026-10-06T01:12:17.494Z",
+      "title": "AI Agents Expand Cyber Liability, Putting Corporate Safeguards in Focus - PYMNTS.com"
+    },
+    {
+      "id": "u_5e4db496",
+      "sentAt": "2026-10-06T01:12:17.494Z",
+      "title": "Quoting Felix Rieseberg"
+    },
+    {
+      "id": "u_30cd55eb",
+      "sentAt": "2026-10-06T01:12:17.494Z",
+      "title": "Introducing GLM 5.3 on Amazon Bedrock"
+    },
     {
       "id": "u_4c115c05",
       "sentAt": "2026-10-05T19:08:26.632Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e7366e8e",
       "sentAt": "2026-08-25T08:46:33.047Z",
       "title": "K-Bench: measuring model performance on real scientific agent requests"
-    },
-    {
-      "id": "u_cace21e0",
-      "sentAt": "2026-08-25T06:52:44.520Z",
-      "title": "Introducing the Edits Film Festival to Spotlight India’s Emerging Creator Talent"
-    },
-    {
-      "id": "u_9a21d113",
-      "sentAt": "2026-08-25T06:52:44.520Z",
-      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG"
-    },
-    {
-      "id": "u_31f95945",
-      "sentAt": "2026-08-25T06:52:44.520Z",
-      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items"
-    },
-    {
-      "id": "u_8fbf104",
-      "sentAt": "2026-08-25T06:52:44.520Z",
-      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students"
-    },
-    {
-      "id": "u_cbb49a1c",
-      "sentAt": "2026-08-25T06:52:44.520Z",
-      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform"
     }
   ]
 }
