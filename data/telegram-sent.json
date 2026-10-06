@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-06T08:43:43.531Z",
+  "updatedAt": "2026-10-06T16:34:13.529Z",
   "entries": [
+    {
+      "id": "u_c5471a1c",
+      "sentAt": "2026-10-06T16:34:13.529Z",
+      "title": "BattleBots builders turn to AI simulation to win fights before entering the box"
+    },
+    {
+      "id": "u_e1469033",
+      "sentAt": "2026-10-06T16:34:13.529Z",
+      "title": "Insurers brace for millions in claims as AI agents spin out of control"
+    },
+    {
+      "id": "u_18434f0a",
+      "sentAt": "2026-10-06T16:34:13.529Z",
+      "title": "Insurers brace for millions in claims as AI agents spin out of control"
+    },
+    {
+      "id": "u_b9ac9ecb",
+      "sentAt": "2026-10-06T16:34:13.529Z",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits"
+    },
+    {
+      "id": "u_166181ab",
+      "sentAt": "2026-10-06T16:34:13.529Z",
+      "title": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning - Nikkei Asia"
+    },
     {
       "id": "u_2310265",
       "sentAt": "2026-10-06T08:43:43.531Z",
@@ -4975,31 +5000,6 @@
       "id": "u_746a58e2",
       "sentAt": "2026-08-25T12:51:56.304Z",
       "title": "AG Marshall launches investigation into OpenAI and founder Sam Altman for massive artificial intelligence data breach - 1819 News"
-    },
-    {
-      "id": "u_56ba7d75",
-      "sentAt": "2026-08-25T10:35:45.474Z",
-      "title": "v4.18.0"
-    },
-    {
-      "id": "u_3d2a83ab",
-      "sentAt": "2026-08-25T10:35:45.474Z",
-      "title": "b10620"
-    },
-    {
-      "id": "u_1e0a69cb",
-      "sentAt": "2026-08-25T10:35:45.474Z",
-      "title": "The data center era that's reshaping America"
-    },
-    {
-      "id": "u_eee47696",
-      "sentAt": "2026-08-25T10:35:45.474Z",
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack"
-    },
-    {
-      "id": "u_6e4f95c2",
-      "sentAt": "2026-08-25T10:35:45.474Z",
-      "title": "HiDream.ai releases HiDream-O1-World interactive artificial intelligence model - Vietnam Investment Review - VIR"
     }
   ]
 }
