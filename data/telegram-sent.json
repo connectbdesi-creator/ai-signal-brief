@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-06T16:34:13.529Z",
+  "updatedAt": "2026-10-06T22:29:23.141Z",
   "entries": [
+    {
+      "id": "u_212f9ff4",
+      "sentAt": "2026-10-06T22:29:23.141Z",
+      "title": "llm-mistral 0.16"
+    },
+    {
+      "id": "u_566aecab",
+      "sentAt": "2026-10-06T22:29:23.141Z",
+      "title": "b11456"
+    },
+    {
+      "id": "u_878bac94",
+      "sentAt": "2026-10-06T22:29:23.141Z",
+      "title": "Transforming the data path: Dell’s new releases move enterprises closer to the agentic data center"
+    },
+    {
+      "id": "u_2a737137",
+      "sentAt": "2026-10-06T22:29:23.141Z",
+      "title": "b11455"
+    },
+    {
+      "id": "u_980dcedd",
+      "sentAt": "2026-10-06T22:29:23.141Z",
+      "title": "b11457: cuda : add BF16 support for XIELU (#29955)"
+    },
     {
       "id": "u_c5471a1c",
       "sentAt": "2026-10-06T16:34:13.529Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2120f8ba",
       "sentAt": "2026-08-25T14:49:14.404Z",
       "title": "Accel-backed Keenable is indexing the web for AI agents"
-    },
-    {
-      "id": "u_7f5ed20d",
-      "sentAt": "2026-08-25T12:51:56.304Z",
-      "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated"
-    },
-    {
-      "id": "u_5e698864",
-      "sentAt": "2026-08-25T12:51:56.304Z",
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux"
-    },
-    {
-      "id": "u_167bfc85",
-      "sentAt": "2026-08-25T12:51:56.304Z",
-      "title": "Fullspan Health’s AI agent sees strong early traction with 1.1M views since June launch - Fierce Healthcare"
-    },
-    {
-      "id": "u_71a2094a",
-      "sentAt": "2026-08-25T12:51:56.304Z",
-      "title": "Graebel Launches Switch, an AI-Powered Virtual Relocation Assistant, for Graebel CitySwitcher - HRTech Series"
-    },
-    {
-      "id": "u_746a58e2",
-      "sentAt": "2026-08-25T12:51:56.304Z",
-      "title": "AG Marshall launches investigation into OpenAI and founder Sam Altman for massive artificial intelligence data breach - 1819 News"
     }
   ]
 }
