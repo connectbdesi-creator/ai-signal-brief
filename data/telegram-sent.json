@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-06T01:12:17.494Z",
+  "updatedAt": "2026-10-06T08:43:43.531Z",
   "entries": [
+    {
+      "id": "u_2310265",
+      "sentAt": "2026-10-06T08:43:43.531Z",
+      "title": "Reflection Beam: 501B Open-Weight Model, Benchmarks"
+    },
+    {
+      "id": "u_e66f453c",
+      "sentAt": "2026-10-06T08:43:43.531Z",
+      "title": "Mistral CEO says new AI model beats Chinese ones in some areas - reuters.com"
+    },
+    {
+      "id": "u_f401fb42",
+      "sentAt": "2026-10-06T08:43:43.531Z",
+      "title": "System 1 (Jev) Models: Faster and Cheaper Proxy to Frontier Models — With a Working Router"
+    },
+    {
+      "id": "u_c4c4d6c0",
+      "sentAt": "2026-10-06T08:43:43.531Z",
+      "title": "The Number That Matters in Cloudflare’s Clef System-One Model Isn’t 38.8 ms — Jev and Laya compared"
+    },
+    {
+      "id": "u_7b776888",
+      "sentAt": "2026-10-06T08:43:43.531Z",
+      "title": "What Constrained Decoding Does That Prompting Never Can"
+    },
     {
       "id": "u_6ffa30a2",
       "sentAt": "2026-10-06T01:12:17.494Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6e4f95c2",
       "sentAt": "2026-08-25T10:35:45.474Z",
       "title": "HiDream.ai releases HiDream-O1-World interactive artificial intelligence model - Vietnam Investment Review - VIR"
-    },
-    {
-      "id": "u_17bb77c7",
-      "sentAt": "2026-08-25T08:46:33.047Z",
-      "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks"
-    },
-    {
-      "id": "u_107a2aeb",
-      "sentAt": "2026-08-25T08:46:33.047Z",
-      "title": "b10618"
-    },
-    {
-      "id": "u_f1ca3d27",
-      "sentAt": "2026-08-25T08:46:33.047Z",
-      "title": "b10617"
-    },
-    {
-      "id": "u_a852f58b",
-      "sentAt": "2026-08-25T08:46:33.047Z",
-      "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference"
-    },
-    {
-      "id": "u_e7366e8e",
-      "sentAt": "2026-08-25T08:46:33.047Z",
-      "title": "K-Bench: measuring model performance on real scientific agent requests"
     }
   ]
 }
