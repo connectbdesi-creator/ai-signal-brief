@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-07T12:56:18.169Z",
+  "updatedAt": "2026-10-07T19:47:51.303Z",
   "entries": [
+    {
+      "id": "u_7a0e2af7",
+      "sentAt": "2026-10-07T19:47:51.303Z",
+      "title": "Browser-in-browser attacks use fake Meta Muse Ad lure to steal credentials"
+    },
+    {
+      "id": "u_b8359d3a",
+      "sentAt": "2026-10-07T19:47:51.303Z",
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons"
+    },
+    {
+      "id": "u_7f678ec3",
+      "sentAt": "2026-10-07T19:47:51.303Z",
+      "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps"
+    },
+    {
+      "id": "u_20c47783",
+      "sentAt": "2026-10-07T19:47:51.303Z",
+      "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps"
+    },
+    {
+      "id": "u_6db7c111",
+      "sentAt": "2026-10-07T19:47:51.303Z",
+      "title": "Introducing Claude Haiku 5.5 on AWS"
+    },
     {
       "id": "u_ef5d691d",
       "sentAt": "2026-10-07T12:56:18.169Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c39773d1",
       "sentAt": "2026-08-25T20:32:05.600Z",
       "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps"
-    },
-    {
-      "id": "u_7aa4311b",
-      "sentAt": "2026-08-25T18:42:33.356Z",
-      "title": "b10628"
-    },
-    {
-      "id": "u_2132d58",
-      "sentAt": "2026-08-25T18:42:33.356Z",
-      "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks"
-    },
-    {
-      "id": "u_75911b25",
-      "sentAt": "2026-08-25T18:42:33.356Z",
-      "title": "Using skills with Deep Agents"
-    },
-    {
-      "id": "u_84066918",
-      "sentAt": "2026-08-25T18:42:33.356Z",
-      "title": "Claude Cowork finally remembers what you told the app in chat"
-    },
-    {
-      "id": "u_a747c4d7",
-      "sentAt": "2026-08-25T18:42:33.356Z",
-      "title": "Preprint reports less distortion in a numerical wideband radar test"
     }
   ]
 }
