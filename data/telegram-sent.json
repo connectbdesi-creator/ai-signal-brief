@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-07T05:01:26.623Z",
+  "updatedAt": "2026-10-07T12:56:18.169Z",
   "entries": [
+    {
+      "id": "u_ef5d691d",
+      "sentAt": "2026-10-07T12:56:18.169Z",
+      "title": "Personal Agent Protocol: What Meta and Sierra Announced"
+    },
+    {
+      "id": "u_84a379ed",
+      "sentAt": "2026-10-07T12:56:18.169Z",
+      "title": "Grok Bot 'Personal CFO' Posted Bank Balances to Slack"
+    },
+    {
+      "id": "u_580c10d7",
+      "sentAt": "2026-10-07T12:56:18.169Z",
+      "title": "Claude for Google Workspace: Docs, Sheets and Slides"
+    },
+    {
+      "id": "u_c88e9282",
+      "sentAt": "2026-10-07T12:56:18.169Z",
+      "title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations"
+    },
+    {
+      "id": "u_9765bcae",
+      "sentAt": "2026-10-07T12:56:18.169Z",
+      "title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations"
+    },
     {
       "id": "u_465cd794",
       "sentAt": "2026-10-07T05:01:26.623Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a747c4d7",
       "sentAt": "2026-08-25T18:42:33.356Z",
       "title": "Preprint reports less distortion in a numerical wideband radar test"
-    },
-    {
-      "id": "u_9e1dd4f9",
-      "sentAt": "2026-08-25T16:40:14.205Z",
-      "title": "Google launches Gemini for legal work to automate contracts and research"
-    },
-    {
-      "id": "u_11b44442",
-      "sentAt": "2026-08-25T16:40:14.205Z",
-      "title": "Google launches Gemini for legal work to automate contracts and research"
-    },
-    {
-      "id": "u_893501d5",
-      "sentAt": "2026-08-25T16:40:14.205Z",
-      "title": "Preprint: Tool-Using Multimodal AI Scores Higher on New Rules in Maze Tests"
-    },
-    {
-      "id": "u_6b843bb1",
-      "sentAt": "2026-08-25T16:40:14.205Z",
-      "title": "OpenAI Unveils Jalapeño Chip - StartupHub.ai"
-    },
-    {
-      "id": "u_6b53d8bd",
-      "sentAt": "2026-08-25T16:40:14.205Z",
-      "title": "Google Launches Gemini Enterprise for Legal - Artificial Lawyer"
     }
   ]
 }
