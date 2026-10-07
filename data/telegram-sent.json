@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-06T22:29:23.141Z",
+  "updatedAt": "2026-10-07T05:01:26.623Z",
   "entries": [
+    {
+      "id": "u_465cd794",
+      "sentAt": "2026-10-07T05:01:26.623Z",
+      "title": "Calibrated Answers About Randomized Trials From a 4-Billion-Parameter Open Model: A Registered Test and a License-Clean Release"
+    },
+    {
+      "id": "u_aaf1cba7",
+      "sentAt": "2026-10-07T05:01:26.623Z",
+      "title": "Medical Image Alignment Assessment as a Test of Generalist Visual Reasoning in Frontier Multimodal Models"
+    },
+    {
+      "id": "u_8c82de86",
+      "sentAt": "2026-10-07T05:01:26.623Z",
+      "title": "BoT-Feedback: Grounding Multimodal Reasoning in Biomechanical Evidence for Explainable Human Action Feedback"
+    },
+    {
+      "id": "u_158cd74",
+      "sentAt": "2026-10-07T05:01:26.623Z",
+      "title": "Visual-Invariance-Augmented Feature Optimal Alignment for Transferable Adversarial Attacks against Closed-Source MLLMs"
+    },
+    {
+      "id": "u_9f3a542b",
+      "sentAt": "2026-10-07T05:01:26.623Z",
+      "title": "Source-Learned Reliance for Selective Test-Time Adaptation of Multimodal Time Series"
+    },
     {
       "id": "u_212f9ff4",
       "sentAt": "2026-10-06T22:29:23.141Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6b53d8bd",
       "sentAt": "2026-08-25T16:40:14.205Z",
       "title": "Google Launches Gemini Enterprise for Legal - Artificial Lawyer"
-    },
-    {
-      "id": "u_4d0dd177",
-      "sentAt": "2026-08-25T14:49:14.404Z",
-      "title": "What would a fair benchmark for agent architecture look like? [D]"
-    },
-    {
-      "id": "u_b7dccdeb",
-      "sentAt": "2026-08-25T14:49:14.404Z",
-      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October"
-    },
-    {
-      "id": "u_bb9e7f60",
-      "sentAt": "2026-08-25T14:49:14.404Z",
-      "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October"
-    },
-    {
-      "id": "u_e4f958a9",
-      "sentAt": "2026-08-25T14:49:14.404Z",
-      "title": "Preprint Finds LFU Hard to Beat in Large-Language-Model Caches"
-    },
-    {
-      "id": "u_2120f8ba",
-      "sentAt": "2026-08-25T14:49:14.404Z",
-      "title": "Accel-backed Keenable is indexing the web for AI agents"
     }
   ]
 }
