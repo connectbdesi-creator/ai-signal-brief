@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-08T08:34:18.784Z",
+  "updatedAt": "2026-10-08T17:16:30.862Z",
   "entries": [
+    {
+      "id": "u_63e8f5d0",
+      "sentAt": "2026-10-08T17:16:30.862Z",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ towards Claude"
+    },
+    {
+      "id": "u_625c82a0",
+      "sentAt": "2026-10-08T17:16:30.862Z",
+      "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents"
+    },
+    {
+      "id": "u_4dcc97dc",
+      "sentAt": "2026-10-08T17:16:30.862Z",
+      "title": "langchain-openai==1.7.0"
+    },
+    {
+      "id": "u_aa6faf71",
+      "sentAt": "2026-10-08T17:16:30.862Z",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger"
+    },
+    {
+      "id": "u_8686155a",
+      "sentAt": "2026-10-08T17:16:30.862Z",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost"
+    },
     {
       "id": "u_e64302f6",
       "sentAt": "2026-10-08T08:34:18.784Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e7f60478",
       "sentAt": "2026-08-26T03:08:11.364Z",
       "title": "College of Business launches Artificial Intelligence for Business program - uta.edu"
-    },
-    {
-      "id": "u_b5d7949b",
-      "sentAt": "2026-08-26T01:27:09.602Z",
-      "title": "Preprint puts a ceiling on worst-case safety risks in uncertain systems"
-    },
-    {
-      "id": "u_f517fadf",
-      "sentAt": "2026-08-26T01:27:09.602Z",
-      "title": "Agentic web search infrastructure startup Keenable raises $26M"
-    },
-    {
-      "id": "u_dbab7413",
-      "sentAt": "2026-08-26T01:27:09.602Z",
-      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together"
-    },
-    {
-      "id": "u_9884a248",
-      "sentAt": "2026-08-26T01:27:09.602Z",
-      "title": "EVE Online: The Move to Python 3 Begins!"
-    },
-    {
-      "id": "u_298ce662",
-      "sentAt": "2026-08-26T01:27:09.602Z",
-      "title": "Join a community-run AI Discord: open discussion, transparent moderation, local model quants"
     }
   ]
 }
