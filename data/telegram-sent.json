@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-08T00:03:57.335Z",
+  "updatedAt": "2026-10-08T08:34:18.784Z",
   "entries": [
+    {
+      "id": "u_e64302f6",
+      "sentAt": "2026-10-08T08:34:18.784Z",
+      "title": "Building a safer path to autonomous industrial AI"
+    },
+    {
+      "id": "u_c88a340e",
+      "sentAt": "2026-10-08T08:34:18.784Z",
+      "title": "v1.102.4"
+    },
+    {
+      "id": "u_df285c28",
+      "sentAt": "2026-10-08T08:34:18.784Z",
+      "title": "v1.101.6"
+    },
+    {
+      "id": "u_c9c9de28",
+      "sentAt": "2026-10-08T08:34:18.784Z",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing"
+    },
+    {
+      "id": "u_ecd1257e",
+      "sentAt": "2026-10-08T08:34:18.784Z",
+      "title": "v1.106.0-dev.2"
+    },
     {
       "id": "u_a44c20c2",
       "sentAt": "2026-10-08T00:03:57.335Z",
@@ -4975,31 +5000,6 @@
       "id": "u_298ce662",
       "sentAt": "2026-08-26T01:27:09.602Z",
       "title": "Join a community-run AI Discord: open discussion, transparent moderation, local model quants"
-    },
-    {
-      "id": "u_8a658a33",
-      "sentAt": "2026-08-25T22:30:32.314Z",
-      "title": "b10630"
-    },
-    {
-      "id": "u_9573f10b",
-      "sentAt": "2026-08-25T22:30:32.314Z",
-      "title": "Using LangSmith to Support Fine-tuning"
-    },
-    {
-      "id": "u_4d4ac711",
-      "sentAt": "2026-08-25T22:30:32.314Z",
-      "title": "Benchmarking Question/Answering Over CSV Data"
-    },
-    {
-      "id": "u_97edbaa4",
-      "sentAt": "2026-08-25T22:30:32.314Z",
-      "title": "Announcing our $10M seed round led by Benchmark"
-    },
-    {
-      "id": "u_1924f656",
-      "sentAt": "2026-08-25T22:30:32.314Z",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding"
     }
   ]
 }
