@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-08T23:05:08.510Z",
+  "updatedAt": "2026-10-09T05:15:04.439Z",
   "entries": [
+    {
+      "id": "u_dc69a6b1",
+      "sentAt": "2026-10-09T05:15:04.439Z",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction"
+    },
+    {
+      "id": "u_c04f78c2",
+      "sentAt": "2026-10-09T05:15:04.439Z",
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice"
+    },
+    {
+      "id": "u_8fa92b39",
+      "sentAt": "2026-10-09T05:15:04.439Z",
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate"
+    },
+    {
+      "id": "u_d5d4818",
+      "sentAt": "2026-10-09T05:15:04.439Z",
+      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents"
+    },
+    {
+      "id": "u_6e85faff",
+      "sentAt": "2026-10-09T05:15:04.439Z",
+      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning"
+    },
     {
       "id": "u_376e8bdf",
       "sentAt": "2026-10-08T23:05:08.510Z",
@@ -4975,31 +5000,6 @@
       "id": "u_dd12a5",
       "sentAt": "2026-08-26T06:54:06.057Z",
       "title": "PinSieve: Production Selective VLM Serving and a Governed Memory Flywheel for Enterprise Content-Quality Triage"
-    },
-    {
-      "id": "u_f18aa522",
-      "sentAt": "2026-08-26T04:42:31.220Z",
-      "title": "Preprint reports 20.5% fewer tokens for AI agent communication"
-    },
-    {
-      "id": "u_42d8781f",
-      "sentAt": "2026-08-26T04:42:31.220Z",
-      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation"
-    },
-    {
-      "id": "u_8cdd44e0",
-      "sentAt": "2026-08-26T04:42:31.220Z",
-      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models"
-    },
-    {
-      "id": "u_2ae9127",
-      "sentAt": "2026-08-26T04:42:31.220Z",
-      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts"
-    },
-    {
-      "id": "u_ec381ab4",
-      "sentAt": "2026-08-26T04:42:31.220Z",
-      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery"
     }
   ]
 }
