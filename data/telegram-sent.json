@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-09T12:49:18.638Z",
+  "updatedAt": "2026-10-09T19:20:06.950Z",
   "entries": [
+    {
+      "id": "u_ef1e4422",
+      "sentAt": "2026-10-09T19:20:06.950Z",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop"
+    },
+    {
+      "id": "u_65ab1e8b",
+      "sentAt": "2026-10-09T19:20:06.950Z",
+      "title": "b11535"
+    },
+    {
+      "id": "u_c0a46d70",
+      "sentAt": "2026-10-09T19:20:06.950Z",
+      "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
+    },
+    {
+      "id": "u_964f2177",
+      "sentAt": "2026-10-09T19:20:06.950Z",
+      "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
+    },
+    {
+      "id": "u_24f2ebcc",
+      "sentAt": "2026-10-09T19:20:06.950Z",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say - NBC10 Philadelphia"
+    },
     {
       "id": "u_49d9146b",
       "sentAt": "2026-10-09T12:49:18.638Z",
@@ -4975,31 +5000,6 @@
       "id": "u_517ec3db",
       "sentAt": "2026-08-26T10:38:04.923Z",
       "title": "UHI-Bench: Benchmarking Dual-Source Urban Heat Island Modeling Across Cities in Diverse Climate Regimes"
-    },
-    {
-      "id": "u_cb642c6f",
-      "sentAt": "2026-08-26T08:47:42.809Z",
-      "title": "Preprint: Smaller model reports gains on seven time-series benchmarks"
-    },
-    {
-      "id": "u_c38eaee2",
-      "sentAt": "2026-08-26T08:47:42.809Z",
-      "title": "Preprint reports near-verbatim recovery of hidden AI reasoning through tool calls"
-    },
-    {
-      "id": "u_c7d078d",
-      "sentAt": "2026-08-26T08:47:42.809Z",
-      "title": "Google launches Gemini AI tools for lawyers - The Arkansas Democrat-Gazette"
-    },
-    {
-      "id": "u_1f0db127",
-      "sentAt": "2026-08-26T08:47:42.809Z",
-      "title": "Preprint tests a factorized design for predictive world models"
-    },
-    {
-      "id": "u_8e90d18a",
-      "sentAt": "2026-08-26T08:47:42.809Z",
-      "title": "From Gradient-Boosted Trees to Deep Recommenders: Practical Lessons from Migrating a Production Customer Support Recommender"
     }
   ]
 }
