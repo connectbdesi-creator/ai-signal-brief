@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-09T05:15:04.439Z",
+  "updatedAt": "2026-10-09T12:49:18.638Z",
   "entries": [
+    {
+      "id": "u_49d9146b",
+      "sentAt": "2026-10-09T12:49:18.638Z",
+      "title": "Cue by Manus: What It Is, Invite Code and Price"
+    },
+    {
+      "id": "u_390440a6",
+      "sentAt": "2026-10-09T12:49:18.638Z",
+      "title": "Best Multi-Agent Platforms, Ranked With Receipts"
+    },
+    {
+      "id": "u_1789759",
+      "sentAt": "2026-10-09T12:49:18.638Z",
+      "title": "Did Claude Discover ART? The Enzyme Dispute, Explained"
+    },
+    {
+      "id": "u_acc7de8d",
+      "sentAt": "2026-10-09T12:49:18.638Z",
+      "title": "China AI developers publish safety tests for just 3.6% of model releases, report finds - Reuters"
+    },
+    {
+      "id": "u_427c8dbb",
+      "sentAt": "2026-10-09T12:49:18.638Z",
+      "title": "Your Data Platform Is Not Your AI Security Strategy"
+    },
     {
       "id": "u_dc69a6b1",
       "sentAt": "2026-10-09T05:15:04.439Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8e90d18a",
       "sentAt": "2026-08-26T08:47:42.809Z",
       "title": "From Gradient-Boosted Trees to Deep Recommenders: Practical Lessons from Migrating a Production Customer Support Recommender"
-    },
-    {
-      "id": "u_b3886587",
-      "sentAt": "2026-08-26T06:54:06.057Z",
-      "title": "b10631"
-    },
-    {
-      "id": "u_60ee4651",
-      "sentAt": "2026-08-26T06:54:06.057Z",
-      "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models"
-    },
-    {
-      "id": "u_ad552f08",
-      "sentAt": "2026-08-26T06:54:06.057Z",
-      "title": "v1.100.0-dev.1"
-    },
-    {
-      "id": "u_729eb902",
-      "sentAt": "2026-08-26T06:54:06.057Z",
-      "title": "Haibot releases artificial intelligence agent to automate sales knowledge retrieval - Portal ERP"
-    },
-    {
-      "id": "u_dd12a5",
-      "sentAt": "2026-08-26T06:54:06.057Z",
-      "title": "PinSieve: Production Selective VLM Serving and a Governed Memory Flywheel for Enterprise Content-Quality Triage"
     }
   ]
 }
