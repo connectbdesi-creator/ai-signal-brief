@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-09T19:20:06.950Z",
+  "updatedAt": "2026-10-09T23:53:07.035Z",
   "entries": [
+    {
+      "id": "u_21e0a748",
+      "sentAt": "2026-10-09T23:53:07.035Z",
+      "title": "Anthropic AI model sends false homicide tip to Philadelphia police website - New York Post"
+    },
+    {
+      "id": "u_b2243e20",
+      "sentAt": "2026-10-09T23:53:07.035Z",
+      "title": "Anthropic AI agents took ‘unintended’ actions on government sites - The Washington Post"
+    },
+    {
+      "id": "u_66ab9faf",
+      "sentAt": "2026-10-09T23:53:07.035Z",
+      "title": "Deno is joining Cloudflare"
+    },
+    {
+      "id": "u_752f6683",
+      "sentAt": "2026-10-09T23:53:07.035Z",
+      "title": "b11539"
+    },
+    {
+      "id": "u_e7d5c5eb",
+      "sentAt": "2026-10-09T23:53:07.035Z",
+      "title": "Anthropic AI model sent fake murder tip to Philadelphia police - France 24"
+    },
     {
       "id": "u_ef1e4422",
       "sentAt": "2026-10-09T19:20:06.950Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1d01f54e",
       "sentAt": "2026-08-26T12:57:12.942Z",
       "title": "Preprint: Time-series model posts stronger forecasts with fewer parameters"
-    },
-    {
-      "id": "u_cfce531a",
-      "sentAt": "2026-08-26T10:38:04.923Z",
-      "title": "Computer model handles changing-stiffness plates, but distorted meshes trip some versions"
-    },
-    {
-      "id": "u_867baea4",
-      "sentAt": "2026-08-26T10:38:04.923Z",
-      "title": "AI models flub these intelligence tests. Can you fare any better?"
-    },
-    {
-      "id": "u_d1ff524b",
-      "sentAt": "2026-08-26T10:38:04.923Z",
-      "title": "Plant Culture Systems Launches AGGI, a Free AI-Powered Intelligence Platform for Farmers - markets.businessinsider.com"
-    },
-    {
-      "id": "u_d897dba5",
-      "sentAt": "2026-08-26T10:38:04.923Z",
-      "title": "IAPO: Influence-Aware Policy Optimization for Credit Assignment in Multi-Turn Service Agents"
-    },
-    {
-      "id": "u_517ec3db",
-      "sentAt": "2026-08-26T10:38:04.923Z",
-      "title": "UHI-Bench: Benchmarking Dual-Source Urban Heat Island Modeling Across Cities in Diverse Climate Regimes"
     }
   ]
 }
