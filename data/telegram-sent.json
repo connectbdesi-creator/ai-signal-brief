@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-10T04:59:46.209Z",
+  "updatedAt": "2026-10-10T12:07:24.110Z",
   "entries": [
+    {
+      "id": "u_e275c040",
+      "sentAt": "2026-10-10T12:07:24.110Z",
+      "title": "Anthropic AI model sent fake murder tip to Philadelphia police - www.daily-sun.com"
+    },
+    {
+      "id": "u_9c7c169f",
+      "sentAt": "2026-10-10T12:07:24.110Z",
+      "title": "5 AI Stocks To Buy Now Before The End Of 2026"
+    },
+    {
+      "id": "u_7bbee502",
+      "sentAt": "2026-10-10T12:07:24.110Z",
+      "title": "Shoppers find AI agents need a short leash — unless you need 20 pounds of chicken wings"
+    },
+    {
+      "id": "u_cf6524f2",
+      "sentAt": "2026-10-10T12:07:24.110Z",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case"
+    },
+    {
+      "id": "u_1299ff63",
+      "sentAt": "2026-10-10T12:07:24.110Z",
+      "title": "Strata with Qwen3.8 Flash Next UD-Q4_K_XL"
+    },
     {
       "id": "u_8fc6dce0",
       "sentAt": "2026-10-10T04:59:46.209Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c3f42551",
       "sentAt": "2026-08-26T16:49:58.802Z",
       "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\""
-    },
-    {
-      "id": "u_c9543f21",
-      "sentAt": "2026-08-26T14:49:20.733Z",
-      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\""
-    },
-    {
-      "id": "u_36250314",
-      "sentAt": "2026-08-26T14:49:20.733Z",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents"
-    },
-    {
-      "id": "u_9de916f0",
-      "sentAt": "2026-08-26T14:49:20.733Z",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model"
-    },
-    {
-      "id": "u_64a921",
-      "sentAt": "2026-08-26T14:49:20.733Z",
-      "title": "Autonomous Agents & Agent Simulations"
-    },
-    {
-      "id": "u_8065273c",
-      "sentAt": "2026-08-26T14:49:20.733Z",
-      "title": "Robot brain builders are pushing out of their GPT-2 era"
     }
   ]
 }
