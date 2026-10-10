@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-10T12:07:24.110Z",
+  "updatedAt": "2026-10-10T18:18:15.862Z",
   "entries": [
+    {
+      "id": "u_92fae559",
+      "sentAt": "2026-10-10T18:18:15.862Z",
+      "title": "Anthropic Eval Containment Incident Ends in an Air Gap"
+    },
+    {
+      "id": "u_d216b38e",
+      "sentAt": "2026-10-10T18:18:15.862Z",
+      "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race"
+    },
+    {
+      "id": "u_3f98a0cc",
+      "sentAt": "2026-10-10T18:18:15.862Z",
+      "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race"
+    },
+    {
+      "id": "u_d6c5fcd2",
+      "sentAt": "2026-10-10T18:18:15.862Z",
+      "title": "Anthropic is cutting off its internal evaluations from the internet"
+    },
+    {
+      "id": "u_5ad9383",
+      "sentAt": "2026-10-10T18:18:15.862Z",
+      "title": "How Can AI Agents Read Untrusted Sources Safely?"
+    },
     {
       "id": "u_e275c040",
       "sentAt": "2026-10-10T12:07:24.110Z",
@@ -4975,31 +5000,6 @@
       "id": "u_45ec24b5",
       "sentAt": "2026-08-26T19:49:58.224Z",
       "title": "GlucoFM: Foundation model for continuous glucose monitoring"
-    },
-    {
-      "id": "u_615b7ffd",
-      "sentAt": "2026-08-26T16:49:58.802Z",
-      "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3"
-    },
-    {
-      "id": "u_b1f2a321",
-      "sentAt": "2026-08-26T16:49:58.802Z",
-      "title": "LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA"
-    },
-    {
-      "id": "u_52f8d253",
-      "sentAt": "2026-08-26T16:49:58.802Z",
-      "title": "b10638"
-    },
-    {
-      "id": "u_aabf2eb1",
-      "sentAt": "2026-08-26T16:49:58.802Z",
-      "title": "Radar makes podcasts searchable — and usable by AI agents"
-    },
-    {
-      "id": "u_c3f42551",
-      "sentAt": "2026-08-26T16:49:58.802Z",
-      "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\""
     }
   ]
 }
