@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-09T23:53:07.035Z",
+  "updatedAt": "2026-10-10T04:59:46.209Z",
   "entries": [
+    {
+      "id": "u_8fc6dce0",
+      "sentAt": "2026-10-10T04:59:46.209Z",
+      "title": "Grok Bot Email: Your Bot Gets an @mail.grokbot.com Inbox"
+    },
+    {
+      "id": "u_2fa83a09",
+      "sentAt": "2026-10-10T04:59:46.209Z",
+      "title": "3.66B formal logic model built on Granite 4.2 3B · Hugging Face"
+    },
+    {
+      "id": "u_fe6b29bd",
+      "sentAt": "2026-10-10T04:59:46.209Z",
+      "title": "Philly police receive fake homicide tip submitted by Anthropic AI model - FOX 29 Philadelphia"
+    },
+    {
+      "id": "u_cf5a2632",
+      "sentAt": "2026-10-10T04:59:46.209Z",
+      "title": "Quoting The New York Times"
+    },
+    {
+      "id": "u_a6a785c8",
+      "sentAt": "2026-10-10T04:59:46.209Z",
+      "title": "Anthropic AI model sent fake murder tip to unsolved killings website, Philadelphia police say - Malay Mail"
+    },
     {
       "id": "u_21e0a748",
       "sentAt": "2026-10-09T23:53:07.035Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8065273c",
       "sentAt": "2026-08-26T14:49:20.733Z",
       "title": "Robot brain builders are pushing out of their GPT-2 era"
-    },
-    {
-      "id": "u_4e1df444",
-      "sentAt": "2026-08-26T12:57:12.942Z",
-      "title": "Arga is building a better way to train enterprise AI agents"
-    },
-    {
-      "id": "u_b55ff1f4",
-      "sentAt": "2026-08-26T12:57:12.942Z",
-      "title": "Preprint reports AI skill selector reaching 0.73 benchmark success with fewer tokens"
-    },
-    {
-      "id": "u_42886c88",
-      "sentAt": "2026-08-26T12:57:12.942Z",
-      "title": "10 Rules for Getting Better Results from AI Coding Agents"
-    },
-    {
-      "id": "u_c69bc35f",
-      "sentAt": "2026-08-26T12:57:12.942Z",
-      "title": "b10635"
-    },
-    {
-      "id": "u_1d01f54e",
-      "sentAt": "2026-08-26T12:57:12.942Z",
-      "title": "Preprint: Time-series model posts stronger forecasts with fewer parameters"
     }
   ]
 }
