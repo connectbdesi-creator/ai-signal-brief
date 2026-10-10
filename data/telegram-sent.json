@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-10T18:18:15.862Z",
+  "updatedAt": "2026-10-10T23:20:10.156Z",
   "entries": [
+    {
+      "id": "u_cdb38eb6",
+      "sentAt": "2026-10-10T23:20:10.156Z",
+      "title": "How to make gemma 4 works with SWEBench?"
+    },
+    {
+      "id": "u_692a6880",
+      "sentAt": "2026-10-10T23:20:10.156Z",
+      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors"
+    },
+    {
+      "id": "u_3210a43f",
+      "sentAt": "2026-10-10T23:20:10.156Z",
+      "title": "Qwen3.8-Flash-Next Strata pi beat Claude-code Opus 5.5 on a 5090"
+    },
+    {
+      "id": "u_a8d57180",
+      "sentAt": "2026-10-10T23:20:10.156Z",
+      "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out"
+    },
+    {
+      "id": "u_cc3daac7",
+      "sentAt": "2026-10-10T23:20:10.156Z",
+      "title": "b11552"
+    },
     {
       "id": "u_92fae559",
       "sentAt": "2026-10-10T18:18:15.862Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c1ad2643",
       "sentAt": "2026-08-26T22:53:15.520Z",
       "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
-    },
-    {
-      "id": "u_4d0c3957",
-      "sentAt": "2026-08-26T19:49:58.224Z",
-      "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations"
-    },
-    {
-      "id": "u_ae050b40",
-      "sentAt": "2026-08-26T19:49:58.224Z",
-      "title": "OpenAI releases its official report on the Hugging Face breach"
-    },
-    {
-      "id": "u_279d116b",
-      "sentAt": "2026-08-26T19:49:58.224Z",
-      "title": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC"
-    },
-    {
-      "id": "u_e3c2a5a8",
-      "sentAt": "2026-08-26T19:49:58.224Z",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face"
-    },
-    {
-      "id": "u_45ec24b5",
-      "sentAt": "2026-08-26T19:49:58.224Z",
-      "title": "GlucoFM: Foundation model for continuous glucose monitoring"
     }
   ]
 }
