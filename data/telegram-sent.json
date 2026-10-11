@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-10T23:20:10.156Z",
+  "updatedAt": "2026-10-11T04:48:09.415Z",
   "entries": [
+    {
+      "id": "u_2dccfbe2",
+      "sentAt": "2026-10-11T04:48:09.415Z",
+      "title": "Anthropic AI agent files false murder tip with Philadelphia police after two months undetected - DongA Science"
+    },
+    {
+      "id": "u_4e5f4f23",
+      "sentAt": "2026-10-11T04:48:09.415Z",
+      "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 5 New York"
+    },
+    {
+      "id": "u_45a29a7a",
+      "sentAt": "2026-10-11T04:48:09.415Z",
+      "title": "Python 3.15.0 added to actions/python-versions"
+    },
+    {
+      "id": "u_ed1c47a6",
+      "sentAt": "2026-10-11T04:48:09.415Z",
+      "title": "Anthropic Believes So Heartily In AI Consciousness That They Are Banning Humans From Being Cruel Toward AI Claude"
+    },
+    {
+      "id": "u_48247f4b",
+      "sentAt": "2026-10-11T04:48:09.415Z",
+      "title": "Philadelphia police receive false homicide tip from Anthropic AI model - The Hill"
+    },
     {
       "id": "u_cdb38eb6",
       "sentAt": "2026-10-10T23:20:10.156Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c05ca93f",
       "sentAt": "2026-08-27T08:15:46.575Z",
       "title": "Nvidia closes in on Hugging Face acquisition"
-    },
-    {
-      "id": "u_c4131c13",
-      "sentAt": "2026-08-26T22:53:15.520Z",
-      "title": "b10642"
-    },
-    {
-      "id": "u_2f1111c0",
-      "sentAt": "2026-08-26T22:53:15.520Z",
-      "title": "OpenAI’s rogue AI model incident was worse than we thought"
-    },
-    {
-      "id": "u_f4fdc673",
-      "sentAt": "2026-08-26T22:53:15.520Z",
-      "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context"
-    },
-    {
-      "id": "u_a2a6e997",
-      "sentAt": "2026-08-26T22:53:15.520Z",
-      "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure"
-    },
-    {
-      "id": "u_c1ad2643",
-      "sentAt": "2026-08-26T22:53:15.520Z",
-      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory"
     }
   ]
 }
