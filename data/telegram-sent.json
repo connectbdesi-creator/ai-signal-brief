@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-11T04:48:09.415Z",
+  "updatedAt": "2026-10-11T12:21:09.646Z",
   "entries": [
+    {
+      "id": "u_176e3a13",
+      "sentAt": "2026-10-11T12:21:09.646Z",
+      "title": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns"
+    },
+    {
+      "id": "u_5401baf",
+      "sentAt": "2026-10-11T12:21:09.646Z",
+      "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready"
+    },
+    {
+      "id": "u_123df1e6",
+      "sentAt": "2026-10-11T12:21:09.646Z",
+      "title": "Anthropic AI Agent Sent Fake Murder Tip to US Police, Prompting Safety Concerns - Modern Ghana"
+    },
+    {
+      "id": "u_e9789bb6",
+      "sentAt": "2026-10-11T12:21:09.646Z",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating"
+    },
+    {
+      "id": "u_739ff980",
+      "sentAt": "2026-10-11T12:21:09.646Z",
+      "title": "v1.104.3"
+    },
     {
       "id": "u_2dccfbe2",
       "sentAt": "2026-10-11T04:48:09.415Z",
@@ -4975,31 +5000,6 @@
       "id": "u_47bf383f",
       "sentAt": "2026-08-27T20:12:44.024Z",
       "title": "b10657"
-    },
-    {
-      "id": "u_e825a94d",
-      "sentAt": "2026-08-27T08:15:46.575Z",
-      "title": "Salesforce, Anthropic deepen AI partnership with Claudeforce - Gulf Business"
-    },
-    {
-      "id": "u_fa32e7d8",
-      "sentAt": "2026-08-27T08:15:46.575Z",
-      "title": "Gaines Center to launch ‘Year of the Human Algorithm’ with ‘Her’ screening, faculty panel - UKNow"
-    },
-    {
-      "id": "u_f46da9fe",
-      "sentAt": "2026-08-27T08:15:46.575Z",
-      "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away"
-    },
-    {
-      "id": "u_3022f736",
-      "sentAt": "2026-08-27T08:15:46.575Z",
-      "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away"
-    },
-    {
-      "id": "u_c05ca93f",
-      "sentAt": "2026-08-27T08:15:46.575Z",
-      "title": "Nvidia closes in on Hugging Face acquisition"
     }
   ]
 }
