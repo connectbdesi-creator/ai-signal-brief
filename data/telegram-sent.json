@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-11T18:41:53.018Z",
+  "updatedAt": "2026-10-11T23:30:24.335Z",
   "entries": [
+    {
+      "id": "u_4e5ddccc",
+      "sentAt": "2026-10-11T23:30:24.335Z",
+      "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts"
+    },
+    {
+      "id": "u_85d4fef0",
+      "sentAt": "2026-10-11T23:30:24.335Z",
+      "title": "Amid frequent cases of artificial intelligence (AI) agents acting outside of human intention or cont.. - 매일경제"
+    },
+    {
+      "id": "u_ef35b802",
+      "sentAt": "2026-10-11T23:30:24.335Z",
+      "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models"
+    },
+    {
+      "id": "u_bd8f8f83",
+      "sentAt": "2026-10-11T23:30:24.335Z",
+      "title": "As the artificial intelligence (AI) agent market grows rapidly, the positions of commerce platforms - 매일경제"
+    },
+    {
+      "id": "u_7d4c4bc7",
+      "sentAt": "2026-10-11T23:30:24.335Z",
+      "title": "Why AI agents might not be right for you"
+    },
     {
       "id": "u_b84214a",
       "sentAt": "2026-10-11T18:41:53.018Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cbd32a4c",
       "sentAt": "2026-08-28T20:00:03.933Z",
       "title": "Google DeepMind's \"Co-Scientist\" Evolves from a Hypothesis Generator to a Research Partner"
-    },
-    {
-      "id": "u_561ecab4",
-      "sentAt": "2026-08-28T06:00:58.214Z",
-      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages"
-    },
-    {
-      "id": "u_4a17a66",
-      "sentAt": "2026-08-28T06:00:58.214Z",
-      "title": "v1.100.0-dev.2"
-    },
-    {
-      "id": "u_cbca5ecf",
-      "sentAt": "2026-08-28T06:00:58.214Z",
-      "title": "VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology"
-    },
-    {
-      "id": "u_a002e3c6",
-      "sentAt": "2026-08-28T06:00:58.214Z",
-      "title": "Video-FLAIR: Not Whether to Reason, But How"
-    },
-    {
-      "id": "u_fd91b42f",
-      "sentAt": "2026-08-28T06:00:58.214Z",
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset"
     }
   ]
 }
