@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-11T23:30:24.335Z",
+  "updatedAt": "2026-10-12T05:03:27.184Z",
   "entries": [
+    {
+      "id": "u_2361f475",
+      "sentAt": "2026-10-12T05:03:27.184Z",
+      "title": "UK ministers explore compulsory AI safety reporting"
+    },
+    {
+      "id": "u_adf2d350",
+      "sentAt": "2026-10-12T05:03:27.184Z",
+      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning"
+    },
+    {
+      "id": "u_387c3838",
+      "sentAt": "2026-10-12T05:03:27.184Z",
+      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire"
+    },
+    {
+      "id": "u_bd61eeba",
+      "sentAt": "2026-10-12T05:03:27.184Z",
+      "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents"
+    },
+    {
+      "id": "u_15db5b5a",
+      "sentAt": "2026-10-12T05:03:27.184Z",
+      "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents"
+    },
     {
       "id": "u_4e5ddccc",
       "sentAt": "2026-10-11T23:30:24.335Z",
@@ -4975,31 +5000,6 @@
       "id": "u_15d00933",
       "sentAt": "2026-08-29T02:47:44.258Z",
       "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership"
-    },
-    {
-      "id": "u_dba9270",
-      "sentAt": "2026-08-28T20:00:03.933Z",
-      "title": "Blue Yonder redesigns supply chain operations around AI agents"
-    },
-    {
-      "id": "u_250d7f9d",
-      "sentAt": "2026-08-28T20:00:03.933Z",
-      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture"
-    },
-    {
-      "id": "u_52c77c6b",
-      "sentAt": "2026-08-28T20:00:03.933Z",
-      "title": "AI video model routes tasks to experts in benchmark tests"
-    },
-    {
-      "id": "u_90bf55fb",
-      "sentAt": "2026-08-28T20:00:03.933Z",
-      "title": "b10678"
-    },
-    {
-      "id": "u_cbd32a4c",
-      "sentAt": "2026-08-28T20:00:03.933Z",
-      "title": "Google DeepMind's \"Co-Scientist\" Evolves from a Hypothesis Generator to a Research Partner"
     }
   ]
 }
