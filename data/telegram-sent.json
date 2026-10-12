@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-12T14:48:42.490Z",
+  "updatedAt": "2026-10-12T22:48:01.031Z",
   "entries": [
+    {
+      "id": "u_209fb0d2",
+      "sentAt": "2026-10-12T22:48:01.031Z",
+      "title": "Meta releases Muse Wonder AI models built to run personal and professional agents"
+    },
+    {
+      "id": "u_8783f9e0",
+      "sentAt": "2026-10-12T22:48:01.031Z",
+      "title": "Dell and Intel weigh the costs of enterprise AI scalability"
+    },
+    {
+      "id": "u_a90265ed",
+      "sentAt": "2026-10-12T22:48:01.031Z",
+      "title": "Meta claims reaching AI 'frontier' with release of 2 new models - Daily Sabah"
+    },
+    {
+      "id": "u_dad653",
+      "sentAt": "2026-10-12T22:48:01.031Z",
+      "title": "Decisions, Decisions: A Guide To The New Wave Of AI Decision Models Besides Jev"
+    },
+    {
+      "id": "u_e19daa80",
+      "sentAt": "2026-10-12T22:48:01.031Z",
+      "title": "Meta rolls out new frontier AI models to rival Anthropic and OpenAI - Washington Examiner"
+    },
     {
       "id": "u_794a9da3",
       "sentAt": "2026-10-12T14:48:42.490Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1aa44fb",
       "sentAt": "2026-08-29T16:25:23.523Z",
       "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling"
-    },
-    {
-      "id": "u_75daf671",
-      "sentAt": "2026-08-29T10:55:03.254Z",
-      "title": "How to Run a Chatbot on Your Own Computer"
-    },
-    {
-      "id": "u_c810b1bd",
-      "sentAt": "2026-08-29T10:55:03.254Z",
-      "title": "How to Run a Chatbot on Your Own Computer"
-    },
-    {
-      "id": "u_382e6ecd",
-      "sentAt": "2026-08-29T10:55:03.254Z",
-      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research"
-    },
-    {
-      "id": "u_7bb45e7a",
-      "sentAt": "2026-08-29T10:55:03.254Z",
-      "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research"
-    },
-    {
-      "id": "u_e70a2715",
-      "sentAt": "2026-08-29T10:55:03.254Z",
-      "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software"
     }
   ]
 }
