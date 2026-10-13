@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-13T06:03:13.838Z",
+  "updatedAt": "2026-10-13T15:41:20.855Z",
   "entries": [
+    {
+      "id": "u_9137436",
+      "sentAt": "2026-10-13T15:41:20.855Z",
+      "title": "Q&A: Mars Perseverance Rover Distance Record"
+    },
+    {
+      "id": "u_797b548d",
+      "sentAt": "2026-10-13T15:41:20.855Z",
+      "title": "Companies rushed in on AI. Now some are pulling back"
+    },
+    {
+      "id": "u_b4ecde9f",
+      "sentAt": "2026-10-13T15:41:20.855Z",
+      "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade"
+    },
+    {
+      "id": "u_ca931c05",
+      "sentAt": "2026-10-13T15:41:20.855Z",
+      "title": "Western mathematicians fear AI makes them dumber while China builds an entire alliance for it"
+    },
+    {
+      "id": "u_265b4446",
+      "sentAt": "2026-10-13T15:41:20.855Z",
+      "title": "Western mathematicians fear AI makes them dumber while China builds an entire alliance for it"
+    },
     {
       "id": "u_324aa9d0",
       "sentAt": "2026-10-13T06:03:13.838Z",
@@ -4975,31 +5000,6 @@
       "id": "u_344fd0cc",
       "sentAt": "2026-08-29T23:57:46.572Z",
       "title": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\""
-    },
-    {
-      "id": "u_8fd2aecf",
-      "sentAt": "2026-08-29T20:39:05.945Z",
-      "title": "b10687"
-    },
-    {
-      "id": "u_21a3a4d3",
-      "sentAt": "2026-08-29T20:39:05.945Z",
-      "title": "b10686"
-    },
-    {
-      "id": "u_74aca144",
-      "sentAt": "2026-08-29T20:39:05.945Z",
-      "title": "CrowdStrike’s post-Mythos surge: Moat, momentum and the blast-radius test"
-    },
-    {
-      "id": "u_46b59aef",
-      "sentAt": "2026-08-29T20:39:05.945Z",
-      "title": "b10685"
-    },
-    {
-      "id": "u_54f5c9e1",
-      "sentAt": "2026-08-29T20:39:05.945Z",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling - MarkTechPost"
     }
   ]
 }
