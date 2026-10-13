@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-13T15:41:20.855Z",
+  "updatedAt": "2026-10-13T21:03:03.771Z",
   "entries": [
+    {
+      "id": "u_4a226a2c",
+      "sentAt": "2026-10-13T21:03:03.771Z",
+      "title": "Building agents that transact with Anchor Browser and AgentCore payments"
+    },
+    {
+      "id": "u_92152f47",
+      "sentAt": "2026-10-13T21:03:03.771Z",
+      "title": "b11596"
+    },
+    {
+      "id": "u_56105177",
+      "sentAt": "2026-10-13T21:03:03.771Z",
+      "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play"
+    },
+    {
+      "id": "u_e9b7adde",
+      "sentAt": "2026-10-13T21:03:03.771Z",
+      "title": "Google says Gemini 4 Argon is a ‘powerhouse’ AI model, and anyone can pay for it - The Next Web"
+    },
+    {
+      "id": "u_af21013c",
+      "sentAt": "2026-10-13T21:03:03.771Z",
+      "title": "Facebook is giving users more control over their algorithm"
+    },
     {
       "id": "u_9137436",
       "sentAt": "2026-10-13T15:41:20.855Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8745a920",
       "sentAt": "2026-08-30T05:11:13.507Z",
       "title": "A neutrino model links CP violation to strong-CP constraints"
-    },
-    {
-      "id": "u_478f6cd5",
-      "sentAt": "2026-08-29T23:57:46.572Z",
-      "title": "Humaneval benchmark for Deepseek V4 Flash 0731 vs GLM5.3 Flash on 2x DGX Spark setup"
-    },
-    {
-      "id": "u_17a539e7",
-      "sentAt": "2026-08-29T23:57:46.572Z",
-      "title": "Staged AI Agent Tops Multi-Turn Tool Tests Across Model Sizes"
-    },
-    {
-      "id": "u_4aacbaa5",
-      "sentAt": "2026-08-29T23:57:46.572Z",
-      "title": "Targeted Checks Cut AI Errors From Outdated Memory"
-    },
-    {
-      "id": "u_303eb30f",
-      "sentAt": "2026-08-29T23:57:46.572Z",
-      "title": "Any current Voice2Voice AI model that runs locally that’s good?"
-    },
-    {
-      "id": "u_344fd0cc",
-      "sentAt": "2026-08-29T23:57:46.572Z",
-      "title": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\""
     }
   ]
 }
