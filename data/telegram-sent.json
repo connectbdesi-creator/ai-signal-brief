@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-12T22:48:01.031Z",
+  "updatedAt": "2026-10-13T06:03:13.838Z",
   "entries": [
+    {
+      "id": "u_324aa9d0",
+      "sentAt": "2026-10-13T06:03:13.838Z",
+      "title": "Anthropic: Small AI Models Could Self-Replicate on IoT"
+    },
+    {
+      "id": "u_cd6b7bd1",
+      "sentAt": "2026-10-13T06:03:13.838Z",
+      "title": "While companies are scrambling to introduce artificial intelligence (AI), Kolon Benet has launched a.. - 매일경제"
+    },
+    {
+      "id": "u_57101428",
+      "sentAt": "2026-10-13T06:03:13.838Z",
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA"
+    },
+    {
+      "id": "u_a7090130",
+      "sentAt": "2026-10-13T06:03:13.838Z",
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA"
+    },
+    {
+      "id": "u_48ec52ba",
+      "sentAt": "2026-10-13T06:03:13.838Z",
+      "title": "Anthropic cuts Claude AI model distillation attempts by up to 90% with new safeguards - Firstpost"
+    },
     {
       "id": "u_209fb0d2",
       "sentAt": "2026-10-12T22:48:01.031Z",
@@ -4975,31 +5000,6 @@
       "id": "u_54f5c9e1",
       "sentAt": "2026-08-29T20:39:05.945Z",
       "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling - MarkTechPost"
-    },
-    {
-      "id": "u_f3feef2a",
-      "sentAt": "2026-08-29T16:25:23.523Z",
-      "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music"
-    },
-    {
-      "id": "u_6d5777f",
-      "sentAt": "2026-08-29T16:25:23.523Z",
-      "title": "b10683"
-    },
-    {
-      "id": "u_6e7dcab",
-      "sentAt": "2026-08-29T16:25:23.523Z",
-      "title": "b10682"
-    },
-    {
-      "id": "u_2cc4839f",
-      "sentAt": "2026-08-29T16:25:23.523Z",
-      "title": "b10681"
-    },
-    {
-      "id": "u_1aa44fb",
-      "sentAt": "2026-08-29T16:25:23.523Z",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling"
     }
   ]
 }
