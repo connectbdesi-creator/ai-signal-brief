@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-13T21:03:03.771Z",
+  "updatedAt": "2026-10-14T00:57:09.293Z",
   "entries": [
+    {
+      "id": "u_475a7ad9",
+      "sentAt": "2026-10-14T00:57:09.293Z",
+      "title": "Pluto Security nabs $42M to help enterprises secure their AI agents"
+    },
+    {
+      "id": "u_7d1b34a6",
+      "sentAt": "2026-10-14T00:57:09.293Z",
+      "title": "v1.106.0-rc.2"
+    },
+    {
+      "id": "u_91fb7460",
+      "sentAt": "2026-10-14T00:57:09.293Z",
+      "title": "Intel bets the next phase of AI belongs to the rightsized system, not the biggest one"
+    },
+    {
+      "id": "u_eba12c6",
+      "sentAt": "2026-10-14T00:57:09.293Z",
+      "title": "v2.56.0 (2026-10-13)"
+    },
+    {
+      "id": "u_c922196f",
+      "sentAt": "2026-10-14T00:57:09.293Z",
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient"
+    },
     {
       "id": "u_4a226a2c",
       "sentAt": "2026-10-13T21:03:03.771Z",
@@ -4975,31 +5000,6 @@
       "id": "u_37562094",
       "sentAt": "2026-08-30T11:31:20.830Z",
       "title": "AI World TV Launches, Delivering Trusted AI Journalism, Exclusive Interviews, and Expert Insights - Courier & Press"
-    },
-    {
-      "id": "u_878ddc8f",
-      "sentAt": "2026-08-30T05:11:13.507Z",
-      "title": "b10689"
-    },
-    {
-      "id": "u_7a01c05d",
-      "sentAt": "2026-08-30T05:11:13.507Z",
-      "title": "AI Recovery Method Reports Fewer Hidden Attacks in Hardware Code"
-    },
-    {
-      "id": "u_329f197c",
-      "sentAt": "2026-08-30T05:11:13.507Z",
-      "title": "v1.99.0-rc.2"
-    },
-    {
-      "id": "u_35bbbb9e",
-      "sentAt": "2026-08-30T05:11:13.507Z",
-      "title": "v1.100.0-rc.1"
-    },
-    {
-      "id": "u_8745a920",
-      "sentAt": "2026-08-30T05:11:13.507Z",
-      "title": "A neutrino model links CP violation to strong-CP constraints"
     }
   ]
 }
