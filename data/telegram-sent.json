@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-14T07:16:54.008Z",
+  "updatedAt": "2026-10-14T13:28:07.841Z",
   "entries": [
+    {
+      "id": "u_5fb4015c",
+      "sentAt": "2026-10-14T13:28:07.841Z",
+      "title": "GPT-4o API Shutdown: January 14, 2027, Move to Luna"
+    },
+    {
+      "id": "u_7ed10130",
+      "sentAt": "2026-10-14T13:28:07.841Z",
+      "title": "Anthropic Warns: AI Models May Soon Spread Among Smart Devices in the Home - Computerworld"
+    },
+    {
+      "id": "u_81cef8d1",
+      "sentAt": "2026-10-14T13:28:07.841Z",
+      "title": "Harmonic Security raises $50M to govern how employees use AI tools"
+    },
+    {
+      "id": "u_97f8f125",
+      "sentAt": "2026-10-14T13:28:07.841Z",
+      "title": "Uvi raises $7.5M to help AI agents learn business context and run at eight times lower cost"
+    },
+    {
+      "id": "u_c0e114f7",
+      "sentAt": "2026-10-14T13:28:07.841Z",
+      "title": "Offensive security startup CodeWall launches with $4M for AI agents that attack enterprises"
+    },
     {
       "id": "u_6f1eda4b",
       "sentAt": "2026-10-14T07:16:54.008Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a8abe73",
       "sentAt": "2026-08-30T20:45:37.918Z",
       "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment"
-    },
-    {
-      "id": "u_227c456e",
-      "sentAt": "2026-08-30T16:19:03.759Z",
-      "title": "oMLX Review, Auditing the 90s to 5s Agent Claim"
-    },
-    {
-      "id": "u_dd4d2f32",
-      "sentAt": "2026-08-30T16:19:03.759Z",
-      "title": "Four safeguards to stop your AI agents from going rogue"
-    },
-    {
-      "id": "u_53677e4b",
-      "sentAt": "2026-08-30T16:19:03.759Z",
-      "title": "b10698"
-    },
-    {
-      "id": "u_dd1f35a4",
-      "sentAt": "2026-08-30T16:19:03.759Z",
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage - BleepingComputer"
-    },
-    {
-      "id": "u_119db57",
-      "sentAt": "2026-08-30T16:19:03.759Z",
-      "title": "b10697"
     }
   ]
 }
