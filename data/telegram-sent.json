@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-14T00:57:09.293Z",
+  "updatedAt": "2026-10-14T07:16:54.008Z",
   "entries": [
+    {
+      "id": "u_6f1eda4b",
+      "sentAt": "2026-10-14T07:16:54.008Z",
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
+    },
+    {
+      "id": "u_8e3328f",
+      "sentAt": "2026-10-14T07:16:54.008Z",
+      "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations"
+    },
+    {
+      "id": "u_35db2ae3",
+      "sentAt": "2026-10-14T07:16:54.008Z",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks"
+    },
+    {
+      "id": "u_2105d0a6",
+      "sentAt": "2026-10-14T07:16:54.008Z",
+      "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit"
+    },
+    {
+      "id": "u_d2d8729e",
+      "sentAt": "2026-10-14T07:16:54.008Z",
+      "title": "Chainguard puts Claude Mythos on flaw hunting, secures coding agents and widens Libraries"
+    },
     {
       "id": "u_475a7ad9",
       "sentAt": "2026-10-14T00:57:09.293Z",
@@ -4975,31 +5000,6 @@
       "id": "u_119db57",
       "sentAt": "2026-08-30T16:19:03.759Z",
       "title": "b10697"
-    },
-    {
-      "id": "u_83af497c",
-      "sentAt": "2026-08-30T11:31:20.830Z",
-      "title": "AI agents have no sense of time and are not aware of it"
-    },
-    {
-      "id": "u_6435dac3",
-      "sentAt": "2026-08-30T11:31:20.830Z",
-      "title": "Object-centric model tops reconstruction but trails predicted-camera test"
-    },
-    {
-      "id": "u_69fbf2d7",
-      "sentAt": "2026-08-30T11:31:20.830Z",
-      "title": "Sentence-level context tops a multimodal AI benchmark"
-    },
-    {
-      "id": "u_71044c9b",
-      "sentAt": "2026-08-30T11:31:20.830Z",
-      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for AI Agents to Safely Operate Physical Devices - MarkTechPost"
-    },
-    {
-      "id": "u_37562094",
-      "sentAt": "2026-08-30T11:31:20.830Z",
-      "title": "AI World TV Launches, Delivering Trusted AI Journalism, Exclusive Interviews, and Expert Insights - Courier & Press"
     }
   ]
 }
