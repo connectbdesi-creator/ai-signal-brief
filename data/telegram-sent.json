@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-14T18:23:20.562Z",
+  "updatedAt": "2026-10-14T23:03:46.608Z",
   "entries": [
+    {
+      "id": "u_5425f4c2",
+      "sentAt": "2026-10-14T23:03:46.608Z",
+      "title": "v1.106.0-rc.3"
+    },
+    {
+      "id": "u_2880b929",
+      "sentAt": "2026-10-14T23:03:46.608Z",
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents"
+    },
+    {
+      "id": "u_e5eaef38",
+      "sentAt": "2026-10-14T23:03:46.608Z",
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns"
+    },
+    {
+      "id": "u_32e8218f",
+      "sentAt": "2026-10-14T23:03:46.608Z",
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns - CNBC"
+    },
+    {
+      "id": "u_680e3f0e",
+      "sentAt": "2026-10-14T23:03:46.608Z",
+      "title": "Agentic AI puts the CPU back in play as Dell pitches 13-to-1 server refreshes"
+    },
     {
       "id": "u_544e17da",
       "sentAt": "2026-10-14T18:23:20.562Z",
@@ -4975,31 +5000,6 @@
       "id": "u_20e08dcf",
       "sentAt": "2026-08-31T08:19:33.522Z",
       "title": "b10712"
-    },
-    {
-      "id": "u_55e12b82",
-      "sentAt": "2026-08-31T00:16:36.213Z",
-      "title": "Understanding ChatGPT Work"
-    },
-    {
-      "id": "u_b048630b",
-      "sentAt": "2026-08-31T00:16:36.213Z",
-      "title": "b10705"
-    },
-    {
-      "id": "u_9d398bcb",
-      "sentAt": "2026-08-31T00:16:36.213Z",
-      "title": "b10703"
-    },
-    {
-      "id": "u_fc7ac206",
-      "sentAt": "2026-08-31T00:16:36.213Z",
-      "title": "AI agents have no sense of time and are not aware of it"
-    },
-    {
-      "id": "u_552b40b1",
-      "sentAt": "2026-08-31T00:16:36.213Z",
-      "title": "boAt launches Crest AI with Google Cloud, powered by Google Gemini - ET Enterprise AI"
     }
   ]
 }
