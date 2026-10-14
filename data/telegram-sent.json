@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-14T13:28:07.841Z",
+  "updatedAt": "2026-10-14T18:23:20.562Z",
   "entries": [
+    {
+      "id": "u_544e17da",
+      "sentAt": "2026-10-14T18:23:20.562Z",
+      "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it"
+    },
+    {
+      "id": "u_aabe593d",
+      "sentAt": "2026-10-14T18:23:20.562Z",
+      "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it"
+    },
+    {
+      "id": "u_2bff0bd4",
+      "sentAt": "2026-10-14T18:23:20.562Z",
+      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence"
+    },
+    {
+      "id": "u_73a6b6d3",
+      "sentAt": "2026-10-14T18:23:20.562Z",
+      "title": "Kyndryl will run AI agents inside Toyota Finance’s live IT operations - The Next Web"
+    },
+    {
+      "id": "u_9abf9330",
+      "sentAt": "2026-10-14T18:23:20.562Z",
+      "title": "OpenAI Amp Review, the Builder's Verdict on a General Agent"
+    },
     {
       "id": "u_5fb4015c",
       "sentAt": "2026-10-14T13:28:07.841Z",
@@ -4975,31 +5000,6 @@
       "id": "u_552b40b1",
       "sentAt": "2026-08-31T00:16:36.213Z",
       "title": "boAt launches Crest AI with Google Cloud, powered by Google Gemini - ET Enterprise AI"
-    },
-    {
-      "id": "u_329ea76c",
-      "sentAt": "2026-08-30T20:45:37.918Z",
-      "title": "AI summarization method is far faster at choosing training examples"
-    },
-    {
-      "id": "u_446979e3",
-      "sentAt": "2026-08-30T20:45:37.918Z",
-      "title": "b10701"
-    },
-    {
-      "id": "u_d871452f",
-      "sentAt": "2026-08-30T20:45:37.918Z",
-      "title": "b10700"
-    },
-    {
-      "id": "u_38dc58e8",
-      "sentAt": "2026-08-30T20:45:37.918Z",
-      "title": "AI Agents Are Where Microservices Were in 2015 - StartupHub.ai"
-    },
-    {
-      "id": "u_a8abe73",
-      "sentAt": "2026-08-30T20:45:37.918Z",
-      "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment"
     }
   ]
 }
