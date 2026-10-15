@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-14T23:03:46.608Z",
+  "updatedAt": "2026-10-15T03:48:59.627Z",
   "entries": [
+    {
+      "id": "u_df5ac92d",
+      "sentAt": "2026-10-15T03:48:59.627Z",
+      "title": "Tencent Cloud Rogue Agent Fleet: What Researchers Found"
+    },
+    {
+      "id": "u_79d65e3e",
+      "sentAt": "2026-10-15T03:48:59.627Z",
+      "title": "RISE Study: Newer AI Image Models Easier to Jailbreak"
+    },
+    {
+      "id": "u_25242b03",
+      "sentAt": "2026-10-15T03:48:59.627Z",
+      "title": "Iowa sues OpenAI over ChatGPT child safety - The Gazette"
+    },
+    {
+      "id": "u_2d274446",
+      "sentAt": "2026-10-15T03:48:59.627Z",
+      "title": "The Most Common Questions About Agent Evals, Answered"
+    },
+    {
+      "id": "u_1bafd2fd",
+      "sentAt": "2026-10-15T03:48:59.627Z",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis"
+    },
     {
       "id": "u_5425f4c2",
       "sentAt": "2026-10-14T23:03:46.608Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e43e9fc3",
       "sentAt": "2026-08-31T17:27:18.818Z",
       "title": "b10723"
-    },
-    {
-      "id": "u_7565f9b8",
-      "sentAt": "2026-08-31T08:19:33.522Z",
-      "title": "AI Agents Help Treasurers Move Faster - PYMNTS.com"
-    },
-    {
-      "id": "u_e6a818d0",
-      "sentAt": "2026-08-31T08:19:33.522Z",
-      "title": "AI training-data filtering linked to stronger results after GRPO"
-    },
-    {
-      "id": "u_84bcf2c0",
-      "sentAt": "2026-08-31T08:19:33.522Z",
-      "title": "FSB Chair warns of risks arising from frontier Artificial Intelligence (AI) models - Financial Stability Board"
-    },
-    {
-      "id": "u_871cf8dc",
-      "sentAt": "2026-08-31T08:19:33.522Z",
-      "title": "Advanced AI threatens global financial stability, says Bank of England boss"
-    },
-    {
-      "id": "u_20e08dcf",
-      "sentAt": "2026-08-31T08:19:33.522Z",
-      "title": "b10712"
     }
   ]
 }
