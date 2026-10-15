@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-15T14:44:42.781Z",
+  "updatedAt": "2026-10-15T19:45:50.899Z",
   "entries": [
+    {
+      "id": "u_3ae8f86",
+      "sentAt": "2026-10-15T19:45:50.899Z",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access"
+    },
+    {
+      "id": "u_d81cd82d",
+      "sentAt": "2026-10-15T19:45:50.899Z",
+      "title": "Anthropic just opened its doors to outside safety watchdogs. Here's how it will work."
+    },
+    {
+      "id": "u_fb015e9",
+      "sentAt": "2026-10-15T19:45:50.899Z",
+      "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race"
+    },
+    {
+      "id": "u_f30d151c",
+      "sentAt": "2026-10-15T19:45:50.899Z",
+      "title": "langchain-core==1.6.11"
+    },
+    {
+      "id": "u_1a9e0a24",
+      "sentAt": "2026-10-15T19:45:50.899Z",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs"
+    },
     {
       "id": "u_3e1d000",
       "sentAt": "2026-10-15T14:44:42.781Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7fea94b8",
       "sentAt": "2026-09-01T11:19:51.336Z",
       "title": "China’s AI Rally Is Real. Most Global Investors Are Missing It."
-    },
-    {
-      "id": "u_f85a4064",
-      "sentAt": "2026-09-01T04:13:44.095Z",
-      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making"
-    },
-    {
-      "id": "u_6cbf94a1",
-      "sentAt": "2026-09-01T04:13:44.095Z",
-      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification"
-    },
-    {
-      "id": "u_450b1aaf",
-      "sentAt": "2026-09-01T04:13:44.095Z",
-      "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences"
-    },
-    {
-      "id": "u_d3fc0865",
-      "sentAt": "2026-09-01T04:13:44.095Z",
-      "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis"
-    },
-    {
-      "id": "u_7f5de654",
-      "sentAt": "2026-09-01T04:13:44.095Z",
-      "title": "SHAPE of Chain-of-Thought in Math Reasoning"
     }
   ]
 }
