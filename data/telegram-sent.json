@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-15T08:59:23.970Z",
+  "updatedAt": "2026-10-15T14:44:42.781Z",
   "entries": [
+    {
+      "id": "u_3e1d000",
+      "sentAt": "2026-10-15T14:44:42.781Z",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops"
+    },
+    {
+      "id": "u_2346d48",
+      "sentAt": "2026-10-15T14:44:42.781Z",
+      "title": "Google’s Universal Cart shopping tool launches in the US"
+    },
+    {
+      "id": "u_2a1fb95e",
+      "sentAt": "2026-10-15T14:44:42.781Z",
+      "title": "Building AI Applications with OGX, the Open-Source Agentic API Server"
+    },
+    {
+      "id": "u_c7146b1",
+      "sentAt": "2026-10-15T14:44:42.781Z",
+      "title": "XDC Network integrates Concordium identity verification for AI agents - The Next Web"
+    },
+    {
+      "id": "u_556011d",
+      "sentAt": "2026-10-15T14:44:42.781Z",
+      "title": "ServiceNow adds AI agent controls and employee automation tools"
+    },
     {
       "id": "u_9461e3db",
       "sentAt": "2026-10-15T08:59:23.970Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7f5de654",
       "sentAt": "2026-09-01T04:13:44.095Z",
       "title": "SHAPE of Chain-of-Thought in Math Reasoning"
-    },
-    {
-      "id": "u_b41d3a04",
-      "sentAt": "2026-08-31T22:38:31.039Z",
-      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting"
-    },
-    {
-      "id": "u_9b4c9613",
-      "sentAt": "2026-08-31T22:38:31.039Z",
-      "title": "AI Theorem Provers Struggle to Turn Math Answers Into Proofs"
-    },
-    {
-      "id": "u_bf3b4e23",
-      "sentAt": "2026-08-31T22:38:31.039Z",
-      "title": "One AI auditor setup scored above a baseline, but results varied"
-    },
-    {
-      "id": "u_d5fd1d54",
-      "sentAt": "2026-08-31T22:38:31.039Z",
-      "title": "Direct Neural Predictors Beat Generative Models in Rarefied-Flow Test"
-    },
-    {
-      "id": "u_29dd21e3",
-      "sentAt": "2026-08-31T22:38:31.039Z",
-      "title": "b10727"
     }
   ]
 }
