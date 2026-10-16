@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-16T08:50:43.985Z",
+  "updatedAt": "2026-10-16T14:38:58.098Z",
   "entries": [
+    {
+      "id": "u_21c3647b",
+      "sentAt": "2026-10-16T14:38:58.098Z",
+      "title": "Agentic RAG vs. Naive RAG: When Your Retrieval System Should Think for Itself"
+    },
+    {
+      "id": "u_6b93a950",
+      "sentAt": "2026-10-16T14:38:58.098Z",
+      "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided"
+    },
+    {
+      "id": "u_989a3c9",
+      "sentAt": "2026-10-16T14:38:58.098Z",
+      "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided"
+    },
+    {
+      "id": "u_6008926d",
+      "sentAt": "2026-10-16T14:38:58.098Z",
+      "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year"
+    },
+    {
+      "id": "u_1dffe8d2",
+      "sentAt": "2026-10-16T14:38:58.098Z",
+      "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year"
+    },
     {
       "id": "u_9fa5803a",
       "sentAt": "2026-10-16T08:50:43.985Z",
@@ -4975,31 +5000,6 @@
       "id": "u_37a664fa",
       "sentAt": "2026-09-02T03:36:32.111Z",
       "title": "PayPal's Agent Authorization Model Explained - startuphub.ai"
-    },
-    {
-      "id": "u_8e386f82",
-      "sentAt": "2026-09-01T23:52:50.331Z",
-      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work"
-    },
-    {
-      "id": "u_dba9ab3e",
-      "sentAt": "2026-09-01T23:52:50.331Z",
-      "title": "v1.101.0-dev.1"
-    },
-    {
-      "id": "u_60422d22",
-      "sentAt": "2026-09-01T23:52:50.331Z",
-      "title": "OpenAI to launch new model with ‘stronger safeguards’ after hack - BNN Bloomberg"
-    },
-    {
-      "id": "u_e13694b9",
-      "sentAt": "2026-09-01T23:52:50.331Z",
-      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems"
-    },
-    {
-      "id": "u_f29a5b5d",
-      "sentAt": "2026-09-01T23:52:50.331Z",
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack"
     }
   ]
 }
