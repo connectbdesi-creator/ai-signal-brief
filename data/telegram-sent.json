@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-16T14:38:58.098Z",
+  "updatedAt": "2026-10-16T19:26:34.716Z",
   "entries": [
+    {
+      "id": "u_e299876a",
+      "sentAt": "2026-10-16T19:26:34.716Z",
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs"
+    },
+    {
+      "id": "u_fcce8b44",
+      "sentAt": "2026-10-16T19:26:34.716Z",
+      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs"
+    },
+    {
+      "id": "u_f45aed10",
+      "sentAt": "2026-10-16T19:26:34.716Z",
+      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs"
+    },
+    {
+      "id": "u_2db149ab",
+      "sentAt": "2026-10-16T19:26:34.716Z",
+      "title": "A Unified Data Plane For Agentic AI"
+    },
+    {
+      "id": "u_ca0ff7bc",
+      "sentAt": "2026-10-16T19:26:34.716Z",
+      "title": "b11700: model : Granite Switch Decision (#30676)"
+    },
     {
       "id": "u_21c3647b",
       "sentAt": "2026-10-16T14:38:58.098Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5cf4e322",
       "sentAt": "2026-09-02T08:34:24.066Z",
       "title": "v1.99.1"
-    },
-    {
-      "id": "u_4c16da14",
-      "sentAt": "2026-09-02T03:36:32.111Z",
-      "title": "AI Unlearning Method Targets Identity Recall While Preserving Visual Answers"
-    },
-    {
-      "id": "u_784f17b7",
-      "sentAt": "2026-09-02T03:36:32.111Z",
-      "title": "b10752"
-    },
-    {
-      "id": "u_2139f5bb",
-      "sentAt": "2026-09-02T03:36:32.111Z",
-      "title": "Health AI papers often omit how their agents are built and governed"
-    },
-    {
-      "id": "u_3bcf669d",
-      "sentAt": "2026-09-02T03:36:32.111Z",
-      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others"
-    },
-    {
-      "id": "u_37a664fa",
-      "sentAt": "2026-09-02T03:36:32.111Z",
-      "title": "PayPal's Agent Authorization Model Explained - startuphub.ai"
     }
   ]
 }
