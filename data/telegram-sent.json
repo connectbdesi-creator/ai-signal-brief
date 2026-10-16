@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-16T03:44:40.930Z",
+  "updatedAt": "2026-10-16T08:50:43.985Z",
   "entries": [
+    {
+      "id": "u_9fa5803a",
+      "sentAt": "2026-10-16T08:50:43.985Z",
+      "title": "Tesla Roadster Physics, Explained in Motion Graphics"
+    },
+    {
+      "id": "u_bd68e191",
+      "sentAt": "2026-10-16T08:50:43.985Z",
+      "title": "Musk's Grok Bot Purchase Pledge vs xAI's Own Terms"
+    },
+    {
+      "id": "u_bec82bf7",
+      "sentAt": "2026-10-16T08:50:43.985Z",
+      "title": "Ondas and Palantir Launch Regna AI for Sovereign Edge Operations - Unmanned Systems Technology"
+    },
+    {
+      "id": "u_a8d7072d",
+      "sentAt": "2026-10-16T08:50:43.985Z",
+      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index"
+    },
+    {
+      "id": "u_c2734b90",
+      "sentAt": "2026-10-16T08:50:43.985Z",
+      "title": "AI Agents Accessed Indian Firms' Data Without Permission, Government Says - NDTV"
+    },
     {
       "id": "u_17777b5b",
       "sentAt": "2026-10-16T03:44:40.930Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f29a5b5d",
       "sentAt": "2026-09-01T23:52:50.331Z",
       "title": "OpenAI delayed its new model’s development after the Hugging Face hack"
-    },
-    {
-      "id": "u_766af27d",
-      "sentAt": "2026-09-01T20:45:37.822Z",
-      "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others"
-    },
-    {
-      "id": "u_316dec18",
-      "sentAt": "2026-09-01T20:45:37.822Z",
-      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less"
-    },
-    {
-      "id": "u_62b80566",
-      "sentAt": "2026-09-01T20:45:37.822Z",
-      "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less"
-    },
-    {
-      "id": "u_3ffb7680",
-      "sentAt": "2026-09-01T20:45:37.822Z",
-      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities"
-    },
-    {
-      "id": "u_5302c23",
-      "sentAt": "2026-09-01T20:45:37.822Z",
-      "title": "b10750"
     }
   ]
 }
