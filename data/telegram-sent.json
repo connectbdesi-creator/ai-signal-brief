@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-15T22:56:59.663Z",
+  "updatedAt": "2026-10-16T03:44:40.930Z",
   "entries": [
+    {
+      "id": "u_17777b5b",
+      "sentAt": "2026-10-16T03:44:40.930Z",
+      "title": "Perplexity SPACE: The Open-Source Agent Sandbox, Tested"
+    },
+    {
+      "id": "u_b0fd3ee6",
+      "sentAt": "2026-10-16T03:44:40.930Z",
+      "title": "G7 to launch exercises to guard against AI cyber attacks - Reuters"
+    },
+    {
+      "id": "u_3d72ec3b",
+      "sentAt": "2026-10-16T03:44:40.930Z",
+      "title": "b11675"
+    },
+    {
+      "id": "u_3204690c",
+      "sentAt": "2026-10-16T03:44:40.930Z",
+      "title": "AI agents on Tencent Cloud try to break into Alibaba’s Amap: researchers - South China Morning Post"
+    },
+    {
+      "id": "u_1b489e33",
+      "sentAt": "2026-10-16T03:44:40.930Z",
+      "title": "5 AI Marketing Shifts Every CMO Should Be Watching In 2027"
+    },
     {
       "id": "u_d3991386",
       "sentAt": "2026-10-15T22:56:59.663Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5302c23",
       "sentAt": "2026-09-01T20:45:37.822Z",
       "title": "b10750"
-    },
-    {
-      "id": "u_9e26a67b",
-      "sentAt": "2026-09-01T16:17:00.829Z",
-      "title": "John Deere launched an AI chatbot for farmers"
-    },
-    {
-      "id": "u_55cb8d87",
-      "sentAt": "2026-09-01T16:17:00.829Z",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace"
-    },
-    {
-      "id": "u_fe2fc37d",
-      "sentAt": "2026-09-01T16:17:00.829Z",
-      "title": "Google Pics is like Canva, but with even more AI"
-    },
-    {
-      "id": "u_2d366a42",
-      "sentAt": "2026-09-01T16:17:00.829Z",
-      "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]"
-    },
-    {
-      "id": "u_cec50807",
-      "sentAt": "2026-09-01T16:17:00.829Z",
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use"
     }
   ]
 }
