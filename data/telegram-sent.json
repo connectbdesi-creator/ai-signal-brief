@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-16T19:26:34.716Z",
+  "updatedAt": "2026-10-16T22:40:18.057Z",
   "entries": [
+    {
+      "id": "u_eb7ff747",
+      "sentAt": "2026-10-16T22:40:18.057Z",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang"
+    },
+    {
+      "id": "u_a7cd115",
+      "sentAt": "2026-10-16T22:40:18.057Z",
+      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_25a7b32e",
+      "sentAt": "2026-10-16T22:40:18.057Z",
+      "title": "Utah AI sandbox launches new health care pilots — with question marks - Nextgov/FCW"
+    },
+    {
+      "id": "u_88a8e2d4",
+      "sentAt": "2026-10-16T22:40:18.057Z",
+      "title": "langchain-core==1.6.12"
+    },
+    {
+      "id": "u_b4cd15c7",
+      "sentAt": "2026-10-16T22:40:18.057Z",
+      "title": "India becomes the latest country to report rogue AI agent activity"
+    },
     {
       "id": "u_e299876a",
       "sentAt": "2026-10-16T19:26:34.716Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e74ca69",
       "sentAt": "2026-09-02T14:11:28.252Z",
       "title": "What kinds of ML bottlenecks are a good fit for Triton? [Manning giveaway] [D]"
-    },
-    {
-      "id": "u_a29dbe2f",
-      "sentAt": "2026-09-02T08:34:24.066Z",
-      "title": "b10756"
-    },
-    {
-      "id": "u_a6e9ca3c",
-      "sentAt": "2026-09-02T08:34:24.066Z",
-      "title": "Which one will you choose and why, between R9700 32GB vs W7800 48GB?"
-    },
-    {
-      "id": "u_498950b3",
-      "sentAt": "2026-09-02T08:34:24.066Z",
-      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens"
-    },
-    {
-      "id": "u_d6778ed3",
-      "sentAt": "2026-09-02T08:34:24.066Z",
-      "title": "b10754"
-    },
-    {
-      "id": "u_5cf4e322",
-      "sentAt": "2026-09-02T08:34:24.066Z",
-      "title": "v1.99.1"
     }
   ]
 }
