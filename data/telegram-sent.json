@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-17T13:31:03.820Z",
+  "updatedAt": "2026-10-17T16:54:35.130Z",
   "entries": [
+    {
+      "id": "u_dc14e537",
+      "sentAt": "2026-10-17T16:54:35.130Z",
+      "title": "Preprint reports strong results for a multimodal UAV vision system"
+    },
+    {
+      "id": "u_5e3555f0",
+      "sentAt": "2026-10-17T16:54:35.130Z",
+      "title": "Why Britain should reject the lure of cheap – and scary – Chinese AI"
+    },
+    {
+      "id": "u_19351cbb",
+      "sentAt": "2026-10-17T16:54:35.130Z",
+      "title": "ServiceNow AI Control Tower: Selling a penthouse while building the frame"
+    },
+    {
+      "id": "u_f46cf208",
+      "sentAt": "2026-10-17T16:54:35.130Z",
+      "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]"
+    },
+    {
+      "id": "u_ae33e818",
+      "sentAt": "2026-10-17T16:54:35.130Z",
+      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes"
+    },
     {
       "id": "u_c08f0603",
       "sentAt": "2026-10-17T13:31:03.820Z",
@@ -4975,31 +5000,6 @@
       "id": "u_44e2406b",
       "sentAt": "2026-09-03T08:42:25.591Z",
       "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training"
-    },
-    {
-      "id": "u_77ed4bbb",
-      "sentAt": "2026-09-03T03:35:42.794Z",
-      "title": "b10775"
-    },
-    {
-      "id": "u_61605c65",
-      "sentAt": "2026-09-03T03:35:42.794Z",
-      "title": "Scaling Agents in Europe & The Middle East: Lessons from Schneider Electric, Vodafone, and monday.com"
-    },
-    {
-      "id": "u_51fa19cf",
-      "sentAt": "2026-09-03T03:35:42.794Z",
-      "title": "b10774"
-    },
-    {
-      "id": "u_4c01312b",
-      "sentAt": "2026-09-03T03:35:42.794Z",
-      "title": "b10771"
-    },
-    {
-      "id": "u_f93ad7b7",
-      "sentAt": "2026-09-03T03:35:42.794Z",
-      "title": "b10770"
     }
   ]
 }
