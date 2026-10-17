@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-17T16:54:35.130Z",
+  "updatedAt": "2026-10-17T20:18:32.756Z",
   "entries": [
+    {
+      "id": "u_89621bc2",
+      "sentAt": "2026-10-17T20:18:32.756Z",
+      "title": "Replit is no longer working with Anthropic, CEO says"
+    },
+    {
+      "id": "u_305fea66",
+      "sentAt": "2026-10-17T20:18:32.756Z",
+      "title": "v1.103.5"
+    },
+    {
+      "id": "u_77a2844d",
+      "sentAt": "2026-10-17T20:18:32.756Z",
+      "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes"
+    },
+    {
+      "id": "u_724c86af",
+      "sentAt": "2026-10-17T20:18:32.756Z",
+      "title": "b11712"
+    },
+    {
+      "id": "u_4a5c1720",
+      "sentAt": "2026-10-17T20:18:32.756Z",
+      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs"
+    },
     {
       "id": "u_dc14e537",
       "sentAt": "2026-10-17T16:54:35.130Z",
@@ -4975,31 +5000,6 @@
       "id": "u_937b02ce",
       "sentAt": "2026-09-03T14:14:29.662Z",
       "title": "Nvidia is buying Hugging Face for almost $13 billion"
-    },
-    {
-      "id": "u_54828bd9",
-      "sentAt": "2026-09-03T08:42:25.591Z",
-      "title": "Anker Unveils THUS AI Chip Across Five Audio Models At IFA 2026"
-    },
-    {
-      "id": "u_74ef6d7b",
-      "sentAt": "2026-09-03T08:42:25.591Z",
-      "title": "Philips Hue IFA 2026 Bumper Launch: Everything You Need To Know"
-    },
-    {
-      "id": "u_ae724ae6",
-      "sentAt": "2026-09-03T08:42:25.591Z",
-      "title": "Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Qwen3.6-35B-A3B on Apple Silicon"
-    },
-    {
-      "id": "u_a47e1c61",
-      "sentAt": "2026-09-03T08:42:25.591Z",
-      "title": "To keep the AI hacking genie bottled up, try one-way networks"
-    },
-    {
-      "id": "u_44e2406b",
-      "sentAt": "2026-09-03T08:42:25.591Z",
-      "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training"
     }
   ]
 }
