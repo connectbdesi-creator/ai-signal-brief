@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-17T03:35:01.677Z",
+  "updatedAt": "2026-10-17T08:21:31.838Z",
   "entries": [
+    {
+      "id": "u_737592e0",
+      "sentAt": "2026-10-17T08:21:31.838Z",
+      "title": "Claude Writes 90% of Claude Code: How Review Keeps Up"
+    },
+    {
+      "id": "u_1ccd3061",
+      "sentAt": "2026-10-17T08:21:31.838Z",
+      "title": "China AI Export Controls: 2T Models and Agents Listed"
+    },
+    {
+      "id": "u_2f7250a3",
+      "sentAt": "2026-10-17T08:21:31.838Z",
+      "title": "Anthropic's Draft AI Safety Bill: What It Would Do"
+    },
+    {
+      "id": "u_42288853",
+      "sentAt": "2026-10-17T08:21:31.838Z",
+      "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026"
+    },
+    {
+      "id": "u_a012b3dc",
+      "sentAt": "2026-10-17T08:21:31.838Z",
+      "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context"
+    },
     {
       "id": "u_e4eba9af",
       "sentAt": "2026-10-17T03:35:01.677Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e58b7cab",
       "sentAt": "2026-09-02T22:27:17.315Z",
       "title": "b10764"
-    },
-    {
-      "id": "u_29da6dac",
-      "sentAt": "2026-09-02T19:17:18.555Z",
-      "title": "Artificial Intelligence News: MoneySimpler Launches AI Trading App for Automated Global Stock and Forex Investing - StreetInsider"
-    },
-    {
-      "id": "u_23e621a6",
-      "sentAt": "2026-09-02T19:17:18.555Z",
-      "title": "In 2005, Jeff Bezos launched a platform he called “artificial artificial intelligence” that once had more than 500,000 workers. Amazon is now shutting it down - The Economic Times"
-    },
-    {
-      "id": "u_728a3afd",
-      "sentAt": "2026-09-02T19:17:18.555Z",
-      "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs"
-    },
-    {
-      "id": "u_964c2d2e",
-      "sentAt": "2026-09-02T19:17:18.555Z",
-      "title": "AI Agent Study Finds Smarter Testing Can Beat More Rollouts"
-    },
-    {
-      "id": "u_ff44ac",
-      "sentAt": "2026-09-02T19:17:18.555Z",
-      "title": "Smaller AI models’ mistakes guide stronger systems on tests"
     }
   ]
 }
