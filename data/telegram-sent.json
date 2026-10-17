@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-17T08:21:31.838Z",
+  "updatedAt": "2026-10-17T13:31:03.820Z",
   "entries": [
+    {
+      "id": "u_c08f0603",
+      "sentAt": "2026-10-17T13:31:03.820Z",
+      "title": "b11711"
+    },
+    {
+      "id": "u_e2c33a1f",
+      "sentAt": "2026-10-17T13:31:03.820Z",
+      "title": "Websites are closing their doors to AI agents"
+    },
+    {
+      "id": "u_c364e3f",
+      "sentAt": "2026-10-17T13:31:03.820Z",
+      "title": "b11710"
+    },
+    {
+      "id": "u_d4d73c70",
+      "sentAt": "2026-10-17T13:31:03.820Z",
+      "title": "Exclusive: Musk tells Isaacson \"AI and robots\" will need to fix deficit"
+    },
+    {
+      "id": "u_53cd48e3",
+      "sentAt": "2026-10-17T13:31:03.820Z",
+      "title": "b11709: model : add Kolibri-1 (Aleph-Alpha) support (#30673)"
+    },
     {
       "id": "u_737592e0",
       "sentAt": "2026-10-17T08:21:31.838Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f93ad7b7",
       "sentAt": "2026-09-03T03:35:42.794Z",
       "title": "b10770"
-    },
-    {
-      "id": "u_fe90b823",
-      "sentAt": "2026-09-02T22:27:17.315Z",
-      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-Region inference"
-    },
-    {
-      "id": "u_4c00f09b",
-      "sentAt": "2026-09-02T22:27:17.315Z",
-      "title": "b10766"
-    },
-    {
-      "id": "u_b445ecd2",
-      "sentAt": "2026-09-02T22:27:17.315Z",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts"
-    },
-    {
-      "id": "u_b1a35b55",
-      "sentAt": "2026-09-02T22:27:17.315Z",
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more"
-    },
-    {
-      "id": "u_e58b7cab",
-      "sentAt": "2026-09-02T22:27:17.315Z",
-      "title": "b10764"
     }
   ]
 }
