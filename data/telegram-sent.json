@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-16T22:40:18.057Z",
+  "updatedAt": "2026-10-17T03:35:01.677Z",
   "entries": [
+    {
+      "id": "u_e4eba9af",
+      "sentAt": "2026-10-17T03:35:01.677Z",
+      "title": "Anthropic Quietly Pushes AI Safety Bill That Would Limit Government Power to Block Dangerous Models - Law Commentary"
+    },
+    {
+      "id": "u_f9423bc8",
+      "sentAt": "2026-10-17T03:35:01.677Z",
+      "title": "Microsoft reveals cutting-edge MAI-Base-2 model with 2T parameters"
+    },
+    {
+      "id": "u_6c513729",
+      "sentAt": "2026-10-17T03:35:01.677Z",
+      "title": "v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)"
+    },
+    {
+      "id": "u_9300f2b7",
+      "sentAt": "2026-10-17T03:35:01.677Z",
+      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents"
+    },
+    {
+      "id": "u_a04acb28",
+      "sentAt": "2026-10-17T03:35:01.677Z",
+      "title": "Reflection AI open-sources Beam’s weights, post-training recipes"
+    },
     {
       "id": "u_eb7ff747",
       "sentAt": "2026-10-16T22:40:18.057Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ff44ac",
       "sentAt": "2026-09-02T19:17:18.555Z",
       "title": "Smaller AI models’ mistakes guide stronger systems on tests"
-    },
-    {
-      "id": "u_f71d536c",
-      "sentAt": "2026-09-02T14:11:28.252Z",
-      "title": "Why AI Agents Are The Identity Crisis Nobody's Logging"
-    },
-    {
-      "id": "u_debf8acf",
-      "sentAt": "2026-09-02T14:11:28.252Z",
-      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos"
-    },
-    {
-      "id": "u_66c51a43",
-      "sentAt": "2026-09-02T14:11:28.252Z",
-      "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos"
-    },
-    {
-      "id": "u_63497610",
-      "sentAt": "2026-09-02T14:11:28.252Z",
-      "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]"
-    },
-    {
-      "id": "u_5e74ca69",
-      "sentAt": "2026-09-02T14:11:28.252Z",
-      "title": "What kinds of ML bottlenecks are a good fit for Triton? [Manning giveaway] [D]"
     }
   ]
 }
