@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-17T20:18:32.756Z",
+  "updatedAt": "2026-10-17T23:51:20.550Z",
   "entries": [
+    {
+      "id": "u_f4b8dd13",
+      "sentAt": "2026-10-17T23:51:20.550Z",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive"
+    },
+    {
+      "id": "u_7710b786",
+      "sentAt": "2026-10-17T23:51:20.550Z",
+      "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation"
+    },
+    {
+      "id": "u_db3a084d",
+      "sentAt": "2026-10-17T23:51:20.550Z",
+      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs"
+    },
+    {
+      "id": "u_4d08a622",
+      "sentAt": "2026-10-17T23:51:20.550Z",
+      "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help"
+    },
     {
       "id": "u_89621bc2",
       "sentAt": "2026-10-17T20:18:32.756Z",
@@ -4980,26 +5000,6 @@
       "id": "u_f584f22a",
       "sentAt": "2026-09-03T14:14:29.662Z",
       "title": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness"
-    },
-    {
-      "id": "u_1631ebcd",
-      "sentAt": "2026-09-03T14:14:29.662Z",
-      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here"
-    },
-    {
-      "id": "u_e66d95ef",
-      "sentAt": "2026-09-03T14:14:29.662Z",
-      "title": "b10786"
-    },
-    {
-      "id": "u_9b413f33",
-      "sentAt": "2026-09-03T14:14:29.662Z",
-      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI"
-    },
-    {
-      "id": "u_937b02ce",
-      "sentAt": "2026-09-03T14:14:29.662Z",
-      "title": "Nvidia is buying Hugging Face for almost $13 billion"
     }
   ]
 }
