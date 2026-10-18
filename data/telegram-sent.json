@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-18T20:18:09.175Z",
+  "updatedAt": "2026-10-18T23:59:29.262Z",
   "entries": [
+    {
+      "id": "u_6798adf6",
+      "sentAt": "2026-10-18T23:59:29.262Z",
+      "title": "Little Sweet Room Challenge | Strata Fork | Qwen 3.8 FN NVFP4 | DeepSeek Harness"
+    },
+    {
+      "id": "u_9f067e75",
+      "sentAt": "2026-10-18T23:59:29.262Z",
+      "title": "DeepSeek releases updated V4.1-Flash model it says completes tasks faster"
+    },
+    {
+      "id": "u_bc4efa97",
+      "sentAt": "2026-10-18T23:59:29.262Z",
+      "title": "Google Open Sources Harness2 for Self Improving AI Agents"
+    },
+    {
+      "id": "u_3464f87b",
+      "sentAt": "2026-10-18T23:59:29.262Z",
+      "title": "Veer records fewer deceptive outcomes in web-agent tests"
+    },
+    {
+      "id": "u_cb8e8a38",
+      "sentAt": "2026-10-18T23:59:29.262Z",
+      "title": "AI training filter shows benchmark gains, but costs more compute"
+    },
     {
       "id": "u_33ac7367",
       "sentAt": "2026-10-18T20:18:09.175Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9c99d309",
       "sentAt": "2026-09-04T14:05:02.254Z",
       "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
-    },
-    {
-      "id": "u_3c851cb1",
-      "sentAt": "2026-09-04T14:05:02.254Z",
-      "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
-    },
-    {
-      "id": "u_79f4127c",
-      "sentAt": "2026-09-04T14:05:02.254Z",
-      "title": "5 Free LLM API Providers You Can Use in 2026"
-    },
-    {
-      "id": "u_f20163dc",
-      "sentAt": "2026-09-04T14:05:02.254Z",
-      "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward"
-    },
-    {
-      "id": "u_d9632bd0",
-      "sentAt": "2026-09-04T14:05:02.254Z",
-      "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward"
-    },
-    {
-      "id": "u_130e6f8e",
-      "sentAt": "2026-09-04T08:37:58.464Z",
-      "title": "OpenAI unveils GPT-6 Astra, says it may have reached human-level AI - Ynetnews"
     }
   ]
 }
