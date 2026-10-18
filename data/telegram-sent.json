@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-18T13:49:59.015Z",
+  "updatedAt": "2026-10-18T17:09:24.910Z",
   "entries": [
+    {
+      "id": "u_60e3b5dd",
+      "sentAt": "2026-10-18T17:09:24.910Z",
+      "title": "Proof Before Reuse: showing agents only what later sessions reproduced keeps a poisoned skill out of procedural memory [R]"
+    },
+    {
+      "id": "u_380c4168",
+      "sentAt": "2026-10-18T17:09:24.910Z",
+      "title": "Formal Specifications for AI Coding Agents, End to End"
+    },
+    {
+      "id": "u_b02ab056",
+      "sentAt": "2026-10-18T17:09:24.910Z",
+      "title": "Teradyne launches edge artificial intelligence tester: what it means for Teradyne stock - ad-hoc-news.de"
+    },
+    {
+      "id": "u_841456d1",
+      "sentAt": "2026-10-18T17:09:24.910Z",
+      "title": "AI companies scraped the web. Now they want to learn how you work."
+    },
+    {
+      "id": "u_37932bf2",
+      "sentAt": "2026-10-18T17:09:24.910Z",
+      "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model - Tom's Hardware"
+    },
     {
       "id": "u_f68a96a1",
       "sentAt": "2026-10-18T13:49:59.015Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f5239446",
       "sentAt": "2026-09-04T03:36:24.079Z",
       "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour"
-    },
-    {
-      "id": "u_a4450d05",
-      "sentAt": "2026-09-04T03:36:24.079Z",
-      "title": "OpenAI begins rollout of new powerful AI model GPT-6 Astra - Yahoo News Singapore"
-    },
-    {
-      "id": "u_9e0c9f34",
-      "sentAt": "2026-09-04T03:36:24.079Z",
-      "title": "v1.101.0-dev.2"
-    },
-    {
-      "id": "u_145e4a67",
-      "sentAt": "2026-09-04T03:36:24.079Z",
-      "title": "OpenAI unveiled GPT-6 Astra – access to the most powerful model will initially not be available to everyone - Українські Національні Новини (УНН)"
-    },
-    {
-      "id": "u_394bc9d0",
-      "sentAt": "2026-09-04T03:36:24.079Z",
-      "title": "OpenAI throws Astra into the top-tier model ring"
-    },
-    {
-      "id": "u_f4bedecf",
-      "sentAt": "2026-09-03T22:24:28.607Z",
-      "title": "b10793"
     }
   ]
 }
