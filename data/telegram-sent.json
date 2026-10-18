@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-17T23:51:20.550Z",
+  "updatedAt": "2026-10-18T08:41:34.253Z",
   "entries": [
+    {
+      "id": "u_7fa95936",
+      "sentAt": "2026-10-18T08:41:34.253Z",
+      "title": "OpenAI Aurora Models: Three New Alphas, No Docs Yet"
+    },
+    {
+      "id": "u_aa25dc18",
+      "sentAt": "2026-10-18T08:41:34.253Z",
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office"
+    },
+    {
+      "id": "u_2e7f9973",
+      "sentAt": "2026-10-18T08:41:34.253Z",
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office"
+    },
+    {
+      "id": "u_71fa7e26",
+      "sentAt": "2026-10-18T08:41:34.253Z",
+      "title": "v1.107.0-rc.1"
+    },
+    {
+      "id": "u_2e2ad1ce",
+      "sentAt": "2026-10-18T08:41:34.253Z",
+      "title": "v1.106.0"
+    },
     {
       "id": "u_f4b8dd13",
       "sentAt": "2026-10-17T23:51:20.550Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1a7f4af9",
       "sentAt": "2026-09-03T19:11:17.658Z",
       "title": "OpenAI launches Astra AI model - Latest news from Azerbaijan"
-    },
-    {
-      "id": "u_92aae74",
-      "sentAt": "2026-09-03T19:11:17.658Z",
-      "title": "OpenAI launches GPT-6 Astra, claims 'generational leap' - Breakingthenews.net"
-    },
-    {
-      "id": "u_c8ddb5b7",
-      "sentAt": "2026-09-03T19:11:17.658Z",
-      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety - Reuters"
-    },
-    {
-      "id": "u_cc7c5868",
-      "sentAt": "2026-09-03T19:11:17.658Z",
-      "title": "Meta is paying to peek at how you use their latest AI model"
-    },
-    {
-      "id": "u_8334680c",
-      "sentAt": "2026-09-03T19:11:17.658Z",
-      "title": "Nvidia buying AI startup that was hacked by rogue OpenAI agents - KRON4"
-    },
-    {
-      "id": "u_f584f22a",
-      "sentAt": "2026-09-03T14:14:29.662Z",
-      "title": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness"
     }
   ]
 }
