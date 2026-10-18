@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-18T17:09:24.910Z",
+  "updatedAt": "2026-10-18T20:18:09.175Z",
   "entries": [
+    {
+      "id": "u_33ac7367",
+      "sentAt": "2026-10-18T20:18:09.175Z",
+      "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies."
+    },
+    {
+      "id": "u_19d17171",
+      "sentAt": "2026-10-18T20:18:09.175Z",
+      "title": "Embedding model can be used to search text inside image"
+    },
+    {
+      "id": "u_f73e297e",
+      "sentAt": "2026-10-18T20:18:09.175Z",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web"
+    },
+    {
+      "id": "u_ae0081ab",
+      "sentAt": "2026-10-18T20:18:09.175Z",
+      "title": "b11721"
+    },
+    {
+      "id": "u_2c4ccf59",
+      "sentAt": "2026-10-18T20:18:09.175Z",
+      "title": "Teradyne launches edge artificial intelligence tester: what it means for Teradyne stock - ad-hoc-news.de"
+    },
     {
       "id": "u_60e3b5dd",
       "sentAt": "2026-10-18T17:09:24.910Z",
@@ -4975,31 +5000,6 @@
       "id": "u_130e6f8e",
       "sentAt": "2026-09-04T08:37:58.464Z",
       "title": "OpenAI unveils GPT-6 Astra, says it may have reached human-level AI - Ynetnews"
-    },
-    {
-      "id": "u_f63ed5d0",
-      "sentAt": "2026-09-04T08:37:58.464Z",
-      "title": "OpenAI Launches 'World's Most Intelligent' AI Model GPT-6 Astra - ndtv.com"
-    },
-    {
-      "id": "u_7bcb6d6f",
-      "sentAt": "2026-09-04T08:37:58.464Z",
-      "title": "OpenAI unveils GPT-6 Astra: Here’s what this new model can do - Gulf Business"
-    },
-    {
-      "id": "u_9aa27b94",
-      "sentAt": "2026-09-04T08:37:58.464Z",
-      "title": "August newsletter is out"
-    },
-    {
-      "id": "u_6c4dcb",
-      "sentAt": "2026-09-04T08:37:58.464Z",
-      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time"
-    },
-    {
-      "id": "u_f5239446",
-      "sentAt": "2026-09-04T03:36:24.079Z",
-      "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour"
     }
   ]
 }
