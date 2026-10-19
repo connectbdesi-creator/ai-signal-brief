@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-18T23:59:29.262Z",
+  "updatedAt": "2026-10-19T04:27:17.144Z",
   "entries": [
+    {
+      "id": "u_5142574a",
+      "sentAt": "2026-10-19T04:27:17.144Z",
+      "title": "Cursor Probed Whether Customer Data Reached SpaceX Training"
+    },
+    {
+      "id": "u_53dd858a",
+      "sentAt": "2026-10-19T04:27:17.144Z",
+      "title": "When is a large language model a good calibration agent? Physics-labeled prompting for budgeted engineering simulator calibration"
+    },
+    {
+      "id": "u_b9b5b44c",
+      "sentAt": "2026-10-19T04:27:17.144Z",
+      "title": "Rank Measures of Fine-Tuning Updates Need a Noise Baseline"
+    },
+    {
+      "id": "u_eaf70892",
+      "sentAt": "2026-10-19T04:27:17.144Z",
+      "title": "Sparse Autoencoders Can Induce Local Geometry for Mitigating Catastrophic Forgetting"
+    },
+    {
+      "id": "u_568e0230",
+      "sentAt": "2026-10-19T04:27:17.144Z",
+      "title": "Operon: Incremental Construction of Ragged Data via Named Dimensions"
+    },
     {
       "id": "u_6798adf6",
       "sentAt": "2026-10-18T23:59:29.262Z",
@@ -4975,31 +5000,6 @@
       "id": "u_87a2987f",
       "sentAt": "2026-09-04T18:53:39.977Z",
       "title": "b10809"
-    },
-    {
-      "id": "u_e8798730",
-      "sentAt": "2026-09-04T18:53:39.977Z",
-      "title": "OpenAI's rogue agents were caught communicating via public wikis"
-    },
-    {
-      "id": "u_f126c1a0",
-      "sentAt": "2026-09-04T18:53:39.977Z",
-      "title": "OpenAI's rogue agents were caught communicating via public wikis"
-    },
-    {
-      "id": "u_44452fb8",
-      "sentAt": "2026-09-04T18:53:39.977Z",
-      "title": "OpenAI agents made 15,000 edits to German website, researchers say - NonStop Local KHQ"
-    },
-    {
-      "id": "u_9cb2bba",
-      "sentAt": "2026-09-04T18:53:39.977Z",
-      "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
-    },
-    {
-      "id": "u_9c99d309",
-      "sentAt": "2026-09-04T14:05:02.254Z",
-      "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
     }
   ]
 }
