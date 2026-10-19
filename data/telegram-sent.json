@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-19T12:33:26.830Z",
+  "updatedAt": "2026-10-19T19:42:36.002Z",
   "entries": [
+    {
+      "id": "u_604bece0",
+      "sentAt": "2026-10-19T19:42:36.002Z",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts"
+    },
+    {
+      "id": "u_75e674e8",
+      "sentAt": "2026-10-19T19:42:36.002Z",
+      "title": "Making the internet better for AI agents might make it worse for everyone else"
+    },
+    {
+      "id": "u_b4aac8f2",
+      "sentAt": "2026-10-19T19:42:36.002Z",
+      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight"
+    },
+    {
+      "id": "u_a183d0d8",
+      "sentAt": "2026-10-19T19:42:36.002Z",
+      "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight"
+    },
+    {
+      "id": "u_bfaf4828",
+      "sentAt": "2026-10-19T19:42:36.002Z",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues"
+    },
     {
       "id": "u_43eb6a6c",
       "sentAt": "2026-10-19T12:33:26.830Z",
@@ -4975,31 +5000,6 @@
       "id": "u_bd7af91",
       "sentAt": "2026-09-05T03:36:40.041Z",
       "title": "New AI training method shows higher average scores on math tests"
-    },
-    {
-      "id": "u_5b8a742b",
-      "sentAt": "2026-09-05T03:36:40.041Z",
-      "title": "Anthropic uses Claude to formalize proof of Fermat’s Last Theorem"
-    },
-    {
-      "id": "u_d3c17dec",
-      "sentAt": "2026-09-05T03:36:40.041Z",
-      "title": "v2.40.0 (2026-09-04)"
-    },
-    {
-      "id": "u_4aa4aedc",
-      "sentAt": "2026-09-05T03:36:40.041Z",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them"
-    },
-    {
-      "id": "u_24d51069",
-      "sentAt": "2026-09-05T03:36:40.041Z",
-      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters"
-    },
-    {
-      "id": "u_f33cdc3a",
-      "sentAt": "2026-09-04T22:13:18.567Z",
-      "title": "OpenAi’s ChatGPT-6 Astra released - ABC Columbia"
     }
   ]
 }
