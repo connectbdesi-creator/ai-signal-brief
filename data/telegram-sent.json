@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-19T19:42:36.002Z",
+  "updatedAt": "2026-10-19T23:26:43.463Z",
   "entries": [
+    {
+      "id": "u_b2d3da2b",
+      "sentAt": "2026-10-19T23:26:43.463Z",
+      "title": "Microsoft targets the ‘agentic insider’ with new controls for rogue AI agents"
+    },
+    {
+      "id": "u_8ef6f400",
+      "sentAt": "2026-10-19T23:26:43.463Z",
+      "title": "Nvidia, Dell back $200M round for AI model developer doubleAI"
+    },
+    {
+      "id": "u_9027fec9",
+      "sentAt": "2026-10-19T23:26:43.463Z",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says"
+    },
+    {
+      "id": "u_2c6d0e91",
+      "sentAt": "2026-10-19T23:26:43.463Z",
+      "title": "Cognizant puts 18,000 staff behind Google’s Gemini in AI agent push - The Next Web"
+    },
+    {
+      "id": "u_8792af54",
+      "sentAt": "2026-10-19T23:26:43.463Z",
+      "title": "MiniMax launches M3.1 Flash model, says it cuts AI agent costs by 70%"
+    },
     {
       "id": "u_604bece0",
       "sentAt": "2026-10-19T19:42:36.002Z",
@@ -4975,31 +5000,6 @@
       "id": "u_97651564",
       "sentAt": "2026-09-05T08:11:07.325Z",
       "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
-    },
-    {
-      "id": "u_922fdee8",
-      "sentAt": "2026-09-05T08:11:07.325Z",
-      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
-    },
-    {
-      "id": "u_251178ec",
-      "sentAt": "2026-09-05T08:11:07.325Z",
-      "title": "Thousands of OpenAI agents took over German website, researchers say - Free Press Kashmir"
-    },
-    {
-      "id": "u_8be1f552",
-      "sentAt": "2026-09-05T08:11:07.325Z",
-      "title": "Adaption Labs Introduces ‘Invent a Dataset’: Training Data Generated From a Task Description, Not a Seed Corpus"
-    },
-    {
-      "id": "u_ee2189f6",
-      "sentAt": "2026-09-05T08:11:07.325Z",
-      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%"
-    },
-    {
-      "id": "u_bd7af91",
-      "sentAt": "2026-09-05T03:36:40.041Z",
-      "title": "New AI training method shows higher average scores on math tests"
     }
   ]
 }
