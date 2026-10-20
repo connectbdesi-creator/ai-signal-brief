@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-20T11:07:57.885Z",
+  "updatedAt": "2026-10-20T16:33:16.310Z",
   "entries": [
+    {
+      "id": "u_a246d988",
+      "sentAt": "2026-10-20T16:33:16.310Z",
+      "title": "Securing AI agent identity with X.509 PKI on AWS"
+    },
+    {
+      "id": "u_69072e2",
+      "sentAt": "2026-10-20T16:33:16.310Z",
+      "title": "Celigo launches MCP tool management for enterprise AI assistants and agent access"
+    },
+    {
+      "id": "u_472f07a3",
+      "sentAt": "2026-10-20T16:33:16.310Z",
+      "title": "Build a semantic layer for agentic AI on AWS with AtScale and Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_4f662bc",
+      "sentAt": "2026-10-20T16:33:16.310Z",
+      "title": "Could this be a Deep Blue moment for the cryptic crossword?"
+    },
+    {
+      "id": "u_435b85c2",
+      "sentAt": "2026-10-20T16:33:16.310Z",
+      "title": "The manosphere stars who helped Trump win are losing their shine"
+    },
     {
       "id": "u_d868b4",
       "sentAt": "2026-10-20T11:07:57.885Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f09549c8",
       "sentAt": "2026-09-05T20:05:43.706Z",
       "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop"
-    },
-    {
-      "id": "u_5bc85566",
-      "sentAt": "2026-09-05T20:05:43.706Z",
-      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]"
-    },
-    {
-      "id": "u_c5d5f66b",
-      "sentAt": "2026-09-05T20:05:43.706Z",
-      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
-    },
-    {
-      "id": "u_ee039c5b",
-      "sentAt": "2026-09-05T20:05:43.706Z",
-      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
-    },
-    {
-      "id": "u_1a42d60",
-      "sentAt": "2026-09-05T20:05:43.706Z",
-      "title": "How Apple’s iPhone 18 Pro Will Change Smartphones Forever"
-    },
-    {
-      "id": "u_3969aee",
-      "sentAt": "2026-09-05T16:38:39.181Z",
-      "title": "Using Blender with coding agents on macOS"
     }
   ]
 }
