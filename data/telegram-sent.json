@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-20T16:33:16.310Z",
+  "updatedAt": "2026-10-20T21:23:33.800Z",
   "entries": [
+    {
+      "id": "u_8d8f1d88",
+      "sentAt": "2026-10-20T21:23:33.800Z",
+      "title": "What to expect during monday.com’s Elevate event: Join theCUBE Oct. 29"
+    },
+    {
+      "id": "u_b23db7ac",
+      "sentAt": "2026-10-20T21:23:33.800Z",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
+    },
+    {
+      "id": "u_c3e63703",
+      "sentAt": "2026-10-20T21:23:33.800Z",
+      "title": "Claude Opus 5.5 vs GPT-6 Astra- Anthropic’s New AI Model Explained - TechRepublic"
+    },
+    {
+      "id": "u_dcaa238c",
+      "sentAt": "2026-10-20T21:23:33.800Z",
+      "title": "Reservoir launches new agricultural robotics incubator for Washington growers"
+    },
+    {
+      "id": "u_55afa66e",
+      "sentAt": "2026-10-20T21:23:33.800Z",
+      "title": "Dell sees company knowledge, not AI models, as its competitive edge"
+    },
     {
       "id": "u_a246d988",
       "sentAt": "2026-10-20T16:33:16.310Z",
@@ -4975,31 +5000,6 @@
       "id": "u_15ca0e83",
       "sentAt": "2026-09-05T23:37:42.249Z",
       "title": "Introducing GPT-6 Astra for developers"
-    },
-    {
-      "id": "u_fd53c442",
-      "sentAt": "2026-09-05T23:37:42.249Z",
-      "title": "AI agents score higher with verifier-guided training, preprint reports"
-    },
-    {
-      "id": "u_f1752990",
-      "sentAt": "2026-09-05T23:37:42.249Z",
-      "title": "NInfer fork: 555k context@fp4 for 5090 with YARN, reliable kv host cacheing, monitoring, jinja, opened model support"
-    },
-    {
-      "id": "u_10403f50",
-      "sentAt": "2026-09-05T23:37:42.249Z",
-      "title": "AI Engineering Agents Rechecked More Often With Explicit Guidance"
-    },
-    {
-      "id": "u_89df86dd",
-      "sentAt": "2026-09-05T23:37:42.249Z",
-      "title": "AI Models Score High on Easy Finance Questions, Then Stumble on Hard Ones"
-    },
-    {
-      "id": "u_f09549c8",
-      "sentAt": "2026-09-05T20:05:43.706Z",
-      "title": "Nous Research Adds One-Click Local Model Setup to Hermes Desktop"
     }
   ]
 }
