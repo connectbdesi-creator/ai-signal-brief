@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-19T23:26:43.463Z",
+  "updatedAt": "2026-10-20T04:02:56.934Z",
   "entries": [
+    {
+      "id": "u_f1326626",
+      "sentAt": "2026-10-20T04:02:56.934Z",
+      "title": "v1.107.0-rc.2"
+    },
+    {
+      "id": "u_54aac01a",
+      "sentAt": "2026-10-20T04:02:56.934Z",
+      "title": "AI method posts higher scores when correcting flawed reasoning"
+    },
+    {
+      "id": "u_d6cf71e6",
+      "sentAt": "2026-10-20T04:02:56.934Z",
+      "title": "v1.104.4"
+    },
+    {
+      "id": "u_8185ca5c",
+      "sentAt": "2026-10-20T04:02:56.934Z",
+      "title": "Dream Labs raises $90M to help build more intelligent robots with simple video feeds"
+    },
+    {
+      "id": "u_9a83da3b",
+      "sentAt": "2026-10-20T04:02:56.934Z",
+      "title": "Trump administration orders ban on DeepSeek in federal agencies"
+    },
     {
       "id": "u_b2d3da2b",
       "sentAt": "2026-10-19T23:26:43.463Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4f3abfdd",
       "sentAt": "2026-09-05T13:18:37.275Z",
       "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
-    },
-    {
-      "id": "u_38d70ba0",
-      "sentAt": "2026-09-05T13:18:37.275Z",
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
-    },
-    {
-      "id": "u_27b8bdb7",
-      "sentAt": "2026-09-05T13:18:37.275Z",
-      "title": "b10819"
-    },
-    {
-      "id": "u_bfd72f88",
-      "sentAt": "2026-09-05T13:18:37.275Z",
-      "title": "OpenAI Agents Hacked Another Website"
-    },
-    {
-      "id": "u_13857c59",
-      "sentAt": "2026-09-05T13:18:37.275Z",
-      "title": "OpenAI Agents Hacked Another Website"
-    },
-    {
-      "id": "u_97651564",
-      "sentAt": "2026-09-05T08:11:07.325Z",
-      "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
     }
   ]
 }
