@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-20T04:02:56.934Z",
+  "updatedAt": "2026-10-20T11:07:57.885Z",
   "entries": [
+    {
+      "id": "u_d868b4",
+      "sentAt": "2026-10-20T11:07:57.885Z",
+      "title": "I built an open-source unit-record memory engine based on 1959 IBM punched cards to stop 100k-token context replay choking [Short Promo + Live Web Demo] [P]"
+    },
+    {
+      "id": "u_10e2c02f",
+      "sentAt": "2026-10-20T11:07:57.885Z",
+      "title": "UK finance watchdog wants firms to report AI failures and close calls"
+    },
+    {
+      "id": "u_96acd84e",
+      "sentAt": "2026-10-20T11:07:57.885Z",
+      "title": "AI takes on great experiment in self-rule"
+    },
+    {
+      "id": "u_f64fbcfb",
+      "sentAt": "2026-10-20T11:07:57.885Z",
+      "title": "Rice trial finds slow-release nitrogen lifts yields and energy efficiency"
+    },
+    {
+      "id": "u_ec1767a3",
+      "sentAt": "2026-10-20T11:07:57.885Z",
+      "title": "b11753"
+    },
     {
       "id": "u_f1326626",
       "sentAt": "2026-10-20T04:02:56.934Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3969aee",
       "sentAt": "2026-09-05T16:38:39.181Z",
       "title": "Using Blender with coding agents on macOS"
-    },
-    {
-      "id": "u_790bba66",
-      "sentAt": "2026-09-05T16:38:39.181Z",
-      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot"
-    },
-    {
-      "id": "u_f7caf70f",
-      "sentAt": "2026-09-05T16:38:39.181Z",
-      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words"
-    },
-    {
-      "id": "u_52d2dbb4",
-      "sentAt": "2026-09-05T16:38:39.181Z",
-      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words"
-    },
-    {
-      "id": "u_f3ba4ad5",
-      "sentAt": "2026-09-05T16:38:39.181Z",
-      "title": "Cyborg Roaches Can Stab You With Needles"
-    },
-    {
-      "id": "u_4f3abfdd",
-      "sentAt": "2026-09-05T13:18:37.275Z",
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
     }
   ]
 }
