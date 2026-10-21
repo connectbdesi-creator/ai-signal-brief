@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-20T21:23:33.800Z",
+  "updatedAt": "2026-10-21T00:26:07.875Z",
   "entries": [
+    {
+      "id": "u_abb51f5a",
+      "sentAt": "2026-10-21T00:26:07.875Z",
+      "title": "eMudhra Intermediate CA Compromise"
+    },
+    {
+      "id": "u_deb51924",
+      "sentAt": "2026-10-21T00:26:07.875Z",
+      "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development"
+    },
+    {
+      "id": "u_ec63399a",
+      "sentAt": "2026-10-21T00:26:07.875Z",
+      "title": "DeepSeek open-sources DeepInfer, the inference framework behind its production services"
+    },
+    {
+      "id": "u_dd4a652a",
+      "sentAt": "2026-10-21T00:26:07.875Z",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed"
+    },
+    {
+      "id": "u_717734f0",
+      "sentAt": "2026-10-21T00:26:07.875Z",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch"
+    },
     {
       "id": "u_8d8f1d88",
       "sentAt": "2026-10-20T21:23:33.800Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f43253f0",
       "sentAt": "2026-09-06T03:38:43.905Z",
       "title": "Video AI Keeps Nearly All Benchmark Performance With Fewer Tokens"
-    },
-    {
-      "id": "u_71dd099c",
-      "sentAt": "2026-09-06T03:38:43.905Z",
-      "title": "Foraging Agents Learn to Cluster Without a Grouping Reward"
-    },
-    {
-      "id": "u_d7e3c1e6",
-      "sentAt": "2026-09-06T03:38:43.905Z",
-      "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]"
-    },
-    {
-      "id": "u_551ce319",
-      "sentAt": "2026-09-06T03:38:43.905Z",
-      "title": "SA Launches Royal Commission Into Artificial Intelligence | ABC NEWS Danhausen (HZyCqQSJoz) - Mshale"
-    },
-    {
-      "id": "u_e2af01f9",
-      "sentAt": "2026-09-06T03:38:43.905Z",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure"
-    },
-    {
-      "id": "u_15ca0e83",
-      "sentAt": "2026-09-05T23:37:42.249Z",
-      "title": "Introducing GPT-6 Astra for developers"
     }
   ]
 }
