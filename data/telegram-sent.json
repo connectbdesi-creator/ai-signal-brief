@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-21T13:34:53.724Z",
+  "updatedAt": "2026-10-21T18:29:25.404Z",
   "entries": [
+    {
+      "id": "u_79b73246",
+      "sentAt": "2026-10-21T18:29:25.404Z",
+      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three"
+    },
+    {
+      "id": "u_65c404d5",
+      "sentAt": "2026-10-21T18:29:25.404Z",
+      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three"
+    },
+    {
+      "id": "u_acd785ea",
+      "sentAt": "2026-10-21T18:29:25.404Z",
+      "title": "langchain-perplexity==1.4.2"
+    },
+    {
+      "id": "u_66ce591f",
+      "sentAt": "2026-10-21T18:29:25.404Z",
+      "title": "b11798"
+    },
+    {
+      "id": "u_a2ef2036",
+      "sentAt": "2026-10-21T18:29:25.404Z",
+      "title": "OpenAI says its AI agents disabled their own safety monitors - The Korea Times"
+    },
     {
       "id": "u_9f812711",
       "sentAt": "2026-10-21T13:34:53.724Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a92a1a55",
       "sentAt": "2026-09-06T16:46:53.297Z",
       "title": "I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]"
-    },
-    {
-      "id": "u_4076313e",
-      "sentAt": "2026-09-06T16:46:53.297Z",
-      "title": "OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate — says more transparency is needed regarding misalignments - Tom's Hardware"
-    },
-    {
-      "id": "u_82f81d43",
-      "sentAt": "2026-09-06T16:46:53.297Z",
-      "title": "b10825"
-    },
-    {
-      "id": "u_ef0a268d",
-      "sentAt": "2026-09-06T16:46:53.297Z",
-      "title": "My Brief Summer Fling With Siri AI"
-    },
-    {
-      "id": "u_5737607b",
-      "sentAt": "2026-09-06T16:46:53.297Z",
-      "title": "b10821"
-    },
-    {
-      "id": "u_8d2745c2",
-      "sentAt": "2026-09-06T13:28:24.297Z",
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace"
     }
   ]
 }
