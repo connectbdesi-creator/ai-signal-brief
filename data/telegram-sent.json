@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-21T00:26:07.875Z",
+  "updatedAt": "2026-10-21T07:16:08.378Z",
   "entries": [
+    {
+      "id": "u_f6f4c113",
+      "sentAt": "2026-10-21T07:16:08.378Z",
+      "title": "humans& Ampersand: A Model Trained to Know When to Speak"
+    },
+    {
+      "id": "u_ba6e2d65",
+      "sentAt": "2026-10-21T07:16:08.378Z",
+      "title": "Best AI Content Creators: 8 Tools Ranked"
+    },
+    {
+      "id": "u_68c41135",
+      "sentAt": "2026-10-21T07:16:08.378Z",
+      "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK"
+    },
+    {
+      "id": "u_5f2dc5c",
+      "sentAt": "2026-10-21T07:16:08.378Z",
+      "title": "v1.104.5"
+    },
+    {
+      "id": "u_6c54d7f3",
+      "sentAt": "2026-10-21T07:16:08.378Z",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess"
+    },
     {
       "id": "u_abb51f5a",
       "sentAt": "2026-10-21T00:26:07.875Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1ee09886",
       "sentAt": "2026-09-06T08:28:12.991Z",
       "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents"
-    },
-    {
-      "id": "u_8be42680",
-      "sentAt": "2026-09-06T08:28:12.991Z",
-      "title": "AI Training Filter Reports Higher Math and Code Scores"
-    },
-    {
-      "id": "u_1eb965bb",
-      "sentAt": "2026-09-06T08:28:12.991Z",
-      "title": "Model ties South Korea's education race to smaller families"
-    },
-    {
-      "id": "u_479959a4",
-      "sentAt": "2026-09-06T08:28:12.991Z",
-      "title": "AI framework recovers C from binaries, but behavior still slips"
-    },
-    {
-      "id": "u_91f2d69d",
-      "sentAt": "2026-09-06T08:28:12.991Z",
-      "title": "AI training method reports gains on harder mathematics problems"
-    },
-    {
-      "id": "u_f43253f0",
-      "sentAt": "2026-09-06T03:38:43.905Z",
-      "title": "Video AI Keeps Nearly All Benchmark Performance With Fewer Tokens"
     }
   ]
 }
