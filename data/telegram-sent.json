@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-21T07:16:08.378Z",
+  "updatedAt": "2026-10-21T13:34:53.724Z",
   "entries": [
+    {
+      "id": "u_9f812711",
+      "sentAt": "2026-10-21T13:34:53.724Z",
+      "title": "Daytona Raises $60M at $1B to Give Every Agent a Computer"
+    },
+    {
+      "id": "u_52e30d77",
+      "sentAt": "2026-10-21T13:34:53.724Z",
+      "title": "HF Viewer device farm!"
+    },
+    {
+      "id": "u_d020a6f",
+      "sentAt": "2026-10-21T13:34:53.724Z",
+      "title": "b11796"
+    },
+    {
+      "id": "u_3ed352d0",
+      "sentAt": "2026-10-21T13:34:53.724Z",
+      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring"
+    },
+    {
+      "id": "u_3cf42632",
+      "sentAt": "2026-10-21T13:34:53.724Z",
+      "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring"
+    },
     {
       "id": "u_f6f4c113",
       "sentAt": "2026-10-21T07:16:08.378Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8d2745c2",
       "sentAt": "2026-09-06T13:28:24.297Z",
       "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace"
-    },
-    {
-      "id": "u_2ff33013",
-      "sentAt": "2026-09-06T13:28:24.297Z",
-      "title": "b10823"
-    },
-    {
-      "id": "u_dd5075d3",
-      "sentAt": "2026-09-06T13:28:24.297Z",
-      "title": "b10822"
-    },
-    {
-      "id": "u_57127e7c",
-      "sentAt": "2026-09-06T13:28:24.297Z",
-      "title": "Midea’s Smart System Can Help You Control Appliances With Natural Language Voice Commands"
-    },
-    {
-      "id": "u_93bc4add",
-      "sentAt": "2026-09-06T13:28:24.297Z",
-      "title": "My Brief Summer Fling With Siri AI"
-    },
-    {
-      "id": "u_1ee09886",
-      "sentAt": "2026-09-06T08:28:12.991Z",
-      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents"
     }
   ]
 }
