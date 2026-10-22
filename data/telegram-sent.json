@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-22T14:55:56.566Z",
+  "updatedAt": "2026-10-22T19:49:45.155Z",
   "entries": [
+    {
+      "id": "u_e227ea2f",
+      "sentAt": "2026-10-22T19:49:45.155Z",
+      "title": "b11827"
+    },
+    {
+      "id": "u_8e2ea0f9",
+      "sentAt": "2026-10-22T19:49:45.155Z",
+      "title": "Cadence Announces Sovereign AI Cloud For Chip Design"
+    },
+    {
+      "id": "u_a1be5ab2",
+      "sentAt": "2026-10-22T19:49:45.155Z",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password"
+    },
+    {
+      "id": "u_703f5783",
+      "sentAt": "2026-10-22T19:49:45.155Z",
+      "title": "b11826"
+    },
+    {
+      "id": "u_9d2e17ea",
+      "sentAt": "2026-10-22T19:49:45.155Z",
+      "title": "Canva releases its first image generation model"
+    },
     {
       "id": "u_4fcd2042",
       "sentAt": "2026-10-22T14:55:56.566Z",
@@ -4975,31 +5000,6 @@
       "id": "u_60745334",
       "sentAt": "2026-09-07T15:36:26.288Z",
       "title": "Earlier OpenAI agent swarm raises fresh safety and disclosure questions - The Rundown AI"
-    },
-    {
-      "id": "u_730742be",
-      "sentAt": "2026-09-07T15:36:26.288Z",
-      "title": "Nvidia CEO Jensen Huang says ‘AGI has arrived’ with new OpenAI GPT-6 model - Washington Examiner"
-    },
-    {
-      "id": "u_4a15eb66",
-      "sentAt": "2026-09-07T15:36:26.288Z",
-      "title": "OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens - Tom's Hardware"
-    },
-    {
-      "id": "u_f8892682",
-      "sentAt": "2026-09-07T15:36:26.288Z",
-      "title": "How AI wiped out an entire industry in Nairobi"
-    },
-    {
-      "id": "u_e77b5f4e",
-      "sentAt": "2026-09-07T15:36:26.288Z",
-      "title": "How AI wiped out an entire industry in Nairobi"
-    },
-    {
-      "id": "u_6999d5df",
-      "sentAt": "2026-09-07T09:05:51.442Z",
-      "title": "KV cache as an agent runtime [R]"
     }
   ]
 }
