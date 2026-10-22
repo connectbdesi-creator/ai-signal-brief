@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-22T03:52:32.671Z",
+  "updatedAt": "2026-10-22T09:15:53.878Z",
   "entries": [
+    {
+      "id": "u_e0ed095e",
+      "sentAt": "2026-10-22T09:15:53.878Z",
+      "title": "DeepSeek Raises $15 Billion: What Is Reported, What Isn't"
+    },
+    {
+      "id": "u_25c30c16",
+      "sentAt": "2026-10-22T09:15:53.878Z",
+      "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts"
+    },
+    {
+      "id": "u_50da24a1",
+      "sentAt": "2026-10-22T09:15:53.878Z",
+      "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\""
+    },
+    {
+      "id": "u_38df4f51",
+      "sentAt": "2026-10-22T09:15:53.878Z",
+      "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\""
+    },
+    {
+      "id": "u_24c49d6b",
+      "sentAt": "2026-10-22T09:15:53.878Z",
+      "title": "b11812"
+    },
     {
       "id": "u_aa741aed",
       "sentAt": "2026-10-22T03:52:32.671Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c1d5436e",
       "sentAt": "2026-09-07T03:37:53.378Z",
       "title": "The Rogue AI Story Was Never Just A Warning Shot Or A Marketing Stunt"
-    },
-    {
-      "id": "u_f9382e0a",
-      "sentAt": "2026-09-07T03:37:53.378Z",
-      "title": "Research acceleration: The view inside OpenAI"
-    },
-    {
-      "id": "u_979b505",
-      "sentAt": "2026-09-07T03:37:53.378Z",
-      "title": "OpenAI Releases GPT-6 Astra, Pushing AI Further Into Real-World Computer Work - strategicrevenue.com"
-    },
-    {
-      "id": "u_d72524ff",
-      "sentAt": "2026-09-07T03:37:53.378Z",
-      "title": "b10830"
-    },
-    {
-      "id": "u_907b63c7",
-      "sentAt": "2026-09-07T03:37:53.378Z",
-      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI"
-    },
-    {
-      "id": "u_97e5b605",
-      "sentAt": "2026-09-06T23:36:30.335Z",
-      "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki"
     }
   ]
 }
