@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-22T19:49:45.155Z",
+  "updatedAt": "2026-10-22T23:03:10.411Z",
   "entries": [
+    {
+      "id": "u_d30f59ff",
+      "sentAt": "2026-10-22T23:03:10.411Z",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
+    },
+    {
+      "id": "u_da6d1796",
+      "sentAt": "2026-10-22T23:03:10.411Z",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
+    },
+    {
+      "id": "u_ae17af8d",
+      "sentAt": "2026-10-22T23:03:10.411Z",
+      "title": "Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry"
+    },
+    {
+      "id": "u_2099bdfd",
+      "sentAt": "2026-10-22T23:03:10.411Z",
+      "title": "Gartner’s Top 10 Strategic Technology Trends For 2027"
+    },
+    {
+      "id": "u_eae11bf6",
+      "sentAt": "2026-10-22T23:03:10.411Z",
+      "title": "Google Cloud launches Anthropic-managed Claude option - Breakingthenews.net"
+    },
     {
       "id": "u_e227ea2f",
       "sentAt": "2026-10-22T19:49:45.155Z",
@@ -4975,31 +5000,6 @@
       "id": "u_920691d1",
       "sentAt": "2026-09-07T19:41:45.533Z",
       "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device"
-    },
-    {
-      "id": "u_737a9c17",
-      "sentAt": "2026-09-07T19:41:45.533Z",
-      "title": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories"
-    },
-    {
-      "id": "u_590472d3",
-      "sentAt": "2026-09-07T19:41:45.533Z",
-      "title": "b10842"
-    },
-    {
-      "id": "u_15f3c255",
-      "sentAt": "2026-09-07T19:41:45.533Z",
-      "title": "Nvidia CEO Jensen Huang declares ‘AGI has arrived’ after OpenAI launches GPT-6 Astra - americanbazaaronline.com"
-    },
-    {
-      "id": "u_548af200",
-      "sentAt": "2026-09-07T19:41:45.533Z",
-      "title": "Meta's AI Second Brain Runs on a Knowledge Supply Chain"
-    },
-    {
-      "id": "u_60745334",
-      "sentAt": "2026-09-07T15:36:26.288Z",
-      "title": "Earlier OpenAI agent swarm raises fresh safety and disclosure questions - The Rundown AI"
     }
   ]
 }
