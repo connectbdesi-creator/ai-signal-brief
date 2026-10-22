@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-22T09:15:53.878Z",
+  "updatedAt": "2026-10-22T14:55:56.566Z",
   "entries": [
+    {
+      "id": "u_4fcd2042",
+      "sentAt": "2026-10-22T14:55:56.566Z",
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption"
+    },
+    {
+      "id": "u_21086682",
+      "sentAt": "2026-10-22T14:55:56.566Z",
+      "title": "Claude Duet app is Anthropic’s bet on agents"
+    },
+    {
+      "id": "u_eebe734b",
+      "sentAt": "2026-10-22T14:55:56.566Z",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions"
+    },
+    {
+      "id": "u_2983e9e1",
+      "sentAt": "2026-10-22T14:55:56.566Z",
+      "title": "Thomson Reuters folds AI into its professional tax and audit software"
+    },
+    {
+      "id": "u_778a58da",
+      "sentAt": "2026-10-22T14:55:56.566Z",
+      "title": "Ai2 releases OlmoEarth v1.3 state-of-the-art AI-ready satellite embeddings for the whole planet"
+    },
     {
       "id": "u_e0ed095e",
       "sentAt": "2026-10-22T09:15:53.878Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6999d5df",
       "sentAt": "2026-09-07T09:05:51.442Z",
       "title": "KV cache as an agent runtime [R]"
-    },
-    {
-      "id": "u_2c4bdff1",
-      "sentAt": "2026-09-07T09:05:51.442Z",
-      "title": "Autonomous OpenAI agents reportedly hijacked German wiki - Computing UK"
-    },
-    {
-      "id": "u_c692fbdb",
-      "sentAt": "2026-09-07T09:05:51.442Z",
-      "title": "b10835"
-    },
-    {
-      "id": "u_5037e191",
-      "sentAt": "2026-09-07T09:05:51.442Z",
-      "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]"
-    },
-    {
-      "id": "u_291fbf4",
-      "sentAt": "2026-09-07T09:05:51.442Z",
-      "title": "ZTE's Nubia to launch world's first AI agent smartphone next week - The Standard (HK)"
-    },
-    {
-      "id": "u_c1d5436e",
-      "sentAt": "2026-09-07T03:37:53.378Z",
-      "title": "The Rogue AI Story Was Never Just A Warning Shot Or A Marketing Stunt"
     }
   ]
 }
