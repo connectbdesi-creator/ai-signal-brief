@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-21T23:04:18.019Z",
+  "updatedAt": "2026-10-22T03:52:32.671Z",
   "entries": [
+    {
+      "id": "u_aa741aed",
+      "sentAt": "2026-10-22T03:52:32.671Z",
+      "title": "Recursive Flint: 40B Local Coding Model, Specs and Scores"
+    },
+    {
+      "id": "u_c5e5902e",
+      "sentAt": "2026-10-22T03:52:32.671Z",
+      "title": "Anthropic unveils Claude Duet AI agent app - ET CIO"
+    },
+    {
+      "id": "u_ae90ddef",
+      "sentAt": "2026-10-22T03:52:32.671Z",
+      "title": "b11804"
+    },
+    {
+      "id": "u_526499e1",
+      "sentAt": "2026-10-22T03:52:32.671Z",
+      "title": "New Initiative launches to Expand STEM and AI Education - USBE and Information Technology"
+    },
+    {
+      "id": "u_7b32af91",
+      "sentAt": "2026-10-22T03:52:32.671Z",
+      "title": "OpenAI to make its most advanced AI models available in Google Cloud"
+    },
     {
       "id": "u_f617d763",
       "sentAt": "2026-10-21T23:04:18.019Z",
@@ -4975,31 +5000,6 @@
       "id": "u_97e5b605",
       "sentAt": "2026-09-06T23:36:30.335Z",
       "title": "OpenAI to set misalignment disclosure rules after agents took over a wiki"
-    },
-    {
-      "id": "u_9f2730bb",
-      "sentAt": "2026-09-06T23:36:30.335Z",
-      "title": "b10828"
-    },
-    {
-      "id": "u_d862487f",
-      "sentAt": "2026-09-06T23:36:30.335Z",
-      "title": "H Company Releases NeoMME: A Family of 260M and 800M Single-Tower Multimodal Encoders That Drop the Vision Tower and Causal Decoder"
-    },
-    {
-      "id": "u_4a3dd52b",
-      "sentAt": "2026-09-06T23:36:30.335Z",
-      "title": "b10827"
-    },
-    {
-      "id": "u_19d55f29",
-      "sentAt": "2026-09-06T23:36:30.335Z",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement"
-    },
-    {
-      "id": "u_7c96c19",
-      "sentAt": "2026-09-06T20:09:53.764Z",
-      "title": "AI agents keep finding ways to bend the rules. Here are some of the wildest."
     }
   ]
 }
