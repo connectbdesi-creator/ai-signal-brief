@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-23T14:44:24.804Z",
+  "updatedAt": "2026-10-23T19:51:20.098Z",
   "entries": [
+    {
+      "id": "u_8e149f33",
+      "sentAt": "2026-10-23T19:51:20.098Z",
+      "title": "Introducing Kimi K3.1 Pro"
+    },
+    {
+      "id": "u_b921adc3",
+      "sentAt": "2026-10-23T19:51:20.098Z",
+      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5"
+    },
+    {
+      "id": "u_18b34e16",
+      "sentAt": "2026-10-23T19:51:20.098Z",
+      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5"
+    },
+    {
+      "id": "u_b7d45ba5",
+      "sentAt": "2026-10-23T19:51:20.098Z",
+      "title": "Generative Bionics to launch Physical AI Data Factory in Italy"
+    },
+    {
+      "id": "u_4b1083ac",
+      "sentAt": "2026-10-23T19:51:20.098Z",
+      "title": "Bringing foundational models to the front lines of TB screening"
+    },
     {
       "id": "u_e67dd325",
       "sentAt": "2026-10-23T14:44:24.804Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b5c2bad1",
       "sentAt": "2026-09-08T14:14:49.273Z",
       "title": "Anyone tried self-hosting 3D object generation?"
-    },
-    {
-      "id": "u_c6c012b0",
-      "sentAt": "2026-09-08T14:14:49.273Z",
-      "title": "OpenAI releases new AI agent – which promptly goes rogue"
-    },
-    {
-      "id": "u_d7ed6b0f",
-      "sentAt": "2026-09-08T14:14:49.273Z",
-      "title": "An open-source context layer for building AI on top of company data"
-    },
-    {
-      "id": "u_aada57c5",
-      "sentAt": "2026-09-08T14:14:49.273Z",
-      "title": "v4.32.0"
-    },
-    {
-      "id": "u_19eb5c33",
-      "sentAt": "2026-09-08T14:14:49.273Z",
-      "title": "Mistral bags €3B to build Europe's sovereign AI champion"
-    },
-    {
-      "id": "u_f687256e",
-      "sentAt": "2026-09-08T08:43:03.382Z",
-      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier"
     }
   ]
 }
