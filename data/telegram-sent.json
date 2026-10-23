@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-23T09:12:13.806Z",
+  "updatedAt": "2026-10-23T14:44:24.804Z",
   "entries": [
+    {
+      "id": "u_e67dd325",
+      "sentAt": "2026-10-23T14:44:24.804Z",
+      "title": "v4.69.0"
+    },
+    {
+      "id": "u_b10b3f92",
+      "sentAt": "2026-10-23T14:44:24.804Z",
+      "title": "Probability of backdoors in popular harnesses and LLM inference engines"
+    },
+    {
+      "id": "u_b87d63bb",
+      "sentAt": "2026-10-23T14:44:24.804Z",
+      "title": "b11838"
+    },
+    {
+      "id": "u_9c477de4",
+      "sentAt": "2026-10-23T14:44:24.804Z",
+      "title": "1Password launches secure sign-in platform for artificial intelligence agents - SC Media"
+    },
+    {
+      "id": "u_6eae6a34",
+      "sentAt": "2026-10-23T14:44:24.804Z",
+      "title": "What 40 Years Of Design Automation Can Teach Us About AI Agents"
+    },
     {
       "id": "u_d2163885",
       "sentAt": "2026-10-23T09:12:13.806Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f687256e",
       "sentAt": "2026-09-08T08:43:03.382Z",
       "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier"
-    },
-    {
-      "id": "u_87211b80",
-      "sentAt": "2026-09-08T08:43:03.382Z",
-      "title": "Why your coworker is suddenly obsessed with their little AI minions"
-    },
-    {
-      "id": "u_c8eb5929",
-      "sentAt": "2026-09-08T08:43:03.382Z",
-      "title": "Logitech Unveils Customizable Multi-App AI Control Center For Developers"
-    },
-    {
-      "id": "u_ede7bf03",
-      "sentAt": "2026-09-08T08:43:03.382Z",
-      "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals"
-    },
-    {
-      "id": "u_9c2c58fe",
-      "sentAt": "2026-09-08T08:43:03.382Z",
-      "title": "Mistral AI raises 3 billion euros in Europe's largest-ever tech funding round despite lagging behind rivals"
-    },
-    {
-      "id": "u_d285d222",
-      "sentAt": "2026-09-08T03:42:42.203Z",
-      "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page"
     }
   ]
 }
