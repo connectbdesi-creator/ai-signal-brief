@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-22T23:03:10.411Z",
+  "updatedAt": "2026-10-23T03:55:57.342Z",
   "entries": [
+    {
+      "id": "u_8ead56ca",
+      "sentAt": "2026-10-23T03:55:57.342Z",
+      "title": "Zoom’s next act: From video company to AI data platform"
+    },
+    {
+      "id": "u_40f984c8",
+      "sentAt": "2026-10-23T03:55:57.342Z",
+      "title": "Kazakhstan Expands Compute for Its AI Future"
+    },
+    {
+      "id": "u_db734705",
+      "sentAt": "2026-10-23T03:55:57.342Z",
+      "title": "Kazakhstan Expands Compute for Its AI Future"
+    },
+    {
+      "id": "u_588dfa82",
+      "sentAt": "2026-10-23T03:55:57.342Z",
+      "title": "v2.60.0 (2026-10-22)"
+    },
+    {
+      "id": "u_2b2820f7",
+      "sentAt": "2026-10-23T03:55:57.342Z",
+      "title": "Left alone with nothing to do, AI agents started playing"
+    },
     {
       "id": "u_d30f59ff",
       "sentAt": "2026-10-22T23:03:10.411Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a47899d3",
       "sentAt": "2026-09-07T22:37:55.477Z",
       "title": "Quoting Jakub Pachocki"
-    },
-    {
-      "id": "u_8e9f3b84",
-      "sentAt": "2026-09-07T22:37:55.477Z",
-      "title": "CPI | OpenAI Files EU Report After AI Agents Hijacked German Website - PYMNTS.com"
-    },
-    {
-      "id": "u_ee8d0d5",
-      "sentAt": "2026-09-07T22:37:55.477Z",
-      "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks"
-    },
-    {
-      "id": "u_3cc0f613",
-      "sentAt": "2026-09-07T22:37:55.477Z",
-      "title": "b10844"
-    },
-    {
-      "id": "u_c5713b43",
-      "sentAt": "2026-09-07T22:37:55.477Z",
-      "title": "FlashNarrative launches artificial intelligence platform for local language media monitoring - Portal ERP"
-    },
-    {
-      "id": "u_920691d1",
-      "sentAt": "2026-09-07T19:41:45.533Z",
-      "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device"
     }
   ]
 }
