@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-23T03:55:57.342Z",
+  "updatedAt": "2026-10-23T09:12:13.806Z",
   "entries": [
+    {
+      "id": "u_d2163885",
+      "sentAt": "2026-10-23T09:12:13.806Z",
+      "title": "Coding Agent Index v2.0: Claude Opus 5.5 Leads at 61.7"
+    },
+    {
+      "id": "u_761c16b",
+      "sentAt": "2026-10-23T09:12:13.806Z",
+      "title": "b11836"
+    },
+    {
+      "id": "u_a53f5123",
+      "sentAt": "2026-10-23T09:12:13.806Z",
+      "title": "b11835"
+    },
+    {
+      "id": "u_c37d2764",
+      "sentAt": "2026-10-23T09:12:13.806Z",
+      "title": "Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation"
+    },
+    {
+      "id": "u_e361bc40",
+      "sentAt": "2026-10-23T09:12:13.806Z",
+      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent"
+    },
     {
       "id": "u_8ead56ca",
       "sentAt": "2026-10-23T03:55:57.342Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d285d222",
       "sentAt": "2026-09-08T03:42:42.203Z",
       "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page"
-    },
-    {
-      "id": "u_32f64813",
-      "sentAt": "2026-09-08T03:42:42.203Z",
-      "title": "b10852"
-    },
-    {
-      "id": "u_678745d",
-      "sentAt": "2026-09-08T03:42:42.203Z",
-      "title": "UH launches free ‘AI for Hawaiʻi’ course for everyone - Maui Now"
-    },
-    {
-      "id": "u_7641195c",
-      "sentAt": "2026-09-08T03:42:42.203Z",
-      "title": "llm 0.35"
-    },
-    {
-      "id": "u_82506619",
-      "sentAt": "2026-09-08T03:42:42.203Z",
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss"
-    },
-    {
-      "id": "u_a47899d3",
-      "sentAt": "2026-09-07T22:37:55.477Z",
-      "title": "Quoting Jakub Pachocki"
     }
   ]
 }
