@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-24T13:53:23.891Z",
+  "updatedAt": "2026-10-24T17:15:32.564Z",
   "entries": [
+    {
+      "id": "u_bb53bfe8",
+      "sentAt": "2026-10-24T17:15:32.564Z",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
+    },
+    {
+      "id": "u_877409f9",
+      "sentAt": "2026-10-24T17:15:32.564Z",
+      "title": "How to Add Guardrails to a Local LLM Agent"
+    },
+    {
+      "id": "u_e56b762",
+      "sentAt": "2026-10-24T17:15:32.564Z",
+      "title": "Here are the top AI agents that can live in your text messages"
+    },
+    {
+      "id": "u_e1d8fa11",
+      "sentAt": "2026-10-24T17:15:32.564Z",
+      "title": "Fancy harnesses make coding agents more expensive but not better, study finds"
+    },
+    {
+      "id": "u_525e241",
+      "sentAt": "2026-10-24T17:15:32.564Z",
+      "title": "Fancy harnesses make coding agents more expensive but not better, study finds"
+    },
     {
       "id": "u_b5caa699",
       "sentAt": "2026-10-24T13:53:23.891Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8373a348",
       "sentAt": "2026-09-09T14:15:07.135Z",
       "title": "Suno launches v6 music models built with Warner, BMG, and Believe"
-    },
-    {
-      "id": "u_cfbea3b1",
-      "sentAt": "2026-09-09T14:15:07.135Z",
-      "title": "Databricks adds adaptive search model to speed agent retrieval"
-    },
-    {
-      "id": "u_4ed87783",
-      "sentAt": "2026-09-09T14:15:07.135Z",
-      "title": "First Command Unveils Tech Blueprint through 2026 IT, Data, and AI Strategic Guidance - aetc.af.mil"
-    },
-    {
-      "id": "u_9b1e4a37",
-      "sentAt": "2026-09-09T14:15:07.135Z",
-      "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]"
-    },
-    {
-      "id": "u_aca1c942",
-      "sentAt": "2026-09-09T14:15:07.135Z",
-      "title": "Orchid Security gives enterprises a kill switch for rogue AI agents"
-    },
-    {
-      "id": "u_1932307f",
-      "sentAt": "2026-09-09T08:49:04.437Z",
-      "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours"
     }
   ]
 }
