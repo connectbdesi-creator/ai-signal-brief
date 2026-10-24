@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-24T17:15:32.564Z",
+  "updatedAt": "2026-10-24T20:26:55.456Z",
   "entries": [
+    {
+      "id": "u_7e22e087",
+      "sentAt": "2026-10-24T20:26:55.456Z",
+      "title": "b11867"
+    },
+    {
+      "id": "u_9aa622ac",
+      "sentAt": "2026-10-24T20:26:55.456Z",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it"
+    },
+    {
+      "id": "u_66491af",
+      "sentAt": "2026-10-24T20:26:55.456Z",
+      "title": "b11860"
+    },
+    {
+      "id": "u_410b1b7a",
+      "sentAt": "2026-10-24T20:26:55.456Z",
+      "title": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely - Gizmodo"
+    },
+    {
+      "id": "u_14e824e9",
+      "sentAt": "2026-10-24T20:26:55.456Z",
+      "title": "Washington's message to AI execs: please shut up"
+    },
     {
       "id": "u_bb53bfe8",
       "sentAt": "2026-10-24T17:15:32.564Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c80ea59b",
       "sentAt": "2026-09-09T19:09:05.621Z",
       "title": "Amazon makes its agentic AI platform Quick generally available for desktop on Windows and macOS"
-    },
-    {
-      "id": "u_4808876a",
-      "sentAt": "2026-09-09T19:09:05.621Z",
-      "title": "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say - Reuters"
-    },
-    {
-      "id": "u_cc8f9287",
-      "sentAt": "2026-09-09T19:09:05.621Z",
-      "title": "v0.34.0"
-    },
-    {
-      "id": "u_4e9f303e",
-      "sentAt": "2026-09-09T19:09:05.621Z",
-      "title": "Paul Christiano joins OpenAI Foundation Board"
-    },
-    {
-      "id": "u_52b494a",
-      "sentAt": "2026-09-09T19:09:05.621Z",
-      "title": "Here's how AI could kill us all (if the worst fears come true)"
-    },
-    {
-      "id": "u_8373a348",
-      "sentAt": "2026-09-09T14:15:07.135Z",
-      "title": "Suno launches v6 music models built with Warner, BMG, and Believe"
     }
   ]
 }
