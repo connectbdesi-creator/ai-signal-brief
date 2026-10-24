@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-24T03:50:20.308Z",
+  "updatedAt": "2026-10-24T08:44:52.504Z",
   "entries": [
+    {
+      "id": "u_f90cb228",
+      "sentAt": "2026-10-24T08:44:52.504Z",
+      "title": "v1.103.8"
+    },
+    {
+      "id": "u_18863283",
+      "sentAt": "2026-10-24T08:44:52.504Z",
+      "title": "b11852"
+    },
+    {
+      "id": "u_310d2c20",
+      "sentAt": "2026-10-24T08:44:52.504Z",
+      "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security"
+    },
+    {
+      "id": "u_13654d1",
+      "sentAt": "2026-10-24T08:44:52.504Z",
+      "title": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots"
+    },
+    {
+      "id": "u_4556d66c",
+      "sentAt": "2026-10-24T08:44:52.504Z",
+      "title": "Texas lawsuit seeks court-approved safety reviews before OpenAI releases new models - MLex"
+    },
     {
       "id": "u_fe93c777",
       "sentAt": "2026-10-24T03:50:20.308Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1cfd3b34",
       "sentAt": "2026-09-09T03:47:44.268Z",
       "title": "DSV4 Flash 0731 on OpenRouter. Why is the price SO LOW"
-    },
-    {
-      "id": "u_64e5f7c7",
-      "sentAt": "2026-09-09T03:47:44.268Z",
-      "title": "What OpenAI’s latest controversy tells us about the future of math"
-    },
-    {
-      "id": "u_68cb5553",
-      "sentAt": "2026-09-09T03:47:44.268Z",
-      "title": "b10868"
-    },
-    {
-      "id": "u_7a5d09e0",
-      "sentAt": "2026-09-09T03:47:44.268Z",
-      "title": "Meta debuts its ‘secure by design’ personal AI agent Muse"
-    },
-    {
-      "id": "u_820d626a",
-      "sentAt": "2026-09-09T03:47:44.268Z",
-      "title": "Qwen3.8-Flash-Next on MLX-serve, 1m context is released!"
-    },
-    {
-      "id": "u_1c7a343",
-      "sentAt": "2026-09-08T22:27:31.034Z",
-      "title": "UNT receives $20M gift to launch new college focused on Artificial Intelligence - WFAA"
     }
   ]
 }
