@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-25T13:02:30.616Z",
+  "updatedAt": "2026-10-25T17:29:35.411Z",
   "entries": [
+    {
+      "id": "u_949fc0eb",
+      "sentAt": "2026-10-25T17:29:35.411Z",
+      "title": "b11882"
+    },
+    {
+      "id": "u_bfaf7669",
+      "sentAt": "2026-10-25T17:29:35.411Z",
+      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time"
+    },
+    {
+      "id": "u_745e6f13",
+      "sentAt": "2026-10-25T17:29:35.411Z",
+      "title": "b11878"
+    },
+    {
+      "id": "u_81c901be",
+      "sentAt": "2026-10-25T17:29:35.411Z",
+      "title": "Claude Code on the Subscriptions You Already Pay For"
+    },
+    {
+      "id": "u_647a304d",
+      "sentAt": "2026-10-25T17:29:35.411Z",
+      "title": "Israeli tech bets on AI agents to transform business - Ynetnews"
+    },
     {
       "id": "u_595ece26",
       "sentAt": "2026-10-25T13:02:30.616Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d95ac894",
       "sentAt": "2026-09-10T08:47:08.078Z",
       "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse"
-    },
-    {
-      "id": "u_1735365b",
-      "sentAt": "2026-09-10T08:47:08.078Z",
-      "title": "DeepSeek V4.1 Flash: Stronger, Faster, More Accessible"
-    },
-    {
-      "id": "u_8581ff08",
-      "sentAt": "2026-09-10T08:47:08.078Z",
-      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows"
-    },
-    {
-      "id": "u_15d39e1b",
-      "sentAt": "2026-09-10T03:46:09.858Z",
-      "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]"
-    },
-    {
-      "id": "u_31a85655",
-      "sentAt": "2026-09-10T03:46:09.858Z",
-      "title": "Certinia launches new System of Action as the foundation of autonomous service operations"
-    },
-    {
-      "id": "u_11dc8123",
-      "sentAt": "2026-09-10T03:46:09.858Z",
-      "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity"
     }
   ]
 }
