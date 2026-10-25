@@ -1,6 +1,21 @@
 {
-  "updatedAt": "2026-10-24T20:26:55.456Z",
+  "updatedAt": "2026-10-25T07:23:34.382Z",
   "entries": [
+    {
+      "id": "u_180e9690",
+      "sentAt": "2026-10-25T07:23:34.382Z",
+      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models"
+    },
+    {
+      "id": "u_a0df625f",
+      "sentAt": "2026-10-25T07:23:34.382Z",
+      "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]"
+    },
+    {
+      "id": "u_174c18d8",
+      "sentAt": "2026-10-25T07:23:34.382Z",
+      "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats"
+    },
     {
       "id": "u_7e22e087",
       "sentAt": "2026-10-24T20:26:55.456Z",
@@ -4985,21 +5000,6 @@
       "id": "u_d8c03104",
       "sentAt": "2026-09-09T22:21:17.841Z",
       "title": "Surveillance plagiarism by OpenAI"
-    },
-    {
-      "id": "u_1a0402fc",
-      "sentAt": "2026-09-09T22:21:17.841Z",
-      "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines"
-    },
-    {
-      "id": "u_fa2c3a5",
-      "sentAt": "2026-09-09T22:21:17.841Z",
-      "title": "ICYMI: What landed for AI builders in August 2026"
-    },
-    {
-      "id": "u_c80ea59b",
-      "sentAt": "2026-09-09T19:09:05.621Z",
-      "title": "Amazon makes its agentic AI platform Quick generally available for desktop on Windows and macOS"
     }
   ]
 }
