@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-25T17:29:35.411Z",
+  "updatedAt": "2026-10-25T20:33:44.280Z",
   "entries": [
+    {
+      "id": "u_113fe60b",
+      "sentAt": "2026-10-25T20:33:44.280Z",
+      "title": "b11886"
+    },
+    {
+      "id": "u_5dcae62f",
+      "sentAt": "2026-10-25T20:33:44.280Z",
+      "title": "The five components of building a \"company harness\""
+    },
+    {
+      "id": "u_4ae84f4f",
+      "sentAt": "2026-10-25T20:33:44.280Z",
+      "title": "b11884"
+    },
+    {
+      "id": "u_f6760f35",
+      "sentAt": "2026-10-25T20:33:44.280Z",
+      "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]"
+    },
+    {
+      "id": "u_f68580ce",
+      "sentAt": "2026-10-25T20:33:44.280Z",
+      "title": "Chain-reaction chaos threatens to unleash new on the world"
+    },
     {
       "id": "u_949fc0eb",
       "sentAt": "2026-10-25T17:29:35.411Z",
@@ -4975,31 +5000,6 @@
       "id": "u_11aae0cc",
       "sentAt": "2026-09-10T19:00:47.754Z",
       "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you"
-    },
-    {
-      "id": "u_3fc01506",
-      "sentAt": "2026-09-10T19:00:47.754Z",
-      "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time"
-    },
-    {
-      "id": "u_af320cd5",
-      "sentAt": "2026-09-10T19:00:47.754Z",
-      "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time"
-    },
-    {
-      "id": "u_7b404761",
-      "sentAt": "2026-09-10T08:47:08.078Z",
-      "title": "Springer Nature launches framework on use of artificial intelligence - Research Information"
-    },
-    {
-      "id": "u_d96850aa",
-      "sentAt": "2026-09-10T08:47:08.078Z",
-      "title": "v1.101.0-rc.2"
-    },
-    {
-      "id": "u_d95ac894",
-      "sentAt": "2026-09-10T08:47:08.078Z",
-      "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse"
     }
   ]
 }
