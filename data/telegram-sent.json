@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-25T07:23:34.382Z",
+  "updatedAt": "2026-10-25T13:02:30.616Z",
   "entries": [
+    {
+      "id": "u_595ece26",
+      "sentAt": "2026-10-25T13:02:30.616Z",
+      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster"
+    },
+    {
+      "id": "u_2716b2c8",
+      "sentAt": "2026-10-25T13:02:30.616Z",
+      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner"
+    },
+    {
+      "id": "u_520b4708",
+      "sentAt": "2026-10-25T13:02:30.616Z",
+      "title": "OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes - Tom's Hardware"
+    },
+    {
+      "id": "u_5d695021",
+      "sentAt": "2026-10-25T13:02:30.616Z",
+      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra"
+    },
+    {
+      "id": "u_ef662e8a",
+      "sentAt": "2026-10-25T13:02:30.616Z",
+      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra"
+    },
     {
       "id": "u_180e9690",
       "sentAt": "2026-10-25T07:23:34.382Z",
@@ -4975,31 +5000,6 @@
       "id": "u_11dc8123",
       "sentAt": "2026-09-10T03:46:09.858Z",
       "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity"
-    },
-    {
-      "id": "u_bcb3726d",
-      "sentAt": "2026-09-10T03:46:09.858Z",
-      "title": "AI-native CRM startup Lightfield raises $47M to build an AI agent-ready replacement for Salesforce"
-    },
-    {
-      "id": "u_ed2dbe1e",
-      "sentAt": "2026-09-10T03:46:09.858Z",
-      "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company"
-    },
-    {
-      "id": "u_7a08befe",
-      "sentAt": "2026-09-09T22:21:17.841Z",
-      "title": "langchain-openai==1.6.2"
-    },
-    {
-      "id": "u_e659ebe7",
-      "sentAt": "2026-09-09T22:21:17.841Z",
-      "title": "A16z Doubles Down On AI Coding Agents Months After Cursor Exit"
-    },
-    {
-      "id": "u_d8c03104",
-      "sentAt": "2026-09-09T22:21:17.841Z",
-      "title": "Surveillance plagiarism by OpenAI"
     }
   ]
 }
