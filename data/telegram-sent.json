@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-25T20:33:44.280Z",
+  "updatedAt": "2026-10-25T23:56:43.966Z",
   "entries": [
+    {
+      "id": "u_7c38e657",
+      "sentAt": "2026-10-25T23:56:43.966Z",
+      "title": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization"
+    },
+    {
+      "id": "u_7e1aa58c",
+      "sentAt": "2026-10-25T23:56:43.966Z",
+      "title": "CrowdGPT - A collaboratively trained LLM."
+    },
+    {
+      "id": "u_3a6e63a5",
+      "sentAt": "2026-10-25T23:56:43.966Z",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’"
+    },
+    {
+      "id": "u_b0220d2c",
+      "sentAt": "2026-10-25T23:56:43.966Z",
+      "title": "RTX PRO 4000 Blackwell SFF: +67% generation on Qwen3.8 27B, different scaling on Qwen3.6 35B A3B"
+    },
+    {
+      "id": "u_e4c2d812",
+      "sentAt": "2026-10-25T23:56:43.966Z",
+      "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model"
+    },
     {
       "id": "u_113fe60b",
       "sentAt": "2026-10-25T20:33:44.280Z",
@@ -4975,31 +5000,6 @@
       "id": "u_460ecbb3",
       "sentAt": "2026-09-10T22:20:39.664Z",
       "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call"
-    },
-    {
-      "id": "u_4170ae78",
-      "sentAt": "2026-09-10T22:20:39.664Z",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
-    },
-    {
-      "id": "u_5e3648fb",
-      "sentAt": "2026-09-10T22:20:39.664Z",
-      "title": "Security becomes the control plane for enterprise AI factories"
-    },
-    {
-      "id": "u_a6450e1c",
-      "sentAt": "2026-09-10T19:00:47.754Z",
-      "title": "UNT launches artificial intelligence college after $20M donation - Community Impact"
-    },
-    {
-      "id": "u_facbe293",
-      "sentAt": "2026-09-10T19:00:47.754Z",
-      "title": "b10897"
-    },
-    {
-      "id": "u_11aae0cc",
-      "sentAt": "2026-09-10T19:00:47.754Z",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you"
     }
   ]
 }
