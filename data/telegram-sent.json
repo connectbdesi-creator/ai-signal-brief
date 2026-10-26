@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-26T04:14:41.879Z",
+  "updatedAt": "2026-10-26T12:30:03.937Z",
   "entries": [
+    {
+      "id": "u_d81110ed",
+      "sentAt": "2026-10-26T12:30:03.937Z",
+      "title": "Claude Usage Up 3.6x on OpenRouter Since Opus 5.5"
+    },
+    {
+      "id": "u_3d3d048c",
+      "sentAt": "2026-10-26T12:30:03.937Z",
+      "title": "Exclusive: iMerit launches platform to connect AI developers with specialized domain experts"
+    },
+    {
+      "id": "u_c4511b1b",
+      "sentAt": "2026-10-26T12:30:03.937Z",
+      "title": "OnClarity Named an OpenAI Select Partner, Expanding AI Agents for Large Support Organizations - TechBullion"
+    },
+    {
+      "id": "u_a5d19dec",
+      "sentAt": "2026-10-26T12:30:03.937Z",
+      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US - The Guardian"
+    },
+    {
+      "id": "u_fd03b952",
+      "sentAt": "2026-10-26T12:30:03.937Z",
+      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US"
+    },
     {
       "id": "u_7884b9df",
       "sentAt": "2026-10-26T04:14:41.879Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5855ddb",
       "sentAt": "2026-09-11T08:44:52.541Z",
       "title": "b10903"
-    },
-    {
-      "id": "u_b40270f1",
-      "sentAt": "2026-09-11T08:44:52.541Z",
-      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration"
-    },
-    {
-      "id": "u_9bcbec61",
-      "sentAt": "2026-09-11T08:44:52.541Z",
-      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation"
-    },
-    {
-      "id": "u_13022f75",
-      "sentAt": "2026-09-11T03:43:31.561Z",
-      "title": "Datasette 1.0a39 and 0.65.4 security releases"
-    },
-    {
-      "id": "u_732bf3ce",
-      "sentAt": "2026-09-11T03:43:31.561Z",
-      "title": "v1.102.0-dev.2"
-    },
-    {
-      "id": "u_94b984bb",
-      "sentAt": "2026-09-11T03:43:31.561Z",
-      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models - The Japan Times"
     }
   ]
 }
