@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-26T12:30:03.937Z",
+  "updatedAt": "2026-10-26T19:47:26.987Z",
   "entries": [
+    {
+      "id": "u_14573f32",
+      "sentAt": "2026-10-26T19:47:26.987Z",
+      "title": "Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]"
+    },
+    {
+      "id": "u_8502bd3f",
+      "sentAt": "2026-10-26T19:47:26.987Z",
+      "title": "b11905"
+    },
+    {
+      "id": "u_21bfab5",
+      "sentAt": "2026-10-26T19:47:26.987Z",
+      "title": "Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3"
+    },
+    {
+      "id": "u_a0ff9e31",
+      "sentAt": "2026-10-26T19:47:26.987Z",
+      "title": "Supabase’s Plan for a Billion AI-Built Apps"
+    },
+    {
+      "id": "u_de54fc97",
+      "sentAt": "2026-10-26T19:47:26.987Z",
+      "title": "Researchers find six patterns that make AI text so exhausting to read"
+    },
     {
       "id": "u_d81110ed",
       "sentAt": "2026-10-26T12:30:03.937Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2aff3fad",
       "sentAt": "2026-09-11T14:08:00.196Z",
       "title": "AI Agents Will Take Shortcuts. The Solution Is To Design Better Paths"
-    },
-    {
-      "id": "u_e620f5d4",
-      "sentAt": "2026-09-11T14:08:00.196Z",
-      "title": "Salesforce Adds Long-Horizon AI Agents To Agentforce"
-    },
-    {
-      "id": "u_d925418b",
-      "sentAt": "2026-09-11T14:08:00.196Z",
-      "title": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows - Reuters"
-    },
-    {
-      "id": "u_7733cbf0",
-      "sentAt": "2026-09-11T08:44:52.541Z",
-      "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT"
-    },
-    {
-      "id": "u_a2c1cdea",
-      "sentAt": "2026-09-11T08:44:52.541Z",
-      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages"
-    },
-    {
-      "id": "u_5855ddb",
-      "sentAt": "2026-09-11T08:44:52.541Z",
-      "title": "b10903"
     }
   ]
 }
