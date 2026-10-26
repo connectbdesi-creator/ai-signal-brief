@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-25T23:56:43.966Z",
+  "updatedAt": "2026-10-26T04:14:41.879Z",
   "entries": [
+    {
+      "id": "u_7884b9df",
+      "sentAt": "2026-10-26T04:14:41.879Z",
+      "title": "MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring"
+    },
+    {
+      "id": "u_6d42d26f",
+      "sentAt": "2026-10-26T04:14:41.879Z",
+      "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation"
+    },
+    {
+      "id": "u_2d7bcc9f",
+      "sentAt": "2026-10-26T04:14:41.879Z",
+      "title": "Latent Coherence: Do Frontier Language Models' Probability Judgments Obey the Law of Total Probability?"
+    },
+    {
+      "id": "u_ec58e964",
+      "sentAt": "2026-10-26T04:14:41.879Z",
+      "title": "What the Query Remembers: Query Abstraction Governs Lexical and Dense Retrieval of Classical Arabic Poetry"
+    },
+    {
+      "id": "u_cebf4d97",
+      "sentAt": "2026-10-26T04:14:41.879Z",
+      "title": "Machine-Readable Operator Manuals over the ISO 11783 Network for Offline, Multilingual LLM Assistance"
+    },
     {
       "id": "u_7c38e657",
       "sentAt": "2026-10-25T23:56:43.966Z",
@@ -4975,31 +5000,6 @@
       "id": "u_94b984bb",
       "sentAt": "2026-09-11T03:43:31.561Z",
       "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models - The Japan Times"
-    },
-    {
-      "id": "u_63536e24",
-      "sentAt": "2026-09-11T03:43:31.561Z",
-      "title": "OpenAI targets Wall Street bankers with a new version of ChatGPT"
-    },
-    {
-      "id": "u_5ca467b5",
-      "sentAt": "2026-09-11T03:43:31.561Z",
-      "title": "Salesforce introduces Enterprise AI Harness, AI Control Plane"
-    },
-    {
-      "id": "u_e2011c4c",
-      "sentAt": "2026-09-10T22:20:39.664Z",
-      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference"
-    },
-    {
-      "id": "u_4f2220b2",
-      "sentAt": "2026-09-10T22:20:39.664Z",
-      "title": "NVIDIA Details BioNeMo Inference Runtime (BioIR): 2.90x Higher Boltz-2 Folding Throughput and 58.5K Residues per GPU-Hour on 8xH100"
-    },
-    {
-      "id": "u_460ecbb3",
-      "sentAt": "2026-09-10T22:20:39.664Z",
-      "title": "OpenAI Launches the Agents API in Public Beta, Putting the Codex Harness Behind One API Call"
     }
   ]
 }
