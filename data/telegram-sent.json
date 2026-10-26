@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-26T19:47:26.987Z",
+  "updatedAt": "2026-10-26T23:38:27.401Z",
   "entries": [
+    {
+      "id": "u_dc76069a",
+      "sentAt": "2026-10-26T23:38:27.401Z",
+      "title": "OpenAI Unveils Half-Price AI Model to Target Enterprise Automation - PYMNTS.com"
+    },
+    {
+      "id": "u_600f5bc6",
+      "sentAt": "2026-10-26T23:38:27.401Z",
+      "title": "langchain-openai==1.7.3"
+    },
+    {
+      "id": "u_4f937727",
+      "sentAt": "2026-10-26T23:38:27.401Z",
+      "title": "Update: My 4B coding model is getting better at generating 3D scenes"
+    },
+    {
+      "id": "u_93e0d34e",
+      "sentAt": "2026-10-26T23:38:27.401Z",
+      "title": "J-PAL North America launches Homelessness Evaluation Resource Hub to drive evidence-informed approaches to housing stability"
+    },
+    {
+      "id": "u_fd6e2cde",
+      "sentAt": "2026-10-26T23:38:27.401Z",
+      "title": "Inside Anthropic's massive — and wild — IPO prospectus"
+    },
     {
       "id": "u_14573f32",
       "sentAt": "2026-10-26T19:47:26.987Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e2fedd78",
       "sentAt": "2026-09-11T19:02:39.648Z",
       "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_649a2219",
-      "sentAt": "2026-09-11T19:02:39.648Z",
-      "title": "Quoting Boris Cherny"
-    },
-    {
-      "id": "u_f7e12f7e",
-      "sentAt": "2026-09-11T19:02:39.648Z",
-      "title": "langchain-core==1.6.3"
-    },
-    {
-      "id": "u_71d2c13e",
-      "sentAt": "2026-09-11T14:08:00.196Z",
-      "title": "Don't sleep on wrapture"
-    },
-    {
-      "id": "u_a0d5f12f",
-      "sentAt": "2026-09-11T14:08:00.196Z",
-      "title": "Open-Source AI & Open Models Reading List"
-    },
-    {
-      "id": "u_2aff3fad",
-      "sentAt": "2026-09-11T14:08:00.196Z",
-      "title": "AI Agents Will Take Shortcuts. The Solution Is To Design Better Paths"
     }
   ]
 }
