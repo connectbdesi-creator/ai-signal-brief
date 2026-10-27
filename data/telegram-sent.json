@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-26T23:38:27.401Z",
+  "updatedAt": "2026-10-27T04:15:07.720Z",
   "entries": [
+    {
+      "id": "u_e2039d54",
+      "sentAt": "2026-10-27T04:15:07.720Z",
+      "title": "Entire: Ex-GitHub CEO's Git Forge for Agents, Explained"
+    },
+    {
+      "id": "u_def146d7",
+      "sentAt": "2026-10-27T04:15:07.720Z",
+      "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]"
+    },
+    {
+      "id": "u_697d174c",
+      "sentAt": "2026-10-27T04:15:07.720Z",
+      "title": "Entity-Aware Evaluation of OCR Systems for Historical Document Transcription"
+    },
+    {
+      "id": "u_a4f949d1",
+      "sentAt": "2026-10-27T04:15:07.720Z",
+      "title": "OpenESM: Energy-Steered Models Are Scalable Foundation Learners"
+    },
+    {
+      "id": "u_1f92cac3",
+      "sentAt": "2026-10-27T04:15:07.720Z",
+      "title": "Two Uncertainties Are Not One: Disagreement versus Decision-Risk in Cheap Structured Content Moderation"
+    },
     {
       "id": "u_dc76069a",
       "sentAt": "2026-10-26T23:38:27.401Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d632b4a1",
       "sentAt": "2026-09-11T22:20:21.998Z",
       "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills"
-    },
-    {
-      "id": "u_8ec0b128",
-      "sentAt": "2026-09-11T22:20:21.998Z",
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too"
-    },
-    {
-      "id": "u_5e6ece8b",
-      "sentAt": "2026-09-11T22:20:21.998Z",
-      "title": "b10917"
-    },
-    {
-      "id": "u_5b8fb1a9",
-      "sentAt": "2026-09-11T19:02:39.648Z",
-      "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations"
-    },
-    {
-      "id": "u_e56b8b70",
-      "sentAt": "2026-09-11T19:02:39.648Z",
-      "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload"
-    },
-    {
-      "id": "u_e2fedd78",
-      "sentAt": "2026-09-11T19:02:39.648Z",
-      "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore"
     }
   ]
 }
