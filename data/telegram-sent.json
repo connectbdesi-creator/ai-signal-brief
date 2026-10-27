@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-27T17:42:34.222Z",
+  "updatedAt": "2026-10-27T21:56:39.985Z",
   "entries": [
+    {
+      "id": "u_da8c37f4",
+      "sentAt": "2026-10-27T21:56:39.985Z",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant"
+    },
+    {
+      "id": "u_6a89f9e7",
+      "sentAt": "2026-10-27T21:56:39.985Z",
+      "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models"
+    },
+    {
+      "id": "u_ba5494a4",
+      "sentAt": "2026-10-27T21:56:39.985Z",
+      "title": "Dell sees AI agent guardrails as a path to greater autonomy"
+    },
+    {
+      "id": "u_6fcb2c13",
+      "sentAt": "2026-10-27T21:56:39.985Z",
+      "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]"
+    },
+    {
+      "id": "u_5a02fa08",
+      "sentAt": "2026-10-27T21:56:39.985Z",
+      "title": "v1.106.5"
+    },
     {
       "id": "u_441d8c68",
       "sentAt": "2026-10-27T17:42:34.222Z",
@@ -4975,31 +5000,6 @@
       "id": "u_50afe12a",
       "sentAt": "2026-09-12T13:25:38.581Z",
       "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression"
-    },
-    {
-      "id": "u_d849a383",
-      "sentAt": "2026-09-12T13:25:38.581Z",
-      "title": "b10929"
-    },
-    {
-      "id": "u_1cb686d3",
-      "sentAt": "2026-09-12T13:25:38.581Z",
-      "title": "b10927"
-    },
-    {
-      "id": "u_d5a8e9e3",
-      "sentAt": "2026-09-12T08:29:45.765Z",
-      "title": "b10921"
-    },
-    {
-      "id": "u_a5177b89",
-      "sentAt": "2026-09-12T08:29:45.765Z",
-      "title": "OpenAI agents linked to disruption of RubyGems service - news.az"
-    },
-    {
-      "id": "u_4438b5c1",
-      "sentAt": "2026-09-12T08:29:45.765Z",
-      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale"
     }
   ]
 }
