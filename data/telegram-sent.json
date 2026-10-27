@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-27T04:15:07.720Z",
+  "updatedAt": "2026-10-27T11:48:17.380Z",
   "entries": [
+    {
+      "id": "u_7f91139f",
+      "sentAt": "2026-10-27T11:48:17.380Z",
+      "title": "Mirendil Fern: The 10M-Token Model, Benchmarks and Access"
+    },
+    {
+      "id": "u_d8e5943c",
+      "sentAt": "2026-10-27T11:48:17.380Z",
+      "title": "Claude Refuted ETH Too: Anthropic's 3-SAT Paper Explained"
+    },
+    {
+      "id": "u_3e6a3686",
+      "sentAt": "2026-10-27T11:48:17.380Z",
+      "title": "AI Agents Are Media’s New Favorite Audience"
+    },
+    {
+      "id": "u_a46bb0a",
+      "sentAt": "2026-10-27T11:48:17.380Z",
+      "title": "AI Agents Are Media’s New Favorite Audience"
+    },
+    {
+      "id": "u_648db209",
+      "sentAt": "2026-10-27T11:48:17.380Z",
+      "title": "AI Consultation Paper: Experts Want Rules On Agents, Deepfakes, Schools - NDTV"
+    },
     {
       "id": "u_e2039d54",
       "sentAt": "2026-10-27T04:15:07.720Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b7d60c2",
       "sentAt": "2026-09-12T03:47:03.108Z",
       "title": "OpenAI agents attacked RubyGems back in May"
-    },
-    {
-      "id": "u_67bfd3a3",
-      "sentAt": "2026-09-12T03:47:03.108Z",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems"
-    },
-    {
-      "id": "u_15d11e67",
-      "sentAt": "2026-09-12T03:47:03.108Z",
-      "title": "AI agents OpenAI was testing uploaded malicious software to another service, say researchers"
-    },
-    {
-      "id": "u_a91a2b7b",
-      "sentAt": "2026-09-11T22:20:21.998Z",
-      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize"
-    },
-    {
-      "id": "u_bb87f714",
-      "sentAt": "2026-09-11T22:20:21.998Z",
-      "title": "Dynatrace and Arize AI push observability from detection toward action"
-    },
-    {
-      "id": "u_d632b4a1",
-      "sentAt": "2026-09-11T22:20:21.998Z",
-      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills"
     }
   ]
 }
