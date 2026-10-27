@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-27T11:48:17.380Z",
+  "updatedAt": "2026-10-27T17:42:34.222Z",
   "entries": [
+    {
+      "id": "u_441d8c68",
+      "sentAt": "2026-10-27T17:42:34.222Z",
+      "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs"
+    },
+    {
+      "id": "u_ccf76f1d",
+      "sentAt": "2026-10-27T17:42:34.222Z",
+      "title": "LFM3: 6 model instances across text, audio, vision and omni modalities"
+    },
+    {
+      "id": "u_ae089a06",
+      "sentAt": "2026-10-27T17:42:34.222Z",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?"
+    },
+    {
+      "id": "u_3d5eacae",
+      "sentAt": "2026-10-27T17:42:34.222Z",
+      "title": "How We Built Our Design Agent"
+    },
+    {
+      "id": "u_92ff2d6",
+      "sentAt": "2026-10-27T17:42:34.222Z",
+      "title": "LiquidAI/LFM3-1.7B · Hugging Face"
+    },
     {
       "id": "u_7f91139f",
       "sentAt": "2026-10-27T11:48:17.380Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4438b5c1",
       "sentAt": "2026-09-12T08:29:45.765Z",
       "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale"
-    },
-    {
-      "id": "u_793ecc0e",
-      "sentAt": "2026-09-12T08:29:45.765Z",
-      "title": "Mollick Writes About Agent Swarms And Hugging Face Debacle"
-    },
-    {
-      "id": "u_fd8466a0",
-      "sentAt": "2026-09-12T08:29:45.765Z",
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning"
-    },
-    {
-      "id": "u_79e95b1f",
-      "sentAt": "2026-09-12T03:47:03.108Z",
-      "title": "b10919"
-    },
-    {
-      "id": "u_e11f6490",
-      "sentAt": "2026-09-12T03:47:03.108Z",
-      "title": "Researchers link another hacking campaign to OpenAI agents"
-    },
-    {
-      "id": "u_b7d60c2",
-      "sentAt": "2026-09-12T03:47:03.108Z",
-      "title": "OpenAI agents attacked RubyGems back in May"
     }
   ]
 }
