@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-28T08:02:47.377Z",
+  "updatedAt": "2026-10-28T16:29:15.907Z",
   "entries": [
+    {
+      "id": "u_724c76bd",
+      "sentAt": "2026-10-28T16:29:15.907Z",
+      "title": "Meta says it’ll probably delay its controversial new business terms again"
+    },
+    {
+      "id": "u_24ac498e",
+      "sentAt": "2026-10-28T16:29:15.907Z",
+      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition"
+    },
+    {
+      "id": "u_1ac9df32",
+      "sentAt": "2026-10-28T16:29:15.907Z",
+      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition"
+    },
+    {
+      "id": "u_91c43bfd",
+      "sentAt": "2026-10-28T16:29:15.907Z",
+      "title": "How to Make AI Work for End-to-End Business Processes"
+    },
+    {
+      "id": "u_f727a6fd",
+      "sentAt": "2026-10-28T16:29:15.907Z",
+      "title": "Nvidia releases all-in-one adaptable Nemotron 3.5 audio transcription and translation model"
+    },
     {
       "id": "u_937b7954",
       "sentAt": "2026-10-28T08:02:47.377Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1984761f",
       "sentAt": "2026-09-12T23:51:19.862Z",
       "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns - CP24"
-    },
-    {
-      "id": "u_97c74d4",
-      "sentAt": "2026-09-12T23:51:19.862Z",
-      "title": "ChatGPT for Finance, Agents API and Uber Context - startuphub.ai"
-    },
-    {
-      "id": "u_acb9743a",
-      "sentAt": "2026-09-12T23:51:19.862Z",
-      "title": "AI models' written reasoning steps correspond to distinct internal patterns, a new study finds"
-    },
-    {
-      "id": "u_ee61b8c1",
-      "sentAt": "2026-09-12T20:20:11.242Z",
-      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says"
-    },
-    {
-      "id": "u_74e72da1",
-      "sentAt": "2026-09-12T20:20:11.242Z",
-      "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns - WPBF"
-    },
-    {
-      "id": "u_d8c3ac18",
-      "sentAt": "2026-09-12T20:20:11.242Z",
-      "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks"
     }
   ]
 }
