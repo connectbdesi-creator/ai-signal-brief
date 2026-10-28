@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-28T01:04:03.528Z",
+  "updatedAt": "2026-10-28T08:02:47.377Z",
   "entries": [
+    {
+      "id": "u_937b7954",
+      "sentAt": "2026-10-28T08:02:47.377Z",
+      "title": "Ahead of its public launch in November, Anthropic unveils its future vision for artificial intelligence - صوت الإمارات"
+    },
+    {
+      "id": "u_667b825d",
+      "sentAt": "2026-10-28T08:02:47.377Z",
+      "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws"
+    },
+    {
+      "id": "u_7cb6da17",
+      "sentAt": "2026-10-28T08:02:47.377Z",
+      "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams"
+    },
+    {
+      "id": "u_5a3fb8fc",
+      "sentAt": "2026-10-28T08:02:47.377Z",
+      "title": "KORA: Deterministic-First Execution Control for AI Workloads"
+    },
+    {
+      "id": "u_7c83843d",
+      "sentAt": "2026-10-28T08:02:47.377Z",
+      "title": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic from 12M to 1B Parameters"
+    },
     {
       "id": "u_ae5aee59",
       "sentAt": "2026-10-28T01:04:03.528Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d8c3ac18",
       "sentAt": "2026-09-12T20:20:11.242Z",
       "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks"
-    },
-    {
-      "id": "u_c9135702",
-      "sentAt": "2026-09-12T20:20:11.242Z",
-      "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns - KTEN"
-    },
-    {
-      "id": "u_16997dc8",
-      "sentAt": "2026-09-12T20:20:11.242Z",
-      "title": "One Capital Letter Was Silently Breaking My AI Support Bot, and It Wasn't in the New Model"
-    },
-    {
-      "id": "u_4eef0737",
-      "sentAt": "2026-09-12T16:51:01.273Z",
-      "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown"
-    },
-    {
-      "id": "u_728cf1e",
-      "sentAt": "2026-09-12T16:51:01.273Z",
-      "title": "Devin GPT-6 Astra Self-Testing Moves Review to Evidence"
-    },
-    {
-      "id": "u_94cd7e73",
-      "sentAt": "2026-09-12T16:51:01.273Z",
-      "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control"
     }
   ]
 }
