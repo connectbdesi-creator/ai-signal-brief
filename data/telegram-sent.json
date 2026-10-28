@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-27T21:56:39.985Z",
+  "updatedAt": "2026-10-28T01:04:03.528Z",
   "entries": [
+    {
+      "id": "u_ae5aee59",
+      "sentAt": "2026-10-28T01:04:03.528Z",
+      "title": "A fine-tuned \"cat obsession\" as a control for AI welfare criteria: every probe criterion passes, and a relief button tracks how a drive is delivered, not whether it's active [R]"
+    },
+    {
+      "id": "u_5e40c67a",
+      "sentAt": "2026-10-28T01:04:03.528Z",
+      "title": "Red Hat brings OpenShell security to enterprise AI agents"
+    },
+    {
+      "id": "u_df026603",
+      "sentAt": "2026-10-28T01:04:03.528Z",
+      "title": "b11938"
+    },
+    {
+      "id": "u_42084044",
+      "sentAt": "2026-10-28T01:04:03.528Z",
+      "title": "langchain-anthropic==1.7.7"
+    },
+    {
+      "id": "u_df86c6b7",
+      "sentAt": "2026-10-28T01:04:03.528Z",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication"
+    },
     {
       "id": "u_da8c37f4",
       "sentAt": "2026-10-27T21:56:39.985Z",
@@ -4975,31 +5000,6 @@
       "id": "u_94cd7e73",
       "sentAt": "2026-09-12T16:51:01.273Z",
       "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control"
-    },
-    {
-      "id": "u_1543446f",
-      "sentAt": "2026-09-12T16:51:01.273Z",
-      "title": "b10931"
-    },
-    {
-      "id": "u_e01bbf5d",
-      "sentAt": "2026-09-12T16:51:01.273Z",
-      "title": "Anthropic CEO calls for immediate slowdown in AI development"
-    },
-    {
-      "id": "u_c84d3f2f",
-      "sentAt": "2026-09-12T13:25:38.581Z",
-      "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends"
-    },
-    {
-      "id": "u_5cab4253",
-      "sentAt": "2026-09-12T13:25:38.581Z",
-      "title": "b10930"
-    },
-    {
-      "id": "u_50afe12a",
-      "sentAt": "2026-09-12T13:25:38.581Z",
-      "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression"
     }
   ]
 }
