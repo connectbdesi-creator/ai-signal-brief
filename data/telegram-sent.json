@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-28T16:29:15.907Z",
+  "updatedAt": "2026-10-28T22:20:40.065Z",
   "entries": [
+    {
+      "id": "u_b4ce3002",
+      "sentAt": "2026-10-28T22:20:40.065Z",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning"
+    },
+    {
+      "id": "u_e7bc4979",
+      "sentAt": "2026-10-28T22:20:40.065Z",
+      "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]"
+    },
+    {
+      "id": "u_de91aa7",
+      "sentAt": "2026-10-28T22:20:40.065Z",
+      "title": "AI cybersecurity shifts to governing agents with Okta identity"
+    },
+    {
+      "id": "u_1da60397",
+      "sentAt": "2026-10-28T22:20:40.065Z",
+      "title": "Creating AI value with enterprise context"
+    },
+    {
+      "id": "u_731d2a63",
+      "sentAt": "2026-10-28T22:20:40.065Z",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
+    },
     {
       "id": "u_724c76bd",
       "sentAt": "2026-10-28T16:29:15.907Z",
@@ -4975,31 +5000,6 @@
       "id": "u_533fdf55",
       "sentAt": "2026-09-13T03:55:12.089Z",
       "title": "'We Must Pace the Frontier': Anthropic CEO urges AI companies to slow model development - The Jerusalem Post"
-    },
-    {
-      "id": "u_50797357",
-      "sentAt": "2026-09-13T03:55:12.089Z",
-      "title": "b10936"
-    },
-    {
-      "id": "u_7eb544ff",
-      "sentAt": "2026-09-13T03:55:12.089Z",
-      "title": "b10935"
-    },
-    {
-      "id": "u_4f4594d7",
-      "sentAt": "2026-09-12T23:51:19.862Z",
-      "title": "b10932"
-    },
-    {
-      "id": "u_f241d59d",
-      "sentAt": "2026-09-12T23:51:19.862Z",
-      "title": "OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says"
-    },
-    {
-      "id": "u_1984761f",
-      "sentAt": "2026-09-12T23:51:19.862Z",
-      "title": "Anthropic CEO calls for ‘pacing the frontier’ of AI race amid safety concerns - CP24"
     }
   ]
 }
