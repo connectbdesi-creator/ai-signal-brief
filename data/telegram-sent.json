@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-29T19:27:29.276Z",
+  "updatedAt": "2026-10-29T23:51:02.498Z",
   "entries": [
+    {
+      "id": "u_3cf176c5",
+      "sentAt": "2026-10-29T23:51:02.498Z",
+      "title": "API credits benefit for eligible ChatGPT subscriptions"
+    },
+    {
+      "id": "u_d6996c5b",
+      "sentAt": "2026-10-29T23:51:02.498Z",
+      "title": "Cloudera builds its AI strategy around deployment flexibility"
+    },
+    {
+      "id": "u_c6e5584",
+      "sentAt": "2026-10-29T23:51:02.498Z",
+      "title": "HPE cuts executive status meetings with no-code apps built on monday.com"
+    },
+    {
+      "id": "u_54a88068",
+      "sentAt": "2026-10-29T23:51:02.498Z",
+      "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens"
+    },
+    {
+      "id": "u_8fff5b92",
+      "sentAt": "2026-10-29T23:51:02.498Z",
+      "title": "Cloudera and Mistral bring open-weight models closer to enterprise data"
+    },
     {
       "id": "u_1008bd48",
       "sentAt": "2026-10-29T19:27:29.276Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7c6097f5",
       "sentAt": "2026-09-13T22:14:02.811Z",
       "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown"
-    },
-    {
-      "id": "u_13de06f9",
-      "sentAt": "2026-09-13T22:14:02.811Z",
-      "title": "COBRA-Skills: Contextual Bandits for Efficient Agent Skill Optimization (Open Source)"
-    },
-    {
-      "id": "u_6244f631",
-      "sentAt": "2026-09-13T22:14:02.811Z",
-      "title": "[Research] COBRA-Skills: Contextual Bandits for Efficient Agent Skill Optimization (Open Source)"
-    },
-    {
-      "id": "u_f159d1ef",
-      "sentAt": "2026-09-13T18:37:06.106Z",
-      "title": "b10946"
-    },
-    {
-      "id": "u_4e5504fd",
-      "sentAt": "2026-09-13T18:37:06.106Z",
-      "title": "What Made AI Researchers Freak Out—The \"Incident\" In Plain English"
-    },
-    {
-      "id": "u_9b85ce79",
-      "sentAt": "2026-09-13T18:37:06.106Z",
-      "title": "Former AI researcher: ‘Not enough time’ for employees to consider safety of models - The Hill"
     }
   ]
 }
