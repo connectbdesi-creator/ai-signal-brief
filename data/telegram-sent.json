@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-28T22:20:40.065Z",
+  "updatedAt": "2026-10-29T04:56:25.617Z",
   "entries": [
+    {
+      "id": "u_7bd17ff2",
+      "sentAt": "2026-10-29T04:56:25.617Z",
+      "title": "One Tech Tip: How to get started with AI agents, and which are best for specific tasks - WRAL"
+    },
+    {
+      "id": "u_a704f94e",
+      "sentAt": "2026-10-29T04:56:25.617Z",
+      "title": "v1.108.0-rc.1"
+    },
+    {
+      "id": "u_6fd262ee",
+      "sentAt": "2026-10-29T04:56:25.617Z",
+      "title": "Google announces Gemini 4 Carbon, its new frontier AI model - Mashable"
+    },
+    {
+      "id": "u_39eac576",
+      "sentAt": "2026-10-29T04:56:25.617Z",
+      "title": "Google debuts flagship Gemini 4 Carbon model with cybersecurity upgrades"
+    },
+    {
+      "id": "u_4db9c700",
+      "sentAt": "2026-10-29T04:56:25.617Z",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’"
+    },
     {
       "id": "u_b4ce3002",
       "sentAt": "2026-10-28T22:20:40.065Z",
@@ -4975,31 +5000,6 @@
       "id": "u_828dd3b6",
       "sentAt": "2026-09-13T09:16:58.624Z",
       "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks"
-    },
-    {
-      "id": "u_296131db",
-      "sentAt": "2026-09-13T09:16:58.624Z",
-      "title": "b10937"
-    },
-    {
-      "id": "u_80c70706",
-      "sentAt": "2026-09-13T09:16:58.624Z",
-      "title": "v1.102.0-rc.1"
-    },
-    {
-      "id": "u_1afe81bf",
-      "sentAt": "2026-09-13T03:55:12.089Z",
-      "title": "ChatGPT enters the world of finance: OpenAI launches a smart platform dedicated to financial institutions - صوت الإمارات"
-    },
-    {
-      "id": "u_668651a7",
-      "sentAt": "2026-09-13T03:55:12.089Z",
-      "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference"
-    },
-    {
-      "id": "u_533fdf55",
-      "sentAt": "2026-09-13T03:55:12.089Z",
-      "title": "'We Must Pace the Frontier': Anthropic CEO urges AI companies to slow model development - The Jerusalem Post"
     }
   ]
 }
