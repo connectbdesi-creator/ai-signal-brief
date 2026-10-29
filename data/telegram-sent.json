@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-29T12:32:04.518Z",
+  "updatedAt": "2026-10-29T19:27:29.276Z",
   "entries": [
+    {
+      "id": "u_1008bd48",
+      "sentAt": "2026-10-29T19:27:29.276Z",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch"
+    },
+    {
+      "id": "u_9ec19f5e",
+      "sentAt": "2026-10-29T19:27:29.276Z",
+      "title": "langchain-core==1.7.2"
+    },
+    {
+      "id": "u_dd417d6e",
+      "sentAt": "2026-10-29T19:27:29.276Z",
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System"
+    },
+    {
+      "id": "u_72ead7f4",
+      "sentAt": "2026-10-29T19:27:29.276Z",
+      "title": "Building a multiplayer game world with autonomous Fable-class models"
+    },
+    {
+      "id": "u_76ddc017",
+      "sentAt": "2026-10-29T19:27:29.276Z",
+      "title": "An updated Model Spec for more capable and beneficial AI"
+    },
     {
       "id": "u_207a063a",
       "sentAt": "2026-10-29T12:32:04.518Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9b85ce79",
       "sentAt": "2026-09-13T18:37:06.106Z",
       "title": "Former AI researcher: ‘Not enough time’ for employees to consider safety of models - The Hill"
-    },
-    {
-      "id": "u_b06e2d8e",
-      "sentAt": "2026-09-13T18:37:06.106Z",
-      "title": "Johnson calls for AI solutions but says Congress won't take the lead"
-    },
-    {
-      "id": "u_fa501d72",
-      "sentAt": "2026-09-13T18:37:06.106Z",
-      "title": "Chinese military researchers and tech giants caught using Claude — US frontier model coded 16 air-defense suppression tools targeting Taiwan, drafted anti-torpedo specs, and fed 151 million training queries to Alibaba - Tom's Hardware"
-    },
-    {
-      "id": "u_eb5391eb",
-      "sentAt": "2026-09-13T14:10:33.145Z",
-      "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options"
-    },
-    {
-      "id": "u_370fc933",
-      "sentAt": "2026-09-13T14:10:33.145Z",
-      "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options"
-    },
-    {
-      "id": "u_25fe8ae3",
-      "sentAt": "2026-09-13T14:10:33.145Z",
-      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class"
     }
   ]
 }
