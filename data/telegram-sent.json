@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-29T04:56:25.617Z",
+  "updatedAt": "2026-10-29T12:32:04.518Z",
   "entries": [
+    {
+      "id": "u_207a063a",
+      "sentAt": "2026-10-29T12:32:04.518Z",
+      "title": "5 Docker Containers You Need for a Home AI Lab"
+    },
+    {
+      "id": "u_29fb609a",
+      "sentAt": "2026-10-29T12:32:04.518Z",
+      "title": "Does This Task Actually Need an Agent?"
+    },
+    {
+      "id": "u_db98e62a",
+      "sentAt": "2026-10-29T12:32:04.518Z",
+      "title": "Unreleased Claude model found attack chains in Chrome, Safari: Anthropic - Business Standard"
+    },
+    {
+      "id": "u_24c41fbd",
+      "sentAt": "2026-10-29T12:32:04.518Z",
+      "title": "Opsio Launches Hiveforce, Merging Human Leadership with an AI Workforce - TechBullion"
+    },
+    {
+      "id": "u_6a6366b7",
+      "sentAt": "2026-10-29T12:32:04.518Z",
+      "title": "We urgently need to monitor AI agents’ actions in real time"
+    },
     {
       "id": "u_7bd17ff2",
       "sentAt": "2026-10-29T04:56:25.617Z",
@@ -4975,31 +5000,6 @@
       "id": "u_25fe8ae3",
       "sentAt": "2026-09-13T14:10:33.145Z",
       "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class"
-    },
-    {
-      "id": "u_b7e6dd8f",
-      "sentAt": "2026-09-13T14:10:33.145Z",
-      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class"
-    },
-    {
-      "id": "u_244b1529",
-      "sentAt": "2026-09-13T14:10:33.145Z",
-      "title": "AI's most powerful CEOs hit the brakes"
-    },
-    {
-      "id": "u_e855d61e",
-      "sentAt": "2026-09-13T09:16:58.624Z",
-      "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents"
-    },
-    {
-      "id": "u_5ef4c943",
-      "sentAt": "2026-09-13T09:16:58.624Z",
-      "title": "b10938"
-    },
-    {
-      "id": "u_828dd3b6",
-      "sentAt": "2026-09-13T09:16:58.624Z",
-      "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks"
     }
   ]
 }
