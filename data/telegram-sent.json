@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-29T23:51:02.498Z",
+  "updatedAt": "2026-10-30T04:56:09.781Z",
   "entries": [
+    {
+      "id": "u_c4c8a974",
+      "sentAt": "2026-10-30T04:56:09.781Z",
+      "title": "v1.109.0-dev.2"
+    },
+    {
+      "id": "u_a3839bf3",
+      "sentAt": "2026-10-30T04:56:09.781Z",
+      "title": "Brakes built for speed: Why least privilege lets monday.com’s AI teams move faster"
+    },
+    {
+      "id": "u_38dc36c",
+      "sentAt": "2026-10-30T04:56:09.781Z",
+      "title": "Monday.com bets on deployment experts to turn AI agents into real returns"
+    },
+    {
+      "id": "u_b1b2a856",
+      "sentAt": "2026-10-30T04:56:09.781Z",
+      "title": "AI architecture startup Dream launches with $17M in funding"
+    },
+    {
+      "id": "u_27bf8e77",
+      "sentAt": "2026-10-30T04:56:09.781Z",
+      "title": "b11998"
+    },
     {
       "id": "u_3cf176c5",
       "sentAt": "2026-10-29T23:51:02.498Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5c27bfa9",
       "sentAt": "2026-09-14T04:02:06.448Z",
       "title": "Pacing the Frontier – Tahuna: AI Training Infrastructure, Now Open Source [P]"
-    },
-    {
-      "id": "u_5eb54aa7",
-      "sentAt": "2026-09-14T04:02:06.448Z",
-      "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]"
-    },
-    {
-      "id": "u_59dec82",
-      "sentAt": "2026-09-14T04:02:06.448Z",
-      "title": "Former AI researcher: ‘Not enough time’ for employees to consider safety of models - thehill.com"
-    },
-    {
-      "id": "u_2d638e8f",
-      "sentAt": "2026-09-13T22:14:02.811Z",
-      "title": "The Very Real Threat of a Persistent Botnet"
-    },
-    {
-      "id": "u_a01033df",
-      "sentAt": "2026-09-13T22:14:02.811Z",
-      "title": "b10948"
-    },
-    {
-      "id": "u_7c6097f5",
-      "sentAt": "2026-09-13T22:14:02.811Z",
-      "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown"
     }
   ]
 }
