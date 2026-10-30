@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-30T04:56:09.781Z",
+  "updatedAt": "2026-10-30T12:23:19.237Z",
   "entries": [
+    {
+      "id": "u_284e34aa",
+      "sentAt": "2026-10-30T12:23:19.237Z",
+      "title": "The race to deploy AI agents finds a familiar hurdle in data access"
+    },
+    {
+      "id": "u_7ae4b64c",
+      "sentAt": "2026-10-30T12:23:19.237Z",
+      "title": "AI agents cut critical research time for humanitarian teams in conflict zones"
+    },
+    {
+      "id": "u_377048f8",
+      "sentAt": "2026-10-30T12:23:19.237Z",
+      "title": "Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations"
+    },
+    {
+      "id": "u_64a9a824",
+      "sentAt": "2026-10-30T12:23:19.237Z",
+      "title": "Accenture AI agents are sifting through applicants"
+    },
+    {
+      "id": "u_4c06ce86",
+      "sentAt": "2026-10-30T12:23:19.237Z",
+      "title": "Corporate America's Trump trap"
+    },
     {
       "id": "u_c4c8a974",
       "sentAt": "2026-10-30T04:56:09.781Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ebc70565",
       "sentAt": "2026-09-14T12:12:08.563Z",
       "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes"
-    },
-    {
-      "id": "u_16d890d4",
-      "sentAt": "2026-09-14T12:12:08.563Z",
-      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue"
-    },
-    {
-      "id": "u_312046ea",
-      "sentAt": "2026-09-14T12:12:08.563Z",
-      "title": "Sam Altman calls for pacing AI development but promises rapid progress will continue"
-    },
-    {
-      "id": "u_d117545",
-      "sentAt": "2026-09-14T04:02:06.448Z",
-      "title": "Anthropic’s 3-Step ‘Pace the Frontier’ Plan Wins OpenAI, xAI and Microsoft Support: Is It Too Late to Slow AI Down?"
-    },
-    {
-      "id": "u_a5953f27",
-      "sentAt": "2026-09-14T04:02:06.448Z",
-      "title": "b10950"
-    },
-    {
-      "id": "u_5c27bfa9",
-      "sentAt": "2026-09-14T04:02:06.448Z",
-      "title": "Pacing the Frontier – Tahuna: AI Training Infrastructure, Now Open Source [P]"
     }
   ]
 }
