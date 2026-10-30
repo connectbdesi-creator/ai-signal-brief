@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-30T12:23:19.237Z",
+  "updatedAt": "2026-10-30T19:04:30.193Z",
   "entries": [
+    {
+      "id": "u_d56221d6",
+      "sentAt": "2026-10-30T19:04:30.193Z",
+      "title": "Google’s satellite AI server transmits its first response to Earth"
+    },
+    {
+      "id": "u_dea079d2",
+      "sentAt": "2026-10-30T19:04:30.193Z",
+      "title": "Krafton-backed Ludo Robotics releases robot intelligence model designed around human intent"
+    },
+    {
+      "id": "u_62dd3228",
+      "sentAt": "2026-10-30T19:04:30.193Z",
+      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control"
+    },
+    {
+      "id": "u_1e6651d3",
+      "sentAt": "2026-10-30T19:04:30.193Z",
+      "title": "Configure the ChatGPT desktop app with Amazon Bedrock in AWS GovCloud (US)"
+    },
+    {
+      "id": "u_1cd08491",
+      "sentAt": "2026-10-30T19:04:30.193Z",
+      "title": "Sam Altman Absolutely Hates the Idea of People Running Their Own AI Models at Home, Argues They Shouldn't Own Computers - Futurism"
+    },
     {
       "id": "u_284e34aa",
       "sentAt": "2026-10-30T12:23:19.237Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a6859577",
       "sentAt": "2026-09-14T19:06:30.131Z",
       "title": "When to Use One Model and When to Use a Team of Agents"
-    },
-    {
-      "id": "u_e65fa782",
-      "sentAt": "2026-09-14T19:06:30.131Z",
-      "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations"
-    },
-    {
-      "id": "u_7257db8d",
-      "sentAt": "2026-09-14T19:06:30.131Z",
-      "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations"
-    },
-    {
-      "id": "u_4ffffeff",
-      "sentAt": "2026-09-14T12:12:08.563Z",
-      "title": "From Static to Dynamic Skills: A Different Model for Agent Knowledge"
-    },
-    {
-      "id": "u_2362b9ef",
-      "sentAt": "2026-09-14T12:12:08.563Z",
-      "title": "AI Reality: The Race to (P)doom End-times"
-    },
-    {
-      "id": "u_ebc70565",
-      "sentAt": "2026-09-14T12:12:08.563Z",
-      "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes"
     }
   ]
 }
