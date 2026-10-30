@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-30T19:04:30.193Z",
+  "updatedAt": "2026-10-30T23:30:42.373Z",
   "entries": [
+    {
+      "id": "u_737c7d1e",
+      "sentAt": "2026-10-30T23:30:42.373Z",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3"
+    },
+    {
+      "id": "u_730ad117",
+      "sentAt": "2026-10-30T23:30:42.373Z",
+      "title": "Here's why an AI-generated campaign ad depicting Gov. Shapiro is allowed on the air in Pennsylvania ahead of the 2026 election - 6abc Philadelphia"
+    },
+    {
+      "id": "u_a6f28f39",
+      "sentAt": "2026-10-30T23:30:42.373Z",
+      "title": "dbreunig/nesformer"
+    },
+    {
+      "id": "u_e3241986",
+      "sentAt": "2026-10-30T23:30:42.373Z",
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon"
+    },
+    {
+      "id": "u_8046ed18",
+      "sentAt": "2026-10-30T23:30:42.373Z",
+      "title": "AI Explained: URI launching new artificial intelligence program - WPRI.com"
+    },
     {
       "id": "u_d56221d6",
       "sentAt": "2026-10-30T19:04:30.193Z",
@@ -4975,31 +5000,6 @@
       "id": "u_87bcad33",
       "sentAt": "2026-09-14T23:01:06.857Z",
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop"
-    },
-    {
-      "id": "u_1ba6638b",
-      "sentAt": "2026-09-14T23:01:06.857Z",
-      "title": "b10970"
-    },
-    {
-      "id": "u_82adc6b9",
-      "sentAt": "2026-09-14T23:01:06.857Z",
-      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_56157bcb",
-      "sentAt": "2026-09-14T19:06:30.131Z",
-      "title": "Microsoft proposes limits on its AI with code of conduct amid safety debate"
-    },
-    {
-      "id": "u_47e13c3a",
-      "sentAt": "2026-09-14T19:06:30.131Z",
-      "title": "Cornelis Unveils Active Compute Fabric To Maximize AI Rack Utilization"
-    },
-    {
-      "id": "u_a6859577",
-      "sentAt": "2026-09-14T19:06:30.131Z",
-      "title": "When to Use One Model and When to Use a Team of Agents"
     }
   ]
 }
