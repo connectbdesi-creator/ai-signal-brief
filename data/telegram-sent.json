@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-31T17:00:02.543Z",
+  "updatedAt": "2026-10-31T21:11:36.309Z",
   "entries": [
+    {
+      "id": "u_74d21be9",
+      "sentAt": "2026-10-31T21:11:36.309Z",
+      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models"
+    },
+    {
+      "id": "u_aa62693b",
+      "sentAt": "2026-10-31T21:11:36.309Z",
+      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models"
+    },
+    {
+      "id": "u_8e3bc11b",
+      "sentAt": "2026-10-31T21:11:36.309Z",
+      "title": "b12022"
+    },
+    {
+      "id": "u_26920040",
+      "sentAt": "2026-10-31T21:11:36.309Z",
+      "title": "I built a scikit-learn for RSI [P]"
+    },
+    {
+      "id": "u_cf4beceb",
+      "sentAt": "2026-10-31T21:11:36.309Z",
+      "title": "Humans are still doing the work behind some AI agents"
+    },
     {
       "id": "u_d20a4460",
       "sentAt": "2026-10-31T17:00:02.543Z",
@@ -4975,31 +5000,6 @@
       "id": "u_53860950",
       "sentAt": "2026-09-15T21:00:12.434Z",
       "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup"
-    },
-    {
-      "id": "u_82ade2d5",
-      "sentAt": "2026-09-15T21:00:12.434Z",
-      "title": "Two camps have emerged in the debate over AI safety and regulation"
-    },
-    {
-      "id": "u_6772cff1",
-      "sentAt": "2026-09-15T21:00:12.434Z",
-      "title": "Euclyd raises $230M+ to develop chips for AI agents"
-    },
-    {
-      "id": "u_c15481e3",
-      "sentAt": "2026-09-15T16:33:37.809Z",
-      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching"
-    },
-    {
-      "id": "u_c4e315e0",
-      "sentAt": "2026-09-15T16:33:37.809Z",
-      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization"
-    },
-    {
-      "id": "u_4472e84",
-      "sentAt": "2026-09-15T16:33:37.809Z",
-      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs"
     }
   ]
 }
