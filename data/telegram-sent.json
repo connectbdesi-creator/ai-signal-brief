@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-30T23:30:42.373Z",
+  "updatedAt": "2026-10-31T04:42:21.412Z",
   "entries": [
+    {
+      "id": "u_44dbba08",
+      "sentAt": "2026-10-31T04:42:21.412Z",
+      "title": "Anthropic Had Claude Red-Team Its Own Training Monitor"
+    },
+    {
+      "id": "u_72fc42ed",
+      "sentAt": "2026-10-31T04:42:21.412Z",
+      "title": "OpenAI slashes funding target by $10bn as tech anxieties mount"
+    },
+    {
+      "id": "u_336eebda",
+      "sentAt": "2026-10-31T04:42:21.412Z",
+      "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo"
+    },
+    {
+      "id": "u_8e7a5dd9",
+      "sentAt": "2026-10-31T04:42:21.412Z",
+      "title": "AI Explained: URI launching new artificial intelligence program - Yahoo"
+    },
+    {
+      "id": "u_9efe5811",
+      "sentAt": "2026-10-31T04:42:21.412Z",
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk"
+    },
     {
       "id": "u_737c7d1e",
       "sentAt": "2026-10-30T23:30:42.373Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d58acf68",
       "sentAt": "2026-09-15T04:01:20.128Z",
       "title": "Thune sees role for Congress on AI — Trump does not"
-    },
-    {
-      "id": "u_d34e9b09",
-      "sentAt": "2026-09-15T04:01:20.128Z",
-      "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom"
-    },
-    {
-      "id": "u_95aa2f17",
-      "sentAt": "2026-09-15T04:01:20.128Z",
-      "title": "CrowdStrike CEO on Anthropic’s AI safety warning: ‘The genie’s out of the bottle’"
-    },
-    {
-      "id": "u_d821963b",
-      "sentAt": "2026-09-14T23:01:06.857Z",
-      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale"
-    },
-    {
-      "id": "u_df19898d",
-      "sentAt": "2026-09-14T23:01:06.857Z",
-      "title": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data"
-    },
-    {
-      "id": "u_87bcad33",
-      "sentAt": "2026-09-14T23:01:06.857Z",
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop"
     }
   ]
 }
