@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-01T08:53:59.932Z",
+  "updatedAt": "2026-11-01T16:38:50.875Z",
   "entries": [
+    {
+      "id": "u_798eff7d",
+      "sentAt": "2026-11-01T16:38:50.875Z",
+      "title": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns"
+    },
+    {
+      "id": "u_554adf3f",
+      "sentAt": "2026-11-01T16:38:50.875Z",
+      "title": "Persona Prompt Engineering After the LLM Suffering Study"
+    },
+    {
+      "id": "u_a99d7ba4",
+      "sentAt": "2026-11-01T16:38:50.875Z",
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would"
+    },
+    {
+      "id": "u_eaca06fd",
+      "sentAt": "2026-11-01T16:38:50.875Z",
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would"
+    },
+    {
+      "id": "u_f1294df",
+      "sentAt": "2026-11-01T16:38:50.875Z",
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners"
+    },
     {
       "id": "u_b995278f",
       "sentAt": "2026-11-01T08:53:59.932Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a0b9bef5",
       "sentAt": "2026-09-16T13:15:16.215Z",
       "title": "Exclusive: OpenAI launches road tour to educate older Americans on AI - USA Today"
-    },
-    {
-      "id": "u_3e50631e",
-      "sentAt": "2026-09-16T13:15:16.215Z",
-      "title": "How to Build Effective Evals for AI Agents"
-    },
-    {
-      "id": "u_b2028f74",
-      "sentAt": "2026-09-16T13:15:16.215Z",
-      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser"
-    },
-    {
-      "id": "u_85a6db32",
-      "sentAt": "2026-09-16T07:24:44.935Z",
-      "title": "Cohesity’s new Agent Resilience lets companies roll back AI agents that go wrong"
-    },
-    {
-      "id": "u_2b792cb3",
-      "sentAt": "2026-09-16T07:24:44.935Z",
-      "title": "b10993"
-    },
-    {
-      "id": "u_58ce07af",
-      "sentAt": "2026-09-16T07:24:44.935Z",
-      "title": "Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings"
     }
   ]
 }
