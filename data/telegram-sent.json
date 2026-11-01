@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-01T16:38:50.875Z",
+  "updatedAt": "2026-11-01T21:49:30.160Z",
   "entries": [
+    {
+      "id": "u_b98f94ce",
+      "sentAt": "2026-11-01T21:49:30.160Z",
+      "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic - Business Standard"
+    },
+    {
+      "id": "u_c092ce6a",
+      "sentAt": "2026-11-01T21:49:30.160Z",
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners"
+    },
+    {
+      "id": "u_e88e788a",
+      "sentAt": "2026-11-01T21:49:30.160Z",
+      "title": "Project-by-project security reviews can’t keep pace with enterprise AI agents"
+    },
+    {
+      "id": "u_ebf692b8",
+      "sentAt": "2026-11-01T21:49:30.160Z",
+      "title": "Agent demand can’t be forecast, meaning the database has to be ready for anything"
+    },
+    {
+      "id": "u_7bd9b0d8",
+      "sentAt": "2026-11-01T21:49:30.160Z",
+      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy"
+    },
     {
       "id": "u_798eff7d",
       "sentAt": "2026-11-01T16:38:50.875Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5ace1717",
       "sentAt": "2026-09-16T18:01:23.178Z",
       "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI"
-    },
-    {
-      "id": "u_d3a8835",
-      "sentAt": "2026-09-16T18:01:23.178Z",
-      "title": "Your AI agents can now control your Google Home devices"
-    },
-    {
-      "id": "u_e40cc97c",
-      "sentAt": "2026-09-16T18:01:23.178Z",
-      "title": "Anthropic Launches Claude For Advisors With Schwab And BlackRock"
-    },
-    {
-      "id": "u_6d5fc7e6",
-      "sentAt": "2026-09-16T13:15:16.215Z",
-      "title": "ThinkingDataAI launches Agentic Engine with AI agents tracking growth on a company’s own infrastructure"
-    },
-    {
-      "id": "u_65554097",
-      "sentAt": "2026-09-16T13:15:16.215Z",
-      "title": "China's Huawei forecasts billions of agents will dominate AI traffic by 2035 - Reuters"
-    },
-    {
-      "id": "u_a0b9bef5",
-      "sentAt": "2026-09-16T13:15:16.215Z",
-      "title": "Exclusive: OpenAI launches road tour to educate older Americans on AI - USA Today"
     }
   ]
 }
