@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-01T00:48:28.021Z",
+  "updatedAt": "2026-11-01T08:53:59.932Z",
   "entries": [
+    {
+      "id": "u_b995278f",
+      "sentAt": "2026-11-01T08:53:59.932Z",
+      "title": "ChatGPT and Codex Will Share One Usage Limit in December"
+    },
+    {
+      "id": "u_b140abdb",
+      "sentAt": "2026-11-01T08:53:59.932Z",
+      "title": "b12032"
+    },
+    {
+      "id": "u_3aaf14d8",
+      "sentAt": "2026-11-01T08:53:59.932Z",
+      "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon"
+    },
+    {
+      "id": "u_8b0ec5c2",
+      "sentAt": "2026-11-01T08:53:59.932Z",
+      "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic - Moneycontrol.com"
+    },
+    {
+      "id": "u_abb0f5ab",
+      "sentAt": "2026-11-01T08:53:59.932Z",
+      "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent"
+    },
     {
       "id": "u_ca36dde8",
       "sentAt": "2026-11-01T00:48:28.021Z",
@@ -4975,31 +5000,6 @@
       "id": "u_58ce07af",
       "sentAt": "2026-09-16T07:24:44.935Z",
       "title": "Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings"
-    },
-    {
-      "id": "u_7829b053",
-      "sentAt": "2026-09-16T07:24:44.935Z",
-      "title": "b10992"
-    },
-    {
-      "id": "u_e7088212",
-      "sentAt": "2026-09-16T07:24:44.935Z",
-      "title": "Anthropic lands deal in $31bn datacentre in western Queensland"
-    },
-    {
-      "id": "u_2f968e57",
-      "sentAt": "2026-09-16T00:03:01.775Z",
-      "title": "b10990"
-    },
-    {
-      "id": "u_9cde3d39",
-      "sentAt": "2026-09-16T00:03:01.775Z",
-      "title": "Gemini Live audio"
-    },
-    {
-      "id": "u_466cba2e",
-      "sentAt": "2026-09-16T00:03:01.775Z",
-      "title": "AI agent certification startup AIUC raises $40M to begin auditing frontier models"
     }
   ]
 }
