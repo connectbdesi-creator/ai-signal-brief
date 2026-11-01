@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-31T21:11:36.309Z",
+  "updatedAt": "2026-11-01T00:48:28.021Z",
   "entries": [
+    {
+      "id": "u_ca36dde8",
+      "sentAt": "2026-11-01T00:48:28.021Z",
+      "title": "Agentic AI w/frontier models??"
+    },
+    {
+      "id": "u_712e0060",
+      "sentAt": "2026-11-01T00:48:28.021Z",
+      "title": "How We Took Over ChatGPT Accounts"
+    },
+    {
+      "id": "u_54d2b230",
+      "sentAt": "2026-11-01T00:48:28.021Z",
+      "title": "datasette-llm 0.1a9"
+    },
+    {
+      "id": "u_40d87923",
+      "sentAt": "2026-11-01T00:48:28.021Z",
+      "title": "Please tell me Qwen3.8-Flash-Next can be made to be better than this"
+    },
+    {
+      "id": "u_95f9ea65",
+      "sentAt": "2026-11-01T00:48:28.021Z",
+      "title": "CrowdGPT v2.6 - The collaborative LLM"
+    },
     {
       "id": "u_74d21be9",
       "sentAt": "2026-10-31T21:11:36.309Z",
@@ -4975,31 +5000,6 @@
       "id": "u_466cba2e",
       "sentAt": "2026-09-16T00:03:01.775Z",
       "title": "AI agent certification startup AIUC raises $40M to begin auditing frontier models"
-    },
-    {
-      "id": "u_d519aff3",
-      "sentAt": "2026-09-16T00:03:01.775Z",
-      "title": "b10989"
-    },
-    {
-      "id": "u_8f3d0f3d",
-      "sentAt": "2026-09-16T00:03:01.775Z",
-      "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'"
-    },
-    {
-      "id": "u_10a42984",
-      "sentAt": "2026-09-15T21:00:12.434Z",
-      "title": "What to expect at Neo4j’s GraphSummit: Join theCUBE Sept. 24"
-    },
-    {
-      "id": "u_1e332a11",
-      "sentAt": "2026-09-15T21:00:12.434Z",
-      "title": "Your AI agents' reports and questions have a new inbox, courtesy of AWS"
-    },
-    {
-      "id": "u_53860950",
-      "sentAt": "2026-09-15T21:00:12.434Z",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup"
     }
   ]
 }
