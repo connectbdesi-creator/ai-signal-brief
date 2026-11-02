@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-02T09:01:42.503Z",
+  "updatedAt": "2026-11-02T20:04:00.928Z",
   "entries": [
+    {
+      "id": "u_1e2817b0",
+      "sentAt": "2026-11-02T20:04:00.928Z",
+      "title": "Tutor Intelligence raises Series B to scale model training, robot deployments"
+    },
+    {
+      "id": "u_c8aea4f7",
+      "sentAt": "2026-11-02T20:04:00.928Z",
+      "title": "b12057"
+    },
+    {
+      "id": "u_cab49a8f",
+      "sentAt": "2026-11-02T20:04:00.928Z",
+      "title": "b12054"
+    },
+    {
+      "id": "u_920a177f",
+      "sentAt": "2026-11-02T20:04:00.928Z",
+      "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery"
+    },
+    {
+      "id": "u_e5997eb4",
+      "sentAt": "2026-11-02T20:04:00.928Z",
+      "title": "The internet's latest obsession: The end of the world"
+    },
     {
       "id": "u_54fd36da",
       "sentAt": "2026-11-02T09:01:42.503Z",
@@ -4975,31 +5000,6 @@
       "id": "u_476db094",
       "sentAt": "2026-09-17T11:15:37.381Z",
       "title": "Google Launches Gemini 3.8 Live Models That Can Reason While They Talk - TechRepublic"
-    },
-    {
-      "id": "u_92764e3f",
-      "sentAt": "2026-09-17T11:15:37.381Z",
-      "title": "OpenRouter's staggering token chart is the AI bubble debate in a single image"
-    },
-    {
-      "id": "u_72f71793",
-      "sentAt": "2026-09-17T11:15:37.381Z",
-      "title": "b11018"
-    },
-    {
-      "id": "u_e8394c5f",
-      "sentAt": "2026-09-17T04:05:16.054Z",
-      "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents"
-    },
-    {
-      "id": "u_e63d36c5",
-      "sentAt": "2026-09-17T04:05:16.054Z",
-      "title": "GVD: Governed Versioning and Deduplication for Document Repositories"
-    },
-    {
-      "id": "u_2034afee",
-      "sentAt": "2026-09-17T04:05:16.054Z",
-      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records"
     }
   ]
 }
