@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-01T21:49:30.160Z",
+  "updatedAt": "2026-11-02T01:20:45.218Z",
   "entries": [
+    {
+      "id": "u_b0ec1b5e",
+      "sentAt": "2026-11-02T01:20:45.218Z",
+      "title": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention"
+    },
+    {
+      "id": "u_9a005904",
+      "sentAt": "2026-11-02T01:20:45.218Z",
+      "title": "GPT-6.2 Astra: Spotted in Codex Usage, Not Released"
+    },
+    {
+      "id": "u_4767b15e",
+      "sentAt": "2026-11-02T01:20:45.218Z",
+      "title": "Fix the Image, Not the Prompt"
+    },
+    {
+      "id": "u_98788b1d",
+      "sentAt": "2026-11-02T01:20:45.218Z",
+      "title": "Sam Altman's DRAM Comment: The Full Quote and Context"
+    },
+    {
+      "id": "u_99b7837a",
+      "sentAt": "2026-11-02T01:20:45.218Z",
+      "title": "Behind the Curtain: OpenAI's post-election power play"
+    },
     {
       "id": "u_b98f94ce",
       "sentAt": "2026-11-01T21:49:30.160Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d4441a01",
       "sentAt": "2026-09-16T22:44:21.033Z",
       "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data"
-    },
-    {
-      "id": "u_87fa754c",
-      "sentAt": "2026-09-16T22:44:21.033Z",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?"
-    },
-    {
-      "id": "u_ffca8023",
-      "sentAt": "2026-09-16T22:44:21.033Z",
-      "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor"
-    },
-    {
-      "id": "u_6fbc8aab",
-      "sentAt": "2026-09-16T18:01:23.178Z",
-      "title": "b11006"
-    },
-    {
-      "id": "u_42bf7fc",
-      "sentAt": "2026-09-16T18:01:23.178Z",
-      "title": "langchain==1.4.1"
-    },
-    {
-      "id": "u_5ace1717",
-      "sentAt": "2026-09-16T18:01:23.178Z",
-      "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI"
     }
   ]
 }
