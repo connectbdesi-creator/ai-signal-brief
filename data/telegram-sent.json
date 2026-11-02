@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-02T01:20:45.218Z",
+  "updatedAt": "2026-11-02T09:01:42.503Z",
   "entries": [
+    {
+      "id": "u_54fd36da",
+      "sentAt": "2026-11-02T09:01:42.503Z",
+      "title": "UAE Oil Giant ADNOC Announces Partnership with OpenAI - BGNES"
+    },
+    {
+      "id": "u_e77572e0",
+      "sentAt": "2026-11-02T09:01:42.503Z",
+      "title": "South Korea marks launch of supercomputer capable of powering AI research - MLex"
+    },
+    {
+      "id": "u_f7fb9b42",
+      "sentAt": "2026-11-02T09:01:42.503Z",
+      "title": "UC San Diego Launches Center For Principled Agentic Intelligence With $1.25 Million In Support And Computing Resources - Pulse 2.0"
+    },
+    {
+      "id": "u_ab8c05e4",
+      "sentAt": "2026-11-02T09:01:42.503Z",
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum"
+    },
+    {
+      "id": "u_f72faadf",
+      "sentAt": "2026-11-02T09:01:42.503Z",
+      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models"
+    },
     {
       "id": "u_b0ec1b5e",
       "sentAt": "2026-11-02T01:20:45.218Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2034afee",
       "sentAt": "2026-09-17T04:05:16.054Z",
       "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records"
-    },
-    {
-      "id": "u_a0dcb410",
-      "sentAt": "2026-09-17T04:05:16.054Z",
-      "title": "A Four-Stage Decomposition of Word-Problem Solving and Mechanistic Fragility in LLM Math Reasoning"
-    },
-    {
-      "id": "u_2cbf1796",
-      "sentAt": "2026-09-17T04:05:16.054Z",
-      "title": "Learning Heterogeneous Preferences"
-    },
-    {
-      "id": "u_bd58315",
-      "sentAt": "2026-09-16T22:44:21.033Z",
-      "title": "OpenAI releases framework to track model misalignment - Reuters"
-    },
-    {
-      "id": "u_32dbb1c8",
-      "sentAt": "2026-09-16T22:44:21.033Z",
-      "title": "OpenAI discloses six new safety incidents"
-    },
-    {
-      "id": "u_d4441a01",
-      "sentAt": "2026-09-16T22:44:21.033Z",
-      "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data"
     }
   ]
 }
