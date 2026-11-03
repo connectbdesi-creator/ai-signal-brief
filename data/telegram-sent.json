@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-03T03:21:34.243Z",
+  "updatedAt": "2026-11-03T11:43:39.885Z",
   "entries": [
+    {
+      "id": "u_515f2863",
+      "sentAt": "2026-11-03T11:43:39.885Z",
+      "title": "Anthropic FlashProve: Proving Which Model Answered"
+    },
+    {
+      "id": "u_6575d497",
+      "sentAt": "2026-11-03T11:43:39.885Z",
+      "title": "Revolut Self-Hosts GLM: 2,000 Engineers, a Tenth of the Bill"
+    },
+    {
+      "id": "u_dba97581",
+      "sentAt": "2026-11-03T11:43:39.885Z",
+      "title": "Olla v0.1.0 - Lightweight open-source LLM proxy for homelabs & on-prem inference (Ollama, vLLM, SGLang, llama.cpp, oMLX with failover, sticky sessions & load balancing)"
+    },
+    {
+      "id": "u_18ad8304",
+      "sentAt": "2026-11-03T11:43:39.885Z",
+      "title": "Three Techniques to Understand Your Codebase When Coding Agents Write the Code"
+    },
+    {
+      "id": "u_ac1f74d2",
+      "sentAt": "2026-11-03T11:43:39.885Z",
+      "title": "How “reverse game theory” could keep AI agents in check"
+    },
     {
       "id": "u_2af01f84",
       "sentAt": "2026-11-03T03:21:34.243Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1acc6bfe",
       "sentAt": "2026-09-17T21:05:13.065Z",
       "title": "AI agents erase the paper trail, reshaping audit assurance"
-    },
-    {
-      "id": "u_7481d2a5",
-      "sentAt": "2026-09-17T21:05:13.065Z",
-      "title": "Making global data easier to explore"
-    },
-    {
-      "id": "u_7bd1e194",
-      "sentAt": "2026-09-17T21:05:13.065Z",
-      "title": "UN turns to Google to make its global data ready for AI agents"
-    },
-    {
-      "id": "u_f0ca19be",
-      "sentAt": "2026-09-17T16:32:31.569Z",
-      "title": "AI governance moves closer to the workflow: theCUBE Insights at Amplify"
-    },
-    {
-      "id": "u_e4e3e5cf",
-      "sentAt": "2026-09-17T16:32:31.569Z",
-      "title": "b11027"
-    },
-    {
-      "id": "u_dc63e309",
-      "sentAt": "2026-09-17T16:32:31.569Z",
-      "title": "A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore"
     }
   ]
 }
