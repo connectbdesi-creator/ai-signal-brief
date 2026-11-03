@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-03T11:43:39.885Z",
+  "updatedAt": "2026-11-03T19:15:48.986Z",
   "entries": [
+    {
+      "id": "u_f6c2b1ad",
+      "sentAt": "2026-11-03T19:15:48.986Z",
+      "title": "States take steps to secure vote after federal pullback"
+    },
+    {
+      "id": "u_68759f79",
+      "sentAt": "2026-11-03T19:15:48.986Z",
+      "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence"
+    },
+    {
+      "id": "u_5a2c5351",
+      "sentAt": "2026-11-03T19:15:48.986Z",
+      "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence"
+    },
+    {
+      "id": "u_632f140",
+      "sentAt": "2026-11-03T19:15:48.986Z",
+      "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway"
+    },
+    {
+      "id": "u_b7b41b0c",
+      "sentAt": "2026-11-03T19:15:48.986Z",
+      "title": "IBM puts agentic workloads at the heart of its AI operating model"
+    },
     {
       "id": "u_515f2863",
       "sentAt": "2026-11-03T11:43:39.885Z",
@@ -4975,31 +5000,6 @@
       "id": "u_dcf846a6",
       "sentAt": "2026-09-17T23:59:46.390Z",
       "title": "Treble nabs $18M to generate audio simulations for robots"
-    },
-    {
-      "id": "u_97a166d6",
-      "sentAt": "2026-09-17T23:59:46.390Z",
-      "title": "langchain-typesafe==0.0.1a2"
-    },
-    {
-      "id": "u_84af08e3",
-      "sentAt": "2026-09-17T23:59:46.390Z",
-      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development"
-    },
-    {
-      "id": "u_11317f1c",
-      "sentAt": "2026-09-17T21:05:13.065Z",
-      "title": "The fix for rogue AI agents could be more AI"
-    },
-    {
-      "id": "u_6efb92ae",
-      "sentAt": "2026-09-17T21:05:13.065Z",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior"
-    },
-    {
-      "id": "u_1acc6bfe",
-      "sentAt": "2026-09-17T21:05:13.065Z",
-      "title": "AI agents erase the paper trail, reshaping audit assurance"
     }
   ]
 }
