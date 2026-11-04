@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-04T08:46:52.826Z",
+  "updatedAt": "2026-11-04T17:53:52.928Z",
   "entries": [
+    {
+      "id": "u_97b46b94",
+      "sentAt": "2026-11-04T17:53:52.928Z",
+      "title": "University AI’s biggest challenge? Scaling research without losing control"
+    },
+    {
+      "id": "u_f727d228",
+      "sentAt": "2026-11-04T17:53:52.928Z",
+      "title": "Kimi K3.1 is likely benchmaxxed (with some proof)"
+    },
+    {
+      "id": "u_581c2b5c",
+      "sentAt": "2026-11-04T17:53:52.928Z",
+      "title": "langchain==1.4.9"
+    },
+    {
+      "id": "u_c23a18e0",
+      "sentAt": "2026-11-04T17:53:52.928Z",
+      "title": "Smartsheet AI-powered platform bridges gap between planning and results"
+    },
+    {
+      "id": "u_a2f61e76",
+      "sentAt": "2026-11-04T17:53:52.928Z",
+      "title": "VMware gets simpler AI deployment and low-cost version for basic private clouds"
+    },
     {
       "id": "u_c0b7ddf4",
       "sentAt": "2026-11-04T08:46:52.826Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1717377e",
       "sentAt": "2026-09-18T16:04:08.827Z",
       "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts"
-    },
-    {
-      "id": "u_2dbff0d3",
-      "sentAt": "2026-09-18T16:04:08.827Z",
-      "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents"
-    },
-    {
-      "id": "u_990fb8d7",
-      "sentAt": "2026-09-18T16:04:08.827Z",
-      "title": "b11040"
-    },
-    {
-      "id": "u_ffcc83bb",
-      "sentAt": "2026-09-18T10:48:14.179Z",
-      "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]"
-    },
-    {
-      "id": "u_47510c3",
-      "sentAt": "2026-09-18T10:48:14.179Z",
-      "title": "b11033"
-    },
-    {
-      "id": "u_c3403d54",
-      "sentAt": "2026-09-18T10:48:14.179Z",
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026"
     }
   ]
 }
