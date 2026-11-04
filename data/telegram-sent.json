@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-04T00:28:09.440Z",
+  "updatedAt": "2026-11-04T08:46:52.826Z",
   "entries": [
+    {
+      "id": "u_c0b7ddf4",
+      "sentAt": "2026-11-04T08:46:52.826Z",
+      "title": "Clark Raises $11M for Clerks, AI Employees for Audit"
+    },
+    {
+      "id": "u_5db3378d",
+      "sentAt": "2026-11-04T08:46:52.826Z",
+      "title": "CrowdStrike launches emergency shutdown mechanism for artificial intelligence agents - marketscreener.com"
+    },
+    {
+      "id": "u_32a2558b",
+      "sentAt": "2026-11-04T08:46:52.826Z",
+      "title": "b12100"
+    },
+    {
+      "id": "u_de1eda35",
+      "sentAt": "2026-11-04T08:46:52.826Z",
+      "title": "b12101: ggml : write host-buffer tensor data directly in gguf writer (#31144)"
+    },
+    {
+      "id": "u_3ea8b659",
+      "sentAt": "2026-11-04T08:46:52.826Z",
+      "title": "AHA launches new homepage on artificial intelligence policy and advocacy - EIN News"
+    },
     {
       "id": "u_2836110b",
       "sentAt": "2026-11-04T00:28:09.440Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c3403d54",
       "sentAt": "2026-09-18T10:48:14.179Z",
       "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026"
-    },
-    {
-      "id": "u_c3725df",
-      "sentAt": "2026-09-18T10:48:14.179Z",
-      "title": "Inside the scramble for trusted AI cops"
-    },
-    {
-      "id": "u_18e026a9",
-      "sentAt": "2026-09-18T10:48:14.179Z",
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use"
-    },
-    {
-      "id": "u_78b6b4ec",
-      "sentAt": "2026-09-18T04:31:54.760Z",
-      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research"
-    },
-    {
-      "id": "u_827ef108",
-      "sentAt": "2026-09-18T04:31:54.760Z",
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks"
-    },
-    {
-      "id": "u_e337b71f",
-      "sentAt": "2026-09-18T04:31:54.760Z",
-      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer"
     }
   ]
 }
