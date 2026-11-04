@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-03T19:15:48.986Z",
+  "updatedAt": "2026-11-04T00:28:09.440Z",
   "entries": [
+    {
+      "id": "u_2836110b",
+      "sentAt": "2026-11-04T00:28:09.440Z",
+      "title": "b12086"
+    },
+    {
+      "id": "u_1356d45c",
+      "sentAt": "2026-11-04T00:28:09.440Z",
+      "title": "langchain-typesafe==0.0.1"
+    },
+    {
+      "id": "u_4f4ac39",
+      "sentAt": "2026-11-04T00:28:09.440Z",
+      "title": "The brutal 2026 attack ads even rivals had to respect"
+    },
+    {
+      "id": "u_cba75133",
+      "sentAt": "2026-11-04T00:28:09.440Z",
+      "title": "b12084"
+    },
+    {
+      "id": "u_c1242b5a",
+      "sentAt": "2026-11-04T00:28:09.440Z",
+      "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says"
+    },
     {
       "id": "u_f6c2b1ad",
       "sentAt": "2026-11-03T19:15:48.986Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e337b71f",
       "sentAt": "2026-09-18T04:31:54.760Z",
       "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer"
-    },
-    {
-      "id": "u_df06411c",
-      "sentAt": "2026-09-18T04:31:54.760Z",
-      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses"
-    },
-    {
-      "id": "u_d70f7505",
-      "sentAt": "2026-09-18T04:31:54.760Z",
-      "title": "Do AI Agents Understand Computer Architecture?"
-    },
-    {
-      "id": "u_62ff8b1f",
-      "sentAt": "2026-09-17T23:59:46.390Z",
-      "title": "Google DeepMind launches institute to widen the AGI debate"
-    },
-    {
-      "id": "u_3de16358",
-      "sentAt": "2026-09-17T23:59:46.390Z",
-      "title": "OpenAI launches Astra for Law, a GPT-6 configuration for legal research"
-    },
-    {
-      "id": "u_dcf846a6",
-      "sentAt": "2026-09-17T23:59:46.390Z",
-      "title": "Treble nabs $18M to generate audio simulations for robots"
     }
   ]
 }
