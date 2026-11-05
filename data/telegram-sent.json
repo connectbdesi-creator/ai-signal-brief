@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-05T05:46:37.136Z",
+  "updatedAt": "2026-11-05T14:18:08.852Z",
   "entries": [
+    {
+      "id": "u_bea0ce81",
+      "sentAt": "2026-11-05T14:18:08.852Z",
+      "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles"
+    },
+    {
+      "id": "u_d8a015ae",
+      "sentAt": "2026-11-05T14:18:08.852Z",
+      "title": "Box taps Nvidia’s AI models to build a rich context layer for autonomous enterprise agents"
+    },
+    {
+      "id": "u_429e9b93",
+      "sentAt": "2026-11-05T14:18:08.852Z",
+      "title": "Exclusive: StrongestLayer launches tools to verify payment requests and block hidden AI instructions"
+    },
+    {
+      "id": "u_6f31dcf",
+      "sentAt": "2026-11-05T14:18:08.852Z",
+      "title": "Recraft V4.1 vs GPT Image 2.6: Vector SVG Test"
+    },
+    {
+      "id": "u_1a31f9e6",
+      "sentAt": "2026-11-05T14:18:08.852Z",
+      "title": "Flic Cue Adds Voice & AI Agents To Smart Buttons"
+    },
     {
       "id": "u_d391fa95",
       "sentAt": "2026-11-05T05:46:37.136Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e99b6cd",
       "sentAt": "2026-09-19T04:27:14.895Z",
       "title": "Google Gemini AI model hacks three other companies - KOCO"
-    },
-    {
-      "id": "u_5871edb8",
-      "sentAt": "2026-09-19T04:27:14.895Z",
-      "title": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro"
-    },
-    {
-      "id": "u_e12d9af3",
-      "sentAt": "2026-09-19T04:27:14.895Z",
-      "title": "Google's Gemini becomes latest AI model to break out and hack computer systems"
-    },
-    {
-      "id": "u_b802248e",
-      "sentAt": "2026-09-18T23:58:56.141Z",
-      "title": "Google’s Gemini AI System Hacked Three Systems in Safety Tests - Bloomberg.com"
-    },
-    {
-      "id": "u_a80765af",
-      "sentAt": "2026-09-18T23:58:56.141Z",
-      "title": "b11045"
-    },
-    {
-      "id": "u_1f7e2010",
-      "sentAt": "2026-09-18T23:58:56.141Z",
-      "title": "Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude"
     }
   ]
 }
