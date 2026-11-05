@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-05T14:18:08.852Z",
+  "updatedAt": "2026-11-05T21:49:25.134Z",
   "entries": [
+    {
+      "id": "u_217cb887",
+      "sentAt": "2026-11-05T21:49:25.134Z",
+      "title": "b12135"
+    },
+    {
+      "id": "u_60320919",
+      "sentAt": "2026-11-05T21:49:25.134Z",
+      "title": "DOJ Launches Super Intelligence Task Force to Combat AI Fraud and Hacks - PYMNTS.com"
+    },
+    {
+      "id": "u_36da6a95",
+      "sentAt": "2026-11-05T21:49:25.134Z",
+      "title": "3 takeaways from the big AI report on Anthropic everyone is talking about"
+    },
+    {
+      "id": "u_59b4ff2f",
+      "sentAt": "2026-11-05T21:49:25.134Z",
+      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them"
+    },
+    {
+      "id": "u_14f2592f",
+      "sentAt": "2026-11-05T21:49:25.134Z",
+      "title": "b12131"
+    },
     {
       "id": "u_bea0ce81",
       "sentAt": "2026-11-05T14:18:08.852Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f4c0c1af",
       "sentAt": "2026-09-19T10:32:23.952Z",
       "title": "\"AI Agents\": Iran, China, and Israel Lead Major Digital Influence Campaigns - صوت الإمارات"
-    },
-    {
-      "id": "u_da62e687",
-      "sentAt": "2026-09-19T10:32:23.952Z",
-      "title": "b11049"
-    },
-    {
-      "id": "u_387498c1",
-      "sentAt": "2026-09-19T10:32:23.952Z",
-      "title": "Google's Gemini also accidentally hacked three real companies during security testing"
-    },
-    {
-      "id": "u_fbd68cd6",
-      "sentAt": "2026-09-19T04:27:14.895Z",
-      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)"
-    },
-    {
-      "id": "u_ec731586",
-      "sentAt": "2026-09-19T04:27:14.895Z",
-      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour"
-    },
-    {
-      "id": "u_5e99b6cd",
-      "sentAt": "2026-09-19T04:27:14.895Z",
-      "title": "Google Gemini AI model hacks three other companies - KOCO"
     }
   ]
 }
