@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-04T23:23:43.038Z",
+  "updatedAt": "2026-11-05T05:46:37.136Z",
   "entries": [
+    {
+      "id": "u_d391fa95",
+      "sentAt": "2026-11-05T05:46:37.136Z",
+      "title": "GPT Image 2.6 vs 2.5: 2x Faster, 4x the Cost"
+    },
+    {
+      "id": "u_d85e8abe",
+      "sentAt": "2026-11-05T05:46:37.136Z",
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions"
+    },
+    {
+      "id": "u_9fc20cc1",
+      "sentAt": "2026-11-05T05:46:37.136Z",
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents"
+    },
+    {
+      "id": "u_c3d8978d",
+      "sentAt": "2026-11-05T05:46:37.136Z",
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems"
+    },
+    {
+      "id": "u_6504c79",
+      "sentAt": "2026-11-05T05:46:37.136Z",
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning"
+    },
     {
       "id": "u_c580e937",
       "sentAt": "2026-11-04T23:23:43.038Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1f7e2010",
       "sentAt": "2026-09-18T23:58:56.141Z",
       "title": "Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude"
-    },
-    {
-      "id": "u_dedaa54f",
-      "sentAt": "2026-09-18T23:58:56.141Z",
-      "title": "b11044"
-    },
-    {
-      "id": "u_54fb91c8",
-      "sentAt": "2026-09-18T23:58:56.141Z",
-      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs"
-    },
-    {
-      "id": "u_6ff6ba1e",
-      "sentAt": "2026-09-18T20:37:17.238Z",
-      "title": "Anthropic opens AI-powered biology research lab"
-    },
-    {
-      "id": "u_b15cf897",
-      "sentAt": "2026-09-18T20:37:17.238Z",
-      "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances"
-    },
-    {
-      "id": "u_f8745548",
-      "sentAt": "2026-09-18T20:37:17.238Z",
-      "title": "Quoting Thariq Shihipar"
     }
   ]
 }
