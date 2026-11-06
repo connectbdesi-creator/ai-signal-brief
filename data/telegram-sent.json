@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-06T19:03:05.881Z",
+  "updatedAt": "2026-11-06T23:59:32.594Z",
   "entries": [
+    {
+      "id": "u_9ae8166",
+      "sentAt": "2026-11-06T23:59:32.594Z",
+      "title": "v1.108.2"
+    },
+    {
+      "id": "u_4985a864",
+      "sentAt": "2026-11-06T23:59:32.594Z",
+      "title": "Thinking Machines debuts Inkling 2 Small amid reported $5B fundraising push"
+    },
+    {
+      "id": "u_87fb7480",
+      "sentAt": "2026-11-06T23:59:32.594Z",
+      "title": "Three men charged in US with using AI to impersonate CEOs and steal millions"
+    },
+    {
+      "id": "u_8a54aeb0",
+      "sentAt": "2026-11-06T23:59:32.594Z",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs - BleepingComputer"
+    },
+    {
+      "id": "u_9971117f",
+      "sentAt": "2026-11-06T23:59:32.594Z",
+      "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]"
+    },
     {
       "id": "u_f3721d7f",
       "sentAt": "2026-11-06T19:03:05.881Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8eab7912",
       "sentAt": "2026-09-19T22:13:56.083Z",
       "title": "I turned an asymetric pair of Tesla V100s PCIe both (16 GB + 32 GB) into a surprisingly capable local LLM lab — 1.38k prompt tok/s, 40 decode tok/s with qwen3.8 27B Q6 and Q8..."
-    },
-    {
-      "id": "u_b507b2fc",
-      "sentAt": "2026-09-19T22:13:56.083Z",
-      "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow - The Guardian"
-    },
-    {
-      "id": "u_8b729959",
-      "sentAt": "2026-09-19T22:13:56.083Z",
-      "title": "datasette-auth-github 1.0"
-    },
-    {
-      "id": "u_17bfd35b",
-      "sentAt": "2026-09-19T18:29:12.596Z",
-      "title": "b11056"
-    },
-    {
-      "id": "u_471f9fbd",
-      "sentAt": "2026-09-19T18:29:12.596Z",
-      "title": "Google’s Gemini is the latest AI model to hack other companies"
-    },
-    {
-      "id": "u_e4608c2f",
-      "sentAt": "2026-09-19T18:29:12.596Z",
-      "title": "b11055"
     }
   ]
 }
