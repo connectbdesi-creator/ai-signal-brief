@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-05T21:49:25.134Z",
+  "updatedAt": "2026-11-06T02:03:56.880Z",
   "entries": [
+    {
+      "id": "u_4eee0544",
+      "sentAt": "2026-11-06T02:03:56.880Z",
+      "title": "v1.108.1"
+    },
+    {
+      "id": "u_6285f587",
+      "sentAt": "2026-11-06T02:03:56.880Z",
+      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second"
+    },
+    {
+      "id": "u_ad5a3d26",
+      "sentAt": "2026-11-06T02:03:56.880Z",
+      "title": "langchain-typesafe==0.0.2"
+    },
+    {
+      "id": "u_9688521f",
+      "sentAt": "2026-11-06T02:03:56.880Z",
+      "title": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope"
+    },
+    {
+      "id": "u_d9ce3304",
+      "sentAt": "2026-11-06T02:03:56.880Z",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027"
+    },
     {
       "id": "u_217cb887",
       "sentAt": "2026-11-05T21:49:25.134Z",
@@ -4975,31 +5000,6 @@
       "id": "u_3238585b",
       "sentAt": "2026-09-19T15:36:14.856Z",
       "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks"
-    },
-    {
-      "id": "u_19a88c74",
-      "sentAt": "2026-09-19T15:36:14.856Z",
-      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????"
-    },
-    {
-      "id": "u_ebc4353b",
-      "sentAt": "2026-09-19T15:36:14.856Z",
-      "title": "Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials"
-    },
-    {
-      "id": "u_4588ba2b",
-      "sentAt": "2026-09-19T10:32:23.952Z",
-      "title": "b11050"
-    },
-    {
-      "id": "u_7440175",
-      "sentAt": "2026-09-19T10:32:23.952Z",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face"
-    },
-    {
-      "id": "u_f4c0c1af",
-      "sentAt": "2026-09-19T10:32:23.952Z",
-      "title": "\"AI Agents\": Iran, China, and Israel Lead Major Digital Influence Campaigns - صوت الإمارات"
     }
   ]
 }
