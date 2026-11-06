@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-06T02:03:56.880Z",
+  "updatedAt": "2026-11-06T19:03:05.881Z",
   "entries": [
+    {
+      "id": "u_f3721d7f",
+      "sentAt": "2026-11-06T19:03:05.881Z",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent"
+    },
+    {
+      "id": "u_2f1d53cb",
+      "sentAt": "2026-11-06T19:03:05.881Z",
+      "title": "USDA to launch AI tool to check crop production data after errors - Yahoo"
+    },
+    {
+      "id": "u_e158a66f",
+      "sentAt": "2026-11-06T19:03:05.881Z",
+      "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective"
+    },
+    {
+      "id": "u_5d6c8e9b",
+      "sentAt": "2026-11-06T19:03:05.881Z",
+      "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints"
+    },
+    {
+      "id": "u_1187d0d7",
+      "sentAt": "2026-11-06T19:03:05.881Z",
+      "title": "Taxonomy of agentic primitives in Amazon Quick"
+    },
     {
       "id": "u_4eee0544",
       "sentAt": "2026-11-06T02:03:56.880Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e4608c2f",
       "sentAt": "2026-09-19T18:29:12.596Z",
       "title": "b11055"
-    },
-    {
-      "id": "u_47957e3",
-      "sentAt": "2026-09-19T18:29:12.596Z",
-      "title": "b11054"
-    },
-    {
-      "id": "u_464625da",
-      "sentAt": "2026-09-19T18:29:12.596Z",
-      "title": "Why I still haven’t bought into true RSI"
-    },
-    {
-      "id": "u_d25dc37c",
-      "sentAt": "2026-09-19T15:36:14.856Z",
-      "title": "Google says Gemini AI model hacked three companies in security test - TradingView"
-    },
-    {
-      "id": "u_48599d1",
-      "sentAt": "2026-09-19T15:36:14.856Z",
-      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks"
-    },
-    {
-      "id": "u_3238585b",
-      "sentAt": "2026-09-19T15:36:14.856Z",
-      "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks"
     }
   ]
 }
