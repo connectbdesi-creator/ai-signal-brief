@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-07T18:30:46.431Z",
+  "updatedAt": "2026-11-07T23:30:17.019Z",
   "entries": [
+    {
+      "id": "u_c3f067ce",
+      "sentAt": "2026-11-07T23:30:17.019Z",
+      "title": "1.108.3 (LTS)"
+    },
+    {
+      "id": "u_79b36baa",
+      "sentAt": "2026-11-07T23:30:17.019Z",
+      "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties"
+    },
+    {
+      "id": "u_82ebdc85",
+      "sentAt": "2026-11-07T23:30:17.019Z",
+      "title": "Coherent Moves Trade Compliance AI Agents To The Front Of The Process"
+    },
+    {
+      "id": "u_bb12bf7a",
+      "sentAt": "2026-11-07T23:30:17.019Z",
+      "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide"
+    },
+    {
+      "id": "u_34f0762a",
+      "sentAt": "2026-11-07T23:30:17.019Z",
+      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking"
+    },
     {
       "id": "u_6516d575",
       "sentAt": "2026-11-07T18:30:46.431Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a682cb8",
       "sentAt": "2026-09-20T18:33:37.545Z",
       "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages"
-    },
-    {
-      "id": "u_537c72f",
-      "sentAt": "2026-09-20T18:33:37.545Z",
-      "title": "b11060"
-    },
-    {
-      "id": "u_45ff0305",
-      "sentAt": "2026-09-20T18:33:37.545Z",
-      "title": "Phylo brings frontier AI to more scientists with open models on Fireworks"
-    },
-    {
-      "id": "u_18805e12",
-      "sentAt": "2026-09-20T15:41:59.509Z",
-      "title": "Tencent's Gander aims to keep talking while it works in the background"
-    },
-    {
-      "id": "u_849de4be",
-      "sentAt": "2026-09-20T15:41:59.509Z",
-      "title": "Typesafe's JEV model work as an LLM [P]"
-    },
-    {
-      "id": "u_ae7eb37",
-      "sentAt": "2026-09-20T15:41:59.509Z",
-      "title": "b11063"
     }
   ]
 }
