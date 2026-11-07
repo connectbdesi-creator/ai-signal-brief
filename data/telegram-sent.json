@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-06T23:59:32.594Z",
+  "updatedAt": "2026-11-07T05:47:20.735Z",
   "entries": [
+    {
+      "id": "u_c5aa2a8e",
+      "sentAt": "2026-11-07T05:47:20.735Z",
+      "title": "v1.110.0-dev.1"
+    },
+    {
+      "id": "u_12a848f4",
+      "sentAt": "2026-11-07T05:47:20.735Z",
+      "title": "An unreleased Anthropic model just helped solve a major quantum-computing question"
+    },
+    {
+      "id": "u_56b8ed37",
+      "sentAt": "2026-11-07T05:47:20.735Z",
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model"
+    },
+    {
+      "id": "u_38aefab1",
+      "sentAt": "2026-11-07T05:47:20.735Z",
+      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model"
+    },
+    {
+      "id": "u_c5113bdf",
+      "sentAt": "2026-11-07T05:47:20.735Z",
+      "title": "How Agentic Artificial Intelligence Is Reshaping Agricultural Research and Farming Operations - Bioengineer.org"
+    },
     {
       "id": "u_9ae8166",
       "sentAt": "2026-11-06T23:59:32.594Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8d194e5c",
       "sentAt": "2026-09-20T04:04:32.543Z",
       "title": "Can Jev Be a Better Agent Evaluator?"
-    },
-    {
-      "id": "u_5f1c4041",
-      "sentAt": "2026-09-20T04:04:32.543Z",
-      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live"
-    },
-    {
-      "id": "u_d3aa8b6f",
-      "sentAt": "2026-09-20T04:04:32.543Z",
-      "title": "What to expect during Oracle’s ‘AI Cyberattacks Are Escalating: How to Secure Your Data Now’ event: Join theCUBE on Sept. 22"
-    },
-    {
-      "id": "u_1926a901",
-      "sentAt": "2026-09-19T22:13:56.083Z",
-      "title": "AI governance moves from observability to provable control"
-    },
-    {
-      "id": "u_8ae51caa",
-      "sentAt": "2026-09-19T22:13:56.083Z",
-      "title": "Ternary-Bonsai-2-27B-PQ2_0 is not completely lobotomized"
-    },
-    {
-      "id": "u_8eab7912",
-      "sentAt": "2026-09-19T22:13:56.083Z",
-      "title": "I turned an asymetric pair of Tesla V100s PCIe both (16 GB + 32 GB) into a surprisingly capable local LLM lab — 1.38k prompt tok/s, 40 decode tok/s with qwen3.8 27B Q6 and Q8..."
     }
   ]
 }
