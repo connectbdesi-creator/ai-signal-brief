@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-07T12:40:23.753Z",
+  "updatedAt": "2026-11-07T18:30:46.431Z",
   "entries": [
+    {
+      "id": "u_6516d575",
+      "sentAt": "2026-11-07T18:30:46.431Z",
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds"
+    },
+    {
+      "id": "u_b0a4c4",
+      "sentAt": "2026-11-07T18:30:46.431Z",
+      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds"
+    },
+    {
+      "id": "u_dd570dab",
+      "sentAt": "2026-11-07T18:30:46.431Z",
+      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs"
+    },
+    {
+      "id": "u_276cb5e3",
+      "sentAt": "2026-11-07T18:30:46.431Z",
+      "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs"
+    },
+    {
+      "id": "u_707ffbd4",
+      "sentAt": "2026-11-07T18:30:46.431Z",
+      "title": "A fintech giant drops Claude for a Chinese model, Brazil shields its media from AI: The week’s highlights - L'Orient Today"
+    },
     {
       "id": "u_2c0012f3",
       "sentAt": "2026-11-07T12:40:23.753Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ae7eb37",
       "sentAt": "2026-09-20T15:41:59.509Z",
       "title": "b11063"
-    },
-    {
-      "id": "u_353de5d",
-      "sentAt": "2026-09-20T15:41:59.509Z",
-      "title": "The tech battle to build your AI assistant"
-    },
-    {
-      "id": "u_c7c514a6",
-      "sentAt": "2026-09-20T15:41:59.509Z",
-      "title": "v1.103.0-rc.1"
-    },
-    {
-      "id": "u_b1f815d3",
-      "sentAt": "2026-09-20T10:55:06.260Z",
-      "title": "b11062"
-    },
-    {
-      "id": "u_7c8171e1",
-      "sentAt": "2026-09-20T10:55:06.260Z",
-      "title": "AI agents are ready to run your life. Do you trust them?"
-    },
-    {
-      "id": "u_7e13626d",
-      "sentAt": "2026-09-20T10:55:06.260Z",
-      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
     }
   ]
 }
