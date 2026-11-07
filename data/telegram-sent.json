@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-07T05:47:20.735Z",
+  "updatedAt": "2026-11-07T12:40:23.753Z",
   "entries": [
+    {
+      "id": "u_2c0012f3",
+      "sentAt": "2026-11-07T12:40:23.753Z",
+      "title": "Claude Code's settings.local.json Is Leaking Secrets"
+    },
+    {
+      "id": "u_64d40322",
+      "sentAt": "2026-11-07T12:40:23.753Z",
+      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away"
+    },
+    {
+      "id": "u_8143714c",
+      "sentAt": "2026-11-07T12:40:23.753Z",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers"
+    },
+    {
+      "id": "u_130e192b",
+      "sentAt": "2026-11-07T12:40:23.753Z",
+      "title": "b12186"
+    },
+    {
+      "id": "u_ca34dcaf",
+      "sentAt": "2026-11-07T12:40:23.753Z",
+      "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar"
+    },
     {
       "id": "u_c5aa2a8e",
       "sentAt": "2026-11-07T05:47:20.735Z",
@@ -4975,31 +5000,6 @@
       "id": "u_7e13626d",
       "sentAt": "2026-09-20T10:55:06.260Z",
       "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
-    },
-    {
-      "id": "u_d80e311",
-      "sentAt": "2026-09-20T10:55:06.260Z",
-      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
-    },
-    {
-      "id": "u_488022b7",
-      "sentAt": "2026-09-20T10:55:06.260Z",
-      "title": "Trump launches the ‘AI Force’: ‘We will not stifle the growth of artificial intelligence’ - en.ilsole24ore.com"
-    },
-    {
-      "id": "u_8e8dc0b7",
-      "sentAt": "2026-09-20T04:04:32.543Z",
-      "title": "b11057"
-    },
-    {
-      "id": "u_c8c91fea",
-      "sentAt": "2026-09-20T04:04:32.543Z",
-      "title": "ProgramAsWeights: compile English function descriptions into neural programs that run locally [R]"
-    },
-    {
-      "id": "u_8d194e5c",
-      "sentAt": "2026-09-20T04:04:32.543Z",
-      "title": "Can Jev Be a Better Agent Evaluator?"
     }
   ]
 }
