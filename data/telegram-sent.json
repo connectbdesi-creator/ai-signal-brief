@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-07T23:30:17.019Z",
+  "updatedAt": "2026-11-08T05:08:24.740Z",
   "entries": [
+    {
+      "id": "u_27355844",
+      "sentAt": "2026-11-08T05:08:24.740Z",
+      "title": "v1.110.0-dev.2"
+    },
+    {
+      "id": "u_d8dc7903",
+      "sentAt": "2026-11-08T05:08:24.740Z",
+      "title": "b12198"
+    },
+    {
+      "id": "u_591a0232",
+      "sentAt": "2026-11-08T05:08:24.740Z",
+      "title": "When should I use a locally hosted decision model to decrease latency"
+    },
+    {
+      "id": "u_e728eaea",
+      "sentAt": "2026-11-08T05:08:24.740Z",
+      "title": "Crowd-v1 - The collaborative LLM"
+    },
+    {
+      "id": "u_ded0e19c",
+      "sentAt": "2026-11-08T05:08:24.740Z",
+      "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)"
+    },
     {
       "id": "u_c3f067ce",
       "sentAt": "2026-11-07T23:30:17.019Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b1747d58",
       "sentAt": "2026-09-20T22:16:31.440Z",
       "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests"
-    },
-    {
-      "id": "u_f85eb53c",
-      "sentAt": "2026-09-20T22:16:31.440Z",
-      "title": "langchain-typesafe==0.0.1a3"
-    },
-    {
-      "id": "u_16977fdf",
-      "sentAt": "2026-09-20T22:16:31.440Z",
-      "title": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks"
-    },
-    {
-      "id": "u_8ed7c658",
-      "sentAt": "2026-09-20T18:33:37.545Z",
-      "title": "Meta’s Muse TV ad is the latest sign that AI agents are going mainstream"
-    },
-    {
-      "id": "u_b5cfeded",
-      "sentAt": "2026-09-20T18:33:37.545Z",
-      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters"
-    },
-    {
-      "id": "u_a682cb8",
-      "sentAt": "2026-09-20T18:33:37.545Z",
-      "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages"
     }
   ]
 }
