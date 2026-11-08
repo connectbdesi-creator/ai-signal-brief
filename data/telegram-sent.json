@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-08T05:08:24.740Z",
+  "updatedAt": "2026-11-08T12:57:31.721Z",
   "entries": [
+    {
+      "id": "u_50e72da5",
+      "sentAt": "2026-11-08T12:57:31.721Z",
+      "title": "ChatGPT Pro Usage Limits: No 5-Hour Cap, Up to 50x Plus"
+    },
+    {
+      "id": "u_ceaf58d8",
+      "sentAt": "2026-11-08T12:57:31.721Z",
+      "title": "A Blurry Camera Got AI Robots to Stab a Doll: RoboSpoof"
+    },
+    {
+      "id": "u_650fc3c9",
+      "sentAt": "2026-11-08T12:57:31.721Z",
+      "title": "v0.13.1"
+    },
+    {
+      "id": "u_ddf5d381",
+      "sentAt": "2026-11-08T12:57:31.721Z",
+      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding"
+    },
+    {
+      "id": "u_862caee6",
+      "sentAt": "2026-11-08T12:57:31.721Z",
+      "title": "AWS principal engineer says the best engineers are ‘paranoid and lazy’ when it comes to AI"
+    },
     {
       "id": "u_27355844",
       "sentAt": "2026-11-08T05:08:24.740Z",
@@ -4975,31 +5000,6 @@
       "id": "u_fe032bf1",
       "sentAt": "2026-09-21T04:01:25.921Z",
       "title": "Success running Qwen 3.8 27B EXL3 on RTX 3060 + 5060 Ti"
-    },
-    {
-      "id": "u_6cb57313",
-      "sentAt": "2026-09-21T04:01:25.921Z",
-      "title": "b11065"
-    },
-    {
-      "id": "u_ecc41942",
-      "sentAt": "2026-09-21T04:01:25.921Z",
-      "title": "llm-keys-ui 0.1"
-    },
-    {
-      "id": "u_f57de8ff",
-      "sentAt": "2026-09-20T22:16:31.440Z",
-      "title": "DIY Jev"
-    },
-    {
-      "id": "u_94871416",
-      "sentAt": "2026-09-20T22:16:31.440Z",
-      "title": "Ling 3.0 Tiny vs. Gemma 26B-A4B MoE"
-    },
-    {
-      "id": "u_b1747d58",
-      "sentAt": "2026-09-20T22:16:31.440Z",
-      "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests"
     }
   ]
 }
