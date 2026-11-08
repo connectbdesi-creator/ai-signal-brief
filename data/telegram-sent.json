@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-08T12:57:31.721Z",
+  "updatedAt": "2026-11-08T18:42:08.856Z",
   "entries": [
+    {
+      "id": "u_b1765dd4",
+      "sentAt": "2026-11-08T18:42:08.856Z",
+      "title": "Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]"
+    },
+    {
+      "id": "u_c6d686b3",
+      "sentAt": "2026-11-08T18:42:08.856Z",
+      "title": "b12210"
+    },
+    {
+      "id": "u_11fffd03",
+      "sentAt": "2026-11-08T18:42:08.856Z",
+      "title": "b12209"
+    },
+    {
+      "id": "u_ea873b42",
+      "sentAt": "2026-11-08T18:42:08.856Z",
+      "title": "How to Build Multi-Agent Systems with the OpenAI Agents SDK"
+    },
+    {
+      "id": "u_59278403",
+      "sentAt": "2026-11-08T18:42:08.856Z",
+      "title": "Behind the Curtain: Texas is the #1 story of America"
+    },
     {
       "id": "u_50e72da5",
       "sentAt": "2026-11-08T12:57:31.721Z",
@@ -4975,31 +5000,6 @@
       "id": "u_aa167c7b",
       "sentAt": "2026-09-21T12:20:10.809Z",
       "title": "The Age Of Reimagining Enterprise Org Structure With AI"
-    },
-    {
-      "id": "u_541434e5",
-      "sentAt": "2026-09-21T12:20:10.809Z",
-      "title": "Gewell - Gemma4 inference engine"
-    },
-    {
-      "id": "u_6b77f05c",
-      "sentAt": "2026-09-21T12:20:10.809Z",
-      "title": "Anthropic Considers New Claude Model as OpenAI Gains Ground Ahead of Potential IPO - citybiz"
-    },
-    {
-      "id": "u_13503e1d",
-      "sentAt": "2026-09-21T04:01:25.921Z",
-      "title": "ZCode is now open source"
-    },
-    {
-      "id": "u_24a25d32",
-      "sentAt": "2026-09-21T04:01:25.921Z",
-      "title": "Do NOT trust StepFun's Plan subscriptions., They stole >$100 from me with no warning, and I have not heard back from support at all."
-    },
-    {
-      "id": "u_fe032bf1",
-      "sentAt": "2026-09-21T04:01:25.921Z",
-      "title": "Success running Qwen 3.8 27B EXL3 on RTX 3060 + 5060 Ti"
     }
   ]
 }
