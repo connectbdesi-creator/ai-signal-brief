@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-08T18:42:08.856Z",
+  "updatedAt": "2026-11-08T23:29:25.478Z",
   "entries": [
+    {
+      "id": "u_744830ce",
+      "sentAt": "2026-11-08T23:29:25.478Z",
+      "title": "Read Huang's email to his staff and statement from Nvidia's board of directors"
+    },
+    {
+      "id": "u_8e026049",
+      "sentAt": "2026-11-08T23:29:25.478Z",
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco"
+    },
+    {
+      "id": "u_3f9de4b",
+      "sentAt": "2026-11-08T23:29:25.478Z",
+      "title": "Nvidia CEO Jensen Huang admits affair, board to launch investigation"
+    },
+    {
+      "id": "u_d81006a2",
+      "sentAt": "2026-11-08T23:29:25.478Z",
+      "title": "Microsoft AI CEO Says He’s Open to Agents Deserving Rights If He Sees the Right Evidence - Futurism"
+    },
+    {
+      "id": "u_a0d0a970",
+      "sentAt": "2026-11-08T23:29:25.478Z",
+      "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations"
+    },
     {
       "id": "u_b1765dd4",
       "sentAt": "2026-11-08T18:42:08.856Z",
@@ -4975,31 +5000,6 @@
       "id": "u_58702707",
       "sentAt": "2026-09-21T19:08:19.534Z",
       "title": "\"National security\" becomes Trump's executive sledgehammer"
-    },
-    {
-      "id": "u_48cd066b",
-      "sentAt": "2026-09-21T19:08:19.534Z",
-      "title": "b11077"
-    },
-    {
-      "id": "u_5b06b581",
-      "sentAt": "2026-09-21T19:08:19.534Z",
-      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories"
-    },
-    {
-      "id": "u_429f2a5f",
-      "sentAt": "2026-09-21T12:20:10.809Z",
-      "title": "LittleHorse adds agent controls and free serverless trial to its ‘Business-as-Code’ orchestration platform"
-    },
-    {
-      "id": "u_4cdf8018",
-      "sentAt": "2026-09-21T12:20:10.809Z",
-      "title": "UN says AI safeguards can’t wait for certainty"
-    },
-    {
-      "id": "u_aa167c7b",
-      "sentAt": "2026-09-21T12:20:10.809Z",
-      "title": "The Age Of Reimagining Enterprise Org Structure With AI"
     }
   ]
 }
