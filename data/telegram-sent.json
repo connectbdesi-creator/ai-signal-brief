@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-08T23:29:25.478Z",
+  "updatedAt": "2026-11-09T05:20:49.892Z",
   "entries": [
+    {
+      "id": "u_e44edd31",
+      "sentAt": "2026-11-09T05:20:49.892Z",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA"
+    },
+    {
+      "id": "u_98a9e82b",
+      "sentAt": "2026-11-09T05:20:49.892Z",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration"
+    },
+    {
+      "id": "u_54672a13",
+      "sentAt": "2026-11-09T05:20:49.892Z",
+      "title": "BMMS: Policy-Conditioned Measurement of Behavioral Compliance in Language Models"
+    },
+    {
+      "id": "u_a24d7f7",
+      "sentAt": "2026-11-09T05:20:49.892Z",
+      "title": "Adamas: Hadamard Sparse Attention for Efficient Long-Context Inference"
+    },
+    {
+      "id": "u_c41e31fc",
+      "sentAt": "2026-11-09T05:20:49.892Z",
+      "title": "Learning to Persuade Exposes How Easily LLMs Abandon Correct Beliefs"
+    },
     {
       "id": "u_744830ce",
       "sentAt": "2026-11-08T23:29:25.478Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4aef7442",
       "sentAt": "2026-09-21T23:04:24.282Z",
       "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy"
-    },
-    {
-      "id": "u_53be36d",
-      "sentAt": "2026-09-21T23:04:24.282Z",
-      "title": "OpenAI Calls for New AI Safety Rules After Agents Evaded Controls - Law Commentary"
-    },
-    {
-      "id": "u_ccf07a9f",
-      "sentAt": "2026-09-21T23:04:24.282Z",
-      "title": "How to Evaluate AI Agents From Tool Calls to Task Completion"
-    },
-    {
-      "id": "u_bcc3f7c7",
-      "sentAt": "2026-09-21T19:08:19.534Z",
-      "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock"
-    },
-    {
-      "id": "u_74d1967b",
-      "sentAt": "2026-09-21T19:08:19.534Z",
-      "title": "Meta's Muse personal AI agent tops ChatGPT, Grok and Claude for post-launch downloads"
-    },
-    {
-      "id": "u_58702707",
-      "sentAt": "2026-09-21T19:08:19.534Z",
-      "title": "\"National security\" becomes Trump's executive sledgehammer"
     }
   ]
 }
