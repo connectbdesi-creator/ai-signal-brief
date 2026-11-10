@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-10T07:05:36.650Z",
+  "updatedAt": "2026-11-10T16:14:08.896Z",
   "entries": [
+    {
+      "id": "u_acfcbb1e",
+      "sentAt": "2026-11-10T16:14:08.896Z",
+      "title": "Gemini 4 Carbon is now available"
+    },
+    {
+      "id": "u_9e6ea78e",
+      "sentAt": "2026-11-10T16:14:08.896Z",
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature"
+    },
+    {
+      "id": "u_e03c6055",
+      "sentAt": "2026-11-10T16:14:08.896Z",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips"
+    },
+    {
+      "id": "u_8e849846",
+      "sentAt": "2026-11-10T16:14:08.896Z",
+      "title": "The next chapter for Red Hat: AI agents rewrite the cloud-native playbook"
+    },
+    {
+      "id": "u_5d344e6d",
+      "sentAt": "2026-11-10T16:14:08.896Z",
+      "title": "AI Agents Are Moving Faster Than Trust: Why Security Needs A New Foundation"
+    },
     {
       "id": "u_4fe47244",
       "sentAt": "2026-11-10T07:05:36.650Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a021fb38",
       "sentAt": "2026-09-22T19:38:07.941Z",
       "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown"
-    },
-    {
-      "id": "u_dbf73cdb",
-      "sentAt": "2026-09-22T19:38:07.941Z",
-      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC"
-    },
-    {
-      "id": "u_26bfcdd5",
-      "sentAt": "2026-09-22T19:38:07.941Z",
-      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement"
-    },
-    {
-      "id": "u_dca93e33",
-      "sentAt": "2026-09-22T14:30:31.233Z",
-      "title": "What to expect during Okta’s Oktane event: Join theCUBE Sept. 24"
-    },
-    {
-      "id": "u_bca8bc42",
-      "sentAt": "2026-09-22T14:30:31.233Z",
-      "title": "Barbara Mazzolai Wants to Build a New Field of Robotics"
-    },
-    {
-      "id": "u_e56aae90",
-      "sentAt": "2026-09-22T14:30:31.233Z",
-      "title": "How Shopify built a continual learning loop with PyTorch and vLLM"
     }
   ]
 }
