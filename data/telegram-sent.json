@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-10T00:00:56.950Z",
+  "updatedAt": "2026-11-10T07:05:36.650Z",
   "entries": [
+    {
+      "id": "u_4fe47244",
+      "sentAt": "2026-11-10T07:05:36.650Z",
+      "title": "Which Claude Model to Use: Anthropic's Own Guide"
+    },
+    {
+      "id": "u_440548b7",
+      "sentAt": "2026-11-10T07:05:36.650Z",
+      "title": "Nuance Emma: An AI Face That Reacts While You Talk"
+    },
+    {
+      "id": "u_3de7ab0a",
+      "sentAt": "2026-11-10T07:05:36.650Z",
+      "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with faster AI capabilities - Business Standard"
+    },
+    {
+      "id": "u_8a01906e",
+      "sentAt": "2026-11-10T07:05:36.650Z",
+      "title": "Multimodal Artificial Intelligence Framework Models Real-Time Classroom Interactions in E-Commerce Education - Bioengineer.org"
+    },
+    {
+      "id": "u_9eab1fcb",
+      "sentAt": "2026-11-10T07:05:36.650Z",
+      "title": "Quoting Prompting Claude Fable 5.2"
+    },
     {
       "id": "u_18981c5e",
       "sentAt": "2026-11-10T00:00:56.950Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e56aae90",
       "sentAt": "2026-09-22T14:30:31.233Z",
       "title": "How Shopify built a continual learning loop with PyTorch and vLLM"
-    },
-    {
-      "id": "u_66656f57",
-      "sentAt": "2026-09-22T14:30:31.233Z",
-      "title": "Exclusive: Darktrace makes SECURE AI generally available to monitor enterprise AI use"
-    },
-    {
-      "id": "u_e348996c",
-      "sentAt": "2026-09-22T14:30:31.233Z",
-      "title": "Barracuda launches AI Data Security to control what employees send to chatbots"
-    },
-    {
-      "id": "u_4d8bb30",
-      "sentAt": "2026-09-22T09:14:50.417Z",
-      "title": "\"The last invention that man need ever make\": The risk of self-improving AI"
-    },
-    {
-      "id": "u_13789ea1",
-      "sentAt": "2026-09-22T09:14:50.417Z",
-      "title": "With $7 trillion on the line, AI safety may always take a backseat to market domination"
-    },
-    {
-      "id": "u_d1a2479e",
-      "sentAt": "2026-09-22T09:14:50.417Z",
-      "title": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI"
     }
   ]
 }
