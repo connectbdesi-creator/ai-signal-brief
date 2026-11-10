@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-10T16:14:08.896Z",
+  "updatedAt": "2026-11-10T22:58:23.031Z",
   "entries": [
+    {
+      "id": "u_d2b880f5",
+      "sentAt": "2026-11-10T22:58:23.031Z",
+      "title": "Mercor raises $750M at $20B valuation to take AI agent evaluation to enterprises"
+    },
+    {
+      "id": "u_3181f086",
+      "sentAt": "2026-11-10T22:58:23.031Z",
+      "title": "Teleport releases beams to secure artificial intelligence agents in production - SC Media"
+    },
+    {
+      "id": "u_ca60257",
+      "sentAt": "2026-11-10T22:58:23.031Z",
+      "title": "b12259"
+    },
+    {
+      "id": "u_3562395",
+      "sentAt": "2026-11-10T22:58:23.031Z",
+      "title": "Anthropic launches IPO roadshow with $64B fundraising goal"
+    },
+    {
+      "id": "u_77576661",
+      "sentAt": "2026-11-10T22:58:23.031Z",
+      "title": "To thwart reverse engineering by agents, dev proposes blinding them"
+    },
     {
       "id": "u_acfcbb1e",
       "sentAt": "2026-11-10T16:14:08.896Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1d1768c",
       "sentAt": "2026-09-22T22:48:49.108Z",
       "title": "langchain-anthropic==1.7.3"
-    },
-    {
-      "id": "u_b7610293",
-      "sentAt": "2026-09-22T22:48:49.108Z",
-      "title": "b11115"
-    },
-    {
-      "id": "u_5a156ec2",
-      "sentAt": "2026-09-22T22:48:49.108Z",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run"
-    },
-    {
-      "id": "u_103b567c",
-      "sentAt": "2026-09-22T19:38:07.941Z",
-      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5"
-    },
-    {
-      "id": "u_a2269bff",
-      "sentAt": "2026-09-22T19:38:07.941Z",
-      "title": "3 guys hacked OpenAI using a rival Anthropic model. Here's what it shows about frontier labs' vulnerabilities. - CBS News"
-    },
-    {
-      "id": "u_a021fb38",
-      "sentAt": "2026-09-22T19:38:07.941Z",
-      "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown"
     }
   ]
 }
