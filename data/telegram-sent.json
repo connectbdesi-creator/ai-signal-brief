@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-09T15:38:26.031Z",
+  "updatedAt": "2026-11-10T00:00:56.950Z",
   "entries": [
+    {
+      "id": "u_18981c5e",
+      "sentAt": "2026-11-10T00:00:56.950Z",
+      "title": "v1.108.4"
+    },
+    {
+      "id": "u_14f5a40d",
+      "sentAt": "2026-11-10T00:00:56.950Z",
+      "title": "Follow-up: 2026 papers are finally in the topic pages, and we made ICML / CVPR / ICLR 2026 \"newspapers\"[P]"
+    },
+    {
+      "id": "u_39b5839f",
+      "sentAt": "2026-11-10T00:00:56.950Z",
+      "title": "NVIDIA launches GR00T 2 and Isaac Lab 3.0 at CoRL"
+    },
+    {
+      "id": "u_70066b47",
+      "sentAt": "2026-11-10T00:00:56.950Z",
+      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO"
+    },
+    {
+      "id": "u_8997037c",
+      "sentAt": "2026-11-10T00:00:56.950Z",
+      "title": "langchain-fireworks==1.7.3"
+    },
     {
       "id": "u_85a05d9c",
       "sentAt": "2026-11-09T15:38:26.031Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d1a2479e",
       "sentAt": "2026-09-22T09:14:50.417Z",
       "title": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI"
-    },
-    {
-      "id": "u_5fda64e5",
-      "sentAt": "2026-09-22T09:14:50.417Z",
-      "title": "Daegu City is launching a large-scale \"AX (Artificial Intelligence Transformation) R&D Project\" - 매일경제"
-    },
-    {
-      "id": "u_47e9992f",
-      "sentAt": "2026-09-22T09:14:50.417Z",
-      "title": "b11099"
-    },
-    {
-      "id": "u_cd6dd92b",
-      "sentAt": "2026-09-22T03:58:55.115Z",
-      "title": "b11094"
-    },
-    {
-      "id": "u_2d7763df",
-      "sentAt": "2026-09-22T03:58:55.115Z",
-      "title": "b11093"
-    },
-    {
-      "id": "u_562982da",
-      "sentAt": "2026-09-22T03:58:55.115Z",
-      "title": "SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades"
     }
   ]
 }
