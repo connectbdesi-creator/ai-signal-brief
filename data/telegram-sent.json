@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-10T22:58:23.031Z",
+  "updatedAt": "2026-11-11T05:19:04.625Z",
   "entries": [
+    {
+      "id": "u_6b061fe6",
+      "sentAt": "2026-11-11T05:19:04.625Z",
+      "title": "Agent Max and Creative Max Now Run on Claude Fable 5.2"
+    },
+    {
+      "id": "u_8904ff99",
+      "sentAt": "2026-11-11T05:19:04.625Z",
+      "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US e-commerce firms - The Indian Express"
+    },
+    {
+      "id": "u_7c47a7be",
+      "sentAt": "2026-11-11T05:19:04.625Z",
+      "title": "v1.106.8"
+    },
+    {
+      "id": "u_2c55257",
+      "sentAt": "2026-11-11T05:19:04.625Z",
+      "title": "b12277"
+    },
+    {
+      "id": "u_2c644d1b",
+      "sentAt": "2026-11-11T05:19:04.625Z",
+      "title": "b12271"
+    },
     {
       "id": "u_d2b880f5",
       "sentAt": "2026-11-10T22:58:23.031Z",
@@ -4975,31 +5000,6 @@
       "id": "u_26d10e6b",
       "sentAt": "2026-09-23T03:56:37.365Z",
       "title": "b11117"
-    },
-    {
-      "id": "u_9808ff7b",
-      "sentAt": "2026-09-23T03:56:37.365Z",
-      "title": "Known Systems AI spins out of Identity Digital to try and make AI agents accountable to their owners"
-    },
-    {
-      "id": "u_3ad6ec3e",
-      "sentAt": "2026-09-23T03:56:37.365Z",
-      "title": "Meta Takes Action on 3.7 Million Accounts, Pages and Content In Partnership With Singapore Police Force"
-    },
-    {
-      "id": "u_23921578",
-      "sentAt": "2026-09-22T22:48:49.108Z",
-      "title": "Web scraping startup Firecrawl closes $75M investment"
-    },
-    {
-      "id": "u_ceaa4e6c",
-      "sentAt": "2026-09-22T22:48:49.108Z",
-      "title": "OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras - Gizmodo"
-    },
-    {
-      "id": "u_1d1768c",
-      "sentAt": "2026-09-22T22:48:49.108Z",
-      "title": "langchain-anthropic==1.7.3"
     }
   ]
 }
