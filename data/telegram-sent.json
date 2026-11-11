@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-11T13:47:05.891Z",
+  "updatedAt": "2026-11-11T21:08:33.037Z",
   "entries": [
+    {
+      "id": "u_6060e90d",
+      "sentAt": "2026-11-11T21:08:33.037Z",
+      "title": "The attendee’s guide to the AWS re:Invent 2026 AI/ML track"
+    },
+    {
+      "id": "u_d099de43",
+      "sentAt": "2026-11-11T21:08:33.037Z",
+      "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown"
+    },
+    {
+      "id": "u_1a45d9bd",
+      "sentAt": "2026-11-11T21:08:33.037Z",
+      "title": "How DXC Technology built a multi-model AI substrate on Amazon Bedrock"
+    },
+    {
+      "id": "u_ef07592f",
+      "sentAt": "2026-11-11T21:08:33.037Z",
+      "title": "b12292"
+    },
+    {
+      "id": "u_36b57386",
+      "sentAt": "2026-11-11T21:08:33.037Z",
+      "title": "Artificial Intelligence Enhances Cellular Immunotherapies Across Diverse Autoimmune Disease Models - Bioengineer.org"
+    },
     {
       "id": "u_a136ff19",
       "sentAt": "2026-11-11T13:47:05.891Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a9cc97fb",
       "sentAt": "2026-09-23T14:47:49.565Z",
       "title": "b11135"
-    },
-    {
-      "id": "u_a5559cb",
-      "sentAt": "2026-09-23T14:47:49.565Z",
-      "title": "Inside Basecamp Research, the AI startup turning evolution into training data"
-    },
-    {
-      "id": "u_ad97e5f6",
-      "sentAt": "2026-09-23T14:47:49.565Z",
-      "title": "Inside Basecamp Research, the AI startup turning evolution into training data"
-    },
-    {
-      "id": "u_bc870630",
-      "sentAt": "2026-09-23T09:12:59.457Z",
-      "title": "AI labs are cutting model costs - and it could help them slow down safely"
-    },
-    {
-      "id": "u_ce087c9f",
-      "sentAt": "2026-09-23T09:12:59.457Z",
-      "title": "Muse's normie-friendly design is the playbook for how Meta can win at AI"
-    },
-    {
-      "id": "u_6193a7a9",
-      "sentAt": "2026-09-23T09:12:59.457Z",
-      "title": "Why Fortune 500s Build 18,000 AI Agents And Keep Almost None"
     }
   ]
 }
