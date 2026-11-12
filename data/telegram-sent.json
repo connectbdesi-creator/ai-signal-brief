@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-12T02:44:59.816Z",
+  "updatedAt": "2026-11-12T12:20:42.936Z",
   "entries": [
+    {
+      "id": "u_295aa2f6",
+      "sentAt": "2026-11-12T12:20:42.936Z",
+      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2"
+    },
+    {
+      "id": "u_7191db70",
+      "sentAt": "2026-11-12T12:20:42.936Z",
+      "title": "Agents that build their own databases are forcing a data foundation rethink"
+    },
+    {
+      "id": "u_d6230df7",
+      "sentAt": "2026-11-12T12:20:42.936Z",
+      "title": "Meta Muse and Gemini Spark: What are personal AI agents and their risks - Business Standard"
+    },
+    {
+      "id": "u_1ee96642",
+      "sentAt": "2026-11-12T12:20:42.936Z",
+      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing"
+    },
+    {
+      "id": "u_83e3db86",
+      "sentAt": "2026-11-12T12:20:42.936Z",
+      "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing"
+    },
     {
       "id": "u_8125bd23",
       "sentAt": "2026-11-12T02:44:59.816Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ca68f735",
       "sentAt": "2026-09-23T22:49:05.599Z",
       "title": "The Transformation Edge: Why AI is forcing the CFO and CHRO to rewrite the enterprise together"
-    },
-    {
-      "id": "u_228195ca",
-      "sentAt": "2026-09-23T22:49:05.599Z",
-      "title": "Microsoft unveils Integrated Security Operations Center in Defender for AI agents"
-    },
-    {
-      "id": "u_d2cf2406",
-      "sentAt": "2026-09-23T22:49:05.599Z",
-      "title": "Oracle puts database security controls beneath AI agents"
-    },
-    {
-      "id": "u_e30db013",
-      "sentAt": "2026-09-23T19:33:15.849Z",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
-    },
-    {
-      "id": "u_b76f6ed3",
-      "sentAt": "2026-09-23T19:33:15.849Z",
-      "title": "b11147"
-    },
-    {
-      "id": "u_9facd574",
-      "sentAt": "2026-09-23T19:33:15.849Z",
-      "title": "Dems grapple with how to pace the AI race"
     }
   ]
 }
