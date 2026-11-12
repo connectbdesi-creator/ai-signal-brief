@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-12T12:20:42.936Z",
+  "updatedAt": "2026-11-12T21:21:06.210Z",
   "entries": [
+    {
+      "id": "u_df722a23",
+      "sentAt": "2026-11-12T21:21:06.210Z",
+      "title": "b12327"
+    },
+    {
+      "id": "u_28c2fbd",
+      "sentAt": "2026-11-12T21:21:06.210Z",
+      "title": "Kubernetes gets a second act as AI agents turn one prompt into thousands of inference calls"
+    },
+    {
+      "id": "u_2caec8b7",
+      "sentAt": "2026-11-12T21:21:06.210Z",
+      "title": "4 insights from Block Builderlab Launch Event 2026: AI agents join the team as working colleagues"
+    },
+    {
+      "id": "u_5da195de",
+      "sentAt": "2026-11-12T21:21:06.210Z",
+      "title": "1.108.7 (LTS)"
+    },
+    {
+      "id": "u_998b55b3",
+      "sentAt": "2026-11-12T21:21:06.210Z",
+      "title": "Google retools Kubernetes for AI agents instead of building a new stack"
+    },
     {
       "id": "u_295aa2f6",
       "sentAt": "2026-11-12T12:20:42.936Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d0c3848d",
       "sentAt": "2026-09-24T03:49:37.209Z",
       "title": "Meta beat OpenAI to the punch on announcing an AI gadget"
-    },
-    {
-      "id": "u_bb75e49b",
-      "sentAt": "2026-09-24T03:49:37.209Z",
-      "title": "Google launches two benchmark-topping speech generation models"
-    },
-    {
-      "id": "u_513808f8",
-      "sentAt": "2026-09-24T03:49:37.209Z",
-      "title": "v1.101.2"
-    },
-    {
-      "id": "u_78d90707",
-      "sentAt": "2026-09-23T22:49:05.599Z",
-      "title": "Minnesota State Moorhead launches master’s program in Artificial Intelligence - Valley News Live"
-    },
-    {
-      "id": "u_c83c8e40",
-      "sentAt": "2026-09-23T22:49:05.599Z",
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch"
-    },
-    {
-      "id": "u_ca68f735",
-      "sentAt": "2026-09-23T22:49:05.599Z",
-      "title": "The Transformation Edge: Why AI is forcing the CFO and CHRO to rewrite the enterprise together"
     }
   ]
 }
