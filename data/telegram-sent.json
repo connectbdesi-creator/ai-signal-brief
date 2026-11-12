@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-11T21:08:33.037Z",
+  "updatedAt": "2026-11-12T02:44:59.816Z",
   "entries": [
+    {
+      "id": "u_8125bd23",
+      "sentAt": "2026-11-12T02:44:59.816Z",
+      "title": "A decade in, KubeVirt pushes virtual machines into the AI agent era"
+    },
+    {
+      "id": "u_9805eff6",
+      "sentAt": "2026-11-12T02:44:59.816Z",
+      "title": "v1.109.1"
+    },
+    {
+      "id": "u_30063873",
+      "sentAt": "2026-11-12T02:44:59.816Z",
+      "title": "Google’s GKE Labs turns reinforcement learning into a Kubernetes workload"
+    },
+    {
+      "id": "u_f10a9eb0",
+      "sentAt": "2026-11-12T02:44:59.816Z",
+      "title": "Google enters the decision model market with Gemini Decisions API"
+    },
+    {
+      "id": "u_7985acf8",
+      "sentAt": "2026-11-12T02:44:59.816Z",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI"
+    },
     {
       "id": "u_6060e90d",
       "sentAt": "2026-11-11T21:08:33.037Z",
@@ -4975,31 +5000,6 @@
       "id": "u_9facd574",
       "sentAt": "2026-09-23T19:33:15.849Z",
       "title": "Dems grapple with how to pace the AI race"
-    },
-    {
-      "id": "u_be5a3809",
-      "sentAt": "2026-09-23T19:33:15.849Z",
-      "title": "From portal-hopping to instant answers: HEMA’s journey with MCP and Amazon Bedrock"
-    },
-    {
-      "id": "u_cd2db043",
-      "sentAt": "2026-09-23T19:33:15.849Z",
-      "title": "b11146"
-    },
-    {
-      "id": "u_4dc8b88c",
-      "sentAt": "2026-09-23T14:47:49.565Z",
-      "title": "Meta's AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw"
-    },
-    {
-      "id": "u_dda1526e",
-      "sentAt": "2026-09-23T14:47:49.565Z",
-      "title": "YouTube releases new AI features for creators within its Studio app"
-    },
-    {
-      "id": "u_a9cc97fb",
-      "sentAt": "2026-09-23T14:47:49.565Z",
-      "title": "b11135"
     }
   ]
 }
