@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-13T02:28:12.305Z",
+  "updatedAt": "2026-11-13T11:58:01.424Z",
   "entries": [
+    {
+      "id": "u_df6c0e92",
+      "sentAt": "2026-11-13T11:58:01.424Z",
+      "title": "Expo Simulators: Cloud Simulators for Coding Agents"
+    },
+    {
+      "id": "u_7f76ea32",
+      "sentAt": "2026-11-13T11:58:01.424Z",
+      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs"
+    },
+    {
+      "id": "u_d04255a9",
+      "sentAt": "2026-11-13T11:58:01.424Z",
+      "title": "v4.80.0"
+    },
+    {
+      "id": "u_a2ffcc21",
+      "sentAt": "2026-11-13T11:58:01.424Z",
+      "title": "Doctors want liability shield from AI mistakes"
+    },
+    {
+      "id": "u_11d4421b",
+      "sentAt": "2026-11-13T11:58:01.424Z",
+      "title": "v1.0.0"
+    },
     {
       "id": "u_52b3961b",
       "sentAt": "2026-11-13T02:28:12.305Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ff2b5669",
       "sentAt": "2026-09-24T14:42:29.531Z",
       "title": "I have some questions for Mark Zuckerberg"
-    },
-    {
-      "id": "u_10344900",
-      "sentAt": "2026-09-24T14:42:29.531Z",
-      "title": "Introducing LangSmith Fine-Tuning"
-    },
-    {
-      "id": "u_6c212111",
-      "sentAt": "2026-09-24T14:42:29.531Z",
-      "title": "OpenAI's agents went after government and university sites months before Hugging Face"
-    },
-    {
-      "id": "u_28013112",
-      "sentAt": "2026-09-24T09:07:12.270Z",
-      "title": "Scoop: Trump allies open new front on Anthropic CEO as face of AI \"doomerism\""
-    },
-    {
-      "id": "u_d01eb447",
-      "sentAt": "2026-09-24T09:07:12.270Z",
-      "title": "b11156"
-    },
-    {
-      "id": "u_e1e9a5c3",
-      "sentAt": "2026-09-24T09:07:12.270Z",
-      "title": "b11155"
     }
   ]
 }
