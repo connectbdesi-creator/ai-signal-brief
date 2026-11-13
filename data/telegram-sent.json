@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-13T11:58:01.424Z",
+  "updatedAt": "2026-11-13T19:31:43.108Z",
   "entries": [
+    {
+      "id": "u_2d06a54b",
+      "sentAt": "2026-11-13T19:31:43.108Z",
+      "title": "b12365"
+    },
+    {
+      "id": "u_85d60a54",
+      "sentAt": "2026-11-13T19:31:43.108Z",
+      "title": "Democratic political group launches new push to shape AI agenda before 2028 - Boston Herald"
+    },
+    {
+      "id": "u_135cbcaa",
+      "sentAt": "2026-11-13T19:31:43.108Z",
+      "title": "v1.111.0-dev.2"
+    },
+    {
+      "id": "u_11de2f8f",
+      "sentAt": "2026-11-13T19:31:43.108Z",
+      "title": "Four frontier models scored 97.8–100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]"
+    },
+    {
+      "id": "u_27694b5c",
+      "sentAt": "2026-11-13T19:31:43.108Z",
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet"
+    },
     {
       "id": "u_df6c0e92",
       "sentAt": "2026-11-13T11:58:01.424Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e4bd3545",
       "sentAt": "2026-09-24T19:52:48.620Z",
       "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost"
-    },
-    {
-      "id": "u_d49e657e",
-      "sentAt": "2026-09-24T19:52:48.620Z",
-      "title": "langchain-core==1.6.5"
-    },
-    {
-      "id": "u_8bea215f",
-      "sentAt": "2026-09-24T19:52:48.620Z",
-      "title": "Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update"
-    },
-    {
-      "id": "u_80cdd0d0",
-      "sentAt": "2026-09-24T14:42:29.531Z",
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together"
-    },
-    {
-      "id": "u_7d6e0b28",
-      "sentAt": "2026-09-24T14:42:29.531Z",
-      "title": "Google is sending an AI satellite into space next week"
-    },
-    {
-      "id": "u_ff2b5669",
-      "sentAt": "2026-09-24T14:42:29.531Z",
-      "title": "I have some questions for Mark Zuckerberg"
     }
   ]
 }
