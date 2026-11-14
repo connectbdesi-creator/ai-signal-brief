@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-13T19:31:43.108Z",
+  "updatedAt": "2026-11-14T00:45:51.962Z",
   "entries": [
+    {
+      "id": "u_da6ae63",
+      "sentAt": "2026-11-14T00:45:51.962Z",
+      "title": "b12374"
+    },
+    {
+      "id": "u_c54077cf",
+      "sentAt": "2026-11-14T00:45:51.962Z",
+      "title": "This Starlink Rival's Plan To Avoid Launch Bottlenecks: Its Own Rocket"
+    },
+    {
+      "id": "u_d08cde62",
+      "sentAt": "2026-11-14T00:45:51.962Z",
+      "title": "Amazon has a plan to index the world’s online shopping data"
+    },
+    {
+      "id": "u_d29eb67",
+      "sentAt": "2026-11-14T00:45:51.962Z",
+      "title": "Exclusive: Onyx Security brings AI agent governance to Glean’s enterprise AI platform"
+    },
+    {
+      "id": "u_4cfa64e6",
+      "sentAt": "2026-11-14T00:45:51.962Z",
+      "title": "v0.14.26"
+    },
     {
       "id": "u_2d06a54b",
       "sentAt": "2026-11-13T19:31:43.108Z",
@@ -4975,31 +5000,6 @@
       "id": "u_91a7cd2b",
       "sentAt": "2026-09-24T23:05:37.216Z",
       "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven"
-    },
-    {
-      "id": "u_ebad2e53",
-      "sentAt": "2026-09-24T23:05:37.216Z",
-      "title": "b11167"
-    },
-    {
-      "id": "u_1681edc7",
-      "sentAt": "2026-09-24T23:05:37.216Z",
-      "title": "The Biggest News From Connect 2026"
-    },
-    {
-      "id": "u_1b98754e",
-      "sentAt": "2026-09-24T19:52:48.620Z",
-      "title": "Neo4j makes the case for knowledge graphs as shared context for AI agents"
-    },
-    {
-      "id": "u_32225f1",
-      "sentAt": "2026-09-24T19:52:48.620Z",
-      "title": "Google to unveil new Gemini AI model - AzerNews"
-    },
-    {
-      "id": "u_e4bd3545",
-      "sentAt": "2026-09-24T19:52:48.620Z",
-      "title": "BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking Tokens at a 0.86pp Accuracy Cost"
     }
   ]
 }
