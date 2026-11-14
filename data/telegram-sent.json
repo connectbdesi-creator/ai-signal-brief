@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-14T08:44:28.393Z",
+  "updatedAt": "2026-11-14T16:26:29.927Z",
   "entries": [
+    {
+      "id": "u_35c767c0",
+      "sentAt": "2026-11-14T16:26:29.927Z",
+      "title": "Why don’t we have national open AI models?"
+    },
+    {
+      "id": "u_c0d6fcf9",
+      "sentAt": "2026-11-14T16:26:29.927Z",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs"
+    },
+    {
+      "id": "u_b24dc4eb",
+      "sentAt": "2026-11-14T16:26:29.927Z",
+      "title": "b12383"
+    },
+    {
+      "id": "u_3a0f3e83",
+      "sentAt": "2026-11-14T16:26:29.927Z",
+      "title": "b12380"
+    },
+    {
+      "id": "u_3c6e8958",
+      "sentAt": "2026-11-14T16:26:29.927Z",
+      "title": "ARC 1.0: A decision model for routing AI agents across cloud and local models (0.6B, Apache 2.0)"
+    },
     {
       "id": "u_9644e823",
       "sentAt": "2026-11-14T08:44:28.393Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2dbb8912",
       "sentAt": "2026-09-25T11:26:33.553Z",
       "title": "'Soar' wars: Inside two AI startups' messy fight over the same name"
-    },
-    {
-      "id": "u_6a408abe",
-      "sentAt": "2026-09-25T11:26:33.553Z",
-      "title": "Claude’s New addTools() Can Reuse 98.7% of Your Next Request. Editing tools[] Reuses None."
-    },
-    {
-      "id": "u_75ce44c5",
-      "sentAt": "2026-09-25T11:26:33.553Z",
-      "title": "Claude’s New addTools() Can Reuse 98.7% of Your Next Request. Editing tools[] Reuses None."
-    },
-    {
-      "id": "u_dd6eb879",
-      "sentAt": "2026-09-25T04:04:50.097Z",
-      "title": "SMILESGNN: Interpretable Clinical Toxicity Prediction via SMILES-Graph Cross-Attention Fusion"
-    },
-    {
-      "id": "u_a298e772",
-      "sentAt": "2026-09-25T04:04:50.097Z",
-      "title": "CARE: Condition-Aware Representation Regularization for Diffusion Models"
-    },
-    {
-      "id": "u_2d8563d7",
-      "sentAt": "2026-09-25T04:04:50.097Z",
-      "title": "Auditability Is Not One Property: Rule Overlap, Behavioural Agreement, and Composition in Reinforcement Learning"
     }
   ]
 }
