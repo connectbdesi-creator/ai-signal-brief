@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-14T00:45:51.962Z",
+  "updatedAt": "2026-11-14T08:44:28.393Z",
   "entries": [
+    {
+      "id": "u_9644e823",
+      "sentAt": "2026-11-14T08:44:28.393Z",
+      "title": "Reason Machines' Reason Harness: 20x Cheaper, or 22%?"
+    },
+    {
+      "id": "u_b6e03d33",
+      "sentAt": "2026-11-14T08:44:28.393Z",
+      "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents"
+    },
+    {
+      "id": "u_a58e1773",
+      "sentAt": "2026-11-14T08:44:28.393Z",
+      "title": "OpenAI has launched ChatGPT Wallet for AI-powered purchases - UkrMedia News"
+    },
+    {
+      "id": "u_6e363e9",
+      "sentAt": "2026-11-14T08:44:28.393Z",
+      "title": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents"
+    },
+    {
+      "id": "u_d02cd773",
+      "sentAt": "2026-11-14T08:44:28.393Z",
+      "title": "b12375"
+    },
     {
       "id": "u_da6ae63",
       "sentAt": "2026-11-14T00:45:51.962Z",
@@ -4975,31 +5000,6 @@
       "id": "u_2d8563d7",
       "sentAt": "2026-09-25T04:04:50.097Z",
       "title": "Auditability Is Not One Property: Rule Overlap, Behavioural Agreement, and Composition in Reinforcement Learning"
-    },
-    {
-      "id": "u_1da67d8d",
-      "sentAt": "2026-09-25T04:04:50.097Z",
-      "title": "TAM-Chain: Multi-Scale Thyroid Cytology Classification via Absorbing Markov Chains and Shannon Entropy Uncertainty Quantification for False-Negative Suppression and Domain-Shift Adaptation"
-    },
-    {
-      "id": "u_e0053ac8",
-      "sentAt": "2026-09-25T04:04:50.097Z",
-      "title": "Learning to Discover Interesting Mathematics"
-    },
-    {
-      "id": "u_28aa530f",
-      "sentAt": "2026-09-24T23:05:37.216Z",
-      "title": "b11169"
-    },
-    {
-      "id": "u_1f12807e",
-      "sentAt": "2026-09-24T23:05:37.216Z",
-      "title": "8 insights from Proofpoint Protect: Security bets on intent as AI agents join the workforce"
-    },
-    {
-      "id": "u_91a7cd2b",
-      "sentAt": "2026-09-24T23:05:37.216Z",
-      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven"
     }
   ]
 }
