@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-14T22:06:30.817Z",
+  "updatedAt": "2026-11-15T05:30:56.076Z",
   "entries": [
+    {
+      "id": "u_f02e8d37",
+      "sentAt": "2026-11-15T05:30:56.076Z",
+      "title": "b12394"
+    },
+    {
+      "id": "u_994362d6",
+      "sentAt": "2026-11-15T05:30:56.076Z",
+      "title": "v1.111.0-dev.4"
+    },
+    {
+      "id": "u_a762c1ed",
+      "sentAt": "2026-11-15T05:30:56.076Z",
+      "title": "MBRSG launches fourth cohort of ‘Artificial Intelligence Ethics in the Age of Agentic AI’ programme in collaboration with IEEE - Zawya"
+    },
+    {
+      "id": "u_1a8c2e6b",
+      "sentAt": "2026-11-15T05:30:56.076Z",
+      "title": "b12391"
+    },
+    {
+      "id": "u_22f392f7",
+      "sentAt": "2026-11-15T05:30:56.076Z",
+      "title": "b12390"
+    },
     {
       "id": "u_540ab639",
       "sentAt": "2026-11-14T22:06:30.817Z",
@@ -4975,31 +5000,6 @@
       "id": "u_638c0474",
       "sentAt": "2026-09-25T21:15:36.647Z",
       "title": "Microsoft overhauls Copilot with new coding, document editing features"
-    },
-    {
-      "id": "u_f558573a",
-      "sentAt": "2026-09-25T21:15:36.647Z",
-      "title": "Syracuse University launches artificial intelligence research institute - Syracuse.com"
-    },
-    {
-      "id": "u_c73d34fc",
-      "sentAt": "2026-09-25T21:15:36.647Z",
-      "title": "Vanderbilt University extends identity governance to AI agents"
-    },
-    {
-      "id": "u_1b9300ad",
-      "sentAt": "2026-09-25T16:50:36.025Z",
-      "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing"
-    },
-    {
-      "id": "u_4758bbe5",
-      "sentAt": "2026-09-25T16:50:36.025Z",
-      "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing"
-    },
-    {
-      "id": "u_e28f4da6",
-      "sentAt": "2026-09-25T16:50:36.025Z",
-      "title": "Siegel Named MIT Schwarzman College Of Computing Innovation Fellow"
     }
   ]
 }
