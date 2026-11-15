@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-15T19:37:50.634Z",
+  "updatedAt": "2026-11-15T23:50:43.551Z",
   "entries": [
+    {
+      "id": "u_63fd218",
+      "sentAt": "2026-11-15T23:50:43.551Z",
+      "title": "langchain-mistralai==1.2.0"
+    },
+    {
+      "id": "u_839f86d3",
+      "sentAt": "2026-11-15T23:50:43.551Z",
+      "title": "A step toward defining the Standard Model on a lattice"
+    },
+    {
+      "id": "u_b83bf1f9",
+      "sentAt": "2026-11-15T23:50:43.551Z",
+      "title": "A step toward defining the Standard Model on a lattice"
+    },
+    {
+      "id": "u_1f044d08",
+      "sentAt": "2026-11-15T23:50:43.551Z",
+      "title": "langchain-groq==1.2.0"
+    },
+    {
+      "id": "u_8cdc0a5c",
+      "sentAt": "2026-11-15T23:50:43.551Z",
+      "title": "langchain-xai==1.4.0"
+    },
     {
       "id": "u_afead907",
       "sentAt": "2026-11-15T19:37:50.634Z",
@@ -4975,31 +5000,6 @@
       "id": "u_4d660411",
       "sentAt": "2026-09-26T12:46:52.545Z",
       "title": "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions"
-    },
-    {
-      "id": "u_e9cb5ed2",
-      "sentAt": "2026-09-26T12:46:52.545Z",
-      "title": "Agentboxd – Email inboxes for AI agents that treat mail as hostile"
-    },
-    {
-      "id": "u_425263ed",
-      "sentAt": "2026-09-26T12:46:52.545Z",
-      "title": "Oxford lets OpenAI train its AI models on Bodleian library"
-    },
-    {
-      "id": "u_c2915d22",
-      "sentAt": "2026-09-26T07:15:21.762Z",
-      "title": "OpenAI Agents Unauthorizedly Leak 53 ChatGPT User Images - 조선일보"
-    },
-    {
-      "id": "u_ef62aeed",
-      "sentAt": "2026-09-26T07:15:21.762Z",
-      "title": "OpenAI says its AI agents posted users' images online in error - Le Monde.fr"
-    },
-    {
-      "id": "u_c50d0d7b",
-      "sentAt": "2026-09-26T07:15:21.762Z",
-      "title": "b11193"
     }
   ]
 }
