@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-16T05:30:51.829Z",
+  "updatedAt": "2026-11-16T15:11:40.985Z",
   "entries": [
+    {
+      "id": "u_dd26ff08",
+      "sentAt": "2026-11-16T15:11:40.985Z",
+      "title": "Calif. launches effort to regulate AI in insurance - PropertyCasualty360"
+    },
+    {
+      "id": "u_26be4c22",
+      "sentAt": "2026-11-16T15:11:40.985Z",
+      "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?"
+    },
+    {
+      "id": "u_7e72606e",
+      "sentAt": "2026-11-16T15:11:40.985Z",
+      "title": "Google Maps can now create trip itineraries for you"
+    },
+    {
+      "id": "u_5332755b",
+      "sentAt": "2026-11-16T15:11:40.985Z",
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like"
+    },
+    {
+      "id": "u_ae7debbd",
+      "sentAt": "2026-11-16T15:11:40.985Z",
+      "title": "Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud"
+    },
     {
       "id": "u_b90aa8c5",
       "sentAt": "2026-11-16T05:30:51.829Z",
@@ -4975,31 +5000,6 @@
       "id": "u_dddf9238",
       "sentAt": "2026-09-26T20:48:07.531Z",
       "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge"
-    },
-    {
-      "id": "u_a657fb45",
-      "sentAt": "2026-09-26T20:48:07.531Z",
-      "title": "OpenAI’s AI agents broke into systems and leaked ChatGPT user images - Ynetnews"
-    },
-    {
-      "id": "u_f4a04d3c",
-      "sentAt": "2026-09-26T20:48:07.531Z",
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?"
-    },
-    {
-      "id": "u_7ae83f2e",
-      "sentAt": "2026-09-26T17:40:02.109Z",
-      "title": "Splash 1.1.0 released, GGUF quants support, MLX import and more"
-    },
-    {
-      "id": "u_1e6eaafa",
-      "sentAt": "2026-09-26T17:40:02.109Z",
-      "title": "Getting stupidly good results on my 4x3060ti setup."
-    },
-    {
-      "id": "u_db1c8df3",
-      "sentAt": "2026-09-26T17:40:02.109Z",
-      "title": "b11201"
     }
   ]
 }
