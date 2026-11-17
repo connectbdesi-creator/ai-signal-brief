@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-16T15:11:40.985Z",
+  "updatedAt": "2026-11-17T00:02:26.529Z",
   "entries": [
+    {
+      "id": "u_5c3853d7",
+      "sentAt": "2026-11-17T00:02:26.529Z",
+      "title": "ESMO Launches New Peer-Reviewed Journal Dedicated to Cancer Artificial Intelligence - Bioengineer.org"
+    },
+    {
+      "id": "u_19c2f259",
+      "sentAt": "2026-11-17T00:02:26.529Z",
+      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base"
+    },
+    {
+      "id": "u_5c810622",
+      "sentAt": "2026-11-17T00:02:26.529Z",
+      "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore"
+    },
+    {
+      "id": "u_5ae8f2c2",
+      "sentAt": "2026-11-17T00:02:26.529Z",
+      "title": "v1.108.10"
+    },
+    {
+      "id": "u_52c2faa6",
+      "sentAt": "2026-11-17T00:02:26.529Z",
+      "title": "ESMO Launches a New Peer-Reviewed Journal Dedicated to Artificial Intelligence in Oncology - Oncodaily"
+    },
     {
       "id": "u_dd26ff08",
       "sentAt": "2026-11-16T15:11:40.985Z",
@@ -4975,31 +5000,6 @@
       "id": "u_6fd1aaa2",
       "sentAt": "2026-09-27T00:21:20.394Z",
       "title": "Scoop: Top AI companies probing tens of thousands of security incidents"
-    },
-    {
-      "id": "u_c2958c6a",
-      "sentAt": "2026-09-27T00:21:20.394Z",
-      "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English"
-    },
-    {
-      "id": "u_23c40683",
-      "sentAt": "2026-09-27T00:21:20.394Z",
-      "title": "b11205"
-    },
-    {
-      "id": "u_f7d22a37",
-      "sentAt": "2026-09-26T20:48:07.531Z",
-      "title": "b11202"
-    },
-    {
-      "id": "u_800f67e0",
-      "sentAt": "2026-09-26T20:48:07.531Z",
-      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU"
-    },
-    {
-      "id": "u_dddf9238",
-      "sentAt": "2026-09-26T20:48:07.531Z",
-      "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge"
     }
   ]
 }
