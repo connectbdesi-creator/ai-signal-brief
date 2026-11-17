@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-17T00:02:26.529Z",
+  "updatedAt": "2026-11-17T10:22:02.925Z",
   "entries": [
+    {
+      "id": "u_94922391",
+      "sentAt": "2026-11-17T10:22:02.925Z",
+      "title": "OpenAI Opens Free ChatGPT to 200,000 Researchers"
+    },
+    {
+      "id": "u_e1faa90e",
+      "sentAt": "2026-11-17T10:22:02.925Z",
+      "title": "Noeri Raises $110M for Self-Improving Company AI"
+    },
+    {
+      "id": "u_1a488d44",
+      "sentAt": "2026-11-17T10:22:02.925Z",
+      "title": "Corma Raises $125M at $1B for AI Cyber Defense"
+    },
+    {
+      "id": "u_a23f3092",
+      "sentAt": "2026-11-17T10:22:02.925Z",
+      "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models"
+    },
+    {
+      "id": "u_37f7e4e4",
+      "sentAt": "2026-11-17T10:22:02.925Z",
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026"
+    },
     {
       "id": "u_5c3853d7",
       "sentAt": "2026-11-17T00:02:26.529Z",
@@ -4975,31 +5000,6 @@
       "id": "u_49796e99",
       "sentAt": "2026-09-27T13:40:29.565Z",
       "title": "Developer says Jev decision model beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends - Tom's Hardware"
-    },
-    {
-      "id": "u_4a69bdf3",
-      "sentAt": "2026-09-27T13:40:29.565Z",
-      "title": "b11212"
-    },
-    {
-      "id": "u_3cc8b617",
-      "sentAt": "2026-09-27T13:40:29.565Z",
-      "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time"
-    },
-    {
-      "id": "u_2517fefd",
-      "sentAt": "2026-09-27T00:21:20.394Z",
-      "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways - Goshen News"
-    },
-    {
-      "id": "u_bef4543",
-      "sentAt": "2026-09-27T00:21:20.394Z",
-      "title": "OpenAI Pauses Training of Latest Models After Agents Probed US Government Sites in Unexpected Ways - U.S. News & World Report"
-    },
-    {
-      "id": "u_6fd1aaa2",
-      "sentAt": "2026-09-27T00:21:20.394Z",
-      "title": "Scoop: Top AI companies probing tens of thousands of security incidents"
     }
   ]
 }
