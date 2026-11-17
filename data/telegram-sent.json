@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-17T10:22:02.925Z",
+  "updatedAt": "2026-11-17T20:37:25.996Z",
   "entries": [
+    {
+      "id": "u_d6affb2a",
+      "sentAt": "2026-11-17T20:37:25.996Z",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains"
+    },
+    {
+      "id": "u_2a031a3b",
+      "sentAt": "2026-11-17T20:37:25.996Z",
+      "title": "b12483"
+    },
+    {
+      "id": "u_948a356b",
+      "sentAt": "2026-11-17T20:37:25.996Z",
+      "title": "b12482"
+    },
+    {
+      "id": "u_6938d53b",
+      "sentAt": "2026-11-17T20:37:25.996Z",
+      "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows"
+    },
+    {
+      "id": "u_aeec8d64",
+      "sentAt": "2026-11-17T20:37:25.996Z",
+      "title": "Model ML raises $250M to automate investment banking grunt work"
+    },
     {
       "id": "u_94922391",
       "sentAt": "2026-11-17T10:22:02.925Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8abc18ae",
       "sentAt": "2026-09-27T18:07:36.479Z",
       "title": "GROKBOT :: I Asked an “AI Teammate” to Fill One Form. It Couldn’t."
-    },
-    {
-      "id": "u_c4d6c18c",
-      "sentAt": "2026-09-27T18:07:36.479Z",
-      "title": "AI agents do more of the work in model development, but humans still make the decisions"
-    },
-    {
-      "id": "u_489b3485",
-      "sentAt": "2026-09-27T18:07:36.479Z",
-      "title": "AI agents do more of the work in model development, but humans still make the decisions"
-    },
-    {
-      "id": "u_6b415173",
-      "sentAt": "2026-09-27T13:40:29.565Z",
-      "title": "b11214"
-    },
-    {
-      "id": "u_c968104f",
-      "sentAt": "2026-09-27T13:40:29.565Z",
-      "title": "b11213"
-    },
-    {
-      "id": "u_49796e99",
-      "sentAt": "2026-09-27T13:40:29.565Z",
-      "title": "Developer says Jev decision model beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends - Tom's Hardware"
     }
   ]
 }
