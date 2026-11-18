@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-18T03:23:59.768Z",
+  "updatedAt": "2026-11-18T12:45:51.292Z",
   "entries": [
+    {
+      "id": "u_8fc6a553",
+      "sentAt": "2026-11-18T12:45:51.292Z",
+      "title": "Stalled data center buildouts send inference chips hunting for space in telco and colo sites"
+    },
+    {
+      "id": "u_907c3556",
+      "sentAt": "2026-11-18T12:45:51.292Z",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents"
+    },
+    {
+      "id": "u_9fa84f9a",
+      "sentAt": "2026-11-18T12:45:51.292Z",
+      "title": "Armenia launches new AI Portal to help teachers bring artificial intelligence into classrooms - Public Radio of Armenia"
+    },
+    {
+      "id": "u_476e18fa",
+      "sentAt": "2026-11-18T12:45:51.292Z",
+      "title": "Xi Jinping breaks protocol to greet and hug Trump at China airport"
+    },
+    {
+      "id": "u_7b2f3646",
+      "sentAt": "2026-11-18T12:45:51.292Z",
+      "title": "Ukraine and Denmark launch strategic cooperation in defence AI - Міністерство оборони України"
+    },
     {
       "id": "u_8398d817",
       "sentAt": "2026-11-18T03:23:59.768Z",
@@ -4975,31 +5000,6 @@
       "id": "u_226c9178",
       "sentAt": "2026-09-28T04:25:40.201Z",
       "title": "Google Research Introduces an AI Video Co-Director: 4 Agentic Frameworks for Coherent, Minutes-Long Video Generation"
-    },
-    {
-      "id": "u_f8f4d21f",
-      "sentAt": "2026-09-28T04:25:40.201Z",
-      "title": "AWS CloudWatch Omni goes after the hardest question in agentic AI: Why did the agent do that?"
-    },
-    {
-      "id": "u_8d227429",
-      "sentAt": "2026-09-28T04:25:40.201Z",
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email - BleepingComputer"
-    },
-    {
-      "id": "u_554960d3",
-      "sentAt": "2026-09-27T22:52:35.703Z",
-      "title": "b11223"
-    },
-    {
-      "id": "u_a536cb81",
-      "sentAt": "2026-09-27T22:52:35.703Z",
-      "title": "Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns - The Guardian"
-    },
-    {
-      "id": "u_cea67ee1",
-      "sentAt": "2026-09-27T22:52:35.703Z",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music"
     }
   ]
 }
