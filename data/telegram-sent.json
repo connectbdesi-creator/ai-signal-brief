@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-17T20:37:25.996Z",
+  "updatedAt": "2026-11-18T03:23:59.768Z",
   "entries": [
+    {
+      "id": "u_8398d817",
+      "sentAt": "2026-11-18T03:23:59.768Z",
+      "title": "b12494"
+    },
+    {
+      "id": "u_ee1fd5c3",
+      "sentAt": "2026-11-18T03:23:59.768Z",
+      "title": "b12492"
+    },
+    {
+      "id": "u_420ddf40",
+      "sentAt": "2026-11-18T03:23:59.768Z",
+      "title": "v1.110.0"
+    },
+    {
+      "id": "u_ee017a7",
+      "sentAt": "2026-11-18T03:23:59.768Z",
+      "title": "b12490"
+    },
+    {
+      "id": "u_2edfc5c3",
+      "sentAt": "2026-11-18T03:23:59.768Z",
+      "title": "b12489"
+    },
     {
       "id": "u_d6affb2a",
       "sentAt": "2026-11-17T20:37:25.996Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cea67ee1",
       "sentAt": "2026-09-27T22:52:35.703Z",
       "title": "Engram is a sampler that turns broken AI hallucinations into music"
-    },
-    {
-      "id": "u_a54cda2d",
-      "sentAt": "2026-09-27T22:52:35.703Z",
-      "title": "OpenAI Says Its Agents Interacted in 'Unexpected Ways' With Government Sites - SFist"
-    },
-    {
-      "id": "u_9c4f06d7",
-      "sentAt": "2026-09-27T22:52:35.703Z",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website"
-    },
-    {
-      "id": "u_5a670797",
-      "sentAt": "2026-09-27T18:07:36.479Z",
-      "title": "b11222"
-    },
-    {
-      "id": "u_7027bf3f",
-      "sentAt": "2026-09-27T18:07:36.479Z",
-      "title": "b11221"
-    },
-    {
-      "id": "u_8abc18ae",
-      "sentAt": "2026-09-27T18:07:36.479Z",
-      "title": "GROKBOT :: I Asked an “AI Teammate” to Fill One Form. It Couldn’t."
     }
   ]
 }
