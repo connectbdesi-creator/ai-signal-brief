@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-18T12:45:51.292Z",
+  "updatedAt": "2026-11-18T21:44:26.043Z",
   "entries": [
+    {
+      "id": "u_f369ca44",
+      "sentAt": "2026-11-18T21:44:26.043Z",
+      "title": "Introducing Gemini 4 Neon"
+    },
+    {
+      "id": "u_7d07e7a4",
+      "sentAt": "2026-11-18T21:44:26.043Z",
+      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month"
+    },
+    {
+      "id": "u_8f66e9f8",
+      "sentAt": "2026-11-18T21:44:26.043Z",
+      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month"
+    },
+    {
+      "id": "u_db94c6ac",
+      "sentAt": "2026-11-18T21:44:26.043Z",
+      "title": "Google warns hackers are using artificial intelligence to launch cyberattacks against companies - Fox News"
+    },
+    {
+      "id": "u_4e9a36e2",
+      "sentAt": "2026-11-18T21:44:26.043Z",
+      "title": "Trust, but prepare: How to make sense of AI's age of upheaval"
+    },
     {
       "id": "u_8fc6a553",
       "sentAt": "2026-11-18T12:45:51.292Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e591859f",
       "sentAt": "2026-09-28T13:16:38.094Z",
       "title": "b11229"
-    },
-    {
-      "id": "u_e80eed9b",
-      "sentAt": "2026-09-28T13:16:38.094Z",
-      "title": "Nvidia unveils security platform to stop AI agents from going rogue after new, troubling incidents - ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "id": "u_9d61ac91",
-      "sentAt": "2026-09-28T13:16:38.094Z",
-      "title": "Launching Meta Enterprise Platform"
-    },
-    {
-      "id": "u_a650b93d",
-      "sentAt": "2026-09-28T04:25:40.201Z",
-      "title": "Quoting Muse AI Agent"
-    },
-    {
-      "id": "u_d2e8632a",
-      "sentAt": "2026-09-28T04:25:40.201Z",
-      "title": "20 Agentic Use Cases of TypeSafe AI’s Jev"
-    },
-    {
-      "id": "u_226c9178",
-      "sentAt": "2026-09-28T04:25:40.201Z",
-      "title": "Google Research Introduces an AI Video Co-Director: 4 Agentic Frameworks for Coherent, Minutes-Long Video Generation"
     }
   ]
 }
