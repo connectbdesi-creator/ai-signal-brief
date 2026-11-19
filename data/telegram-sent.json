@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-18T21:44:26.043Z",
+  "updatedAt": "2026-11-19T02:58:49.527Z",
   "entries": [
+    {
+      "id": "u_5c3e9cd3",
+      "sentAt": "2026-11-19T02:58:49.527Z",
+      "title": "Google Cloud brings AI agents to the supercomputing bottleneck"
+    },
+    {
+      "id": "u_abf05c68",
+      "sentAt": "2026-11-19T02:58:49.527Z",
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization"
+    },
+    {
+      "id": "u_190cf4b9",
+      "sentAt": "2026-11-19T02:58:49.527Z",
+      "title": "Google upgrades Gemini’s agentic Task mode with new model, e-commerce features"
+    },
+    {
+      "id": "u_fcc86199",
+      "sentAt": "2026-11-19T02:58:49.527Z",
+      "title": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod"
+    },
+    {
+      "id": "u_ce09839a",
+      "sentAt": "2026-11-19T02:58:49.527Z",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web"
+    },
     {
       "id": "u_f369ca44",
       "sentAt": "2026-11-18T21:44:26.043Z",
@@ -4975,31 +5000,6 @@
       "id": "u_1df07ebf",
       "sentAt": "2026-09-28T20:25:39.954Z",
       "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday"
-    },
-    {
-      "id": "u_ebdddfbe",
-      "sentAt": "2026-09-28T20:25:39.954Z",
-      "title": "Planners Meet On AI This Week"
-    },
-    {
-      "id": "u_5853a84",
-      "sentAt": "2026-09-28T20:25:39.954Z",
-      "title": "Exclusive: Hegseth directs Defense Dept. to fight foreigners who \"meddle\" in U.S. elections"
-    },
-    {
-      "id": "u_3571c390",
-      "sentAt": "2026-09-28T13:16:38.094Z",
-      "title": "Physical AI custom chip startup SiMa.ai raises $150M at $1.45B valuation"
-    },
-    {
-      "id": "u_8ae870cb",
-      "sentAt": "2026-09-28T13:16:38.094Z",
-      "title": "Ninja Enterprise bundles AI employees and GPUs into one fixed yearly fee"
-    },
-    {
-      "id": "u_e591859f",
-      "sentAt": "2026-09-28T13:16:38.094Z",
-      "title": "b11229"
     }
   ]
 }
