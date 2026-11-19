@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-19T02:58:49.527Z",
+  "updatedAt": "2026-11-19T12:37:05.879Z",
   "entries": [
+    {
+      "id": "u_997e1d6",
+      "sentAt": "2026-11-19T12:37:05.879Z",
+      "title": "Gemini 4 Neon: Google DeepMind’s Frontier Coding Agent - AI Magazine"
+    },
+    {
+      "id": "u_b62b0450",
+      "sentAt": "2026-11-19T12:37:05.879Z",
+      "title": "When The Launch Becomes The Evidence: Why AI Adoption Isn’t Proof Of Business Value"
+    },
+    {
+      "id": "u_df449ee",
+      "sentAt": "2026-11-19T12:37:05.879Z",
+      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago"
+    },
+    {
+      "id": "u_706e99f9",
+      "sentAt": "2026-11-19T12:37:05.879Z",
+      "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago"
+    },
+    {
+      "id": "u_e3d825f8",
+      "sentAt": "2026-11-19T12:37:05.879Z",
+      "title": "Google debuts Gemini 4 Neon, an AI model aimed at complex tasks for enterprises - The Indian Express"
+    },
     {
       "id": "u_5c3e9cd3",
       "sentAt": "2026-11-19T02:58:49.527Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5394e990",
       "sentAt": "2026-09-29T01:35:16.889Z",
       "title": "OpenAI scraps GPT-6.1 Astra launch after safety tests raise concerns"
-    },
-    {
-      "id": "u_3565c347",
-      "sentAt": "2026-09-29T01:35:16.889Z",
-      "title": "OpenAI Cancels Release of GPT-6.1 Astra Because It ‘Regressed’ on Safety - Gizmodo"
-    },
-    {
-      "id": "u_d621c034",
-      "sentAt": "2026-09-29T01:35:16.889Z",
-      "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm"
-    },
-    {
-      "id": "u_b0f308b9",
-      "sentAt": "2026-09-28T20:25:39.954Z",
-      "title": "Meta hires MongoDB CEO CJ Desai to lead new enterprise AI business"
-    },
-    {
-      "id": "u_812e28fa",
-      "sentAt": "2026-09-28T20:25:39.954Z",
-      "title": "ServiceNow calls for a measured response to rogue AI agents"
-    },
-    {
-      "id": "u_1df07ebf",
-      "sentAt": "2026-09-28T20:25:39.954Z",
-      "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday"
     }
   ]
 }
