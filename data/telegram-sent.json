@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-19T12:37:05.879Z",
+  "updatedAt": "2026-11-19T22:00:24.681Z",
   "entries": [
+    {
+      "id": "u_7e7ce323",
+      "sentAt": "2026-11-19T22:00:24.681Z",
+      "title": "Medical AI startup Boltz raises $110M to speed up small molecule research"
+    },
+    {
+      "id": "u_10b51c83",
+      "sentAt": "2026-11-19T22:00:24.681Z",
+      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool"
+    },
+    {
+      "id": "u_7a998d26",
+      "sentAt": "2026-11-19T22:00:24.681Z",
+      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool"
+    },
+    {
+      "id": "u_2955e24b",
+      "sentAt": "2026-11-19T22:00:24.681Z",
+      "title": "Enterprise AI is pushing cloud infrastructure beyond the GPU"
+    },
+    {
+      "id": "u_8adb6d4f",
+      "sentAt": "2026-11-19T22:00:24.681Z",
+      "title": "PostgreSQL 19 Released"
+    },
     {
       "id": "u_997e1d6",
       "sentAt": "2026-11-19T12:37:05.879Z",
@@ -4975,31 +5000,6 @@
       "id": "u_54720efc",
       "sentAt": "2026-09-29T08:04:10.198Z",
       "title": "OpenAI delays release of latest artificial intelligence model over security concerns - BreakingNews.ie"
-    },
-    {
-      "id": "u_10e8df04",
-      "sentAt": "2026-09-29T08:04:10.198Z",
-      "title": "Anthropic warns of ‘existential risks to humanity’ from AI; AstraZeneca makes $2bn cancer drug tie-up – business live"
-    },
-    {
-      "id": "u_15d12ea7",
-      "sentAt": "2026-09-29T08:04:10.198Z",
-      "title": "b11246"
-    },
-    {
-      "id": "u_6f115c77",
-      "sentAt": "2026-09-29T01:35:16.889Z",
-      "title": "Florida attorney general asks state court to prevent OpenAI from advancing its frontier models"
-    },
-    {
-      "id": "u_6798c56c",
-      "sentAt": "2026-09-29T01:35:16.889Z",
-      "title": "OpenAI cancels new AI launch, citing safety issues - The Washington Post"
-    },
-    {
-      "id": "u_5394e990",
-      "sentAt": "2026-09-29T01:35:16.889Z",
-      "title": "OpenAI scraps GPT-6.1 Astra launch after safety tests raise concerns"
     }
   ]
 }
