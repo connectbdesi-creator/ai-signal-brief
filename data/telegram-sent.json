@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-19T22:00:24.681Z",
+  "updatedAt": "2026-11-20T03:00:52.555Z",
   "entries": [
+    {
+      "id": "u_ad26920c",
+      "sentAt": "2026-11-20T03:00:52.555Z",
+      "title": "Token fraud is here and it’s BAD (YouTube)"
+    },
+    {
+      "id": "u_f0d27484",
+      "sentAt": "2026-11-20T03:00:52.555Z",
+      "title": "Lawmakers form bipartisan caucus to create meaningful AI safety legislation"
+    },
+    {
+      "id": "u_2faa6ff7",
+      "sentAt": "2026-11-20T03:00:52.555Z",
+      "title": "Apple may be developing its own AI agent that runs your Mac"
+    },
+    {
+      "id": "u_98b5423f",
+      "sentAt": "2026-11-20T03:00:52.555Z",
+      "title": "Amazon SageMaker Inference: 2026 launches in review, part 2"
+    },
+    {
+      "id": "u_7af6656d",
+      "sentAt": "2026-11-20T03:00:52.555Z",
+      "title": "Use Kimi Code CLI with models on Amazon Bedrock"
+    },
     {
       "id": "u_7e7ce323",
       "sentAt": "2026-11-19T22:00:24.681Z",
@@ -4975,31 +5000,6 @@
       "id": "u_b1b92b76",
       "sentAt": "2026-09-29T16:23:30.759Z",
       "title": "AfDB launches free AI training for African officials - Africa Business Communities"
-    },
-    {
-      "id": "u_288474e5",
-      "sentAt": "2026-09-29T16:23:30.759Z",
-      "title": "Trump launches government chatbot, urging a wary public not to fear AI - The Washington Post"
-    },
-    {
-      "id": "u_f3881644",
-      "sentAt": "2026-09-29T16:23:30.759Z",
-      "title": "langchain-anthropic==1.7.5"
-    },
-    {
-      "id": "u_90055240",
-      "sentAt": "2026-09-29T08:04:10.198Z",
-      "title": "H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs"
-    },
-    {
-      "id": "u_47b8d50f",
-      "sentAt": "2026-09-29T08:04:10.198Z",
-      "title": "b11247"
-    },
-    {
-      "id": "u_54720efc",
-      "sentAt": "2026-09-29T08:04:10.198Z",
-      "title": "OpenAI delays release of latest artificial intelligence model over security concerns - BreakingNews.ie"
     }
   ]
 }
