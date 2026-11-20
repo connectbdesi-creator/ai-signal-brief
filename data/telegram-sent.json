@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-20T12:36:52.647Z",
+  "updatedAt": "2026-11-20T21:43:12.104Z",
   "entries": [
+    {
+      "id": "u_ee50f899",
+      "sentAt": "2026-11-20T21:43:12.104Z",
+      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models"
+    },
+    {
+      "id": "u_e2440628",
+      "sentAt": "2026-11-20T21:43:12.104Z",
+      "title": "Signal slams door on prying AI agents to protect privacy"
+    },
+    {
+      "id": "u_c1f5f2bd",
+      "sentAt": "2026-11-20T21:43:12.104Z",
+      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think"
+    },
+    {
+      "id": "u_8b4bbcd8",
+      "sentAt": "2026-11-20T21:43:12.104Z",
+      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think"
+    },
+    {
+      "id": "u_3e21a4d2",
+      "sentAt": "2026-11-20T21:43:12.104Z",
+      "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats"
+    },
     {
       "id": "u_ce68723f",
       "sentAt": "2026-11-20T12:36:52.647Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f3451be0",
       "sentAt": "2026-09-30T04:42:07.450Z",
       "title": "Which papyrus HTR is good enough? Character-error-rate tolerance of four papyrological tasks on Greek texts"
-    },
-    {
-      "id": "u_e856b8ba",
-      "sentAt": "2026-09-30T04:42:07.450Z",
-      "title": "CypherTurn: A Multi-Turn Benchmark for Conversational Text-to-Cypher Evaluation and the Autonomy Divergence"
-    },
-    {
-      "id": "u_b119571a",
-      "sentAt": "2026-09-30T04:42:07.450Z",
-      "title": "Traverse: Learning When to Remember, Reset, and Redirect for Long-Horizon Web Search"
-    },
-    {
-      "id": "u_8e38645e",
-      "sentAt": "2026-09-29T22:01:12.051Z",
-      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian"
-    },
-    {
-      "id": "u_1e54fb64",
-      "sentAt": "2026-09-29T22:01:12.051Z",
-      "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns"
-    },
-    {
-      "id": "u_d5ecf57",
-      "sentAt": "2026-09-29T22:01:12.051Z",
-      "title": "b11261"
     }
   ]
 }
