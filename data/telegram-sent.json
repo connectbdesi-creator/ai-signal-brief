@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-20T21:43:12.104Z",
+  "updatedAt": "2026-11-21T03:01:11.073Z",
   "entries": [
+    {
+      "id": "u_3c4244fc",
+      "sentAt": "2026-11-21T03:01:11.073Z",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together"
+    },
+    {
+      "id": "u_e47899c1",
+      "sentAt": "2026-11-21T03:01:11.073Z",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill"
+    },
+    {
+      "id": "u_24eb6108",
+      "sentAt": "2026-11-21T03:01:11.073Z",
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini"
+    },
+    {
+      "id": "u_ef82a0ee",
+      "sentAt": "2026-11-21T03:01:11.073Z",
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm"
+    },
+    {
+      "id": "u_c72692a3",
+      "sentAt": "2026-11-21T03:01:11.073Z",
+      "title": "This New Partnership Aims To Use AI To Fight Cancer"
+    },
     {
       "id": "u_ee50f899",
       "sentAt": "2026-11-20T21:43:12.104Z",
@@ -4975,31 +5000,6 @@
       "id": "u_c9803e7e",
       "sentAt": "2026-09-30T12:09:00.914Z",
       "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots"
-    },
-    {
-      "id": "u_283b8272",
-      "sentAt": "2026-09-30T12:09:00.914Z",
-      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots"
-    },
-    {
-      "id": "u_c9dd9c9a",
-      "sentAt": "2026-09-30T12:09:00.914Z",
-      "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits"
-    },
-    {
-      "id": "u_15c5c636",
-      "sentAt": "2026-09-30T04:42:07.450Z",
-      "title": "AI industry moves to thwart data centre backlash ahead of US midterms"
-    },
-    {
-      "id": "u_6b2b9ab0",
-      "sentAt": "2026-09-30T04:42:07.450Z",
-      "title": "Distilling What Matters: Confidence-Aware Selective Distillation for Large Language Models"
-    },
-    {
-      "id": "u_f3451be0",
-      "sentAt": "2026-09-30T04:42:07.450Z",
-      "title": "Which papyrus HTR is good enough? Character-error-rate tolerance of four papyrological tasks on Greek texts"
     }
   ]
 }
