@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-21T03:01:11.073Z",
+  "updatedAt": "2026-11-21T12:16:13.154Z",
   "entries": [
+    {
+      "id": "u_7262d8f1",
+      "sentAt": "2026-11-21T12:16:13.154Z",
+      "title": "Clinical Safety with Artificial Intelligence Depends on Clinicians Questioning Model Outputs - Bioengineer.org"
+    },
+    {
+      "id": "u_d7deed53",
+      "sentAt": "2026-11-21T12:16:13.154Z",
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft"
+    },
+    {
+      "id": "u_95d5ef28",
+      "sentAt": "2026-11-21T12:16:13.154Z",
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft"
+    },
+    {
+      "id": "u_c62ac2ce",
+      "sentAt": "2026-11-21T12:16:13.154Z",
+      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop"
+    },
+    {
+      "id": "u_80eb4468",
+      "sentAt": "2026-11-21T12:16:13.154Z",
+      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop"
+    },
     {
       "id": "u_3c4244fc",
       "sentAt": "2026-11-21T03:01:11.073Z",
@@ -4975,31 +5000,6 @@
       "id": "u_d5d32af3",
       "sentAt": "2026-09-30T18:54:39.304Z",
       "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats"
-    },
-    {
-      "id": "u_3c1951a1",
-      "sentAt": "2026-09-30T18:54:39.304Z",
-      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats"
-    },
-    {
-      "id": "u_4ec4f878",
-      "sentAt": "2026-09-30T18:54:39.304Z",
-      "title": "AMD Unveils Ross Agentic AI To Accelerate Embedded Engineering"
-    },
-    {
-      "id": "u_86b3ceb4",
-      "sentAt": "2026-09-30T12:09:00.914Z",
-      "title": "Airbnb adds AI search, more social features"
-    },
-    {
-      "id": "u_2f53909b",
-      "sentAt": "2026-09-30T12:09:00.914Z",
-      "title": "b11280"
-    },
-    {
-      "id": "u_c9803e7e",
-      "sentAt": "2026-09-30T12:09:00.914Z",
-      "title": "Last Week in AI #345 - 5 new models, 9 misalignment incidents, some Dots"
     }
   ]
 }
