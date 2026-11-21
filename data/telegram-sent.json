@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-21T12:16:13.154Z",
+  "updatedAt": "2026-11-21T20:24:29.089Z",
   "entries": [
+    {
+      "id": "u_499b6531",
+      "sentAt": "2026-11-21T20:24:29.089Z",
+      "title": "Here are the top AI agents that can live in your text messages"
+    },
+    {
+      "id": "u_f4eacccf",
+      "sentAt": "2026-11-21T20:24:29.089Z",
+      "title": "Can Anthropic afford to put safety first?"
+    },
+    {
+      "id": "u_c68e0fb6",
+      "sentAt": "2026-11-21T20:24:29.089Z",
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions"
+    },
+    {
+      "id": "u_3d41b7f5",
+      "sentAt": "2026-11-21T20:24:29.089Z",
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters"
+    },
     {
       "id": "u_7262d8f1",
       "sentAt": "2026-11-21T12:16:13.154Z",
@@ -4980,26 +5000,6 @@
       "id": "u_8e681f65",
       "sentAt": "2026-09-30T23:33:39.692Z",
       "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week"
-    },
-    {
-      "id": "u_cf9a46a0",
-      "sentAt": "2026-09-30T23:33:39.692Z",
-      "title": "Google announces Gemini 4 flagship AI model after months of delays - Reuters"
-    },
-    {
-      "id": "u_b36ec79c",
-      "sentAt": "2026-09-30T18:54:39.304Z",
-      "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI"
-    },
-    {
-      "id": "u_a6860793",
-      "sentAt": "2026-09-30T18:54:39.304Z",
-      "title": "b11294"
-    },
-    {
-      "id": "u_d5d32af3",
-      "sentAt": "2026-09-30T18:54:39.304Z",
-      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats"
     }
   ]
 }
