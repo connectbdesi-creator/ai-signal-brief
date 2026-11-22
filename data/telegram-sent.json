@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-21T20:24:29.089Z",
+  "updatedAt": "2026-11-22T01:57:30.953Z",
   "entries": [
+    {
+      "id": "u_7006a925",
+      "sentAt": "2026-11-22T01:57:30.953Z",
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions"
+    },
+    {
+      "id": "u_e9500594",
+      "sentAt": "2026-11-22T01:57:30.953Z",
+      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model"
+    },
     {
       "id": "u_499b6531",
       "sentAt": "2026-11-21T20:24:29.089Z",
@@ -4990,16 +5000,6 @@
       "id": "u_74b39557",
       "sentAt": "2026-09-30T23:33:39.692Z",
       "title": "b11303"
-    },
-    {
-      "id": "u_f2a9f7d",
-      "sentAt": "2026-09-30T23:33:39.692Z",
-      "title": "Google’s new frontier AI model Gemini 4 Argon goes to cybersecurity defenders first"
-    },
-    {
-      "id": "u_8e681f65",
-      "sentAt": "2026-09-30T23:33:39.692Z",
-      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week"
     }
   ]
 }
