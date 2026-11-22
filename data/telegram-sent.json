@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-22T17:40:44.513Z",
+  "updatedAt": "2026-11-22T23:23:55.417Z",
   "entries": [
+    {
+      "id": "u_6a944ceb",
+      "sentAt": "2026-11-22T23:23:55.417Z",
+      "title": "Scoop: DeSantis' secret book project fuels 2028 speculation"
+    },
+    {
+      "id": "u_bac84798",
+      "sentAt": "2026-11-22T23:23:55.417Z",
+      "title": "Signal Is Blocking AI Agents From Reading Your Screen - Security Affairs"
+    },
+    {
+      "id": "u_5e5448e2",
+      "sentAt": "2026-11-22T23:23:55.417Z",
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns"
+    },
+    {
+      "id": "u_8af8e357",
+      "sentAt": "2026-11-22T23:23:55.417Z",
+      "title": "The first agentic AI Black Friday is off to a rocky start"
+    },
+    {
+      "id": "u_3de0f38c",
+      "sentAt": "2026-11-22T23:23:55.417Z",
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude"
+    },
     {
       "id": "u_68104662",
       "sentAt": "2026-11-22T17:40:44.513Z",
@@ -4975,31 +5000,6 @@
       "id": "u_e9d75ccf",
       "sentAt": "2026-10-01T12:42:38.051Z",
       "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure"
-    },
-    {
-      "id": "u_c3b8d93e",
-      "sentAt": "2026-10-01T12:42:38.051Z",
-      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure"
-    },
-    {
-      "id": "u_dd6b1ed2",
-      "sentAt": "2026-10-01T12:42:38.051Z",
-      "title": "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning — logged 16,000 extraction requests across 4,000 accounts before cutoff - Tom's Hardware"
-    },
-    {
-      "id": "u_47e452c7",
-      "sentAt": "2026-10-01T12:42:38.051Z",
-      "title": "b11320"
-    },
-    {
-      "id": "u_ff2568df",
-      "sentAt": "2026-10-01T04:54:07.514Z",
-      "title": "OpenAI’s agents obscured hacking activity in government site breaches"
-    },
-    {
-      "id": "u_8c3228a6",
-      "sentAt": "2026-10-01T04:54:07.514Z",
-      "title": "Google launches new Argon AI model for Gemini 4 generation - Qazinform"
     }
   ]
 }
