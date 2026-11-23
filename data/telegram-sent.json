@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-23T06:31:39.042Z",
+  "updatedAt": "2026-11-23T19:57:24.829Z",
   "entries": [
+    {
+      "id": "u_92cf3d6f",
+      "sentAt": "2026-11-23T19:57:24.829Z",
+      "title": "\"Too big to fail\": The economic fear behind Jensen Huang's Nvidia comeback"
+    },
+    {
+      "id": "u_c373d07e",
+      "sentAt": "2026-11-23T19:57:24.829Z",
+      "title": "Prevent AI Agents From Going Rogue By Sending Them To Human Psychologists For Needed Therapy"
+    },
+    {
+      "id": "u_7dadf69b",
+      "sentAt": "2026-11-23T19:57:24.829Z",
+      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription"
+    },
+    {
+      "id": "u_13821475",
+      "sentAt": "2026-11-23T19:57:24.829Z",
+      "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy"
+    },
+    {
+      "id": "u_7486262b",
+      "sentAt": "2026-11-23T19:57:24.829Z",
+      "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy"
+    },
     {
       "id": "u_7e55e6d4",
       "sentAt": "2026-11-23T06:31:39.042Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f0fd2106",
       "sentAt": "2026-10-01T23:46:14.870Z",
       "title": "BHUSD launches AI task force - Beverly Press & Park Labrea News"
-    },
-    {
-      "id": "u_a197016c",
-      "sentAt": "2026-10-01T23:46:14.870Z",
-      "title": "OpenAI says rogue agents may have affected more than 100 organizations - The Washington Post"
-    },
-    {
-      "id": "u_10b42f2c",
-      "sentAt": "2026-10-01T23:46:14.870Z",
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore"
-    },
-    {
-      "id": "u_64398613",
-      "sentAt": "2026-10-01T23:46:14.870Z",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president"
-    },
-    {
-      "id": "u_9bdabc7d",
-      "sentAt": "2026-10-01T19:20:00.682Z",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground"
-    },
-    {
-      "id": "u_5e6a5acc",
-      "sentAt": "2026-10-01T19:20:00.682Z",
-      "title": "OpenAI says rogue agents may have breached more than 100 organizations - The Washington Post"
     }
   ]
 }
