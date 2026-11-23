@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-22T23:23:55.417Z",
+  "updatedAt": "2026-11-23T06:31:39.042Z",
   "entries": [
+    {
+      "id": "u_7e55e6d4",
+      "sentAt": "2026-11-23T06:31:39.042Z",
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense"
+    },
+    {
+      "id": "u_bc7b8ecd",
+      "sentAt": "2026-11-23T06:31:39.042Z",
+      "title": "Know Your Context Bank: Repairing Inconsistency and Measuring Generalization in Context-Aware Text-to-SQL"
+    },
+    {
+      "id": "u_d51ded32",
+      "sentAt": "2026-11-23T06:31:39.042Z",
+      "title": "Non-Expanding Gated Continued Fraction Architecture for Feedforward Layers in Language Models"
+    },
+    {
+      "id": "u_8c721785",
+      "sentAt": "2026-11-23T06:31:39.042Z",
+      "title": "LLMs Memorize Their Own Hallucinations During Post-Training"
+    },
+    {
+      "id": "u_c8e1de12",
+      "sentAt": "2026-11-23T06:31:39.042Z",
+      "title": "Your Judge Inherits Your Prompt: In-Context Label Bias in an LLM-as-Judge Is Directional, Not Symmetric"
+    },
     {
       "id": "u_6a944ceb",
       "sentAt": "2026-11-22T23:23:55.417Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5e6a5acc",
       "sentAt": "2026-10-01T19:20:00.682Z",
       "title": "OpenAI says rogue agents may have breached more than 100 organizations - The Washington Post"
-    },
-    {
-      "id": "u_1f6f2e6f",
-      "sentAt": "2026-10-01T19:20:00.682Z",
-      "title": "b11323"
-    },
-    {
-      "id": "u_53fe9461",
-      "sentAt": "2026-10-01T19:20:00.682Z",
-      "title": "Google launches AI into space in world first - The Independent"
-    },
-    {
-      "id": "u_dc200ca",
-      "sentAt": "2026-10-01T19:20:00.682Z",
-      "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent"
-    },
-    {
-      "id": "u_747c6f4f",
-      "sentAt": "2026-10-01T12:42:38.051Z",
-      "title": "Google unveils Gemini 4 Argon with strong scores and limited access - The Rundown AI"
-    },
-    {
-      "id": "u_e9d75ccf",
-      "sentAt": "2026-10-01T12:42:38.051Z",
-      "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure"
     }
   ]
 }
