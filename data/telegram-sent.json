@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-24T04:41:25.397Z",
+  "updatedAt": "2026-11-24T17:11:28.867Z",
   "entries": [
+    {
+      "id": "u_ef6855b3",
+      "sentAt": "2026-11-24T17:11:28.867Z",
+      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving"
+    },
+    {
+      "id": "u_b0d0f88",
+      "sentAt": "2026-11-24T17:11:28.867Z",
+      "title": "Artificial intelligence agents leak confidential data to complete tasks - SC Media"
+    },
+    {
+      "id": "u_5cbef8c6",
+      "sentAt": "2026-11-24T17:11:28.867Z",
+      "title": "Raising the stakes for enterprise networks with AI modernization"
+    },
+    {
+      "id": "u_9ff9012f",
+      "sentAt": "2026-11-24T17:11:28.867Z",
+      "title": "Claude Ship puts AI at the helm of pull request approvals"
+    },
+    {
+      "id": "u_c4c96c97",
+      "sentAt": "2026-11-24T17:11:28.867Z",
+      "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures"
+    },
     {
       "id": "u_b0b2577d",
       "sentAt": "2026-11-24T04:41:25.397Z",
@@ -4975,31 +5000,6 @@
       "id": "u_276fe3f4",
       "sentAt": "2026-10-02T12:07:13.258Z",
       "title": "Why Do We Need World Models When LLMs Exist? How World Models Will Impact Physical AI"
-    },
-    {
-      "id": "u_e447c10c",
-      "sentAt": "2026-10-02T12:07:13.258Z",
-      "title": "Gemini 4 Argon brings Google back into the fight for frontier AI: benchmarks skyrocket expectations - El Constitucional"
-    },
-    {
-      "id": "u_9619930b",
-      "sentAt": "2026-10-02T12:07:13.258Z",
-      "title": "Enterprise storage becomes AI memory as privately run models close in on the frontier"
-    },
-    {
-      "id": "u_afc442e9",
-      "sentAt": "2026-10-02T12:07:13.258Z",
-      "title": "Ethiopia launches active development of artificial intelligence and expansion of applied research - TV BRICS"
-    },
-    {
-      "id": "u_15272071",
-      "sentAt": "2026-10-02T04:44:47.801Z",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents"
-    },
-    {
-      "id": "u_224ce5a9",
-      "sentAt": "2026-10-02T04:44:47.801Z",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents"
     }
   ]
 }
