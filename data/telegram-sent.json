@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-25T11:09:41.702Z",
+  "updatedAt": "2026-11-25T21:20:01.953Z",
   "entries": [
+    {
+      "id": "u_41e5d1a9",
+      "sentAt": "2026-11-25T21:20:01.953Z",
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs"
+    },
+    {
+      "id": "u_f0d9f778",
+      "sentAt": "2026-11-25T21:20:01.953Z",
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs"
+    },
+    {
+      "id": "u_cfe90ac2",
+      "sentAt": "2026-11-25T21:20:01.953Z",
+      "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI"
+    },
+    {
+      "id": "u_8c94078a",
+      "sentAt": "2026-11-25T21:20:01.953Z",
+      "title": "Where scientists draw the line on AI agents"
+    },
+    {
+      "id": "u_12b0e112",
+      "sentAt": "2026-11-25T21:20:01.953Z",
+      "title": "Where scientists draw the line on AI agents"
+    },
     {
       "id": "u_1e08d28c",
       "sentAt": "2026-11-25T11:09:41.702Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f70271f9",
       "sentAt": "2026-10-03T04:26:57.905Z",
       "title": "Anthropic, Religious Leaders and the Pope: What's Known"
-    },
-    {
-      "id": "u_968effac",
-      "sentAt": "2026-10-03T04:26:57.905Z",
-      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors"
-    },
-    {
-      "id": "u_470f3729",
-      "sentAt": "2026-10-03T04:26:57.905Z",
-      "title": "The fastest interference engine for RTX5090 and Qwen3.8 27B. Twice as fast as ninfer. 500+ t/s single coding, 2000+t/s up to 12 agents at the same time with 800k context. Smart VRAM-RAM-DISC Cache management, Loop Guard, Nice UI etc."
-    },
-    {
-      "id": "u_be9732d7",
-      "sentAt": "2026-10-03T04:26:57.905Z",
-      "title": "b11364"
-    },
-    {
-      "id": "u_c6ca1faf",
-      "sentAt": "2026-10-02T23:37:11.138Z",
-      "title": "b11352"
-    },
-    {
-      "id": "u_f0f6e643",
-      "sentAt": "2026-10-02T23:37:11.138Z",
-      "title": "Apple is adding new privacy safeguards for Mac users as AI agents get more powerful"
     }
   ]
 }
