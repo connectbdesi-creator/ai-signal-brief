@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-25T02:00:35.811Z",
+  "updatedAt": "2026-11-25T11:09:41.702Z",
   "entries": [
+    {
+      "id": "u_1e08d28c",
+      "sentAt": "2026-11-25T11:09:41.702Z",
+      "title": "\"The people who are supposed to be helping to protect us are also the ones who are profiting.\""
+    },
+    {
+      "id": "u_15662100",
+      "sentAt": "2026-11-25T11:09:41.702Z",
+      "title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI"
+    },
+    {
+      "id": "u_7387eaa5",
+      "sentAt": "2026-11-25T11:09:41.702Z",
+      "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation"
+    },
+    {
+      "id": "u_d07c6102",
+      "sentAt": "2026-11-25T11:09:41.702Z",
+      "title": "16-Year-Old Launches AI Missile Startup, Aims To Change The Future Of Warfare - NDTV"
+    },
+    {
+      "id": "u_e0e8a1a1",
+      "sentAt": "2026-11-25T11:09:41.702Z",
+      "title": "Evaluating Large Language Models on Iranian Doctoral Entrance Exams in Electrical and Computer Engineering"
+    },
     {
       "id": "u_a6be96e",
       "sentAt": "2026-11-25T02:00:35.811Z",
@@ -4975,31 +5000,6 @@
       "id": "u_f0f6e643",
       "sentAt": "2026-10-02T23:37:11.138Z",
       "title": "Apple is adding new privacy safeguards for Mac users as AI agents get more powerful"
-    },
-    {
-      "id": "u_94ca2def",
-      "sentAt": "2026-10-02T23:37:11.138Z",
-      "title": "Meta open sources code to let you make Muse AI gadgets"
-    },
-    {
-      "id": "u_326bf891",
-      "sentAt": "2026-10-02T23:37:11.138Z",
-      "title": "NetApp hands storage operations to AI agents, but humans still draw the boundaries"
-    },
-    {
-      "id": "u_6e14ffd9",
-      "sentAt": "2026-10-02T23:37:11.138Z",
-      "title": "IBM and CoreWeave co-design controls for agent workloads"
-    },
-    {
-      "id": "u_bb9dd476",
-      "sentAt": "2026-10-02T19:03:21.290Z",
-      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents"
-    },
-    {
-      "id": "u_19545ed0",
-      "sentAt": "2026-10-02T19:03:21.290Z",
-      "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents"
     }
   ]
 }
