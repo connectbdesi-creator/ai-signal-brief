@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-24T17:11:28.867Z",
+  "updatedAt": "2026-11-25T02:00:35.811Z",
   "entries": [
+    {
+      "id": "u_a6be96e",
+      "sentAt": "2026-11-25T02:00:35.811Z",
+      "title": "Marlowe raises $277M to build inference clusters with chips from Nvidia rivals"
+    },
+    {
+      "id": "u_77db1c9a",
+      "sentAt": "2026-11-25T02:00:35.811Z",
+      "title": "Three LLM inflection points in twelve months"
+    },
+    {
+      "id": "u_4166b677",
+      "sentAt": "2026-11-25T02:00:35.811Z",
+      "title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox"
+    },
+    {
+      "id": "u_5257c03f",
+      "sentAt": "2026-11-25T02:00:35.811Z",
+      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond"
+    },
+    {
+      "id": "u_a743085e",
+      "sentAt": "2026-11-25T02:00:35.811Z",
+      "title": "Even the best AI agents struggle with everyday life"
+    },
     {
       "id": "u_ef6855b3",
       "sentAt": "2026-11-24T17:11:28.867Z",
@@ -4975,31 +5000,6 @@
       "id": "u_19545ed0",
       "sentAt": "2026-10-02T19:03:21.290Z",
       "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents"
-    },
-    {
-      "id": "u_2019772f",
-      "sentAt": "2026-10-02T19:03:21.290Z",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
-    },
-    {
-      "id": "u_6fd5b58b",
-      "sentAt": "2026-10-02T19:03:21.290Z",
-      "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference"
-    },
-    {
-      "id": "u_8291c266",
-      "sentAt": "2026-10-02T19:03:21.290Z",
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner"
-    },
-    {
-      "id": "u_9e518b53",
-      "sentAt": "2026-10-02T12:07:13.258Z",
-      "title": "Wiring and powering GPUs differently can swing AI latency by orders of magnitude, says CoreWeave"
-    },
-    {
-      "id": "u_276fe3f4",
-      "sentAt": "2026-10-02T12:07:13.258Z",
-      "title": "Why Do We Need World Models When LLMs Exist? How World Models Will Impact Physical AI"
     }
   ]
 }
