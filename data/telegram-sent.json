@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-26T04:00:50.453Z",
+  "updatedAt": "2026-11-26T13:47:10.275Z",
   "entries": [
+    {
+      "id": "u_a3bf9cb1",
+      "sentAt": "2026-11-26T13:47:10.275Z",
+      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040"
+    },
+    {
+      "id": "u_836344e3",
+      "sentAt": "2026-11-26T13:47:10.275Z",
+      "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040"
+    },
+    {
+      "id": "u_5e896de6",
+      "sentAt": "2026-11-26T13:47:10.275Z",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+    },
+    {
+      "id": "u_35e2fac4",
+      "sentAt": "2026-11-26T13:47:10.275Z",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+    },
+    {
+      "id": "u_7bf42d8e",
+      "sentAt": "2026-11-26T13:47:10.275Z",
+      "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks"
+    },
     {
       "id": "u_a809a7f4",
       "sentAt": "2026-11-26T04:00:50.453Z",
@@ -4975,31 +5000,6 @@
       "id": "u_8393589f",
       "sentAt": "2026-10-03T15:56:31.589Z",
       "title": "Claude Code at NVIDIA's Free Model Catalog. It Took a Proxy and Four Traps."
-    },
-    {
-      "id": "u_c0aadb6b",
-      "sentAt": "2026-10-03T15:56:31.589Z",
-      "title": "b11378"
-    },
-    {
-      "id": "u_f7fc6381",
-      "sentAt": "2026-10-03T15:56:31.589Z",
-      "title": "An OpenAI safety employee has quit and is sounding the alarm"
-    },
-    {
-      "id": "u_1051c335",
-      "sentAt": "2026-10-03T15:56:31.589Z",
-      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project"
-    },
-    {
-      "id": "u_2a224543",
-      "sentAt": "2026-10-03T11:18:32.131Z",
-      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity"
-    },
-    {
-      "id": "u_918b6523",
-      "sentAt": "2026-10-03T11:18:32.131Z",
-      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity"
     }
   ]
 }
