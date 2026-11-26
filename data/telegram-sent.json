@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-25T21:20:01.953Z",
+  "updatedAt": "2026-11-26T04:00:50.453Z",
   "entries": [
+    {
+      "id": "u_a809a7f4",
+      "sentAt": "2026-11-26T04:00:50.453Z",
+      "title": "Bank of Korea raises interest rates amid AI chip boom"
+    },
+    {
+      "id": "u_2172e025",
+      "sentAt": "2026-11-26T04:00:50.453Z",
+      "title": "Anthropic Study: AI Makes Every End-User A Developer, With Caveats"
+    },
+    {
+      "id": "u_108a2e71",
+      "sentAt": "2026-11-26T04:00:50.453Z",
+      "title": "Companies beefing up security to prevent AI agents from going rogue - Financial Post"
+    },
+    {
+      "id": "u_bf881a44",
+      "sentAt": "2026-11-26T04:00:50.453Z",
+      "title": "Verifiable Social Reasoning for LLM Assistants"
+    },
+    {
+      "id": "u_a1e40768",
+      "sentAt": "2026-11-26T04:00:50.453Z",
+      "title": "AgeMap Launches Worldwide: 30 Years of Human Health Intelligence Meets Artificial Intelligence - greatreporter"
+    },
     {
       "id": "u_41e5d1a9",
       "sentAt": "2026-11-25T21:20:01.953Z",
@@ -4975,31 +5000,6 @@
       "id": "u_918b6523",
       "sentAt": "2026-10-03T11:18:32.131Z",
       "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity"
-    },
-    {
-      "id": "u_ced6fc3b",
-      "sentAt": "2026-10-03T11:18:32.131Z",
-      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations"
-    },
-    {
-      "id": "u_ab62e30c",
-      "sentAt": "2026-10-03T11:18:32.131Z",
-      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations"
-    },
-    {
-      "id": "u_d8866d19",
-      "sentAt": "2026-10-03T11:18:32.131Z",
-      "title": "AI agents build 3D scenes from photos but have no idea if they got it right"
-    },
-    {
-      "id": "u_66079d35",
-      "sentAt": "2026-10-03T04:26:57.905Z",
-      "title": "AI vs Accountants: Mercor's CPA Study, Read Closely"
-    },
-    {
-      "id": "u_f70271f9",
-      "sentAt": "2026-10-03T04:26:57.905Z",
-      "title": "Anthropic, Religious Leaders and the Pope: What's Known"
     }
   ]
 }
