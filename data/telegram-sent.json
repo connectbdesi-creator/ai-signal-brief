@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-26T13:47:10.275Z",
+  "updatedAt": "2026-11-26T22:52:56.379Z",
   "entries": [
+    {
+      "id": "u_e7aa3490",
+      "sentAt": "2026-11-26T22:52:56.379Z",
+      "title": "Redesigned CSC with AI coaching launches - Investment Executive"
+    },
+    {
+      "id": "u_d5280c56",
+      "sentAt": "2026-11-26T22:52:56.379Z",
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug - BleepingComputer"
+    },
+    {
+      "id": "u_7a9a3595",
+      "sentAt": "2026-11-26T22:52:56.379Z",
+      "title": "OpenAI and Anthropic researchers warn new AI models may be too powerful to release safely — Axios - The New Voice of Ukraine"
+    },
+    {
+      "id": "u_f0f4be3e",
+      "sentAt": "2026-11-26T22:52:56.379Z",
+      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns"
+    },
+    {
+      "id": "u_6b047ea8",
+      "sentAt": "2026-11-26T22:52:56.379Z",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+    },
     {
       "id": "u_a3bf9cb1",
       "sentAt": "2026-11-26T13:47:10.275Z",
@@ -4975,31 +5000,6 @@
       "id": "u_ecb95c41",
       "sentAt": "2026-10-03T19:07:06.695Z",
       "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - 930 WFMD Free Talk"
-    },
-    {
-      "id": "u_f9854752",
-      "sentAt": "2026-10-03T19:07:06.695Z",
-      "title": "OpenAI Pioneers Common Workspace Called Space For Humans And Agents"
-    },
-    {
-      "id": "u_d0c454b3",
-      "sentAt": "2026-10-03T19:07:06.695Z",
-      "title": "b11379"
-    },
-    {
-      "id": "u_3f6d9dc7",
-      "sentAt": "2026-10-03T19:07:06.695Z",
-      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project"
-    },
-    {
-      "id": "u_80b724fd",
-      "sentAt": "2026-10-03T15:56:31.589Z",
-      "title": "OpenAI's Altman: Ascribing religion to models a \"safety issue\""
-    },
-    {
-      "id": "u_8393589f",
-      "sentAt": "2026-10-03T15:56:31.589Z",
-      "title": "Claude Code at NVIDIA's Free Model Catalog. It Took a Proxy and Four Traps."
     }
   ]
 }
