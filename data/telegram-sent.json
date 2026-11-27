@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-26T22:52:56.379Z",
+  "updatedAt": "2026-11-27T07:25:10.249Z",
   "entries": [
+    {
+      "id": "u_8432f190",
+      "sentAt": "2026-11-27T07:25:10.249Z",
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light"
+    },
+    {
+      "id": "u_7f1cedc3",
+      "sentAt": "2026-11-27T07:25:10.249Z",
+      "title": "Artificial Intelligence Will Replace Physical Sensors: What We Know About the New Camera and the Samsung Galaxy S27 Ultra Launch Timeline in Early 2027 - Root-Nation.com"
+    },
+    {
+      "id": "u_199a3545",
+      "sentAt": "2026-11-27T07:25:10.249Z",
+      "title": "Lightweight Reasoning Transfer via Chain-of-Thought Vector Projection"
+    },
+    {
+      "id": "u_b41057b4",
+      "sentAt": "2026-11-27T07:25:10.249Z",
+      "title": "IRTIQA: Evolving in English, Evaluated in Urdu -- Does Agent Self-Evolution Transfer from English to Urdu and Code-Switched Input?"
+    },
+    {
+      "id": "u_6272b9d8",
+      "sentAt": "2026-11-27T07:25:10.249Z",
+      "title": "Puzzling-Bench: Evaluating Language Models on 23,777 Human-Written Puzzles with Community-Verified Answers"
+    },
     {
       "id": "u_e7aa3490",
       "sentAt": "2026-11-26T22:52:56.379Z",
@@ -4975,31 +5000,6 @@
       "id": "u_5da93cab",
       "sentAt": "2026-10-03T22:45:02.466Z",
       "title": "b11381"
-    },
-    {
-      "id": "u_ef2e2033",
-      "sentAt": "2026-10-03T22:45:02.466Z",
-      "title": "b11380"
-    },
-    {
-      "id": "u_622cd20c",
-      "sentAt": "2026-10-03T22:45:02.466Z",
-      "title": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD"
-    },
-    {
-      "id": "u_4a16e329",
-      "sentAt": "2026-10-03T22:45:02.466Z",
-      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’"
-    },
-    {
-      "id": "u_e9705bc0",
-      "sentAt": "2026-10-03T19:07:06.695Z",
-      "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore"
-    },
-    {
-      "id": "u_ecb95c41",
-      "sentAt": "2026-10-03T19:07:06.695Z",
-      "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check - 930 WFMD Free Talk"
     }
   ]
 }
