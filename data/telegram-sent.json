@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-27T07:25:10.249Z",
+  "updatedAt": "2026-11-27T17:56:03.763Z",
   "entries": [
+    {
+      "id": "u_702471a1",
+      "sentAt": "2026-11-27T17:56:03.763Z",
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork"
+    },
+    {
+      "id": "u_c046fa7a",
+      "sentAt": "2026-11-27T17:56:03.763Z",
+      "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork"
+    },
+    {
+      "id": "u_5a06d503",
+      "sentAt": "2026-11-27T17:56:03.763Z",
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?"
+    },
+    {
+      "id": "u_2e7ce516",
+      "sentAt": "2026-11-27T17:56:03.763Z",
+      "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?"
+    },
+    {
+      "id": "u_cf1d220c",
+      "sentAt": "2026-11-27T17:56:03.763Z",
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
+    },
     {
       "id": "u_8432f190",
       "sentAt": "2026-11-27T07:25:10.249Z",
@@ -4975,31 +5000,6 @@
       "id": "u_cd904fc6",
       "sentAt": "2026-10-04T04:58:40.627Z",
       "title": "v1.105.0-rc.1"
-    },
-    {
-      "id": "u_128ef747",
-      "sentAt": "2026-10-04T04:58:40.627Z",
-      "title": "b11382"
-    },
-    {
-      "id": "u_a76439a7",
-      "sentAt": "2026-10-04T04:58:40.627Z",
-      "title": "We're going to need default hard budget caps on pretty much everything"
-    },
-    {
-      "id": "u_b9738bf6",
-      "sentAt": "2026-10-04T04:58:40.627Z",
-      "title": "v1.103.3"
-    },
-    {
-      "id": "u_918e42d0",
-      "sentAt": "2026-10-03T22:45:02.466Z",
-      "title": "September sponsors-only newsletter"
-    },
-    {
-      "id": "u_5da93cab",
-      "sentAt": "2026-10-03T22:45:02.466Z",
-      "title": "b11381"
     }
   ]
 }
