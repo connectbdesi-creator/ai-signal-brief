@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-11-28T09:56:12.966Z",
+  "updatedAt": "2026-11-28T18:01:30.204Z",
   "entries": [
+    {
+      "id": "u_eb496e1d",
+      "sentAt": "2026-11-28T18:01:30.204Z",
+      "title": "Code-driven AI illustrations are more useful than images from dedicated image models"
+    },
+    {
+      "id": "u_c96bb40",
+      "sentAt": "2026-11-28T18:01:30.204Z",
+      "title": "Rumors swirl that AI models have already cracked math secrets too dangerous to publish"
+    },
+    {
+      "id": "u_94d51103",
+      "sentAt": "2026-11-28T18:01:30.204Z",
+      "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs"
+    },
+    {
+      "id": "u_d029583a",
+      "sentAt": "2026-11-28T18:01:30.204Z",
+      "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs"
+    },
+    {
+      "id": "u_8d56a557",
+      "sentAt": "2026-11-28T18:01:30.204Z",
+      "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots"
+    },
     {
       "id": "u_44f1ff6b",
       "sentAt": "2026-11-28T09:56:12.966Z",
@@ -4975,31 +5000,6 @@
       "id": "u_a2b445c5",
       "sentAt": "2026-10-04T16:47:44.122Z",
       "title": "Well, if AI said it, it must be true"
-    },
-    {
-      "id": "u_b88a4017",
-      "sentAt": "2026-10-04T16:47:44.122Z",
-      "title": "v0.40.0-rc2"
-    },
-    {
-      "id": "u_b8f226f8",
-      "sentAt": "2026-10-04T16:47:44.122Z",
-      "title": "Trump Unveils Super Intelligence Force for AI Safety - The Tech Buzz"
-    },
-    {
-      "id": "u_ac3964f4",
-      "sentAt": "2026-10-04T16:47:44.122Z",
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat"
-    },
-    {
-      "id": "u_38eda325",
-      "sentAt": "2026-10-04T11:58:08.851Z",
-      "title": "OpenAI safety expert quits as he warns company behind ChatGPT is not taking enough care - LADbible"
-    },
-    {
-      "id": "u_50602e7c",
-      "sentAt": "2026-10-04T11:58:08.851Z",
-      "title": "Trump's shift on AI: From 'very dangerous' to the launch of America.gov - voz.us"
     }
   ]
 }
